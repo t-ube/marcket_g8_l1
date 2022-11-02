@@ -1,0 +1,38 @@
+{
+    "marcket": {
+        "torecolo": {
+            "enable": true,
+            "update_hours": 24,
+            "updated_at": "2022-11-01 12:26:12"
+        },
+        "toretoku": {
+            "enable": true,
+            "update_hours": 24,
+            "updated_at": null
+        },
+        "cardrush": {
+            "enable": true,
+            "update_hours": 24,
+            "updated_at": "2022-11-01 12:26:13"
+        },
+        "magi": {
+            "enable": true,
+            "update_hours": 24,
+            "updated_at": "2022-11-01 12:26:15"
+        },
+        "mercari": {
+            "enable": false,
+            "update_hours": 24,
+            "updated_at": null
+        },
+        "hareruya2": {
+            "enable": true,
+            "update_hours": 24,
+            "updated_at": "2022-11-01 12:26:16"
+        }
+    },
+    "calc": {
+        "latest_date": null,
+        "updated_at": null
+    }
+}

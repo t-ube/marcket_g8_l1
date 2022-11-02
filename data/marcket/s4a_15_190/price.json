@@ -1,0 +1,101 @@
+{
+    "price": {
+        "current": {
+            "datetime": "2022-08-24 00:00:00",
+            "count": 73.0,
+            "mean": 565.4794520547945,
+            "std": 38.62357857472308,
+            "min": 400.0,
+            "25%": 580.0,
+            "50%": 580.0,
+            "75%": 580.0,
+            "max": 600.0
+        },
+        "archive": {
+            "count": 7,
+            "data": [
+                {
+                    "datetime": "2022-08-20 00:00:00",
+                    "count": null,
+                    "mean": null,
+                    "std": null,
+                    "min": null,
+                    "25%": null,
+                    "50%": null,
+                    "75%": null,
+                    "max": null
+                },
+                {
+                    "datetime": "2022-08-21 00:00:00",
+                    "count": 66.0,
+                    "mean": 597.5757575757576,
+                    "std": 51.26284022446268,
+                    "min": 400.0,
+                    "25%": 580.0,
+                    "50%": 580.0,
+                    "75%": 580.0,
+                    "max": 700.0
+                },
+                {
+                    "datetime": "2022-08-22 00:00:00",
+                    "count": null,
+                    "mean": null,
+                    "std": null,
+                    "min": null,
+                    "25%": null,
+                    "50%": null,
+                    "75%": null,
+                    "max": null
+                },
+                {
+                    "datetime": "2022-08-23 00:00:00",
+                    "count": null,
+                    "mean": null,
+                    "std": null,
+                    "min": null,
+                    "25%": null,
+                    "50%": null,
+                    "75%": null,
+                    "max": null
+                },
+                {
+                    "datetime": "2022-08-24 00:00:00",
+                    "count": 73.0,
+                    "mean": 565.4794520547945,
+                    "std": 38.62357857472308,
+                    "min": 400.0,
+                    "25%": 580.0,
+                    "50%": 580.0,
+                    "75%": 580.0,
+                    "max": 600.0
+                },
+                {
+                    "datetime": "2022-08-25 00:00:00",
+                    "count": null,
+                    "mean": null,
+                    "std": null,
+                    "min": null,
+                    "25%": null,
+                    "50%": null,
+                    "75%": null,
+                    "max": null
+                },
+                {
+                    "datetime": "2022-08-26 00:00:00",
+                    "count": null,
+                    "mean": null,
+                    "std": null,
+                    "min": null,
+                    "25%": null,
+                    "50%": null,
+                    "75%": null,
+                    "max": null
+                }
+            ]
+        }
+    },
+    "calc": {
+        "latest_date": null,
+        "updated_at": null
+    }
+}
