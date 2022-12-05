@@ -3,6 +3,7 @@ def getList():
         'SA',
         'S1W',
         'S1H',
+        'SB',
         'S1a',
         'S2',
         'SP1',
