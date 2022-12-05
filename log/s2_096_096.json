@@ -5,6 +5,14 @@
             "link": "https://www.cardrush-pokemon.jp/product/7524",
             "price": 180,
             "name": "キャプチャーエネルギ",
+            "date": "2022-12-05",
+            "stock": 17
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/7524",
+            "price": 180,
+            "name": "キャプチャーエネルギ",
             "date": "2022-12-04",
             "stock": 17
         },
@@ -55,22 +63,6 @@
             "name": "キャプチャーエネルギ",
             "date": "2022-11-28",
             "stock": 24
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7524",
-            "price": 180,
-            "name": "キャプチャーエネルギ",
-            "date": "2022-11-27",
-            "stock": 24
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/29920",
-            "price": 170,
-            "name": "キャプチャーエネルギ",
-            "date": "2022-11-27",
-            "stock": 1
         }
     ]
 }

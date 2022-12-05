@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/18203",
             "price": 50,
             "name": "ダダリン(C){草}",
+            "date": "2022-12-05",
+            "stock": 15
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14047",
+            "price": 30,
+            "name": "ダダリン012/07",
+            "date": "2022-12-05",
+            "stock": 18
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g012-076-S3A-B/",
+            "price": 33,
+            "name": "【ポケカ】Ｃ◇ダダリ",
+            "date": "2022-12-05",
+            "stock": 23
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18203",
+            "price": 50,
+            "name": "ダダリン(C){草}",
             "date": "2022-12-04",
             "stock": 15
         },
@@ -166,30 +190,6 @@
             "price": 33,
             "name": "【ポケカ】Ｃ◇ダダリ",
             "date": "2022-11-28",
-            "stock": 23
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18203",
-            "price": 50,
-            "name": "ダダリン(C){草}",
-            "date": "2022-11-27",
-            "stock": 15
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14047",
-            "price": 30,
-            "name": "ダダリン012/07",
-            "date": "2022-11-27",
-            "stock": 18
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g012-076-S3A-B/",
-            "price": 33,
-            "name": "【ポケカ】Ｃ◇ダダリ",
-            "date": "2022-11-27",
             "stock": 23
         }
     ]

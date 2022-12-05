@@ -5,6 +5,38 @@
             "link": "https://www.hareruya2.com/product/18641",
             "price": 200,
             "name": "ウオノラゴン(S){",
+            "date": "2022-12-05",
+            "stock": 17
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17384",
+            "price": 380,
+            "name": "ウオノラゴン235/",
+            "date": "2022-12-05",
+            "stock": 25
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30824",
+            "price": 330,
+            "name": "ウオノラゴン235/",
+            "date": "2022-12-05",
+            "stock": 3
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g235-190-S4A-B/",
+            "price": 275,
+            "name": "【ポケカ】Ｓ◇ウオノ",
+            "date": "2022-12-05",
+            "stock": 5
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18641",
+            "price": 200,
+            "name": "ウオノラゴン(S){",
             "date": "2022-12-04",
             "stock": 17
         },
@@ -42,19 +74,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17384",
-            "price": 380,
-            "name": "ウオノラゴン235/",
-            "date": "2022-12-03",
-            "stock": 25
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30824",
             "price": 330,
             "name": "ウオノラゴン235/",
             "date": "2022-12-03",
             "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17384",
+            "price": 380,
+            "name": "ウオノラゴン235/",
+            "date": "2022-12-03",
+            "stock": 25
         },
         {
             "market": "torecolo",
@@ -106,19 +138,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30824",
-            "price": 330,
-            "name": "ウオノラゴン235/",
-            "date": "2022-12-01",
-            "stock": 3
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17384",
             "price": 380,
             "name": "ウオノラゴン235/",
             "date": "2022-12-01",
             "stock": 25
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30824",
+            "price": 330,
+            "name": "ウオノラゴン235/",
+            "date": "2022-12-01",
+            "stock": 3
         },
         {
             "market": "torecolo",
@@ -135,14 +167,6 @@
             "name": "ウオノラゴン(S){",
             "date": "2022-11-30",
             "stock": 16
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17384",
-            "price": 380,
-            "name": "ウオノラゴン235/",
-            "date": "2022-11-30",
-            "stock": 25
         },
         {
             "market": "cardrush",
@@ -151,6 +175,14 @@
             "name": "ウオノラゴン235/",
             "date": "2022-11-30",
             "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17384",
+            "price": 380,
+            "name": "ウオノラゴン235/",
+            "date": "2022-11-30",
+            "stock": 25
         },
         {
             "market": "torecolo",
@@ -202,14 +234,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30824",
-            "price": 330,
-            "name": "ウオノラゴン235/",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17384",
             "price": 380,
             "name": "ウオノラゴン235/",
@@ -217,35 +241,11 @@
             "stock": 20
         },
         {
-            "market": "torecolo",
-            "link": "/shop/g/g235-190-S4A-B/",
-            "price": 275,
-            "name": "【ポケカ】Ｓ◇ウオノ",
-            "date": "2022-11-28",
-            "stock": 5
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18641",
-            "price": 200,
-            "name": "ウオノラゴン(S){",
-            "date": "2022-11-27",
-            "stock": 17
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17384",
-            "price": 380,
-            "name": "ウオノラゴン235/",
-            "date": "2022-11-27",
-            "stock": 7
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30824",
             "price": 330,
             "name": "ウオノラゴン235/",
-            "date": "2022-11-27",
+            "date": "2022-11-28",
             "stock": 1
         },
         {
@@ -253,7 +253,7 @@
             "link": "/shop/g/g235-190-S4A-B/",
             "price": 275,
             "name": "【ポケカ】Ｓ◇ウオノ",
-            "date": "2022-11-27",
+            "date": "2022-11-28",
             "stock": 5
         }
     ]
