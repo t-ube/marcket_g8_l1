@@ -5,6 +5,38 @@
             "link": "https://www.hareruya2.com/product/18661",
             "price": 200,
             "name": "ブリムオン(S){超",
+            "date": "2022-12-06",
+            "stock": 26
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30844",
+            "price": 330,
+            "name": "ブリムオン255/1",
+            "date": "2022-12-06",
+            "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17404",
+            "price": 380,
+            "name": "ブリムオン255/1",
+            "date": "2022-12-06",
+            "stock": 35
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g255-190-S4A-B/",
+            "price": 330,
+            "name": "【ポケカ】Ｓ◇ブリム",
+            "date": "2022-12-06",
+            "stock": 16
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18661",
+            "price": 200,
+            "name": "ブリムオン(S){超",
             "date": "2022-12-05",
             "stock": 27
         },
@@ -42,19 +74,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30844",
-            "price": 330,
-            "name": "ブリムオン255/1",
-            "date": "2022-12-04",
-            "stock": 4
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17404",
             "price": 380,
             "name": "ブリムオン255/1",
             "date": "2022-12-04",
             "stock": 35
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30844",
+            "price": 330,
+            "name": "ブリムオン255/1",
+            "date": "2022-12-04",
+            "stock": 4
         },
         {
             "market": "torecolo",
@@ -106,19 +138,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17404",
-            "price": 380,
-            "name": "ブリムオン255/1",
-            "date": "2022-12-02",
-            "stock": 35
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30844",
             "price": 330,
             "name": "ブリムオン255/1",
             "date": "2022-12-02",
             "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17404",
+            "price": 380,
+            "name": "ブリムオン255/1",
+            "date": "2022-12-02",
+            "stock": 35
         },
         {
             "market": "torecolo",
@@ -138,19 +170,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17404",
-            "price": 380,
-            "name": "ブリムオン255/1",
-            "date": "2022-12-01",
-            "stock": 35
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30844",
             "price": 330,
             "name": "ブリムオン255/1",
             "date": "2022-12-01",
             "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17404",
+            "price": 380,
+            "name": "ブリムオン255/1",
+            "date": "2022-12-01",
+            "stock": 35
         },
         {
             "market": "torecolo",
@@ -202,14 +234,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30844",
-            "price": 330,
-            "name": "ブリムオン255/1",
-            "date": "2022-11-29",
-            "stock": 4
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17404",
             "price": 380,
             "name": "ブリムオン255/1",
@@ -217,35 +241,11 @@
             "stock": 24
         },
         {
-            "market": "torecolo",
-            "link": "/shop/g/g255-190-S4A-B/",
-            "price": 165,
-            "name": "【ポケカ】Ｓ◇ブリム",
-            "date": "2022-11-29",
-            "stock": 16
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18661",
-            "price": 200,
-            "name": "ブリムオン(S){超",
-            "date": "2022-11-28",
-            "stock": 26
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17404",
-            "price": 380,
-            "name": "ブリムオン255/1",
-            "date": "2022-11-28",
-            "stock": 22
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30844",
             "price": 330,
             "name": "ブリムオン255/1",
-            "date": "2022-11-28",
+            "date": "2022-11-29",
             "stock": 4
         },
         {
@@ -253,7 +253,7 @@
             "link": "/shop/g/g255-190-S4A-B/",
             "price": 165,
             "name": "【ポケカ】Ｓ◇ブリム",
-            "date": "2022-11-28",
+            "date": "2022-11-29",
             "stock": 16
         }
     ]

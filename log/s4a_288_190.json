@@ -5,6 +5,38 @@
             "link": "https://www.hareruya2.com/product/18694",
             "price": 150,
             "name": "アーマーガア(S){",
+            "date": "2022-12-06",
+            "stock": 26
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30877",
+            "price": 330,
+            "name": "アーマーガア288/",
+            "date": "2022-12-06",
+            "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17437",
+            "price": 380,
+            "name": "アーマーガア288/",
+            "date": "2022-12-06",
+            "stock": 32
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g288-190-S4A-B/",
+            "price": 275,
+            "name": "【ポケカ】Ｓ◇アーマ",
+            "date": "2022-12-06",
+            "stock": 16
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18694",
+            "price": 150,
+            "name": "アーマーガア(S){",
             "date": "2022-12-05",
             "stock": 27
         },
@@ -42,19 +74,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30877",
-            "price": 330,
-            "name": "アーマーガア288/",
-            "date": "2022-12-04",
-            "stock": 3
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17437",
             "price": 380,
             "name": "アーマーガア288/",
             "date": "2022-12-04",
             "stock": 20
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30877",
+            "price": 330,
+            "name": "アーマーガア288/",
+            "date": "2022-12-04",
+            "stock": 3
         },
         {
             "market": "torecolo",
@@ -106,19 +138,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17437",
-            "price": 380,
-            "name": "アーマーガア288/",
-            "date": "2022-12-02",
-            "stock": 20
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30877",
             "price": 330,
             "name": "アーマーガア288/",
             "date": "2022-12-02",
             "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17437",
+            "price": 380,
+            "name": "アーマーガア288/",
+            "date": "2022-12-02",
+            "stock": 20
         },
         {
             "market": "torecolo",
@@ -138,19 +170,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30877",
-            "price": 330,
-            "name": "アーマーガア288/",
-            "date": "2022-12-01",
-            "stock": 3
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17437",
             "price": 380,
             "name": "アーマーガア288/",
             "date": "2022-12-01",
             "stock": 23
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30877",
+            "price": 330,
+            "name": "アーマーガア288/",
+            "date": "2022-12-01",
+            "stock": 3
         },
         {
             "market": "torecolo",
@@ -202,14 +234,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17437",
-            "price": 380,
-            "name": "アーマーガア288/",
-            "date": "2022-11-29",
-            "stock": 10
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30877",
             "price": 330,
             "name": "アーマーガア288/",
@@ -217,35 +241,11 @@
             "stock": 3
         },
         {
-            "market": "torecolo",
-            "link": "/shop/g/g288-190-S4A-B/",
-            "price": 275,
-            "name": "【ポケカ】Ｓ◇アーマ",
-            "date": "2022-11-29",
-            "stock": 16
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18694",
-            "price": 150,
-            "name": "アーマーガア(S){",
-            "date": "2022-11-28",
-            "stock": 26
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30877",
-            "price": 330,
-            "name": "アーマーガア288/",
-            "date": "2022-11-28",
-            "stock": 3
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17437",
             "price": 380,
             "name": "アーマーガア288/",
-            "date": "2022-11-28",
+            "date": "2022-11-29",
             "stock": 10
         },
         {
@@ -253,7 +253,7 @@
             "link": "/shop/g/g288-190-S4A-B/",
             "price": 275,
             "name": "【ポケカ】Ｓ◇アーマ",
-            "date": "2022-11-28",
+            "date": "2022-11-29",
             "stock": 16
         }
     ]

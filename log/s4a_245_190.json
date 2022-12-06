@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/18651",
             "price": 200,
             "name": "パッチルドン(S){",
+            "date": "2022-12-06",
+            "stock": 15
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17394",
+            "price": 380,
+            "name": "パッチルドン245/",
+            "date": "2022-12-06",
+            "stock": 31
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g245-190-S4A-B/",
+            "price": 330,
+            "name": "【ポケカ】Ｓ◇パッチ",
+            "date": "2022-12-06",
+            "stock": 4
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18651",
+            "price": 200,
+            "name": "パッチルドン(S){",
             "date": "2022-12-05",
             "stock": 15
         },
@@ -166,30 +190,6 @@
             "price": 330,
             "name": "【ポケカ】Ｓ◇パッチ",
             "date": "2022-11-29",
-            "stock": 4
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18651",
-            "price": 200,
-            "name": "パッチルドン(S){",
-            "date": "2022-11-28",
-            "stock": 16
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17394",
-            "price": 380,
-            "name": "パッチルドン245/",
-            "date": "2022-11-28",
-            "stock": 22
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g245-190-S4A-B/",
-            "price": 330,
-            "name": "【ポケカ】Ｓ◇パッチ",
-            "date": "2022-11-28",
             "stock": 4
         }
     ]

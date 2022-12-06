@@ -5,6 +5,22 @@
             "link": "https://www.hareruya2.com/product/18488",
             "price": 50,
             "name": "マホイップ(CP){",
+            "date": "2022-12-06",
+            "stock": 6
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g082-190-S4A-B/",
+            "price": 17,
+            "name": "【ポケカ】Ｃ）通常仕",
+            "date": "2022-12-06",
+            "stock": 10
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18488",
+            "price": 50,
+            "name": "マホイップ(CP){",
             "date": "2022-12-05",
             "stock": 6
         },
@@ -90,14 +106,6 @@
         },
         {
             "market": "torecolo",
-            "link": "/shop/g/g082-190-S4A-B/",
-            "price": 17,
-            "name": "【ポケカ】Ｃ）通常仕",
-            "date": "2022-12-01",
-            "stock": 15
-        },
-        {
-            "market": "torecolo",
             "link": "/shop/g/g082-190-S4A-BM/",
             "price": 77,
             "name": "【ポケカ】Ｃ）ミラー",
@@ -105,6 +113,14 @@
             "stock": 2
         },
         {
+            "market": "torecolo",
+            "link": "/shop/g/g082-190-S4A-B/",
+            "price": 17,
+            "name": "【ポケカ】Ｃ）通常仕",
+            "date": "2022-12-01",
+            "stock": 15
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/18488",
             "price": 50,
@@ -138,14 +154,6 @@
         },
         {
             "market": "torecolo",
-            "link": "/shop/g/g082-190-S4A-B/",
-            "price": 17,
-            "name": "【ポケカ】Ｃ）通常仕",
-            "date": "2022-11-29",
-            "stock": 15
-        },
-        {
-            "market": "torecolo",
             "link": "/shop/g/g082-190-S4A-BM/",
             "price": 77,
             "name": "【ポケカ】Ｃ）ミラー",
@@ -153,28 +161,12 @@
             "stock": 2
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18488",
-            "price": 50,
-            "name": "マホイップ(CP){",
-            "date": "2022-11-28",
-            "stock": 6
-        },
-        {
             "market": "torecolo",
             "link": "/shop/g/g082-190-S4A-B/",
             "price": 17,
             "name": "【ポケカ】Ｃ）通常仕",
-            "date": "2022-11-28",
+            "date": "2022-11-29",
             "stock": 15
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g082-190-S4A-BM/",
-            "price": 77,
-            "name": "【ポケカ】Ｃ）ミラー",
-            "date": "2022-11-28",
-            "stock": 2
         }
     ]
 }

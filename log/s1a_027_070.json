@@ -5,6 +5,38 @@
             "link": "/items/268981804",
             "price": 25,
             "name": "PC エリキテル(0",
+            "date": "2022-12-06",
+            "stock": 4
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17644",
+            "price": 50,
+            "name": "エリキテル(C){雷",
+            "date": "2022-12-06",
+            "stock": 15
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/7311",
+            "price": 30,
+            "name": "エリキテル027/0",
+            "date": "2022-12-06",
+            "stock": 66
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g027-070-S1A-B/",
+            "price": 33,
+            "name": "【ポケカ】Ｃ◇エリキ",
+            "date": "2022-12-06",
+            "stock": 12
+        },
+        {
+            "market": "magi",
+            "link": "/items/268981804",
+            "price": 25,
+            "name": "PC エリキテル(0",
             "date": "2022-12-05",
             "stock": 4
         },
@@ -222,38 +254,6 @@
             "price": 33,
             "name": "【ポケカ】Ｃ◇エリキ",
             "date": "2022-11-29",
-            "stock": 12
-        },
-        {
-            "market": "magi",
-            "link": "/items/268981804",
-            "price": 25,
-            "name": "PC エリキテル(0",
-            "date": "2022-11-28",
-            "stock": 4
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/17644",
-            "price": 50,
-            "name": "エリキテル(C){雷",
-            "date": "2022-11-28",
-            "stock": 15
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7311",
-            "price": 30,
-            "name": "エリキテル027/0",
-            "date": "2022-11-28",
-            "stock": 66
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g027-070-S1A-B/",
-            "price": 33,
-            "name": "【ポケカ】Ｃ◇エリキ",
-            "date": "2022-11-28",
             "stock": 12
         }
     ]

@@ -5,6 +5,46 @@
             "link": "/items/1136478059",
             "price": 520,
             "name": "【2枚】ガラルバリヤ",
+            "date": "2022-12-06",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18626",
+            "price": 300,
+            "name": "ガラルバリコオル(S",
+            "date": "2022-12-06",
+            "stock": 38
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17618",
+            "price": 180,
+            "name": "ガラルバリコオル22",
+            "date": "2022-12-06",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30809",
+            "price": 330,
+            "name": "ガラルバリコオル22",
+            "date": "2022-12-06",
+            "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17369",
+            "price": 380,
+            "name": "ガラルバリコオル22",
+            "date": "2022-12-06",
+            "stock": 39
+        },
+        {
+            "market": "magi",
+            "link": "/items/1136478059",
+            "price": 520,
+            "name": "【2枚】ガラルバリヤ",
             "date": "2022-12-05",
             "stock": 1
         },
@@ -58,11 +98,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17618",
-            "price": 180,
+            "link": "https://www.cardrush-pokemon.jp/product/17369",
+            "price": 380,
             "name": "ガラルバリコオル22",
             "date": "2022-12-04",
-            "stock": 1
+            "stock": 38
         },
         {
             "market": "cardrush",
@@ -74,11 +114,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17369",
-            "price": 380,
+            "link": "https://www.cardrush-pokemon.jp/product/17618",
+            "price": 180,
             "name": "ガラルバリコオル22",
             "date": "2022-12-04",
-            "stock": 38
+            "stock": 1
         },
         {
             "market": "magi",
@@ -98,19 +138,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17369",
-            "price": 380,
-            "name": "ガラルバリコオル22",
-            "date": "2022-12-03",
-            "stock": 38
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30809",
             "price": 330,
             "name": "ガラルバリコオル22",
             "date": "2022-12-03",
             "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17369",
+            "price": 380,
+            "name": "ガラルバリコオル22",
+            "date": "2022-12-03",
+            "stock": 38
         },
         {
             "market": "cardrush",
@@ -138,14 +178,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30809",
-            "price": 330,
-            "name": "ガラルバリコオル22",
-            "date": "2022-12-02",
-            "stock": 4
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17369",
             "price": 380,
             "name": "ガラルバリコオル22",
@@ -159,6 +191,14 @@
             "name": "ガラルバリコオル22",
             "date": "2022-12-02",
             "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30809",
+            "price": 330,
+            "name": "ガラルバリコオル22",
+            "date": "2022-12-02",
+            "stock": 4
         },
         {
             "market": "magi",
@@ -175,22 +215,6 @@
             "name": "ガラルバリコオル(S",
             "date": "2022-12-01",
             "stock": 38
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17369",
-            "price": 380,
-            "name": "ガラルバリコオル22",
-            "date": "2022-12-01",
-            "stock": 38
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17618",
-            "price": 180,
-            "name": "ガラルバリコオル22",
-            "date": "2022-12-01",
-            "stock": 1
         },
         {
             "market": "cardrush",
@@ -201,6 +225,22 @@
             "stock": 3
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17618",
+            "price": 180,
+            "name": "ガラルバリコオル22",
+            "date": "2022-12-01",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17369",
+            "price": 380,
+            "name": "ガラルバリコオル22",
+            "date": "2022-12-01",
+            "stock": 38
+        },
+        {
             "market": "magi",
             "link": "/items/1136478059",
             "price": 520,
@@ -218,11 +258,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30809",
-            "price": 330,
+            "link": "https://www.cardrush-pokemon.jp/product/17618",
+            "price": 180,
             "name": "ガラルバリコオル22",
             "date": "2022-11-30",
-            "stock": 3
+            "stock": 1
         },
         {
             "market": "cardrush",
@@ -234,11 +274,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17618",
-            "price": 180,
+            "link": "https://www.cardrush-pokemon.jp/product/30809",
+            "price": 330,
             "name": "ガラルバリコオル22",
             "date": "2022-11-30",
-            "stock": 1
+            "stock": 3
         },
         {
             "market": "magi",
@@ -258,19 +298,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30809",
-            "price": 330,
-            "name": "ガラルバリコオル22",
-            "date": "2022-11-29",
-            "stock": 3
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17618",
             "price": 180,
             "name": "ガラルバリコオル22",
             "date": "2022-11-29",
             "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30809",
+            "price": 330,
+            "name": "ガラルバリコオル22",
+            "date": "2022-11-29",
+            "stock": 3
         },
         {
             "market": "cardrush",
@@ -279,46 +319,6 @@
             "name": "ガラルバリコオル22",
             "date": "2022-11-29",
             "stock": 37
-        },
-        {
-            "market": "magi",
-            "link": "/items/1136478059",
-            "price": 520,
-            "name": "【2枚】ガラルバリヤ",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18626",
-            "price": 300,
-            "name": "ガラルバリコオル(S",
-            "date": "2022-11-28",
-            "stock": 38
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17369",
-            "price": 380,
-            "name": "ガラルバリコオル22",
-            "date": "2022-11-28",
-            "stock": 37
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30809",
-            "price": 330,
-            "name": "ガラルバリコオル22",
-            "date": "2022-11-28",
-            "stock": 3
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17618",
-            "price": 180,
-            "name": "ガラルバリコオル22",
-            "date": "2022-11-28",
-            "stock": 1
         }
     ]
 }

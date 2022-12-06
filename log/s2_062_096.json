@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/17765",
             "price": 100,
             "name": "イシヘンジン(R){",
+            "date": "2022-12-06",
+            "stock": 17
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/7490",
+            "price": 80,
+            "name": "イシヘンジン062/",
+            "date": "2022-12-06",
+            "stock": 85
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g062-096-S2-B/",
+            "price": 55,
+            "name": "【ポケカ】Ｒ◇イシヘ",
+            "date": "2022-12-06",
+            "stock": 4
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17765",
+            "price": 100,
+            "name": "イシヘンジン(R){",
             "date": "2022-12-05",
             "stock": 17
         },
@@ -166,30 +190,6 @@
             "price": 55,
             "name": "【ポケカ】Ｒ◇イシヘ",
             "date": "2022-11-29",
-            "stock": 4
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/17765",
-            "price": 100,
-            "name": "イシヘンジン(R){",
-            "date": "2022-11-28",
-            "stock": 17
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7490",
-            "price": 80,
-            "name": "イシヘンジン062/",
-            "date": "2022-11-28",
-            "stock": 85
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g062-096-S2-B/",
-            "price": 55,
-            "name": "【ポケカ】Ｒ◇イシヘ",
-            "date": "2022-11-28",
             "stock": 4
         }
     ]

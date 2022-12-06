@@ -5,6 +5,14 @@
             "link": "https://www.cardrush-pokemon.jp/product/7522",
             "price": 120,
             "name": "スピード雷エネルギー",
+            "date": "2022-12-06",
+            "stock": 64
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/7522",
+            "price": 120,
+            "name": "スピード雷エネルギー",
             "date": "2022-12-05",
             "stock": 64
         },
@@ -26,27 +34,19 @@
         },
         {
             "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/29918",
+            "price": 110,
+            "name": "スピード雷エネルギー",
+            "date": "2022-12-03",
+            "stock": 3
+        },
+        {
+            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/7522",
             "price": 120,
             "name": "スピード雷エネルギー",
             "date": "2022-12-03",
             "stock": 64
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/29918",
-            "price": 110,
-            "name": "スピード雷エネルギー",
-            "date": "2022-12-03",
-            "stock": 3
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/29918",
-            "price": 110,
-            "name": "スピード雷エネルギー",
-            "date": "2022-12-02",
-            "stock": 3
         },
         {
             "market": "cardrush",
@@ -58,11 +58,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7522",
-            "price": 120,
+            "link": "https://www.cardrush-pokemon.jp/product/29918",
+            "price": 110,
             "name": "スピード雷エネルギー",
-            "date": "2022-12-01",
-            "stock": 64
+            "date": "2022-12-02",
+            "stock": 3
         },
         {
             "market": "cardrush",
@@ -74,11 +74,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/29918",
-            "price": 110,
+            "link": "https://www.cardrush-pokemon.jp/product/7522",
+            "price": 120,
             "name": "スピード雷エネルギー",
-            "date": "2022-11-30",
-            "stock": 3
+            "date": "2022-12-01",
+            "stock": 64
         },
         {
             "market": "cardrush",
@@ -87,6 +87,14 @@
             "name": "スピード雷エネルギー",
             "date": "2022-11-30",
             "stock": 64
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/29918",
+            "price": 110,
+            "name": "スピード雷エネルギー",
+            "date": "2022-11-30",
+            "stock": 3
         },
         {
             "market": "cardrush",
@@ -102,22 +110,6 @@
             "price": 110,
             "name": "スピード雷エネルギー",
             "date": "2022-11-29",
-            "stock": 3
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7522",
-            "price": 120,
-            "name": "スピード雷エネルギー",
-            "date": "2022-11-28",
-            "stock": 64
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/29918",
-            "price": 110,
-            "name": "スピード雷エネルギー",
-            "date": "2022-11-28",
             "stock": 3
         }
     ]

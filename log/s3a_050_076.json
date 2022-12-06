@@ -2,10 +2,10 @@
     "items": [
         {
             "market": "magi",
-            "link": "/items/1875315490",
-            "price": 4500,
-            "name": "ジラーチ A 050",
-            "date": "2022-12-05",
+            "link": "/items/1135114772",
+            "price": 4000,
+            "name": "（美品）ジラーチ　0",
+            "date": "2022-12-06",
             "stock": 1
         },
         {
@@ -13,6 +13,70 @@
             "link": "/items/1278514730",
             "price": 3500,
             "name": "（美品）ジラーチ　A",
+            "date": "2022-12-06",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/365281067",
+            "price": 4750,
+            "name": "ジラーチ A アメイ",
+            "date": "2022-12-06",
+            "stock": 2
+        },
+        {
+            "market": "magi",
+            "link": "/items/1994225441",
+            "price": 2800,
+            "name": "ジラーチ ポケモンカ",
+            "date": "2022-12-06",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/96908441",
+            "price": 4000,
+            "name": "（美品）ジラーチ　0",
+            "date": "2022-12-06",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1875315490",
+            "price": 4500,
+            "name": "ジラーチ A 050",
+            "date": "2022-12-06",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/15016",
+            "price": 1780,
+            "name": "ジラーチ050/07",
+            "date": "2022-12-06",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30214",
+            "price": 2380,
+            "name": "ジラーチ050/07",
+            "date": "2022-12-06",
+            "stock": 9
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14085",
+            "price": 2780,
+            "name": "ジラーチ050/07",
+            "date": "2022-12-06",
+            "stock": 28
+        },
+        {
+            "market": "magi",
+            "link": "/items/96908441",
+            "price": 4000,
+            "name": "（美品）ジラーチ　0",
             "date": "2022-12-05",
             "stock": 1
         },
@@ -42,9 +106,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/96908441",
-            "price": 4000,
-            "name": "（美品）ジラーチ　0",
+            "link": "/items/1875315490",
+            "price": 4500,
+            "name": "ジラーチ A 050",
+            "date": "2022-12-05",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1278514730",
+            "price": 3500,
+            "name": "（美品）ジラーチ　A",
             "date": "2022-12-05",
             "stock": 1
         },
@@ -82,17 +154,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/1994225441",
-            "price": 2800,
-            "name": "ジラーチ ポケモンカ",
+            "link": "/items/365281067",
+            "price": 4750,
+            "name": "ジラーチ A アメイ",
             "date": "2022-12-04",
-            "stock": 1
+            "stock": 2
         },
         {
             "market": "magi",
-            "link": "/items/1875315490",
-            "price": 4500,
-            "name": "ジラーチ A 050",
+            "link": "/items/1135114772",
+            "price": 4000,
+            "name": "（美品）ジラーチ　0",
             "date": "2022-12-04",
             "stock": 1
         },
@@ -106,23 +178,23 @@
         },
         {
             "market": "magi",
-            "link": "/items/365281067",
-            "price": 4750,
-            "name": "ジラーチ A アメイ",
-            "date": "2022-12-04",
-            "stock": 2
-        },
-        {
-            "market": "magi",
-            "link": "/items/96908441",
-            "price": 4000,
-            "name": "（美品）ジラーチ　0",
+            "link": "/items/1875315490",
+            "price": 4500,
+            "name": "ジラーチ A 050",
             "date": "2022-12-04",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1135114772",
+            "link": "/items/1994225441",
+            "price": 2800,
+            "name": "ジラーチ ポケモンカ",
+            "date": "2022-12-04",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/96908441",
             "price": 4000,
             "name": "（美品）ジラーチ　0",
             "date": "2022-12-04",
@@ -138,11 +210,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14085",
-            "price": 2780,
+            "link": "https://www.cardrush-pokemon.jp/product/15016",
+            "price": 1780,
             "name": "ジラーチ050/07",
             "date": "2022-12-04",
-            "stock": 29
+            "stock": 1
         },
         {
             "market": "cardrush",
@@ -154,33 +226,25 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/15016",
-            "price": 1780,
+            "link": "https://www.cardrush-pokemon.jp/product/14085",
+            "price": 2780,
             "name": "ジラーチ050/07",
             "date": "2022-12-04",
-            "stock": 1
+            "stock": 29
         },
         {
             "market": "magi",
-            "link": "/items/1875315490",
-            "price": 4500,
-            "name": "ジラーチ A 050",
+            "link": "/items/365281067",
+            "price": 4750,
+            "name": "ジラーチ A アメイ",
             "date": "2022-12-03",
-            "stock": 1
+            "stock": 2
         },
         {
             "market": "magi",
-            "link": "/items/1994225441",
-            "price": 2800,
-            "name": "ジラーチ ポケモンカ",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1278514730",
-            "price": 3500,
-            "name": "（美品）ジラーチ　A",
+            "link": "/items/1135114772",
+            "price": 4000,
+            "name": "（美品）ジラーチ　0",
             "date": "2022-12-03",
             "stock": 1
         },
@@ -194,19 +258,27 @@
         },
         {
             "market": "magi",
-            "link": "/items/1135114772",
-            "price": 4000,
-            "name": "（美品）ジラーチ　0",
+            "link": "/items/1994225441",
+            "price": 2800,
+            "name": "ジラーチ ポケモンカ",
             "date": "2022-12-03",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/365281067",
-            "price": 4750,
-            "name": "ジラーチ A アメイ",
+            "link": "/items/1875315490",
+            "price": 4500,
+            "name": "ジラーチ A 050",
             "date": "2022-12-03",
-            "stock": 2
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1278514730",
+            "price": 3500,
+            "name": "（美品）ジラーチ　A",
+            "date": "2022-12-03",
+            "stock": 1
         },
         {
             "market": "hareruya2",
@@ -242,6 +314,14 @@
         },
         {
             "market": "magi",
+            "link": "/items/1278514730",
+            "price": 3500,
+            "name": "（美品）ジラーチ　A",
+            "date": "2022-12-02",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/96908441",
             "price": 4000,
             "name": "（美品）ジラーチ　0",
@@ -250,11 +330,11 @@
         },
         {
             "market": "magi",
-            "link": "/items/1994225441",
-            "price": 2800,
-            "name": "ジラーチ ポケモンカ",
+            "link": "/items/365281067",
+            "price": 4750,
+            "name": "ジラーチ A アメイ",
             "date": "2022-12-02",
-            "stock": 1
+            "stock": 2
         },
         {
             "market": "magi",
@@ -274,17 +354,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/365281067",
-            "price": 4750,
-            "name": "ジラーチ A アメイ",
-            "date": "2022-12-02",
-            "stock": 2
-        },
-        {
-            "market": "magi",
-            "link": "/items/1278514730",
-            "price": 3500,
-            "name": "（美品）ジラーチ　A",
+            "link": "/items/1994225441",
+            "price": 2800,
+            "name": "ジラーチ ポケモンカ",
             "date": "2022-12-02",
             "stock": 1
         },
@@ -293,6 +365,22 @@
             "link": "https://www.hareruya2.com/product/18241",
             "price": 3000,
             "name": "ジラーチ(AR){鋼",
+            "date": "2022-12-02",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30214",
+            "price": 2380,
+            "name": "ジラーチ050/07",
+            "date": "2022-12-02",
+            "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/15016",
+            "price": 1780,
+            "name": "ジラーチ050/07",
             "date": "2022-12-02",
             "stock": 1
         },
@@ -305,26 +393,26 @@
             "stock": 29
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/15016",
-            "price": 1780,
-            "name": "ジラーチ050/07",
-            "date": "2022-12-02",
+            "market": "magi",
+            "link": "/items/1135114772",
+            "price": 4000,
+            "name": "（美品）ジラーチ　0",
+            "date": "2022-12-01",
             "stock": 1
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30214",
-            "price": 2380,
-            "name": "ジラーチ050/07",
-            "date": "2022-12-02",
-            "stock": 3
+            "market": "magi",
+            "link": "/items/1994225441",
+            "price": 2800,
+            "name": "ジラーチ ポケモンカ",
+            "date": "2022-12-01",
+            "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1278514730",
-            "price": 3500,
-            "name": "（美品）ジラーチ　A",
+            "link": "/items/96908441",
+            "price": 4000,
+            "name": "（美品）ジラーチ　0",
             "date": "2022-12-01",
             "stock": 1
         },
@@ -338,9 +426,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/96908441",
-            "price": 4000,
-            "name": "（美品）ジラーチ　0",
+            "link": "/items/1278514730",
+            "price": 3500,
+            "name": "（美品）ジラーチ　A",
             "date": "2022-12-01",
             "stock": 1
         },
@@ -349,22 +437,6 @@
             "link": "/items/1875315490",
             "price": 4500,
             "name": "ジラーチ A 050",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1994225441",
-            "price": 2800,
-            "name": "ジラーチ ポケモンカ",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1135114772",
-            "price": 4000,
-            "name": "（美品）ジラーチ　0",
             "date": "2022-12-01",
             "stock": 1
         },
@@ -378,14 +450,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14085",
-            "price": 2780,
-            "name": "ジラーチ050/07",
-            "date": "2022-12-01",
-            "stock": 32
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30214",
             "price": 2380,
             "name": "ジラーチ050/07",
@@ -394,10 +458,26 @@
         },
         {
             "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14085",
+            "price": 2780,
+            "name": "ジラーチ050/07",
+            "date": "2022-12-01",
+            "stock": 32
+        },
+        {
+            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/15016",
             "price": 1780,
             "name": "ジラーチ050/07",
             "date": "2022-12-01",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1135114772",
+            "price": 4000,
+            "name": "（美品）ジラーチ　0",
+            "date": "2022-11-30",
             "stock": 1
         },
         {
@@ -411,14 +491,6 @@
         {
             "market": "magi",
             "link": "/items/96908441",
-            "price": 4000,
-            "name": "（美品）ジラーチ　0",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1135114772",
             "price": 4000,
             "name": "（美品）ジラーチ　0",
             "date": "2022-11-30",
@@ -482,17 +554,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/1135114772",
-            "price": 4000,
-            "name": "（美品）ジラーチ　0",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/96908441",
-            "price": 4000,
-            "name": "（美品）ジラーチ　0",
+            "link": "/items/1994225441",
+            "price": 2800,
+            "name": "ジラーチ ポケモンカ",
             "date": "2022-11-29",
             "stock": 1
         },
@@ -506,17 +570,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/1875315490",
-            "price": 4500,
-            "name": "ジラーチ A 050",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1994225441",
-            "price": 2800,
-            "name": "ジラーチ ポケモンカ",
+            "link": "/items/1135114772",
+            "price": 4000,
+            "name": "（美品）ジラーチ　0",
             "date": "2022-11-29",
             "stock": 1
         },
@@ -529,26 +585,26 @@
             "stock": 2
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18241",
-            "price": 3000,
-            "name": "ジラーチ(AR){鋼",
+            "market": "magi",
+            "link": "/items/96908441",
+            "price": 4000,
+            "name": "（美品）ジラーチ　0",
             "date": "2022-11-29",
             "stock": 1
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30214",
-            "price": 2380,
-            "name": "ジラーチ050/07",
+            "market": "magi",
+            "link": "/items/1875315490",
+            "price": 4500,
+            "name": "ジラーチ A 050",
             "date": "2022-11-29",
-            "stock": 3
+            "stock": 1
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/15016",
-            "price": 1780,
-            "name": "ジラーチ050/07",
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18241",
+            "price": 3000,
+            "name": "ジラーチ(AR){鋼",
             "date": "2022-11-29",
             "stock": 1
         },
@@ -561,84 +617,20 @@
             "stock": 30
         },
         {
-            "market": "magi",
-            "link": "/items/1994225441",
-            "price": 2800,
-            "name": "ジラーチ ポケモンカ",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1278514730",
-            "price": 3500,
-            "name": "（美品）ジラーチ　A",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1135114772",
-            "price": 4000,
-            "name": "（美品）ジラーチ　0",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/365281067",
-            "price": 4750,
-            "name": "ジラーチ A アメイ",
-            "date": "2022-11-28",
-            "stock": 2
-        },
-        {
-            "market": "magi",
-            "link": "/items/96908441",
-            "price": 4000,
-            "name": "（美品）ジラーチ　0",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1875315490",
-            "price": 4500,
-            "name": "ジラーチ A 050",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18241",
-            "price": 3000,
-            "name": "ジラーチ(AR){鋼",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30214",
-            "price": 2480,
+            "price": 2380,
             "name": "ジラーチ050/07",
-            "date": "2022-11-28",
+            "date": "2022-11-29",
             "stock": 3
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/15016",
-            "price": 1980,
+            "price": 1780,
             "name": "ジラーチ050/07",
-            "date": "2022-11-28",
+            "date": "2022-11-29",
             "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14085",
-            "price": 2980,
-            "name": "ジラーチ050/07",
-            "date": "2022-11-28",
-            "stock": 30
         }
     ]
 }

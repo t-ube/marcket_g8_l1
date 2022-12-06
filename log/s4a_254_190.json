@@ -5,6 +5,46 @@
             "link": "/items/100826080",
             "price": 250,
             "name": "テブリム S 254",
+            "date": "2022-12-06",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18660",
+            "price": 300,
+            "name": "テブリム(S){超}",
+            "date": "2022-12-06",
+            "stock": 25
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30843",
+            "price": 330,
+            "name": "テブリム254/19",
+            "date": "2022-12-06",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17403",
+            "price": 380,
+            "name": "テブリム254/19",
+            "date": "2022-12-06",
+            "stock": 8
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g254-190-S4A-B/",
+            "price": 275,
+            "name": "【ポケカ】Ｓ◇テブリ",
+            "date": "2022-12-06",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/100826080",
+            "price": 250,
+            "name": "テブリム S 254",
             "date": "2022-12-05",
             "stock": 1
         },
@@ -58,19 +98,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30843",
-            "price": 330,
-            "name": "テブリム254/19",
-            "date": "2022-12-04",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17403",
             "price": 380,
             "name": "テブリム254/19",
             "date": "2022-12-04",
             "stock": 8
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30843",
+            "price": 330,
+            "name": "テブリム254/19",
+            "date": "2022-12-04",
+            "stock": 2
         },
         {
             "market": "torecolo",
@@ -178,19 +218,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30843",
-            "price": 330,
-            "name": "テブリム254/19",
-            "date": "2022-12-01",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17403",
             "price": 380,
             "name": "テブリム254/19",
             "date": "2022-12-01",
             "stock": 8
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30843",
+            "price": 330,
+            "name": "テブリム254/19",
+            "date": "2022-12-01",
+            "stock": 2
         },
         {
             "market": "torecolo",
@@ -215,6 +255,14 @@
             "name": "テブリム(S){超}",
             "date": "2022-11-30",
             "stock": 23
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30843",
+            "price": 330,
+            "name": "テブリム254/19",
+            "date": "2022-11-30",
+            "stock": 2
         },
         {
             "market": "cardrush",
@@ -225,14 +273,6 @@
             "stock": 7
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30843",
-            "price": 330,
-            "name": "テブリム254/19",
-            "date": "2022-11-30",
-            "stock": 2
-        },
-        {
             "market": "torecolo",
             "link": "/shop/g/g254-190-S4A-B/",
             "price": 275,
@@ -258,14 +298,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30843",
-            "price": 330,
-            "name": "テブリム254/19",
-            "date": "2022-11-29",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17403",
             "price": 380,
             "name": "テブリム254/19",
@@ -273,43 +305,11 @@
             "stock": 5
         },
         {
-            "market": "torecolo",
-            "link": "/shop/g/g254-190-S4A-B/",
-            "price": 275,
-            "name": "【ポケカ】Ｓ◇テブリ",
-            "date": "2022-11-29",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/100826080",
-            "price": 250,
-            "name": "テブリム S 254",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18660",
-            "price": 300,
-            "name": "テブリム(S){超}",
-            "date": "2022-11-28",
-            "stock": 23
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17403",
-            "price": 380,
-            "name": "テブリム254/19",
-            "date": "2022-11-28",
-            "stock": 5
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30843",
             "price": 330,
             "name": "テブリム254/19",
-            "date": "2022-11-28",
+            "date": "2022-11-29",
             "stock": 2
         },
         {
@@ -317,7 +317,7 @@
             "link": "/shop/g/g254-190-S4A-B/",
             "price": 275,
             "name": "【ポケカ】Ｓ◇テブリ",
-            "date": "2022-11-28",
+            "date": "2022-11-29",
             "stock": 4
         }
     ]

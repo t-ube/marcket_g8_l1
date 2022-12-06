@@ -5,6 +5,30 @@
             "link": "/items/790199459",
             "price": 144,
             "name": "シャワーズ U 01",
+            "date": "2022-12-06",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18302",
+            "price": 50,
+            "name": "シャワーズ(U){水",
+            "date": "2022-12-06",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14471",
+            "price": 80,
+            "name": "シャワーズ017/1",
+            "date": "2022-12-06",
+            "stock": 89
+        },
+        {
+            "market": "magi",
+            "link": "/items/790199459",
+            "price": 144,
+            "name": "シャワーズ U 01",
             "date": "2022-12-05",
             "stock": 1
         },
@@ -142,22 +166,6 @@
             "price": 80,
             "name": "シャワーズ017/1",
             "date": "2022-11-29",
-            "stock": 89
-        },
-        {
-            "market": "magi",
-            "link": "/items/790199459",
-            "price": 144,
-            "name": "シャワーズ U 01",
-            "date": "2022-11-28",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14471",
-            "price": 80,
-            "name": "シャワーズ017/1",
-            "date": "2022-11-28",
             "stock": 89
         }
     ]

@@ -5,6 +5,38 @@
             "link": "https://www.hareruya2.com/product/18705",
             "price": 300,
             "name": "ヨクバリス(S){無",
+            "date": "2022-12-06",
+            "stock": 20
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30888",
+            "price": 330,
+            "name": "ヨクバリス299/1",
+            "date": "2022-12-06",
+            "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17448",
+            "price": 380,
+            "name": "ヨクバリス299/1",
+            "date": "2022-12-06",
+            "stock": 23
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g299-190-S4A-B/",
+            "price": 275,
+            "name": "【ポケカ】Ｓ◇ヨクバ",
+            "date": "2022-12-06",
+            "stock": 5
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18705",
+            "price": 300,
+            "name": "ヨクバリス(S){無",
             "date": "2022-12-05",
             "stock": 20
         },
@@ -42,19 +74,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30888",
-            "price": 330,
-            "name": "ヨクバリス299/1",
-            "date": "2022-12-04",
-            "stock": 4
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17448",
             "price": 380,
             "name": "ヨクバリス299/1",
             "date": "2022-12-04",
             "stock": 10
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30888",
+            "price": 330,
+            "name": "ヨクバリス299/1",
+            "date": "2022-12-04",
+            "stock": 4
         },
         {
             "market": "torecolo",
@@ -106,19 +138,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17448",
-            "price": 380,
-            "name": "ヨクバリス299/1",
-            "date": "2022-12-02",
-            "stock": 10
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30888",
             "price": 330,
             "name": "ヨクバリス299/1",
             "date": "2022-12-02",
             "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17448",
+            "price": 380,
+            "name": "ヨクバリス299/1",
+            "date": "2022-12-02",
+            "stock": 10
         },
         {
             "market": "torecolo",
@@ -138,19 +170,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30888",
-            "price": 330,
-            "name": "ヨクバリス299/1",
-            "date": "2022-12-01",
-            "stock": 4
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17448",
             "price": 380,
             "name": "ヨクバリス299/1",
             "date": "2022-12-01",
             "stock": 10
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30888",
+            "price": 330,
+            "name": "ヨクバリス299/1",
+            "date": "2022-12-01",
+            "stock": 4
         },
         {
             "market": "torecolo",
@@ -202,14 +234,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17448",
-            "price": 380,
-            "name": "ヨクバリス299/1",
-            "date": "2022-11-29",
-            "stock": 9
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30888",
             "price": 330,
             "name": "ヨクバリス299/1",
@@ -217,35 +241,11 @@
             "stock": 2
         },
         {
-            "market": "torecolo",
-            "link": "/shop/g/g299-190-S4A-B/",
-            "price": 275,
-            "name": "【ポケカ】Ｓ◇ヨクバ",
-            "date": "2022-11-29",
-            "stock": 5
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18705",
-            "price": 300,
-            "name": "ヨクバリス(S){無",
-            "date": "2022-11-28",
-            "stock": 19
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30888",
-            "price": 330,
-            "name": "ヨクバリス299/1",
-            "date": "2022-11-28",
-            "stock": 2
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17448",
             "price": 380,
             "name": "ヨクバリス299/1",
-            "date": "2022-11-28",
+            "date": "2022-11-29",
             "stock": 9
         },
         {
@@ -253,7 +253,7 @@
             "link": "/shop/g/g299-190-S4A-B/",
             "price": 275,
             "name": "【ポケカ】Ｓ◇ヨクバ",
-            "date": "2022-11-28",
+            "date": "2022-11-29",
             "stock": 5
         }
     ]

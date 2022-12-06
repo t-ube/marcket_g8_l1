@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/18704",
             "price": 300,
             "name": "ホシガリス(S){無",
+            "date": "2022-12-06",
+            "stock": 13
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30887",
+            "price": 330,
+            "name": "ホシガリス298/1",
+            "date": "2022-12-06",
+            "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17447",
+            "price": 380,
+            "name": "ホシガリス298/1",
+            "date": "2022-12-06",
+            "stock": 17
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18704",
+            "price": 300,
+            "name": "ホシガリス(S){無",
             "date": "2022-12-05",
             "stock": 14
         },
@@ -79,14 +103,6 @@
             "name": "ホシガリス(S){無",
             "date": "2022-12-02",
             "stock": 14
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30887",
-            "price": 330,
-            "name": "ホシガリス298/1",
-            "date": "2022-12-02",
-            "stock": 3
         },
         {
             "market": "cardrush",
@@ -97,6 +113,14 @@
             "stock": 9
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30887",
+            "price": 330,
+            "name": "ホシガリス298/1",
+            "date": "2022-12-02",
+            "stock": 3
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/18704",
             "price": 300,
@@ -130,19 +154,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17447",
-            "price": 380,
-            "name": "ホシガリス298/1",
-            "date": "2022-11-30",
-            "stock": 8
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30887",
             "price": 330,
             "name": "ホシガリス298/1",
             "date": "2022-11-30",
             "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17447",
+            "price": 380,
+            "name": "ホシガリス298/1",
+            "date": "2022-11-30",
+            "stock": 8
         },
         {
             "market": "hareruya2",
@@ -154,14 +178,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30887",
-            "price": 330,
-            "name": "ホシガリス298/1",
-            "date": "2022-11-29",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17447",
             "price": 380,
             "name": "ホシガリス298/1",
@@ -169,27 +185,11 @@
             "stock": 8
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18704",
-            "price": 300,
-            "name": "ホシガリス(S){無",
-            "date": "2022-11-28",
-            "stock": 14
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17447",
-            "price": 380,
-            "name": "ホシガリス298/1",
-            "date": "2022-11-28",
-            "stock": 8
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30887",
             "price": 330,
             "name": "ホシガリス298/1",
-            "date": "2022-11-28",
+            "date": "2022-11-29",
             "stock": 2
         }
     ]
