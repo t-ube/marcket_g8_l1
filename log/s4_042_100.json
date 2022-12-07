@@ -5,7 +5,95 @@
             "link": "/items/521497036",
             "price": 450,
             "name": "ヌケニン U 042",
-            "date": "2022-12-06",
+            "date": "2022-12-07",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/69394716",
+            "price": 180,
+            "name": "ヌケニン U 042",
+            "date": "2022-12-07",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1511740975",
+            "price": 300,
+            "name": "【Ｄ特価】ツチニン、",
+            "date": "2022-12-07",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2096711286",
+            "price": 133,
+            "name": "ヌケニン s4 04",
+            "date": "2022-12-07",
+            "stock": 3
+        },
+        {
+            "market": "magi",
+            "link": "/items/212001399",
+            "price": 176,
+            "name": "ヌケニン U 042",
+            "date": "2022-12-07",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1305909063",
+            "price": 1070,
+            "name": "ヌケニン(U){超}",
+            "date": "2022-12-07",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1766017747",
+            "price": 300,
+            "name": "ヌケニン U 042",
+            "date": "2022-12-07",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18327",
+            "price": 200,
+            "name": "ヌケニン(U){超}",
+            "date": "2022-12-07",
+            "stock": 96
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30363",
+            "price": 110,
+            "name": "ヌケニン042/10",
+            "date": "2022-12-07",
+            "stock": 81
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35588",
+            "price": 50,
+            "name": "ヌケニン042/10",
+            "date": "2022-12-07",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14496",
+            "price": 120,
+            "name": "ヌケニン042/10",
+            "date": "2022-12-07",
+            "stock": 67
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g042-100-S4-B/",
+            "price": 110,
+            "name": "【ポケカ】Ｕ◇ヌケニ",
+            "date": "2022-12-07",
             "stock": 1
         },
         {
@@ -50,6 +138,14 @@
         },
         {
             "market": "magi",
+            "link": "/items/521497036",
+            "price": 450,
+            "name": "ヌケニン U 042",
+            "date": "2022-12-06",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/69394716",
             "price": 180,
             "name": "ヌケニン U 042",
@@ -63,22 +159,6 @@
             "name": "ヌケニン(U){超}",
             "date": "2022-12-06",
             "stock": 96
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35588",
-            "price": 50,
-            "name": "ヌケニン042/10",
-            "date": "2022-12-06",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14496",
-            "price": 120,
-            "name": "ヌケニン042/10",
-            "date": "2022-12-06",
-            "stock": 69
         },
         {
             "market": "cardrush",
@@ -89,19 +169,27 @@
             "stock": 81
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35588",
+            "price": 50,
+            "name": "ヌケニン042/10",
+            "date": "2022-12-06",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14496",
+            "price": 120,
+            "name": "ヌケニン042/10",
+            "date": "2022-12-06",
+            "stock": 69
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g042-100-S4-B/",
             "price": 110,
             "name": "【ポケカ】Ｕ◇ヌケニ",
             "date": "2022-12-06",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1511740975",
-            "price": 300,
-            "name": "【Ｄ特価】ツチニン、",
-            "date": "2022-12-05",
             "stock": 1
         },
         {
@@ -153,12 +241,28 @@
             "stock": 1
         },
         {
+            "market": "magi",
+            "link": "/items/1511740975",
+            "price": 300,
+            "name": "【Ｄ特価】ツチニン、",
+            "date": "2022-12-05",
+            "stock": 1
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/18327",
             "price": 200,
             "name": "ヌケニン(U){超}",
             "date": "2022-12-05",
             "stock": 96
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/35588",
+            "price": 50,
+            "name": "ヌケニン042/10",
+            "date": "2022-12-05",
+            "stock": 2
         },
         {
             "market": "cardrush",
@@ -175,14 +279,6 @@
             "name": "ヌケニン042/10",
             "date": "2022-12-05",
             "stock": 85
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35588",
-            "price": 50,
-            "name": "ヌケニン042/10",
-            "date": "2022-12-05",
-            "stock": 2
         },
         {
             "market": "torecolo",
@@ -290,8 +386,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/521497036",
-            "price": 450,
+            "link": "/items/2096711286",
+            "price": 133,
+            "name": "ヌケニン s4 04",
+            "date": "2022-12-03",
+            "stock": 3
+        },
+        {
+            "market": "magi",
+            "link": "/items/212001399",
+            "price": 180,
             "name": "ヌケニン U 042",
             "date": "2022-12-03",
             "stock": 1
@@ -306,30 +410,6 @@
         },
         {
             "market": "magi",
-            "link": "/items/69394716",
-            "price": 180,
-            "name": "ヌケニン U 042",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/212001399",
-            "price": 180,
-            "name": "ヌケニン U 042",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2096711286",
-            "price": 133,
-            "name": "ヌケニン s4 04",
-            "date": "2022-12-03",
-            "stock": 3
-        },
-        {
-            "market": "magi",
             "link": "/items/1305909063",
             "price": 1070,
             "name": "ヌケニン(U){超}",
@@ -338,8 +418,24 @@
         },
         {
             "market": "magi",
+            "link": "/items/521497036",
+            "price": 450,
+            "name": "ヌケニン U 042",
+            "date": "2022-12-03",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/1766017747",
             "price": 350,
+            "name": "ヌケニン U 042",
+            "date": "2022-12-03",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/69394716",
+            "price": 180,
             "name": "ヌケニン U 042",
             "date": "2022-12-03",
             "stock": 1
@@ -382,14 +478,6 @@
             "price": 110,
             "name": "【ポケカ】Ｕ◇ヌケニ",
             "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/521497036",
-            "price": 450,
-            "name": "ヌケニン U 042",
-            "date": "2022-12-02",
             "stock": 1
         },
         {
@@ -441,6 +529,14 @@
             "stock": 1
         },
         {
+            "market": "magi",
+            "link": "/items/521497036",
+            "price": 450,
+            "name": "ヌケニン U 042",
+            "date": "2022-12-02",
+            "stock": 1
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/18327",
             "price": 200,
@@ -450,11 +546,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14496",
-            "price": 120,
+            "link": "https://www.cardrush-pokemon.jp/product/30363",
+            "price": 110,
             "name": "ヌケニン042/10",
             "date": "2022-12-02",
-            "stock": 69
+            "stock": 85
         },
         {
             "market": "cardrush",
@@ -466,11 +562,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30363",
-            "price": 110,
+            "link": "https://www.cardrush-pokemon.jp/product/14496",
+            "price": 120,
             "name": "ヌケニン042/10",
             "date": "2022-12-02",
-            "stock": 85
+            "stock": 69
         },
         {
             "market": "torecolo",
@@ -578,14 +674,6 @@
         },
         {
             "market": "magi",
-            "link": "/items/69394716",
-            "price": 180,
-            "name": "ヌケニン U 042",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/521497036",
             "price": 450,
             "name": "ヌケニン U 042",
@@ -602,8 +690,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/212001399",
-            "price": 186,
+            "link": "/items/1766017747",
+            "price": 350,
+            "name": "ヌケニン U 042",
+            "date": "2022-11-30",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/69394716",
+            "price": 180,
             "name": "ヌケニン U 042",
             "date": "2022-11-30",
             "stock": 1
@@ -618,17 +714,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/1511740975",
-            "price": 300,
-            "name": "【Ｄ特価】ツチニン、",
+            "link": "/items/212001399",
+            "price": 186,
+            "name": "ヌケニン U 042",
             "date": "2022-11-30",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1766017747",
-            "price": 350,
-            "name": "ヌケニン U 042",
+            "link": "/items/1511740975",
+            "price": 300,
+            "name": "【Ｄ特価】ツチニン、",
             "date": "2022-11-30",
             "stock": 1
         },
@@ -670,102 +766,6 @@
             "price": 110,
             "name": "【ポケカ】Ｕ◇ヌケニ",
             "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/212001399",
-            "price": 186,
-            "name": "ヌケニン U 042",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/521497036",
-            "price": 450,
-            "name": "ヌケニン U 042",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/69394716",
-            "price": 180,
-            "name": "ヌケニン U 042",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1766017747",
-            "price": 350,
-            "name": "ヌケニン U 042",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2096711286",
-            "price": 133,
-            "name": "ヌケニン s4 04",
-            "date": "2022-11-29",
-            "stock": 3
-        },
-        {
-            "market": "magi",
-            "link": "/items/1511740975",
-            "price": 300,
-            "name": "【Ｄ特価】ツチニン、",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1305909063",
-            "price": 1070,
-            "name": "ヌケニン(U){超}",
-            "date": "2022-11-29",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18327",
-            "price": 300,
-            "name": "ヌケニン(U){超}",
-            "date": "2022-11-29",
-            "stock": 100
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30363",
-            "price": 110,
-            "name": "ヌケニン042/10",
-            "date": "2022-11-29",
-            "stock": 85
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14496",
-            "price": 120,
-            "name": "ヌケニン042/10",
-            "date": "2022-11-29",
-            "stock": 69
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/35588",
-            "price": 50,
-            "name": "ヌケニン042/10",
-            "date": "2022-11-29",
-            "stock": 2
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g042-100-S4-B/",
-            "price": 110,
-            "name": "【ポケカ】Ｕ◇ヌケニ",
-            "date": "2022-11-29",
             "stock": 1
         }
     ]
