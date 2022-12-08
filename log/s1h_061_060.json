@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/17563",
             "price": 700,
             "name": "コータスV(SR){",
+            "date": "2022-12-08",
+            "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/29768",
+            "price": 580,
+            "name": "コータスV061/0",
+            "date": "2022-12-08",
+            "stock": 19
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/7033",
+            "price": 680,
+            "name": "コータスV061/0",
+            "date": "2022-12-08",
+            "stock": 34
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17563",
+            "price": 700,
+            "name": "コータスV(SR){",
             "date": "2022-12-07",
             "stock": 3
         },
@@ -82,19 +106,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7033",
-            "price": 680,
-            "name": "コータスV061/0",
-            "date": "2022-12-04",
-            "stock": 34
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/29768",
             "price": 580,
             "name": "コータスV061/0",
             "date": "2022-12-04",
             "stock": 19
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/7033",
+            "price": 680,
+            "name": "コータスV061/0",
+            "date": "2022-12-04",
+            "stock": 34
         },
         {
             "market": "hareruya2",
@@ -106,19 +130,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7033",
-            "price": 680,
-            "name": "コータスV061/0",
-            "date": "2022-12-03",
-            "stock": 34
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/29768",
             "price": 580,
             "name": "コータスV061/0",
             "date": "2022-12-03",
             "stock": 19
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/7033",
+            "price": 680,
+            "name": "コータスV061/0",
+            "date": "2022-12-03",
+            "stock": 34
         },
         {
             "market": "hareruya2",
@@ -127,6 +151,14 @@
             "name": "コータスV(SR){",
             "date": "2022-12-02",
             "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/29768",
+            "price": 580,
+            "name": "コータスV061/0",
+            "date": "2022-12-02",
+            "stock": 19
         },
         {
             "market": "cardrush",
@@ -137,28 +169,12 @@
             "stock": 33
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/29768",
-            "price": 580,
-            "name": "コータスV061/0",
-            "date": "2022-12-02",
-            "stock": 19
-        },
-        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/17563",
             "price": 700,
             "name": "コータスV(SR){",
             "date": "2022-12-01",
             "stock": 3
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7033",
-            "price": 680,
-            "name": "コータスV061/0",
-            "date": "2022-12-01",
-            "stock": 33
         },
         {
             "market": "cardrush",
@@ -169,35 +185,11 @@
             "stock": 19
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/17563",
-            "price": 700,
-            "name": "コータスV(SR){",
-            "date": "2022-11-30",
-            "stock": 3
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7966",
-            "price": 380,
-            "name": "コータスV061/0",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/29768",
-            "price": 580,
-            "name": "コータスV061/0",
-            "date": "2022-11-30",
-            "stock": 18
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/7033",
             "price": 680,
             "name": "コータスV061/0",
-            "date": "2022-11-30",
+            "date": "2022-12-01",
             "stock": 33
         }
     ]

@@ -5,8 +5,40 @@
             "link": "/items/1902805782",
             "price": 776,
             "name": "ともだちてちょう T",
-            "date": "2022-12-07",
+            "date": "2022-12-08",
             "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1254539073",
+            "price": 5334,
+            "name": "〔状態A-〕ともだち",
+            "date": "2022-12-08",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/29637",
+            "price": 930,
+            "name": "ともだちてちょう01",
+            "date": "2022-12-08",
+            "stock": 15
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/29521",
+            "price": 5080,
+            "name": "ともだちてちょう01",
+            "date": "2022-12-08",
+            "stock": 6
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/6795",
+            "price": 980,
+            "name": "ともだちてちょう01",
+            "date": "2022-12-08",
+            "stock": 9
         },
         {
             "market": "magi",
@@ -15,6 +47,22 @@
             "name": "〔状態A-〕ともだち",
             "date": "2022-12-07",
             "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1902805782",
+            "price": 776,
+            "name": "ともだちてちょう T",
+            "date": "2022-12-07",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/29637",
+            "price": 930,
+            "name": "ともだちてちょう01",
+            "date": "2022-12-07",
+            "stock": 15
         },
         {
             "market": "cardrush",
@@ -31,14 +79,6 @@
             "name": "ともだちてちょう01",
             "date": "2022-12-07",
             "stock": 9
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/29637",
-            "price": 930,
-            "name": "ともだちてちょう01",
-            "date": "2022-12-07",
-            "stock": 15
         },
         {
             "market": "magi",
@@ -202,17 +242,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/1902805782",
-            "price": 801,
-            "name": "ともだちてちょう T",
+            "link": "/items/1254539073",
+            "price": 5334,
+            "name": "〔状態A-〕ともだち",
             "date": "2022-12-02",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1254539073",
-            "price": 5334,
-            "name": "〔状態A-〕ともだち",
+            "link": "/items/1902805782",
+            "price": 801,
+            "name": "ともだちてちょう T",
             "date": "2022-12-02",
             "stock": 1
         },
@@ -258,14 +298,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/29521",
-            "price": 5080,
-            "name": "ともだちてちょう01",
-            "date": "2022-12-01",
-            "stock": 6
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/6795",
             "price": 980,
             "name": "ともだちてちょう01",
@@ -274,42 +306,10 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/29637",
-            "price": 930,
-            "name": "ともだちてちょう01",
-            "date": "2022-12-01",
-            "stock": 15
-        },
-        {
-            "market": "magi",
-            "link": "/items/1254539073",
-            "price": 5334,
-            "name": "〔状態A-〕ともだち",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1902805782",
-            "price": 819,
-            "name": "ともだちてちょう T",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/6795",
-            "price": 980,
-            "name": "ともだちてちょう01",
-            "date": "2022-11-30",
-            "stock": 11
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/29521",
             "price": 5080,
             "name": "ともだちてちょう01",
-            "date": "2022-11-30",
+            "date": "2022-12-01",
             "stock": 6
         },
         {
@@ -317,7 +317,7 @@
             "link": "https://www.cardrush-pokemon.jp/product/29637",
             "price": 930,
             "name": "ともだちてちょう01",
-            "date": "2022-11-30",
+            "date": "2022-12-01",
             "stock": 15
         }
     ]

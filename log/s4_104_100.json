@@ -2,10 +2,26 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/269462769",
+            "price": 3444,
+            "name": "〔状態A-〕ピカチュ",
+            "date": "2022-12-08",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/385661213",
+            "price": 12800,
+            "name": "PSA10 ピカチュ",
+            "date": "2022-12-08",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/1415186068",
             "price": 12800,
             "name": "PSA10 ピカチュ",
-            "date": "2022-12-07",
+            "date": "2022-12-08",
             "stock": 1
         },
         {
@@ -13,6 +29,70 @@
             "link": "/items/2060015646",
             "price": 3300,
             "name": "ピカチュウV SR ",
+            "date": "2022-12-08",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/377227468",
+            "price": 4179,
+            "name": "ピカチュウV【SR】",
+            "date": "2022-12-08",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1865353976",
+            "price": 12800,
+            "name": "PSA10 ピカチュ",
+            "date": "2022-12-08",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1481112134",
+            "price": 12800,
+            "name": "PSA10 ピカチュ",
+            "date": "2022-12-08",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18389",
+            "price": 4000,
+            "name": "ピカチュウV(SR)",
+            "date": "2022-12-08",
+            "stock": 8
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14592",
+            "price": 3980,
+            "name": "ピカチュウV104/",
+            "date": "2022-12-08",
+            "stock": 39
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30418",
+            "price": 3280,
+            "name": "ピカチュウV104/",
+            "date": "2022-12-08",
+            "stock": 7
+        },
+        {
+            "market": "magi",
+            "link": "/items/2060015646",
+            "price": 3300,
+            "name": "ピカチュウV SR ",
+            "date": "2022-12-07",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1865353976",
+            "price": 12800,
+            "name": "PSA10 ピカチュ",
             "date": "2022-12-07",
             "stock": 1
         },
@@ -26,15 +106,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/269462769",
-            "price": 3444,
-            "name": "〔状態A-〕ピカチュ",
-            "date": "2022-12-07",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/385661213",
+            "link": "/items/1415186068",
             "price": 12800,
             "name": "PSA10 ピカチュ",
             "date": "2022-12-07",
@@ -50,9 +122,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/1865353976",
+            "link": "/items/385661213",
             "price": 12800,
             "name": "PSA10 ピカチュ",
+            "date": "2022-12-07",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/269462769",
+            "price": 3444,
+            "name": "〔状態A-〕ピカチュ",
             "date": "2022-12-07",
             "stock": 1
         },
@@ -82,39 +162,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/2060015646",
-            "price": 3300,
-            "name": "ピカチュウV SR ",
-            "date": "2022-12-06",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/377227468",
-            "price": 4179,
-            "name": "ピカチュウV【SR】",
-            "date": "2022-12-06",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/1415186068",
-            "price": 12800,
-            "name": "PSA10 ピカチュ",
-            "date": "2022-12-06",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/385661213",
-            "price": 12800,
-            "name": "PSA10 ピカチュ",
-            "date": "2022-12-06",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1865353976",
             "price": 12800,
             "name": "PSA10 ピカチュ",
             "date": "2022-12-06",
@@ -130,9 +178,41 @@
         },
         {
             "market": "magi",
+            "link": "/items/385661213",
+            "price": 12800,
+            "name": "PSA10 ピカチュ",
+            "date": "2022-12-06",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/269462769",
             "price": 3444,
             "name": "〔状態A-〕ピカチュ",
+            "date": "2022-12-06",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/377227468",
+            "price": 4179,
+            "name": "ピカチュウV【SR】",
+            "date": "2022-12-06",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2060015646",
+            "price": 3300,
+            "name": "ピカチュウV SR ",
+            "date": "2022-12-06",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1865353976",
+            "price": 12800,
+            "name": "PSA10 ピカチュ",
             "date": "2022-12-06",
             "stock": 1
         },
@@ -143,6 +223,14 @@
             "name": "ピカチュウV(SR)",
             "date": "2022-12-06",
             "stock": 8
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30418",
+            "price": 3280,
+            "name": "ピカチュウV104/",
+            "date": "2022-12-06",
+            "stock": 6
         },
         {
             "market": "cardrush",
@@ -153,32 +241,8 @@
             "stock": 41
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30418",
-            "price": 3280,
-            "name": "ピカチュウV104/",
-            "date": "2022-12-06",
-            "stock": 6
-        },
-        {
             "market": "magi",
-            "link": "/items/2060015646",
-            "price": 3300,
-            "name": "ピカチュウV SR ",
-            "date": "2022-12-05",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1481112134",
-            "price": 12800,
-            "name": "PSA10 ピカチュ",
-            "date": "2022-12-05",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1415186068",
+            "link": "/items/385661213",
             "price": 12800,
             "name": "PSA10 ピカチュ",
             "date": "2022-12-05",
@@ -194,7 +258,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/385661213",
+            "link": "/items/1415186068",
             "price": 12800,
             "name": "PSA10 ピカチュ",
             "date": "2022-12-05",
@@ -210,7 +274,23 @@
         },
         {
             "market": "magi",
+            "link": "/items/2060015646",
+            "price": 3300,
+            "name": "ピカチュウV SR ",
+            "date": "2022-12-05",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/1865353976",
+            "price": 12800,
+            "name": "PSA10 ピカチュ",
+            "date": "2022-12-05",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1481112134",
             "price": 12800,
             "name": "PSA10 ピカチュ",
             "date": "2022-12-05",
@@ -242,6 +322,14 @@
         },
         {
             "market": "magi",
+            "link": "/items/1865353976",
+            "price": 12800,
+            "name": "PSA10 ピカチュ",
+            "date": "2022-12-04",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/1415186068",
             "price": 12800,
             "name": "PSA10 ピカチュ",
@@ -250,9 +338,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/269462769",
-            "price": 3444,
-            "name": "〔状態A-〕ピカチュ",
+            "link": "/items/2060015646",
+            "price": 3300,
+            "name": "ピカチュウV SR ",
             "date": "2022-12-04",
             "stock": 1
         },
@@ -274,25 +362,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/2060015646",
-            "price": 3300,
-            "name": "ピカチュウV SR ",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1865353976",
-            "price": 12800,
-            "name": "PSA10 ピカチュ",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/385661213",
             "price": 12800,
             "name": "PSA10 ピカチュ",
+            "date": "2022-12-04",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/269462769",
+            "price": 3444,
+            "name": "〔状態A-〕ピカチュ",
             "date": "2022-12-04",
             "stock": 1
         },
@@ -306,14 +386,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14592",
-            "price": 3980,
-            "name": "ピカチュウV104/",
-            "date": "2022-12-04",
-            "stock": 40
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30418",
             "price": 3280,
             "name": "ピカチュウV104/",
@@ -321,52 +393,12 @@
             "stock": 6
         },
         {
-            "market": "magi",
-            "link": "/items/385661213",
-            "price": 12800,
-            "name": "PSA10 ピカチュ",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2060015646",
-            "price": 3300,
-            "name": "ピカチュウV SR ",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1415186068",
-            "price": 12800,
-            "name": "PSA10 ピカチュ",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1481112134",
-            "price": 12800,
-            "name": "PSA10 ピカチュ",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1865353976",
-            "price": 12800,
-            "name": "PSA10 ピカチュ",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/269462769",
-            "price": 3444,
-            "name": "〔状態A-〕ピカチュ",
-            "date": "2022-12-03",
-            "stock": 1
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14592",
+            "price": 3980,
+            "name": "ピカチュウV104/",
+            "date": "2022-12-04",
+            "stock": 40
         },
         {
             "market": "magi",
@@ -377,6 +409,54 @@
             "stock": 1
         },
         {
+            "market": "magi",
+            "link": "/items/269462769",
+            "price": 3444,
+            "name": "〔状態A-〕ピカチュ",
+            "date": "2022-12-03",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1865353976",
+            "price": 12800,
+            "name": "PSA10 ピカチュ",
+            "date": "2022-12-03",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1415186068",
+            "price": 12800,
+            "name": "PSA10 ピカチュ",
+            "date": "2022-12-03",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2060015646",
+            "price": 3300,
+            "name": "ピカチュウV SR ",
+            "date": "2022-12-03",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/385661213",
+            "price": 12800,
+            "name": "PSA10 ピカチュ",
+            "date": "2022-12-03",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1481112134",
+            "price": 12800,
+            "name": "PSA10 ピカチュ",
+            "date": "2022-12-03",
+            "stock": 1
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/18389",
             "price": 4000,
@@ -402,6 +482,14 @@
         },
         {
             "market": "magi",
+            "link": "/items/1415186068",
+            "price": 12800,
+            "name": "PSA10 ピカチュ",
+            "date": "2022-12-02",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/1865353976",
             "price": 12800,
             "name": "PSA10 ピカチュ",
@@ -419,14 +507,6 @@
         {
             "market": "magi",
             "link": "/items/1481112134",
-            "price": 12800,
-            "name": "PSA10 ピカチュ",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1415186068",
             "price": 12800,
             "name": "PSA10 ピカチュ",
             "date": "2022-12-02",
@@ -482,9 +562,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/269462769",
-            "price": 3444,
-            "name": "〔状態A-〕ピカチュ",
+            "link": "/items/1415186068",
+            "price": 12800,
+            "name": "PSA10 ピカチュ",
             "date": "2022-12-01",
             "stock": 1
         },
@@ -514,9 +594,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/1415186068",
-            "price": 12800,
-            "name": "PSA10 ピカチュ",
+            "link": "/items/269462769",
+            "price": 3444,
+            "name": "〔状態A-〕ピカチュ",
             "date": "2022-12-01",
             "stock": 1
         },
@@ -559,86 +639,6 @@
             "name": "ピカチュウV104/",
             "date": "2022-12-01",
             "stock": 5
-        },
-        {
-            "market": "magi",
-            "link": "/items/1415186068",
-            "price": 12800,
-            "name": "PSA10 ピカチュ",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1481112134",
-            "price": 12800,
-            "name": "PSA10 ピカチュ",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/377227468",
-            "price": 4179,
-            "name": "ピカチュウV【SR】",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1865353976",
-            "price": 12800,
-            "name": "PSA10 ピカチュ",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2060015646",
-            "price": 3300,
-            "name": "ピカチュウV SR ",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/385661213",
-            "price": 12800,
-            "name": "PSA10 ピカチュ",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/269462769",
-            "price": 3444,
-            "name": "〔状態A-〕ピカチュ",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18389",
-            "price": 4000,
-            "name": "ピカチュウV(SR)",
-            "date": "2022-11-30",
-            "stock": 8
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30418",
-            "price": 3280,
-            "name": "ピカチュウV104/",
-            "date": "2022-11-30",
-            "stock": 5
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14592",
-            "price": 3980,
-            "name": "ピカチュウV104/",
-            "date": "2022-11-30",
-            "stock": 40
         }
     ]
 }

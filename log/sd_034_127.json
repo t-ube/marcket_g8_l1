@@ -1,6 +1,22 @@
 ﻿{
     "items": [
         {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18184",
+            "price": 50,
+            "name": "エレザード(D){雷",
+            "date": "2022-12-08",
+            "stock": 12
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g034-127-SD-B/",
+            "price": 33,
+            "name": "【ポケカ】ＳＳ◇エレ",
+            "date": "2022-12-08",
+            "stock": 21
+        },
+        {
             "market": "magi",
             "link": "/items/1546854400",
             "price": 25,
@@ -50,15 +66,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/742307690",
-            "price": 25,
-            "name": "PC エレザード(0",
-            "date": "2022-12-06",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/1546854400",
+            "link": "/items/2124676363",
             "price": 25,
             "name": "PC エレザード(0",
             "date": "2022-12-06",
@@ -74,7 +82,15 @@
         },
         {
             "market": "magi",
-            "link": "/items/2124676363",
+            "link": "/items/1546854400",
+            "price": 25,
+            "name": "PC エレザード(0",
+            "date": "2022-12-06",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/742307690",
             "price": 25,
             "name": "PC エレザード(0",
             "date": "2022-12-06",
@@ -98,7 +114,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/1546854400",
+            "link": "/items/742307690",
             "price": 25,
             "name": "PC エレザード(0",
             "date": "2022-12-05",
@@ -122,7 +138,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/742307690",
+            "link": "/items/1546854400",
             "price": 25,
             "name": "PC エレザード(0",
             "date": "2022-12-05",
@@ -146,7 +162,15 @@
         },
         {
             "market": "magi",
-            "link": "/items/742307690",
+            "link": "/items/1546854400",
+            "price": 25,
+            "name": "PC エレザード(0",
+            "date": "2022-12-04",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/2124676363",
             "price": 25,
             "name": "PC エレザード(0",
             "date": "2022-12-04",
@@ -162,15 +186,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/2124676363",
-            "price": 25,
-            "name": "PC エレザード(0",
-            "date": "2022-12-04",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/1546854400",
+            "link": "/items/742307690",
             "price": 25,
             "name": "PC エレザード(0",
             "date": "2022-12-04",
@@ -194,7 +210,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/2124676363",
+            "link": "/items/1546854400",
             "price": 25,
             "name": "PC エレザード(0",
             "date": "2022-12-03",
@@ -210,7 +226,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/1546854400",
+            "link": "/items/2124676363",
             "price": 25,
             "name": "PC エレザード(0",
             "date": "2022-12-03",
@@ -290,7 +306,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/1546854400",
+            "link": "/items/1704802916",
             "price": 25,
             "name": "PC エレザード(0",
             "date": "2022-12-01",
@@ -306,7 +322,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/1704802916",
+            "link": "/items/1546854400",
             "price": 25,
             "name": "PC エレザード(0",
             "date": "2022-12-01",
@@ -334,54 +350,6 @@
             "price": 33,
             "name": "【ポケカ】ＳＳ◇エレ",
             "date": "2022-12-01",
-            "stock": 21
-        },
-        {
-            "market": "magi",
-            "link": "/items/1704802916",
-            "price": 25,
-            "name": "PC エレザード(0",
-            "date": "2022-11-30",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/742307690",
-            "price": 25,
-            "name": "PC エレザード(0",
-            "date": "2022-11-30",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/2124676363",
-            "price": 25,
-            "name": "PC エレザード(0",
-            "date": "2022-11-30",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/1546854400",
-            "price": 25,
-            "name": "PC エレザード(0",
-            "date": "2022-11-30",
-            "stock": 4
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18184",
-            "price": 50,
-            "name": "エレザード(D){雷",
-            "date": "2022-11-30",
-            "stock": 12
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g034-127-SD-B/",
-            "price": 33,
-            "name": "【ポケカ】ＳＳ◇エレ",
-            "date": "2022-11-30",
             "stock": 21
         }
     ]

@@ -1,6 +1,30 @@
 ﻿{
     "items": [
         {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18271",
+            "price": 700,
+            "name": "セキタンザンV(SR",
+            "date": "2022-12-08",
+            "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30252",
+            "price": 580,
+            "name": "セキタンザンV080",
+            "date": "2022-12-08",
+            "stock": 10
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14141",
+            "price": 680,
+            "name": "セキタンザンV080",
+            "date": "2022-12-08",
+            "stock": 27
+        },
+        {
             "market": "magi",
             "link": "/items/1543034371",
             "price": 420,
@@ -50,14 +74,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30252",
-            "price": 580,
-            "name": "セキタンザンV080",
-            "date": "2022-12-06",
-            "stock": 10
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/14141",
             "price": 680,
             "name": "セキタンザンV080",
@@ -65,6 +81,14 @@
             "stock": 25
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30252",
+            "price": 580,
+            "name": "セキタンザンV080",
+            "date": "2022-12-06",
+            "stock": 10
+        },
+        {
             "market": "magi",
             "link": "/items/1543034371",
             "price": 430,
@@ -82,19 +106,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14141",
-            "price": 680,
-            "name": "セキタンザンV080",
-            "date": "2022-12-05",
-            "stock": 25
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30252",
             "price": 580,
             "name": "セキタンザンV080",
             "date": "2022-12-05",
             "stock": 10
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14141",
+            "price": 680,
+            "name": "セキタンザンV080",
+            "date": "2022-12-05",
+            "stock": 25
         },
         {
             "market": "magi",
@@ -146,19 +170,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30252",
-            "price": 580,
-            "name": "セキタンザンV080",
-            "date": "2022-12-03",
-            "stock": 10
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/14141",
             "price": 680,
             "name": "セキタンザンV080",
             "date": "2022-12-03",
             "stock": 25
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30252",
+            "price": 580,
+            "name": "セキタンザンV080",
+            "date": "2022-12-03",
+            "stock": 10
         },
         {
             "market": "magi",
@@ -175,6 +199,14 @@
             "name": "セキタンザンV(SR",
             "date": "2022-12-02",
             "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30252",
+            "price": 580,
+            "name": "セキタンザンV080",
+            "date": "2022-12-02",
+            "stock": 10
         },
         {
             "market": "cardrush",
@@ -183,14 +215,6 @@
             "name": "セキタンザンV080",
             "date": "2022-12-02",
             "stock": 24
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30252",
-            "price": 580,
-            "name": "セキタンザンV080",
-            "date": "2022-12-02",
-            "stock": 10
         },
         {
             "market": "magi",
@@ -210,14 +234,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14141",
-            "price": 680,
-            "name": "セキタンザンV080",
-            "date": "2022-12-01",
-            "stock": 24
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30252",
             "price": 580,
             "name": "セキタンザンV080",
@@ -225,35 +241,11 @@
             "stock": 10
         },
         {
-            "market": "magi",
-            "link": "/items/1543034371",
-            "price": 450,
-            "name": "セキタンザンV SR",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18271",
-            "price": 700,
-            "name": "セキタンザンV(SR",
-            "date": "2022-11-30",
-            "stock": 4
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30252",
-            "price": 580,
-            "name": "セキタンザンV080",
-            "date": "2022-11-30",
-            "stock": 8
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/14141",
             "price": 680,
             "name": "セキタンザンV080",
-            "date": "2022-11-30",
+            "date": "2022-12-01",
             "stock": 24
         }
     ]

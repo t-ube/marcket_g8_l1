@@ -1,6 +1,22 @@
 ﻿{
     "items": [
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/7016",
+            "price": 180,
+            "name": "トリプル加速エネルギ",
+            "date": "2022-12-08",
+            "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/29751",
+            "price": 170,
+            "name": "トリプル加速エネルギ",
+            "date": "2022-12-08",
+            "stock": 4
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/17610",
             "price": 200,

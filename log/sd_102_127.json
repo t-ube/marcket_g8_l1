@@ -5,6 +5,22 @@
             "link": "https://www.hareruya2.com/product/18127",
             "price": 500,
             "name": "大きなおまもり(D)",
+            "date": "2022-12-08",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14257",
+            "price": 420,
+            "name": "大きなおまもり102",
+            "date": "2022-12-08",
+            "stock": 35
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18127",
+            "price": 500,
+            "name": "大きなおまもり(D)",
             "date": "2022-12-07",
             "stock": 1
         },
@@ -42,19 +58,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30299",
-            "price": 390,
-            "name": "大きなおまもり102",
-            "date": "2022-12-05",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/14257",
             "price": 420,
             "name": "大きなおまもり102",
             "date": "2022-12-05",
             "stock": 41
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30299",
+            "price": 390,
+            "name": "大きなおまもり102",
+            "date": "2022-12-05",
+            "stock": 1
         },
         {
             "market": "hareruya2",
@@ -66,19 +82,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14257",
-            "price": 420,
-            "name": "大きなおまもり102",
-            "date": "2022-12-04",
-            "stock": 41
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30299",
             "price": 390,
             "name": "大きなおまもり102",
             "date": "2022-12-04",
             "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14257",
+            "price": 420,
+            "name": "大きなおまもり102",
+            "date": "2022-12-04",
+            "stock": 41
         },
         {
             "market": "hareruya2",
@@ -87,6 +103,14 @@
             "name": "大きなおまもり(D)",
             "date": "2022-12-03",
             "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30299",
+            "price": 390,
+            "name": "大きなおまもり102",
+            "date": "2022-12-03",
+            "stock": 1
         },
         {
             "market": "cardrush",
@@ -97,14 +121,6 @@
             "stock": 43
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30299",
-            "price": 390,
-            "name": "大きなおまもり102",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/18127",
             "price": 500,
@@ -126,14 +142,6 @@
             "price": 390,
             "name": "大きなおまもり102",
             "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30299",
-            "price": 390,
-            "name": "大きなおまもり102",
-            "date": "2022-12-01",
             "stock": 1
         },
         {
@@ -149,16 +157,8 @@
             "link": "https://www.cardrush-pokemon.jp/product/30299",
             "price": 390,
             "name": "大きなおまもり102",
-            "date": "2022-11-30",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14257",
-            "price": 420,
-            "name": "大きなおまもり102",
-            "date": "2022-11-30",
-            "stock": 43
+            "date": "2022-12-01",
+            "stock": 1
         }
     ]
 }

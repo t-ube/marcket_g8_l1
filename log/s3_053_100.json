@@ -5,6 +5,14 @@
             "link": "https://www.hareruya2.com/product/17998",
             "price": 150,
             "name": "クロバットV(RR)",
+            "date": "2022-12-08",
+            "stock": 20
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17998",
+            "price": 150,
+            "name": "クロバットV(RR)",
             "date": "2022-12-07",
             "stock": 20
         },
@@ -87,22 +95,6 @@
             "name": "クロバットV053/",
             "date": "2022-12-01",
             "stock": 5
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/17998",
-            "price": 150,
-            "name": "クロバットV(RR)",
-            "date": "2022-11-30",
-            "stock": 18
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/13292",
-            "price": 120,
-            "name": "クロバットV053/",
-            "date": "2022-11-30",
-            "stock": 4
         }
     ]
 }

@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/18054",
             "price": 2500,
             "name": "ネズ(SR){サポー",
+            "date": "2022-12-08",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30171",
+            "price": 2080,
+            "name": "ネズ109/100",
+            "date": "2022-12-08",
+            "stock": 5
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/13923",
+            "price": 2380,
+            "name": "ネズ109/100",
+            "date": "2022-12-08",
+            "stock": 9
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18054",
+            "price": 2500,
+            "name": "ネズ(SR){サポー",
             "date": "2022-12-07",
             "stock": 2
         },
@@ -106,14 +130,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30171",
-            "price": 2080,
-            "name": "ネズ109/100",
-            "date": "2022-12-03",
-            "stock": 5
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/13923",
             "price": 2380,
             "name": "ネズ109/100",
@@ -121,6 +137,14 @@
             "stock": 7
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30171",
+            "price": 2080,
+            "name": "ネズ109/100",
+            "date": "2022-12-03",
+            "stock": 5
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/18054",
             "price": 2500,
@@ -154,14 +178,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/13923",
-            "price": 2380,
-            "name": "ネズ109/100",
-            "date": "2022-12-01",
-            "stock": 7
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30171",
             "price": 2080,
             "name": "ネズ109/100",
@@ -169,27 +185,11 @@
             "stock": 5
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18054",
-            "price": 2500,
-            "name": "ネズ(SR){サポー",
-            "date": "2022-11-30",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30171",
-            "price": 2080,
-            "name": "ネズ109/100",
-            "date": "2022-11-30",
-            "stock": 5
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/13923",
             "price": 2380,
             "name": "ネズ109/100",
-            "date": "2022-11-30",
+            "date": "2022-12-01",
             "stock": 7
         }
     ]

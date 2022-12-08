@@ -5,6 +5,14 @@
             "link": "https://www.cardrush-pokemon.jp/product/7829",
             "price": 420,
             "name": "クイックボール009",
+            "date": "2022-12-08",
+            "stock": 10
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/7829",
+            "price": 420,
+            "name": "クイックボール009",
             "date": "2022-12-07",
             "stock": 10
         },
@@ -26,14 +34,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7829",
-            "price": 420,
-            "name": "クイックボール009",
-            "date": "2022-12-04",
-            "stock": 12
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30031",
             "price": 390,
             "name": "クイックボール009",
@@ -45,7 +45,7 @@
             "link": "https://www.cardrush-pokemon.jp/product/7829",
             "price": 420,
             "name": "クイックボール009",
-            "date": "2022-12-03",
+            "date": "2022-12-04",
             "stock": 12
         },
         {
@@ -58,11 +58,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30031",
-            "price": 390,
+            "link": "https://www.cardrush-pokemon.jp/product/7829",
+            "price": 420,
             "name": "クイックボール009",
-            "date": "2022-12-02",
-            "stock": 1
+            "date": "2022-12-03",
+            "stock": 12
         },
         {
             "market": "cardrush",
@@ -74,11 +74,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7829",
-            "price": 420,
+            "link": "https://www.cardrush-pokemon.jp/product/30031",
+            "price": 390,
             "name": "クイックボール009",
-            "date": "2022-12-01",
-            "stock": 12
+            "date": "2022-12-02",
+            "stock": 1
         },
         {
             "market": "cardrush",
@@ -90,18 +90,10 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30031",
-            "price": 390,
-            "name": "クイックボール009",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/7829",
             "price": 420,
             "name": "クイックボール009",
-            "date": "2022-11-30",
+            "date": "2022-12-01",
             "stock": 12
         }
     ]

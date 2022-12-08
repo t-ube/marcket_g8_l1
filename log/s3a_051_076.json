@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/18242",
             "price": 50,
             "name": "ルカリオ(U){鋼}",
+            "date": "2022-12-08",
+            "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14086",
+            "price": 50,
+            "name": "ルカリオ051/07",
+            "date": "2022-12-08",
+            "stock": 138
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g051-076-S3A-B/",
+            "price": 33,
+            "name": "【ポケカ】Ｕ◇ルカリ",
+            "date": "2022-12-08",
+            "stock": 19
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18242",
+            "price": 50,
+            "name": "ルカリオ(U){鋼}",
             "date": "2022-12-07",
             "stock": 3
         },
@@ -166,30 +190,6 @@
             "price": 33,
             "name": "【ポケカ】Ｕ◇ルカリ",
             "date": "2022-12-01",
-            "stock": 19
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18242",
-            "price": 50,
-            "name": "ルカリオ(U){鋼}",
-            "date": "2022-11-30",
-            "stock": 4
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14086",
-            "price": 50,
-            "name": "ルカリオ051/07",
-            "date": "2022-11-30",
-            "stock": 138
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g051-076-S3A-B/",
-            "price": 33,
-            "name": "【ポケカ】Ｕ◇ルカリ",
-            "date": "2022-11-30",
             "stock": 19
         }
     ]

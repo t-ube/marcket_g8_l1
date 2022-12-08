@@ -3,6 +3,38 @@
         {
             "market": "magi",
             "link": "/items/1430485739",
+            "price": 1399,
+            "name": "妖しいカンヅメ UR",
+            "date": "2022-12-08",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17944",
+            "price": 1800,
+            "name": "妖しいカンヅメ(UR",
+            "date": "2022-12-08",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/13186",
+            "price": 1780,
+            "name": "妖しいカンヅメ085",
+            "date": "2022-12-08",
+            "stock": 8
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30098",
+            "price": 1530,
+            "name": "妖しいカンヅメ085",
+            "date": "2022-12-08",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1430485739",
             "price": 1410,
             "name": "妖しいカンヅメ UR",
             "date": "2022-12-07",
@@ -114,14 +146,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/13186",
-            "price": 1780,
-            "name": "妖しいカンヅメ085",
-            "date": "2022-12-04",
-            "stock": 8
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30098",
             "price": 1530,
             "name": "妖しいカンヅメ085",
@@ -129,6 +153,14 @@
             "stock": 4
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/13186",
+            "price": 1780,
+            "name": "妖しいカンヅメ085",
+            "date": "2022-12-04",
+            "stock": 8
+        },
+        {
             "market": "magi",
             "link": "/items/1430485739",
             "price": 1410,
@@ -210,42 +242,10 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30098",
-            "price": 1530,
-            "name": "妖しいカンヅメ085",
-            "date": "2022-12-01",
-            "stock": 4
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/13186",
             "price": 1780,
             "name": "妖しいカンヅメ085",
             "date": "2022-12-01",
-            "stock": 8
-        },
-        {
-            "market": "magi",
-            "link": "/items/1430485739",
-            "price": 1410,
-            "name": "妖しいカンヅメ UR",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/17944",
-            "price": 1800,
-            "name": "妖しいカンヅメ(UR",
-            "date": "2022-11-30",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/13186",
-            "price": 1780,
-            "name": "妖しいカンヅメ085",
-            "date": "2022-11-30",
             "stock": 8
         },
         {
@@ -253,8 +253,8 @@
             "link": "https://www.cardrush-pokemon.jp/product/30098",
             "price": 1530,
             "name": "妖しいカンヅメ085",
-            "date": "2022-11-30",
-            "stock": 3
+            "date": "2022-12-01",
+            "stock": 4
         }
     ]
 }

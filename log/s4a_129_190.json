@@ -5,8 +5,56 @@
             "link": "https://www.hareruya2.com/product/18535",
             "price": 50,
             "name": "ヒトツキ(CP){鋼",
-            "date": "2022-12-07",
+            "date": "2022-12-08",
             "stock": 24
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18809",
+            "price": 100,
+            "name": "ヒトツキ:ミラー(C",
+            "date": "2022-12-08",
+            "stock": 36
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17112",
+            "price": 50,
+            "name": "ヒトツキ129/19",
+            "date": "2022-12-08",
+            "stock": 126
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17284",
+            "price": 80,
+            "name": "ヒトツキ129/19",
+            "date": "2022-12-08",
+            "stock": 50
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30605",
+            "price": 40,
+            "name": "ヒトツキ129/19",
+            "date": "2022-12-08",
+            "stock": 1
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g129-190-S4A-B/",
+            "price": 33,
+            "name": "【ポケカ】Ｃ）通常仕",
+            "date": "2022-12-08",
+            "stock": 17
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g129-190-S4A-BM/",
+            "price": 33,
+            "name": "【ポケカ】Ｃ）ミラー",
+            "date": "2022-12-08",
+            "stock": 10
         },
         {
             "market": "hareruya2",
@@ -15,6 +63,14 @@
             "name": "ヒトツキ:ミラー(C",
             "date": "2022-12-07",
             "stock": 36
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18535",
+            "price": 50,
+            "name": "ヒトツキ(CP){鋼",
+            "date": "2022-12-07",
+            "stock": 24
         },
         {
             "market": "cardrush",
@@ -55,14 +111,6 @@
             "name": "【ポケカ】Ｃ）ミラー",
             "date": "2022-12-07",
             "stock": 10
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18809",
-            "price": 100,
-            "name": "ヒトツキ:ミラー(C",
-            "date": "2022-12-06",
-            "stock": 36
         },
         {
             "market": "hareruya2",
@@ -73,12 +121,20 @@
             "stock": 24
         },
         {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18809",
+            "price": 100,
+            "name": "ヒトツキ:ミラー(C",
+            "date": "2022-12-06",
+            "stock": 36
+        },
+        {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17112",
-            "price": 50,
+            "link": "https://www.cardrush-pokemon.jp/product/30605",
+            "price": 40,
             "name": "ヒトツキ129/19",
             "date": "2022-12-06",
-            "stock": 126
+            "stock": 1
         },
         {
             "market": "cardrush",
@@ -90,19 +146,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30605",
-            "price": 40,
+            "link": "https://www.cardrush-pokemon.jp/product/17112",
+            "price": 50,
             "name": "ヒトツキ129/19",
             "date": "2022-12-06",
-            "stock": 1
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g129-190-S4A-B/",
-            "price": 33,
-            "name": "【ポケカ】Ｃ）通常仕",
-            "date": "2022-12-06",
-            "stock": 17
+            "stock": 126
         },
         {
             "market": "torecolo",
@@ -113,12 +161,12 @@
             "stock": 10
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18535",
-            "price": 50,
-            "name": "ヒトツキ(CP){鋼",
-            "date": "2022-12-05",
-            "stock": 24
+            "market": "torecolo",
+            "link": "/shop/g/g129-190-S4A-B/",
+            "price": 33,
+            "name": "【ポケカ】Ｃ）通常仕",
+            "date": "2022-12-06",
+            "stock": 17
         },
         {
             "market": "hareruya2",
@@ -129,12 +177,12 @@
             "stock": 36
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30605",
-            "price": 40,
-            "name": "ヒトツキ129/19",
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18535",
+            "price": 50,
+            "name": "ヒトツキ(CP){鋼",
             "date": "2022-12-05",
-            "stock": 1
+            "stock": 24
         },
         {
             "market": "cardrush",
@@ -153,12 +201,12 @@
             "stock": 126
         },
         {
-            "market": "torecolo",
-            "link": "/shop/g/g129-190-S4A-BM/",
-            "price": 33,
-            "name": "【ポケカ】Ｃ）ミラー",
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30605",
+            "price": 40,
+            "name": "ヒトツキ129/19",
             "date": "2022-12-05",
-            "stock": 10
+            "stock": 1
         },
         {
             "market": "torecolo",
@@ -169,12 +217,12 @@
             "stock": 17
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18809",
-            "price": 100,
-            "name": "ヒトツキ:ミラー(C",
-            "date": "2022-12-04",
-            "stock": 36
+            "market": "torecolo",
+            "link": "/shop/g/g129-190-S4A-BM/",
+            "price": 33,
+            "name": "【ポケカ】Ｃ）ミラー",
+            "date": "2022-12-05",
+            "stock": 10
         },
         {
             "market": "hareruya2",
@@ -185,12 +233,20 @@
             "stock": 24
         },
         {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18809",
+            "price": 100,
+            "name": "ヒトツキ:ミラー(C",
+            "date": "2022-12-04",
+            "stock": 36
+        },
+        {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17284",
-            "price": 80,
+            "link": "https://www.cardrush-pokemon.jp/product/30605",
+            "price": 40,
             "name": "ヒトツキ129/19",
             "date": "2022-12-04",
-            "stock": 50
+            "stock": 1
         },
         {
             "market": "cardrush",
@@ -202,19 +258,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30605",
-            "price": 40,
+            "link": "https://www.cardrush-pokemon.jp/product/17284",
+            "price": 80,
             "name": "ヒトツキ129/19",
             "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g129-190-S4A-B/",
-            "price": 33,
-            "name": "【ポケカ】Ｃ）通常仕",
-            "date": "2022-12-04",
-            "stock": 17
+            "stock": 50
         },
         {
             "market": "torecolo",
@@ -225,12 +273,12 @@
             "stock": 10
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18535",
-            "price": 50,
-            "name": "ヒトツキ(CP){鋼",
-            "date": "2022-12-03",
-            "stock": 24
+            "market": "torecolo",
+            "link": "/shop/g/g129-190-S4A-B/",
+            "price": 33,
+            "name": "【ポケカ】Ｃ）通常仕",
+            "date": "2022-12-04",
+            "stock": 17
         },
         {
             "market": "hareruya2",
@@ -241,12 +289,20 @@
             "stock": 36
         },
         {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18535",
+            "price": 50,
+            "name": "ヒトツキ(CP){鋼",
+            "date": "2022-12-03",
+            "stock": 24
+        },
+        {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30605",
-            "price": 40,
+            "link": "https://www.cardrush-pokemon.jp/product/17112",
+            "price": 50,
             "name": "ヒトツキ129/19",
             "date": "2022-12-03",
-            "stock": 1
+            "stock": 126
         },
         {
             "market": "cardrush",
@@ -258,19 +314,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17112",
-            "price": 50,
+            "link": "https://www.cardrush-pokemon.jp/product/30605",
+            "price": 40,
             "name": "ヒトツキ129/19",
             "date": "2022-12-03",
-            "stock": 126
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g129-190-S4A-BM/",
-            "price": 33,
-            "name": "【ポケカ】Ｃ）ミラー",
-            "date": "2022-12-03",
-            "stock": 10
+            "stock": 1
         },
         {
             "market": "torecolo",
@@ -279,6 +327,14 @@
             "name": "【ポケカ】Ｃ）通常仕",
             "date": "2022-12-03",
             "stock": 17
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g129-190-S4A-BM/",
+            "price": 33,
+            "name": "【ポケカ】Ｃ）ミラー",
+            "date": "2022-12-03",
+            "stock": 10
         },
         {
             "market": "hareruya2",
@@ -338,19 +394,19 @@
         },
         {
             "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18535",
-            "price": 50,
-            "name": "ヒトツキ(CP){鋼",
-            "date": "2022-12-01",
-            "stock": 24
-        },
-        {
-            "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/18809",
             "price": 100,
             "name": "ヒトツキ:ミラー(C",
             "date": "2022-12-01",
             "stock": 36
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18535",
+            "price": 50,
+            "name": "ヒトツキ(CP){鋼",
+            "date": "2022-12-01",
+            "stock": 24
         },
         {
             "market": "cardrush",
@@ -390,54 +446,6 @@
             "price": 33,
             "name": "【ポケカ】Ｃ）ミラー",
             "date": "2022-12-01",
-            "stock": 10
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18809",
-            "price": 100,
-            "name": "ヒトツキ:ミラー(C",
-            "date": "2022-11-30",
-            "stock": 36
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18535",
-            "price": 50,
-            "name": "ヒトツキ(CP){鋼",
-            "date": "2022-11-30",
-            "stock": 24
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17112",
-            "price": 50,
-            "name": "ヒトツキ129/19",
-            "date": "2022-11-30",
-            "stock": 126
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17284",
-            "price": 80,
-            "name": "ヒトツキ129/19",
-            "date": "2022-11-30",
-            "stock": 50
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g129-190-S4A-B/",
-            "price": 33,
-            "name": "【ポケカ】Ｃ）通常仕",
-            "date": "2022-11-30",
-            "stock": 17
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g129-190-S4A-BM/",
-            "price": 33,
-            "name": "【ポケカ】Ｃ）ミラー",
-            "date": "2022-11-30",
             "stock": 10
         }
     ]

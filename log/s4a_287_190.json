@@ -5,7 +5,7 @@
             "link": "/items/1063313534",
             "price": 500,
             "name": "【2枚】ガラルニャー",
-            "date": "2022-12-07",
+            "date": "2022-12-08",
             "stock": 1
         },
         {
@@ -13,6 +13,70 @@
             "link": "/items/629806598",
             "price": 177,
             "name": "ガラルマッギョ S ",
+            "date": "2022-12-08",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/903539026",
+            "price": 110,
+            "name": "ガラルマッギョ S ",
+            "date": "2022-12-08",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18693",
+            "price": 200,
+            "name": "ガラルマッギョ(S)",
+            "date": "2022-12-08",
+            "stock": 46
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17436",
+            "price": 380,
+            "name": "ガラルマッギョ287",
+            "date": "2022-12-08",
+            "stock": 37
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30876",
+            "price": 330,
+            "name": "ガラルマッギョ287",
+            "date": "2022-12-08",
+            "stock": 5
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17596",
+            "price": 180,
+            "name": "ガラルマッギョ287",
+            "date": "2022-12-08",
+            "stock": 2
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g287-190-S4A-B/",
+            "price": 275,
+            "name": "【ポケカ】Ｓ◇ガラル",
+            "date": "2022-12-08",
+            "stock": 6
+        },
+        {
+            "market": "magi",
+            "link": "/items/629806598",
+            "price": 177,
+            "name": "ガラルマッギョ S ",
+            "date": "2022-12-07",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1063313534",
+            "price": 500,
+            "name": "【2枚】ガラルニャー",
             "date": "2022-12-07",
             "stock": 1
         },
@@ -66,8 +130,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/629806598",
-            "price": 177,
+            "link": "/items/903539026",
+            "price": 110,
             "name": "ガラルマッギョ S ",
             "date": "2022-12-06",
             "stock": 1
@@ -82,8 +146,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/903539026",
-            "price": 110,
+            "link": "/items/629806598",
+            "price": 177,
             "name": "ガラルマッギョ S ",
             "date": "2022-12-06",
             "stock": 1
@@ -95,6 +159,22 @@
             "name": "ガラルマッギョ(S)",
             "date": "2022-12-06",
             "stock": 46
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17596",
+            "price": 180,
+            "name": "ガラルマッギョ287",
+            "date": "2022-12-06",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30876",
+            "price": 330,
+            "name": "ガラルマッギョ287",
+            "date": "2022-12-06",
+            "stock": 5
         },
         {
             "market": "cardrush",
@@ -105,22 +185,6 @@
             "stock": 36
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30876",
-            "price": 330,
-            "name": "ガラルマッギョ287",
-            "date": "2022-12-06",
-            "stock": 5
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17596",
-            "price": 180,
-            "name": "ガラルマッギョ287",
-            "date": "2022-12-06",
-            "stock": 2
-        },
-        {
             "market": "torecolo",
             "link": "/shop/g/g287-190-S4A-B/",
             "price": 275,
@@ -130,9 +194,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/629806598",
-            "price": 177,
-            "name": "ガラルマッギョ S ",
+            "link": "/items/1063313534",
+            "price": 500,
+            "name": "【2枚】ガラルニャー",
             "date": "2022-12-05",
             "stock": 1
         },
@@ -146,9 +210,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/1063313534",
-            "price": 500,
-            "name": "【2枚】ガラルニャー",
+            "link": "/items/629806598",
+            "price": 177,
+            "name": "ガラルマッギョ S ",
             "date": "2022-12-05",
             "stock": 1
         },
@@ -162,11 +226,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17596",
-            "price": 180,
+            "link": "https://www.cardrush-pokemon.jp/product/17436",
+            "price": 380,
             "name": "ガラルマッギョ287",
             "date": "2022-12-05",
-            "stock": 2
+            "stock": 30
         },
         {
             "market": "cardrush",
@@ -178,11 +242,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17436",
-            "price": 380,
+            "link": "https://www.cardrush-pokemon.jp/product/17596",
+            "price": 180,
             "name": "ガラルマッギョ287",
             "date": "2022-12-05",
-            "stock": 30
+            "stock": 2
         },
         {
             "market": "torecolo",
@@ -202,16 +266,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/903539026",
-            "price": 110,
+            "link": "/items/629806598",
+            "price": 177,
             "name": "ガラルマッギョ S ",
             "date": "2022-12-04",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/629806598",
-            "price": 177,
+            "link": "/items/903539026",
+            "price": 110,
             "name": "ガラルマッギョ S ",
             "date": "2022-12-04",
             "stock": 1
@@ -226,11 +290,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17436",
-            "price": 380,
+            "link": "https://www.cardrush-pokemon.jp/product/30876",
+            "price": 330,
             "name": "ガラルマッギョ287",
             "date": "2022-12-04",
-            "stock": 30
+            "stock": 5
         },
         {
             "market": "cardrush",
@@ -242,11 +306,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30876",
-            "price": 330,
+            "link": "https://www.cardrush-pokemon.jp/product/17436",
+            "price": 380,
             "name": "ガラルマッギョ287",
             "date": "2022-12-04",
-            "stock": 5
+            "stock": 30
         },
         {
             "market": "torecolo",
@@ -254,6 +318,22 @@
             "price": 275,
             "name": "【ポケカ】Ｓ◇ガラル",
             "date": "2022-12-04",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/629806598",
+            "price": 177,
+            "name": "ガラルマッギョ S ",
+            "date": "2022-12-03",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/903539026",
+            "price": 110,
+            "name": "ガラルマッギョ S ",
+            "date": "2022-12-03",
             "stock": 1
         },
         {
@@ -265,22 +345,6 @@
             "stock": 1
         },
         {
-            "market": "magi",
-            "link": "/items/903539026",
-            "price": 110,
-            "name": "ガラルマッギョ S ",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/629806598",
-            "price": 177,
-            "name": "ガラルマッギョ S ",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/18693",
             "price": 200,
@@ -290,11 +354,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30876",
-            "price": 330,
+            "link": "https://www.cardrush-pokemon.jp/product/17436",
+            "price": 380,
             "name": "ガラルマッギョ287",
             "date": "2022-12-03",
-            "stock": 5
+            "stock": 30
         },
         {
             "market": "cardrush",
@@ -306,11 +370,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17436",
-            "price": 380,
+            "link": "https://www.cardrush-pokemon.jp/product/30876",
+            "price": 330,
             "name": "ガラルマッギョ287",
             "date": "2022-12-03",
-            "stock": 30
+            "stock": 5
         },
         {
             "market": "torecolo",
@@ -386,17 +450,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/629806598",
-            "price": 177,
-            "name": "ガラルマッギョ S ",
+            "link": "/items/1063313534",
+            "price": 500,
+            "name": "【2枚】ガラルニャー",
             "date": "2022-12-01",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1063313534",
-            "price": 500,
-            "name": "【2枚】ガラルニャー",
+            "link": "/items/629806598",
+            "price": 177,
+            "name": "ガラルマッギョ S ",
             "date": "2022-12-01",
             "stock": 1
         },
@@ -439,62 +503,6 @@
             "name": "ガラルマッギョ287",
             "date": "2022-12-01",
             "stock": 30
-        },
-        {
-            "market": "magi",
-            "link": "/items/629806598",
-            "price": 177,
-            "name": "ガラルマッギョ S ",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/903539026",
-            "price": 110,
-            "name": "ガラルマッギョ S ",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1063313534",
-            "price": 500,
-            "name": "【2枚】ガラルニャー",
-            "date": "2022-11-30",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18693",
-            "price": 200,
-            "name": "ガラルマッギョ(S)",
-            "date": "2022-11-30",
-            "stock": 45
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30876",
-            "price": 330,
-            "name": "ガラルマッギョ287",
-            "date": "2022-11-30",
-            "stock": 3
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17436",
-            "price": 380,
-            "name": "ガラルマッギョ287",
-            "date": "2022-11-30",
-            "stock": 22
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17596",
-            "price": 180,
-            "name": "ガラルマッギョ287",
-            "date": "2022-11-30",
-            "stock": 2
         }
     ]
 }

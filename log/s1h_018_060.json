@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/17520",
             "price": 50,
             "name": "ランターン(U){雷",
+            "date": "2022-12-08",
+            "stock": 8
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/6938",
+            "price": 30,
+            "name": "ランターン018/0",
+            "date": "2022-12-08",
+            "stock": 50
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g018-060-S1H-B/",
+            "price": 33,
+            "name": "【ポケカ】Ｕ◇ランタ",
+            "date": "2022-12-08",
+            "stock": 29
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17520",
+            "price": 50,
+            "name": "ランターン(U){雷",
             "date": "2022-12-07",
             "stock": 8
         },
@@ -166,30 +190,6 @@
             "price": 33,
             "name": "【ポケカ】Ｕ◇ランタ",
             "date": "2022-12-01",
-            "stock": 29
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/17520",
-            "price": 50,
-            "name": "ランターン(U){雷",
-            "date": "2022-11-30",
-            "stock": 8
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/6938",
-            "price": 30,
-            "name": "ランターン018/0",
-            "date": "2022-11-30",
-            "stock": 50
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g018-060-S1H-B/",
-            "price": 33,
-            "name": "【ポケカ】Ｕ◇ランタ",
-            "date": "2022-11-30",
             "stock": 29
         }
     ]
