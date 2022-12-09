@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/18005",
             "price": 50,
             "name": "カラマネロ(U){悪",
+            "date": "2022-12-09",
+            "stock": 7
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/13299",
+            "price": 30,
+            "name": "カラマネロ060/1",
+            "date": "2022-12-09",
+            "stock": 8
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g060-100-S3-B/",
+            "price": 22,
+            "name": "【ポケカ】Ｕ◇カラマ",
+            "date": "2022-12-09",
+            "stock": 3
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18005",
+            "price": 50,
+            "name": "カラマネロ(U){悪",
             "date": "2022-12-08",
             "stock": 7
         },
@@ -166,30 +190,6 @@
             "price": 22,
             "name": "【ポケカ】Ｕ◇カラマ",
             "date": "2022-12-02",
-            "stock": 3
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18005",
-            "price": 50,
-            "name": "カラマネロ(U){悪",
-            "date": "2022-12-01",
-            "stock": 7
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/13299",
-            "price": 30,
-            "name": "カラマネロ060/1",
-            "date": "2022-12-01",
-            "stock": 8
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g060-100-S3-B/",
-            "price": 22,
-            "name": "【ポケカ】Ｕ◇カラマ",
-            "date": "2022-12-01",
             "stock": 3
         }
     ]

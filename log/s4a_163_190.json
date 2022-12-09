@@ -5,6 +5,70 @@
             "link": "/items/513838409",
             "price": 55,
             "name": "【4枚セット】ツール",
+            "date": "2022-12-09",
+            "stock": 4
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18832",
+            "price": 100,
+            "name": "ツールスクラッパー:",
+            "date": "2022-12-09",
+            "stock": 39
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18569",
+            "price": 50,
+            "name": "ツールスクラッパー(",
+            "date": "2022-12-09",
+            "stock": 81
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30756",
+            "price": 110,
+            "name": "ツールスクラッパー1",
+            "date": "2022-12-09",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17312",
+            "price": 120,
+            "name": "ツールスクラッパー1",
+            "date": "2022-12-09",
+            "stock": 384
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17146",
+            "price": 80,
+            "name": "ツールスクラッパー1",
+            "date": "2022-12-09",
+            "stock": 213
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g163-190-S4A-BM/",
+            "price": 77,
+            "name": "【ポケカ】Ｃ）ミラー",
+            "date": "2022-12-09",
+            "stock": 4
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g163-190-S4A-B/",
+            "price": 20,
+            "name": "【ポケカ】Ｃ）通常仕",
+            "date": "2022-12-09",
+            "stock": 2
+        },
+        {
+            "market": "magi",
+            "link": "/items/513838409",
+            "price": 55,
+            "name": "【4枚セット】ツール",
             "date": "2022-12-08",
             "stock": 4
         },
@@ -42,19 +106,19 @@
         },
         {
             "market": "torecolo",
-            "link": "/shop/g/g163-190-S4A-B/",
-            "price": 20,
-            "name": "【ポケカ】Ｃ）通常仕",
-            "date": "2022-12-08",
-            "stock": 2
-        },
-        {
-            "market": "torecolo",
             "link": "/shop/g/g163-190-S4A-BM/",
             "price": 77,
             "name": "【ポケカ】Ｃ）ミラー",
             "date": "2022-12-08",
             "stock": 4
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g163-190-S4A-B/",
+            "price": 20,
+            "name": "【ポケカ】Ｃ）通常仕",
+            "date": "2022-12-08",
+            "stock": 2
         },
         {
             "market": "magi",
@@ -66,14 +130,6 @@
         },
         {
             "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18832",
-            "price": 100,
-            "name": "ツールスクラッパー:",
-            "date": "2022-12-07",
-            "stock": 39
-        },
-        {
-            "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/18569",
             "price": 50,
             "name": "ツールスクラッパー(",
@@ -81,12 +137,12 @@
             "stock": 81
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17312",
-            "price": 120,
-            "name": "ツールスクラッパー1",
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18832",
+            "price": 100,
+            "name": "ツールスクラッパー:",
             "date": "2022-12-07",
-            "stock": 384
+            "stock": 39
         },
         {
             "market": "cardrush",
@@ -97,6 +153,22 @@
             "stock": 213
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17312",
+            "price": 120,
+            "name": "ツールスクラッパー1",
+            "date": "2022-12-07",
+            "stock": 384
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g163-190-S4A-B/",
+            "price": 20,
+            "name": "【ポケカ】Ｃ）通常仕",
+            "date": "2022-12-07",
+            "stock": 2
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g163-190-S4A-BM/",
             "price": 77,
@@ -105,28 +177,12 @@
             "stock": 4
         },
         {
-            "market": "torecolo",
-            "link": "/shop/g/g163-190-S4A-B/",
-            "price": 20,
-            "name": "【ポケカ】Ｃ）通常仕",
-            "date": "2022-12-07",
-            "stock": 2
-        },
-        {
             "market": "magi",
             "link": "/items/513838409",
             "price": 55,
             "name": "【4枚セット】ツール",
             "date": "2022-12-06",
             "stock": 4
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18832",
-            "price": 100,
-            "name": "ツールスクラッパー:",
-            "date": "2022-12-06",
-            "stock": 39
         },
         {
             "market": "hareruya2",
@@ -137,12 +193,12 @@
             "stock": 81
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17312",
-            "price": 120,
-            "name": "ツールスクラッパー1",
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18832",
+            "price": 100,
+            "name": "ツールスクラッパー:",
             "date": "2022-12-06",
-            "stock": 384
+            "stock": 39
         },
         {
             "market": "cardrush",
@@ -151,6 +207,14 @@
             "name": "ツールスクラッパー1",
             "date": "2022-12-06",
             "stock": 214
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17312",
+            "price": 120,
+            "name": "ツールスクラッパー1",
+            "date": "2022-12-06",
+            "stock": 384
         },
         {
             "market": "torecolo",
@@ -178,19 +242,19 @@
         },
         {
             "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18832",
-            "price": 100,
-            "name": "ツールスクラッパー:",
-            "date": "2022-12-05",
-            "stock": 39
-        },
-        {
-            "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/18569",
             "price": 50,
             "name": "ツールスクラッパー(",
             "date": "2022-12-05",
             "stock": 81
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18832",
+            "price": 100,
+            "name": "ツールスクラッパー:",
+            "date": "2022-12-05",
+            "stock": 39
         },
         {
             "market": "cardrush",
@@ -234,14 +298,6 @@
         },
         {
             "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18569",
-            "price": 50,
-            "name": "ツールスクラッパー(",
-            "date": "2022-12-04",
-            "stock": 81
-        },
-        {
-            "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/18832",
             "price": 100,
             "name": "ツールスクラッパー:",
@@ -249,12 +305,12 @@
             "stock": 39
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17146",
-            "price": 80,
-            "name": "ツールスクラッパー1",
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18569",
+            "price": 50,
+            "name": "ツールスクラッパー(",
             "date": "2022-12-04",
-            "stock": 214
+            "stock": 81
         },
         {
             "market": "cardrush",
@@ -265,12 +321,12 @@
             "stock": 384
         },
         {
-            "market": "torecolo",
-            "link": "/shop/g/g163-190-S4A-BM/",
-            "price": 77,
-            "name": "【ポケカ】Ｃ）ミラー",
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17146",
+            "price": 80,
+            "name": "ツールスクラッパー1",
             "date": "2022-12-04",
-            "stock": 4
+            "stock": 214
         },
         {
             "market": "torecolo",
@@ -279,6 +335,14 @@
             "name": "【ポケカ】Ｃ）通常仕",
             "date": "2022-12-04",
             "stock": 2
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g163-190-S4A-BM/",
+            "price": 77,
+            "name": "【ポケカ】Ｃ）ミラー",
+            "date": "2022-12-04",
+            "stock": 4
         },
         {
             "market": "magi",
@@ -290,19 +354,19 @@
         },
         {
             "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18569",
-            "price": 50,
-            "name": "ツールスクラッパー(",
-            "date": "2022-12-03",
-            "stock": 81
-        },
-        {
-            "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/18832",
             "price": 100,
             "name": "ツールスクラッパー:",
             "date": "2022-12-03",
             "stock": 39
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18569",
+            "price": 50,
+            "name": "ツールスクラッパー(",
+            "date": "2022-12-03",
+            "stock": 81
         },
         {
             "market": "cardrush",
@@ -362,14 +426,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17146",
-            "price": 80,
-            "name": "ツールスクラッパー1",
-            "date": "2022-12-02",
-            "stock": 214
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17312",
             "price": 120,
             "name": "ツールスクラッパー1",
@@ -377,12 +433,12 @@
             "stock": 384
         },
         {
-            "market": "torecolo",
-            "link": "/shop/g/g163-190-S4A-B/",
-            "price": 20,
-            "name": "【ポケカ】Ｃ）通常仕",
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17146",
+            "price": 80,
+            "name": "ツールスクラッパー1",
             "date": "2022-12-02",
-            "stock": 2
+            "stock": 214
         },
         {
             "market": "torecolo",
@@ -393,59 +449,11 @@
             "stock": 4
         },
         {
-            "market": "magi",
-            "link": "/items/513838409",
-            "price": 55,
-            "name": "【4枚セット】ツール",
-            "date": "2022-12-01",
-            "stock": 4
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18569",
-            "price": 50,
-            "name": "ツールスクラッパー(",
-            "date": "2022-12-01",
-            "stock": 81
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18832",
-            "price": 100,
-            "name": "ツールスクラッパー:",
-            "date": "2022-12-01",
-            "stock": 39
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17146",
-            "price": 80,
-            "name": "ツールスクラッパー1",
-            "date": "2022-12-01",
-            "stock": 214
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17312",
-            "price": 120,
-            "name": "ツールスクラッパー1",
-            "date": "2022-12-01",
-            "stock": 384
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g163-190-S4A-BM/",
-            "price": 77,
-            "name": "【ポケカ】Ｃ）ミラー",
-            "date": "2022-12-01",
-            "stock": 4
-        },
-        {
             "market": "torecolo",
             "link": "/shop/g/g163-190-S4A-B/",
             "price": 20,
             "name": "【ポケカ】Ｃ）通常仕",
-            "date": "2022-12-01",
+            "date": "2022-12-02",
             "stock": 2
         }
     ]

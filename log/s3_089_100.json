@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/18034",
             "price": 200,
             "name": "おうえんYホーン(U",
+            "date": "2022-12-09",
+            "stock": 20
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30146",
+            "price": 250,
+            "name": "おうえんYホーン08",
+            "date": "2022-12-09",
+            "stock": 11
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/13328",
+            "price": 280,
+            "name": "おうえんYホーン08",
+            "date": "2022-12-09",
+            "stock": 139
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18034",
+            "price": 200,
+            "name": "おうえんYホーン(U",
             "date": "2022-12-08",
             "stock": 20
         },
@@ -58,19 +82,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30146",
-            "price": 250,
-            "name": "おうえんYホーン08",
-            "date": "2022-12-06",
-            "stock": 12
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/13328",
             "price": 280,
             "name": "おうえんYホーン08",
             "date": "2022-12-06",
             "stock": 145
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30146",
+            "price": 250,
+            "name": "おうえんYホーン08",
+            "date": "2022-12-06",
+            "stock": 12
         },
         {
             "market": "hareruya2",
@@ -154,14 +178,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/13328",
-            "price": 280,
-            "name": "おうえんYホーン08",
-            "date": "2022-12-02",
-            "stock": 145
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30146",
             "price": 250,
             "name": "おうえんYホーン08",
@@ -169,27 +185,11 @@
             "stock": 23
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18034",
-            "price": 200,
-            "name": "おうえんYホーン(U",
-            "date": "2022-12-01",
-            "stock": 23
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30146",
-            "price": 250,
-            "name": "おうえんYホーン08",
-            "date": "2022-12-01",
-            "stock": 27
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/13328",
             "price": 280,
             "name": "おうえんYホーン08",
-            "date": "2022-12-01",
+            "date": "2022-12-02",
             "stock": 145
         }
     ]

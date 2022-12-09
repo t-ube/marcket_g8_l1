@@ -3,9 +3,9 @@
         {
             "market": "magi",
             "link": "/items/1152198639",
-            "price": 538,
+            "price": 532,
             "name": "モルペコ S 243",
-            "date": "2022-12-08",
+            "date": "2022-12-09",
             "stock": 1
         },
         {
@@ -13,6 +13,54 @@
             "link": "/items/758878368",
             "price": 480,
             "name": "ポケカ　モルペコ　2",
+            "date": "2022-12-09",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18649",
+            "price": 500,
+            "name": "モルペコ(S){雷}",
+            "date": "2022-12-09",
+            "stock": 6
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17392",
+            "price": 580,
+            "name": "モルペコ243/19",
+            "date": "2022-12-09",
+            "stock": 31
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30832",
+            "price": 480,
+            "name": "モルペコ243/19",
+            "date": "2022-12-09",
+            "stock": 6
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g243-190-S4A-B/",
+            "price": 550,
+            "name": "【ポケカ】Ｓ◇モルペ",
+            "date": "2022-12-09",
+            "stock": 5
+        },
+        {
+            "market": "magi",
+            "link": "/items/758878368",
+            "price": 480,
+            "name": "ポケカ　モルペコ　2",
+            "date": "2022-12-08",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1152198639",
+            "price": 538,
+            "name": "モルペコ S 243",
             "date": "2022-12-08",
             "stock": 1
         },
@@ -74,19 +122,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17392",
-            "price": 580,
-            "name": "モルペコ243/19",
-            "date": "2022-12-07",
-            "stock": 31
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30832",
             "price": 480,
             "name": "モルペコ243/19",
             "date": "2022-12-07",
             "stock": 6
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17392",
+            "price": 580,
+            "name": "モルペコ243/19",
+            "date": "2022-12-07",
+            "stock": 31
         },
         {
             "market": "torecolo",
@@ -98,17 +146,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/758878368",
-            "price": 480,
-            "name": "ポケカ　モルペコ　2",
+            "link": "/items/1152198639",
+            "price": 538,
+            "name": "モルペコ S 243",
             "date": "2022-12-06",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1152198639",
-            "price": 538,
-            "name": "モルペコ S 243",
+            "link": "/items/758878368",
+            "price": 480,
+            "name": "ポケカ　モルペコ　2",
             "date": "2022-12-06",
             "stock": 1
         },
@@ -117,14 +165,6 @@
             "link": "https://www.hareruya2.com/product/18649",
             "price": 500,
             "name": "モルペコ(S){雷}",
-            "date": "2022-12-06",
-            "stock": 6
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30832",
-            "price": 480,
-            "name": "モルペコ243/19",
             "date": "2022-12-06",
             "stock": 6
         },
@@ -137,12 +177,28 @@
             "stock": 29
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30832",
+            "price": 480,
+            "name": "モルペコ243/19",
+            "date": "2022-12-06",
+            "stock": 6
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g243-190-S4A-B/",
             "price": 550,
             "name": "【ポケカ】Ｓ◇モルペ",
             "date": "2022-12-06",
             "stock": 5
+        },
+        {
+            "market": "magi",
+            "link": "/items/758878368",
+            "price": 480,
+            "name": "ポケカ　モルペコ　2",
+            "date": "2022-12-05",
+            "stock": 1
         },
         {
             "market": "magi",
@@ -153,18 +209,18 @@
             "stock": 1
         },
         {
-            "market": "magi",
-            "link": "/items/758878368",
-            "price": 480,
-            "name": "ポケカ　モルペコ　2",
-            "date": "2022-12-05",
-            "stock": 1
-        },
-        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/18649",
             "price": 500,
             "name": "モルペコ(S){雷}",
+            "date": "2022-12-05",
+            "stock": 6
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30832",
+            "price": 480,
+            "name": "モルペコ243/19",
             "date": "2022-12-05",
             "stock": 6
         },
@@ -177,28 +233,12 @@
             "stock": 24
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30832",
-            "price": 480,
-            "name": "モルペコ243/19",
-            "date": "2022-12-05",
-            "stock": 6
-        },
-        {
             "market": "torecolo",
             "link": "/shop/g/g243-190-S4A-B/",
             "price": 550,
             "name": "【ポケカ】Ｓ◇モルペ",
             "date": "2022-12-05",
             "stock": 5
-        },
-        {
-            "market": "magi",
-            "link": "/items/758878368",
-            "price": 480,
-            "name": "ポケカ　モルペコ　2",
-            "date": "2022-12-04",
-            "stock": 1
         },
         {
             "market": "magi",
@@ -209,18 +249,18 @@
             "stock": 1
         },
         {
+            "market": "magi",
+            "link": "/items/758878368",
+            "price": 480,
+            "name": "ポケカ　モルペコ　2",
+            "date": "2022-12-04",
+            "stock": 1
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/18649",
             "price": 500,
             "name": "モルペコ(S){雷}",
-            "date": "2022-12-04",
-            "stock": 6
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30832",
-            "price": 480,
-            "name": "モルペコ243/19",
             "date": "2022-12-04",
             "stock": 6
         },
@@ -233,20 +273,20 @@
             "stock": 24
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30832",
+            "price": 480,
+            "name": "モルペコ243/19",
+            "date": "2022-12-04",
+            "stock": 6
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g243-190-S4A-B/",
             "price": 550,
             "name": "【ポケカ】Ｓ◇モルペ",
             "date": "2022-12-04",
             "stock": 5
-        },
-        {
-            "market": "magi",
-            "link": "/items/1152198639",
-            "price": 550,
-            "name": "モルペコ S 243",
-            "date": "2022-12-03",
-            "stock": 1
         },
         {
             "market": "magi",
@@ -257,6 +297,14 @@
             "stock": 1
         },
         {
+            "market": "magi",
+            "link": "/items/1152198639",
+            "price": 550,
+            "name": "モルペコ S 243",
+            "date": "2022-12-03",
+            "stock": 1
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/18649",
             "price": 500,
@@ -287,6 +335,14 @@
             "name": "【ポケカ】Ｓ◇モルペ",
             "date": "2022-12-03",
             "stock": 5
+        },
+        {
+            "market": "magi",
+            "link": "/items/758878368",
+            "price": 480,
+            "name": "ポケカ　モルペコ　2",
+            "date": "2022-12-02",
+            "stock": 1
         },
         {
             "market": "magi",
@@ -297,18 +353,18 @@
             "stock": 1
         },
         {
-            "market": "magi",
-            "link": "/items/758878368",
-            "price": 480,
-            "name": "ポケカ　モルペコ　2",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/18649",
             "price": 500,
             "name": "モルペコ(S){雷}",
+            "date": "2022-12-02",
+            "stock": 6
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30832",
+            "price": 480,
+            "name": "モルペコ243/19",
             "date": "2022-12-02",
             "stock": 6
         },
@@ -319,14 +375,6 @@
             "name": "モルペコ243/19",
             "date": "2022-12-02",
             "stock": 24
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30832",
-            "price": 480,
-            "name": "モルペコ243/19",
-            "date": "2022-12-02",
-            "stock": 6
         },
         {
             "market": "torecolo",
@@ -335,54 +383,6 @@
             "name": "【ポケカ】Ｓ◇モルペ",
             "date": "2022-12-02",
             "stock": 5
-        },
-        {
-            "market": "magi",
-            "link": "/items/758878368",
-            "price": 480,
-            "name": "ポケカ　モルペコ　2",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1152198639",
-            "price": 562,
-            "name": "モルペコ S 243",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18649",
-            "price": 500,
-            "name": "モルペコ(S){雷}",
-            "date": "2022-12-01",
-            "stock": 6
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30832",
-            "price": 480,
-            "name": "モルペコ243/19",
-            "date": "2022-12-01",
-            "stock": 6
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17392",
-            "price": 580,
-            "name": "モルペコ243/19",
-            "date": "2022-12-01",
-            "stock": 24
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g243-190-S4A-B/",
-            "price": 550,
-            "name": "【ポケカ】Ｓ◇モルペ",
-            "date": "2022-12-01",
-            "stock": 4
         }
     ]
 }

@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/17614",
             "price": 100,
             "name": "ザマゼンタ(D){鋼",
+            "date": "2022-12-09",
+            "stock": 7
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/7097",
+            "price": 80,
+            "name": "ザマゼンタ004/0",
+            "date": "2022-12-09",
+            "stock": 48
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g004-007-SP1-B/",
+            "price": 77,
+            "name": "【ポケカ】ＳＳ◇ザマ",
+            "date": "2022-12-09",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17614",
+            "price": 100,
+            "name": "ザマゼンタ(D){鋼",
             "date": "2022-12-08",
             "stock": 7
         },
@@ -166,30 +190,6 @@
             "price": 77,
             "name": "【ポケカ】ＳＳ◇ザマ",
             "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/17614",
-            "price": 100,
-            "name": "ザマゼンタ(D){鋼",
-            "date": "2022-12-01",
-            "stock": 7
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7097",
-            "price": 80,
-            "name": "ザマゼンタ004/0",
-            "date": "2022-12-01",
-            "stock": 48
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g004-007-SP1-B/",
-            "price": 77,
-            "name": "【ポケカ】ＳＳ◇ザマ",
-            "date": "2022-12-01",
             "stock": 1
         }
     ]

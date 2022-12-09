@@ -5,6 +5,22 @@
             "link": "/items/1784705392",
             "price": 3000,
             "name": "オリーヴ SR 10",
+            "date": "2022-12-09",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17808",
+            "price": 4000,
+            "name": "オリーヴ(SR){サ",
+            "date": "2022-12-09",
+            "stock": 2
+        },
+        {
+            "market": "magi",
+            "link": "/items/1784705392",
+            "price": 3000,
+            "name": "オリーヴ SR 10",
             "date": "2022-12-08",
             "stock": 1
         },
@@ -106,17 +122,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/1784705392",
-            "price": 3100,
-            "name": "オリーヴ SR 10",
+            "link": "/items/1485136547",
+            "price": 3759,
+            "name": "オリーヴ【SR】{1",
             "date": "2022-12-04",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1485136547",
-            "price": 3759,
-            "name": "オリーヴ【SR】{1",
+            "link": "/items/1784705392",
+            "price": 3100,
+            "name": "オリーヴ SR 10",
             "date": "2022-12-04",
             "stock": 1
         },
@@ -138,17 +154,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/1784705392",
-            "price": 3100,
-            "name": "オリーヴ SR 10",
+            "link": "/items/1485136547",
+            "price": 3759,
+            "name": "オリーヴ【SR】{1",
             "date": "2022-12-03",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1485136547",
-            "price": 3759,
-            "name": "オリーヴ【SR】{1",
+            "link": "/items/1784705392",
+            "price": 3100,
+            "name": "オリーヴ SR 10",
             "date": "2022-12-03",
             "stock": 1
         },
@@ -170,17 +186,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/1784705392",
-            "price": 3100,
-            "name": "オリーヴ SR 10",
+            "link": "/items/1485136547",
+            "price": 3759,
+            "name": "オリーヴ【SR】{1",
             "date": "2022-12-02",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1485136547",
-            "price": 3759,
-            "name": "オリーヴ【SR】{1",
+            "link": "/items/1784705392",
+            "price": 3100,
+            "name": "オリーヴ SR 10",
             "date": "2022-12-02",
             "stock": 1
         },
@@ -199,46 +215,6 @@
             "name": "オリーヴ105/09",
             "date": "2022-12-02",
             "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/1485136547",
-            "price": 3759,
-            "name": "オリーヴ【SR】{1",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1784705392",
-            "price": 3100,
-            "name": "オリーヴ SR 10",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/17808",
-            "price": 4000,
-            "name": "オリーヴ(SR){サ",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/29931",
-            "price": 2880,
-            "name": "オリーヴ105/09",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7551",
-            "price": 3580,
-            "name": "オリーヴ105/09",
-            "date": "2022-12-01",
-            "stock": 5
         }
     ]
 }

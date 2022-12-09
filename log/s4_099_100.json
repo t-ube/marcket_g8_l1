@@ -2,11 +2,43 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/1658173305",
+            "price": 25,
+            "name": "PC ウォッシュ水エ",
+            "date": "2022-12-09",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/89581900",
+            "price": 25,
+            "name": "PC ウォッシュ水エ",
+            "date": "2022-12-09",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1691614605",
+            "price": 25,
+            "name": "PC ウォッシュ水エ",
+            "date": "2022-12-09",
+            "stock": 4
+        },
+        {
+            "market": "magi",
             "link": "/items/1828674391",
             "price": 110,
             "name": "ウォッシュ水エネルギ",
-            "date": "2022-12-08",
+            "date": "2022-12-09",
             "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14553",
+            "price": 80,
+            "name": "ウォッシュ水エネルギ",
+            "date": "2022-12-09",
+            "stock": 319
         },
         {
             "market": "magi",
@@ -18,7 +50,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/89581900",
+            "link": "/items/1658173305",
             "price": 25,
             "name": "PC ウォッシュ水エ",
             "date": "2022-12-08",
@@ -26,7 +58,15 @@
         },
         {
             "market": "magi",
-            "link": "/items/1658173305",
+            "link": "/items/1828674391",
+            "price": 110,
+            "name": "ウォッシュ水エネルギ",
+            "date": "2022-12-08",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/89581900",
             "price": 25,
             "name": "PC ウォッシュ水エ",
             "date": "2022-12-08",
@@ -158,30 +198,6 @@
             "price": 77,
             "name": "【ポケカ】Ｕ◇ウォッ",
             "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1828674391",
-            "price": 110,
-            "name": "ウォッシュ水エネルギ",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14553",
-            "price": 80,
-            "name": "ウォッシュ水エネルギ",
-            "date": "2022-12-01",
-            "stock": 376
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g099-100-S4-B/",
-            "price": 77,
-            "name": "【ポケカ】Ｕ◇ウォッ",
-            "date": "2022-12-01",
             "stock": 1
         }
     ]

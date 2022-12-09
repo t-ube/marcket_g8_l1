@@ -2,17 +2,57 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/944506511",
+            "price": 45,
+            "name": "【4枚セット】とりつ",
+            "date": "2022-12-09",
+            "stock": 4
+        },
+        {
+            "market": "magi",
             "link": "/items/1502415356",
             "price": 50,
             "name": "ポケモンカード とり",
-            "date": "2022-12-08",
+            "date": "2022-12-09",
             "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17321",
+            "price": 120,
+            "name": "とりつかい172/1",
+            "date": "2022-12-09",
+            "stock": 73
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17155",
+            "price": 80,
+            "name": "とりつかい172/1",
+            "date": "2022-12-09",
+            "stock": 44
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g172-190-S4A-B/",
+            "price": 77,
+            "name": "【ポケカ】Ｃ）通常仕",
+            "date": "2022-12-09",
+            "stock": 3
         },
         {
             "market": "magi",
             "link": "/items/944506511",
             "price": 45,
             "name": "【4枚セット】とりつ",
+            "date": "2022-12-08",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1502415356",
+            "price": 50,
+            "name": "ポケモンカード とり",
             "date": "2022-12-08",
             "stock": 4
         },
@@ -162,17 +202,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/944506511",
-            "price": 45,
-            "name": "【4枚セット】とりつ",
+            "link": "/items/1502415356",
+            "price": 50,
+            "name": "ポケモンカード とり",
             "date": "2022-12-04",
             "stock": 4
         },
         {
             "market": "magi",
-            "link": "/items/1502415356",
-            "price": 50,
-            "name": "ポケモンカード とり",
+            "link": "/items/944506511",
+            "price": 45,
+            "name": "【4枚セット】とりつ",
             "date": "2022-12-04",
             "stock": 4
         },
@@ -186,19 +226,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17321",
-            "price": 120,
-            "name": "とりつかい172/1",
-            "date": "2022-12-04",
-            "stock": 73
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17155",
             "price": 80,
             "name": "とりつかい172/1",
             "date": "2022-12-04",
             "stock": 49
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17321",
+            "price": 120,
+            "name": "とりつかい172/1",
+            "date": "2022-12-04",
+            "stock": 73
         },
         {
             "market": "torecolo",
@@ -302,54 +342,6 @@
             "price": 77,
             "name": "【ポケカ】Ｃ）通常仕",
             "date": "2022-12-02",
-            "stock": 3
-        },
-        {
-            "market": "magi",
-            "link": "/items/1502415356",
-            "price": 50,
-            "name": "ポケモンカード とり",
-            "date": "2022-12-01",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/944506511",
-            "price": 45,
-            "name": "【4枚セット】とりつ",
-            "date": "2022-12-01",
-            "stock": 4
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17518",
-            "price": 50,
-            "name": "とりつかい172/1",
-            "date": "2022-12-01",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17155",
-            "price": 80,
-            "name": "とりつかい172/1",
-            "date": "2022-12-01",
-            "stock": 49
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17321",
-            "price": 120,
-            "name": "とりつかい172/1",
-            "date": "2022-12-01",
-            "stock": 73
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g172-190-S4A-B/",
-            "price": 77,
-            "name": "【ポケカ】Ｃ）通常仕",
-            "date": "2022-12-01",
             "stock": 3
         }
     ]

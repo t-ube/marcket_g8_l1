@@ -2,6 +2,142 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/35708896",
+            "price": 300,
+            "name": "ポケモンカードS ア",
+            "date": "2022-12-09",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2121157177",
+            "price": 500,
+            "name": "カイオーガ　レシアム",
+            "date": "2022-12-09",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/439266392",
+            "price": 520,
+            "name": "カイオーガ A 03",
+            "date": "2022-12-09",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/283807048",
+            "price": 300,
+            "name": "カイオーガ A 03",
+            "date": "2022-12-09",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1446955757",
+            "price": 150,
+            "name": "カイオーガ A 03",
+            "date": "2022-12-09",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1334253138",
+            "price": 90,
+            "name": "【1枚90円】カイオ",
+            "date": "2022-12-09",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1314825207",
+            "price": 5000,
+            "name": "ライコウ　カイオーガ",
+            "date": "2022-12-09",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1512245983",
+            "price": 9555,
+            "name": "ポケカ　カイオーガ　",
+            "date": "2022-12-09",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1835822552",
+            "price": 333,
+            "name": "カイオーガ A（アメ",
+            "date": "2022-12-09",
+            "stock": 3
+        },
+        {
+            "market": "magi",
+            "link": "/items/2074302141",
+            "price": 499,
+            "name": "カイオーガ　レシラム",
+            "date": "2022-12-09",
+            "stock": 2
+        },
+        {
+            "market": "magi",
+            "link": "/items/1580243472",
+            "price": 180,
+            "name": "ポケモンカード カイ",
+            "date": "2022-12-09",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17019",
+            "price": 80,
+            "name": "カイオーガ036/1",
+            "date": "2022-12-09",
+            "stock": 1
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g036-190-S4A-B/",
+            "price": 77,
+            "name": "【ポケカ】Ａ◇カイオ",
+            "date": "2022-12-09",
+            "stock": 23
+        },
+        {
+            "market": "magi",
+            "link": "/items/2121157177",
+            "price": 500,
+            "name": "カイオーガ　レシアム",
+            "date": "2022-12-08",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1512245983",
+            "price": 9555,
+            "name": "ポケカ　カイオーガ　",
+            "date": "2022-12-08",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2074302141",
+            "price": 499,
+            "name": "カイオーガ　レシラム",
+            "date": "2022-12-08",
+            "stock": 2
+        },
+        {
+            "market": "magi",
+            "link": "/items/1835822552",
+            "price": 333,
+            "name": "カイオーガ A（アメ",
+            "date": "2022-12-08",
+            "stock": 3
+        },
+        {
+            "market": "magi",
             "link": "/items/439266392",
             "price": 520,
             "name": "カイオーガ A 03",
@@ -10,9 +146,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/2121157177",
-            "price": 500,
-            "name": "カイオーガ　レシアム",
+            "link": "/items/35708896",
+            "price": 300,
+            "name": "ポケモンカードS ア",
             "date": "2022-12-08",
             "stock": 1
         },
@@ -34,14 +170,6 @@
         },
         {
             "market": "magi",
-            "link": "/items/35708896",
-            "price": 300,
-            "name": "ポケモンカードS ア",
-            "date": "2022-12-08",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/1334253138",
             "price": 90,
             "name": "【1枚90円】カイオ",
@@ -55,30 +183,6 @@
             "name": "カイオーガ A 03",
             "date": "2022-12-08",
             "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1512245983",
-            "price": 9555,
-            "name": "ポケカ　カイオーガ　",
-            "date": "2022-12-08",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1835822552",
-            "price": 333,
-            "name": "カイオーガ A（アメ",
-            "date": "2022-12-08",
-            "stock": 3
-        },
-        {
-            "market": "magi",
-            "link": "/items/2074302141",
-            "price": 499,
-            "name": "カイオーガ　レシラム",
-            "date": "2022-12-08",
-            "stock": 2
         },
         {
             "market": "magi",
@@ -106,11 +210,67 @@
         },
         {
             "market": "magi",
-            "link": "/items/2121157177",
-            "price": 500,
-            "name": "カイオーガ　レシアム",
+            "link": "/items/1580243472",
+            "price": 180,
+            "name": "ポケモンカード カイ",
             "date": "2022-12-07",
             "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/283807048",
+            "price": 300,
+            "name": "カイオーガ A 03",
+            "date": "2022-12-07",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1334253138",
+            "price": 90,
+            "name": "【1枚90円】カイオ",
+            "date": "2022-12-07",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/439266392",
+            "price": 520,
+            "name": "カイオーガ A 03",
+            "date": "2022-12-07",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1446955757",
+            "price": 150,
+            "name": "カイオーガ A 03",
+            "date": "2022-12-07",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/35708896",
+            "price": 300,
+            "name": "ポケモンカードS ア",
+            "date": "2022-12-07",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1512245983",
+            "price": 9555,
+            "name": "ポケカ　カイオーガ　",
+            "date": "2022-12-07",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1835822552",
+            "price": 333,
+            "name": "カイオーガ A（アメ",
+            "date": "2022-12-07",
+            "stock": 3
         },
         {
             "market": "magi",
@@ -122,75 +282,19 @@
         },
         {
             "market": "magi",
+            "link": "/items/2121157177",
+            "price": 500,
+            "name": "カイオーガ　レシアム",
+            "date": "2022-12-07",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/2074302141",
             "price": 499,
             "name": "カイオーガ　レシラム",
             "date": "2022-12-07",
             "stock": 2
-        },
-        {
-            "market": "magi",
-            "link": "/items/1835822552",
-            "price": 333,
-            "name": "カイオーガ A（アメ",
-            "date": "2022-12-07",
-            "stock": 3
-        },
-        {
-            "market": "magi",
-            "link": "/items/1512245983",
-            "price": 9555,
-            "name": "ポケカ　カイオーガ　",
-            "date": "2022-12-07",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/35708896",
-            "price": 300,
-            "name": "ポケモンカードS ア",
-            "date": "2022-12-07",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1446955757",
-            "price": 150,
-            "name": "カイオーガ A 03",
-            "date": "2022-12-07",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/439266392",
-            "price": 520,
-            "name": "カイオーガ A 03",
-            "date": "2022-12-07",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1334253138",
-            "price": 90,
-            "name": "【1枚90円】カイオ",
-            "date": "2022-12-07",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1580243472",
-            "price": 180,
-            "name": "ポケモンカード カイ",
-            "date": "2022-12-07",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/283807048",
-            "price": 300,
-            "name": "カイオーガ A 03",
-            "date": "2022-12-07",
-            "stock": 1
         },
         {
             "market": "cardrush",
@@ -210,25 +314,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/1835822552",
-            "price": 333,
-            "name": "カイオーガ A（アメ",
-            "date": "2022-12-06",
-            "stock": 3
-        },
-        {
-            "market": "magi",
-            "link": "/items/283807048",
-            "price": 300,
+            "link": "/items/439266392",
+            "price": 520,
             "name": "カイオーガ A 03",
             "date": "2022-12-06",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1446955757",
-            "price": 150,
-            "name": "カイオーガ A 03",
+            "link": "/items/1512245983",
+            "price": 9555,
+            "name": "ポケカ　カイオーガ　",
             "date": "2022-12-06",
             "stock": 1
         },
@@ -242,19 +338,27 @@
         },
         {
             "market": "magi",
-            "link": "/items/2121157177",
-            "price": 500,
-            "name": "カイオーガ　レシアム",
+            "link": "/items/1446955757",
+            "price": 150,
+            "name": "カイオーガ A 03",
             "date": "2022-12-06",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1334253138",
-            "price": 90,
-            "name": "【1枚90円】カイオ",
+            "link": "/items/283807048",
+            "price": 300,
+            "name": "カイオーガ A 03",
             "date": "2022-12-06",
             "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1835822552",
+            "price": 333,
+            "name": "カイオーガ A（アメ",
+            "date": "2022-12-06",
+            "stock": 3
         },
         {
             "market": "magi",
@@ -263,6 +367,14 @@
             "name": "カイオーガ　レシラム",
             "date": "2022-12-06",
             "stock": 2
+        },
+        {
+            "market": "magi",
+            "link": "/items/2121157177",
+            "price": 500,
+            "name": "カイオーガ　レシアム",
+            "date": "2022-12-06",
+            "stock": 1
         },
         {
             "market": "magi",
@@ -274,17 +386,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/439266392",
-            "price": 520,
-            "name": "カイオーガ A 03",
-            "date": "2022-12-06",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1512245983",
-            "price": 9555,
-            "name": "ポケカ　カイオーガ　",
+            "link": "/items/1334253138",
+            "price": 90,
+            "name": "【1枚90円】カイオ",
             "date": "2022-12-06",
             "stock": 1
         },
@@ -306,40 +410,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/2121157177",
-            "price": 500,
-            "name": "カイオーガ　レシアム",
-            "date": "2022-12-05",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1446955757",
-            "price": 150,
-            "name": "カイオーガ A 03",
-            "date": "2022-12-05",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1334253138",
-            "price": 90,
-            "name": "【1枚90円】カイオ",
-            "date": "2022-12-05",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/439266392",
             "price": 520,
-            "name": "カイオーガ A 03",
-            "date": "2022-12-05",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/283807048",
-            "price": 300,
             "name": "カイオーガ A 03",
             "date": "2022-12-05",
             "stock": 1
@@ -354,9 +426,41 @@
         },
         {
             "market": "magi",
+            "link": "/items/1334253138",
+            "price": 90,
+            "name": "【1枚90円】カイオ",
+            "date": "2022-12-05",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/1512245983",
             "price": 9555,
             "name": "ポケカ　カイオーガ　",
+            "date": "2022-12-05",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1446955757",
+            "price": 150,
+            "name": "カイオーガ A 03",
+            "date": "2022-12-05",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2121157177",
+            "price": 500,
+            "name": "カイオーガ　レシアム",
+            "date": "2022-12-05",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/283807048",
+            "price": 300,
+            "name": "カイオーガ A 03",
             "date": "2022-12-05",
             "stock": 1
         },
@@ -394,57 +498,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/1835822552",
-            "price": 333,
-            "name": "カイオーガ A（アメ",
-            "date": "2022-12-04",
-            "stock": 3
-        },
-        {
-            "market": "magi",
-            "link": "/items/2074302141",
-            "price": 499,
-            "name": "カイオーガ　レシラム",
-            "date": "2022-12-04",
-            "stock": 2
-        },
-        {
-            "market": "magi",
-            "link": "/items/35708896",
-            "price": 300,
-            "name": "ポケモンカードS ア",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/439266392",
-            "price": 520,
+            "link": "/items/1446955757",
+            "price": 150,
             "name": "カイオーガ A 03",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1334253138",
-            "price": 90,
-            "name": "【1枚90円】カイオ",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1512245983",
-            "price": 9555,
-            "name": "ポケカ　カイオーガ　",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2121157177",
-            "price": 500,
-            "name": "カイオーガ　レシアム",
             "date": "2022-12-04",
             "stock": 1
         },
@@ -458,11 +514,59 @@
         },
         {
             "market": "magi",
-            "link": "/items/1446955757",
-            "price": 150,
+            "link": "/items/2121157177",
+            "price": 500,
+            "name": "カイオーガ　レシアム",
+            "date": "2022-12-04",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1835822552",
+            "price": 333,
+            "name": "カイオーガ A（アメ",
+            "date": "2022-12-04",
+            "stock": 3
+        },
+        {
+            "market": "magi",
+            "link": "/items/1512245983",
+            "price": 9555,
+            "name": "ポケカ　カイオーガ　",
+            "date": "2022-12-04",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1334253138",
+            "price": 90,
+            "name": "【1枚90円】カイオ",
+            "date": "2022-12-04",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/439266392",
+            "price": 520,
             "name": "カイオーガ A 03",
             "date": "2022-12-04",
             "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/35708896",
+            "price": 300,
+            "name": "ポケモンカードS ア",
+            "date": "2022-12-04",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2074302141",
+            "price": 499,
+            "name": "カイオーガ　レシラム",
+            "date": "2022-12-04",
+            "stock": 2
         },
         {
             "market": "hareruya2",
@@ -490,6 +594,14 @@
         },
         {
             "market": "magi",
+            "link": "/items/35708896",
+            "price": 300,
+            "name": "ポケモンカードS ア",
+            "date": "2022-12-03",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/2121157177",
             "price": 500,
             "name": "カイオーガ　レシアム",
@@ -525,14 +637,6 @@
             "link": "/items/283807048",
             "price": 300,
             "name": "カイオーガ A 03",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/35708896",
-            "price": 300,
-            "name": "ポケモンカードS ア",
             "date": "2022-12-03",
             "stock": 1
         },
@@ -586,11 +690,11 @@
         },
         {
             "market": "magi",
-            "link": "/items/1835822552",
-            "price": 333,
-            "name": "カイオーガ A（アメ",
+            "link": "/items/439266392",
+            "price": 520,
+            "name": "カイオーガ A 03",
             "date": "2022-12-02",
-            "stock": 3
+            "stock": 1
         },
         {
             "market": "magi",
@@ -626,11 +730,11 @@
         },
         {
             "market": "magi",
-            "link": "/items/439266392",
-            "price": 520,
-            "name": "カイオーガ A 03",
+            "link": "/items/1835822552",
+            "price": 333,
+            "name": "カイオーガ A（アメ",
             "date": "2022-12-02",
-            "stock": 1
+            "stock": 3
         },
         {
             "market": "magi",
@@ -679,102 +783,6 @@
             "name": "【ポケカ】Ａ◇カイオ",
             "date": "2022-12-02",
             "stock": 24
-        },
-        {
-            "market": "magi",
-            "link": "/items/2121157177",
-            "price": 500,
-            "name": "カイオーガ　レシアム",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/35708896",
-            "price": 300,
-            "name": "ポケモンカードS ア",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1446955757",
-            "price": 150,
-            "name": "カイオーガ A 03",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1334253138",
-            "price": 90,
-            "name": "【1枚90円】カイオ",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/283807048",
-            "price": 300,
-            "name": "カイオーガ A 03",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1512245983",
-            "price": 9555,
-            "name": "ポケカ　カイオーガ　",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1835822552",
-            "price": 333,
-            "name": "カイオーガ A（アメ",
-            "date": "2022-12-01",
-            "stock": 3
-        },
-        {
-            "market": "magi",
-            "link": "/items/2074302141",
-            "price": 499,
-            "name": "カイオーガ　レシラム",
-            "date": "2022-12-01",
-            "stock": 2
-        },
-        {
-            "market": "magi",
-            "link": "/items/439266392",
-            "price": 520,
-            "name": "カイオーガ A 03",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18442",
-            "price": 100,
-            "name": "カイオーガ(CP){",
-            "date": "2022-12-01",
-            "stock": 3
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17019",
-            "price": 80,
-            "name": "カイオーガ036/1",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g036-190-S4A-B/",
-            "price": 77,
-            "name": "【ポケカ】Ａ◇カイオ",
-            "date": "2022-12-01",
-            "stock": 23
         }
     ]
 }

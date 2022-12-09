@@ -5,6 +5,14 @@
             "link": "https://www.cardrush-pokemon.jp/product/6914",
             "price": 180,
             "name": "ふつうのつりざお05",
+            "date": "2022-12-09",
+            "stock": 31
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/6914",
+            "price": 180,
+            "name": "ふつうのつりざお05",
             "date": "2022-12-08",
             "stock": 32
         },
@@ -58,14 +66,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/6914",
-            "price": 180,
-            "name": "ふつうのつりざお05",
-            "date": "2022-12-03",
-            "stock": 35
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/29691",
             "price": 170,
             "name": "ふつうのつりざお05",
@@ -73,6 +73,14 @@
             "stock": 4
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/6914",
+            "price": 180,
+            "name": "ふつうのつりざお05",
+            "date": "2022-12-03",
+            "stock": 35
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g054-060-S1W-B/",
             "price": 165,
@@ -94,22 +102,6 @@
             "price": 165,
             "name": "【ポケカ】Ｕ◇ふつう",
             "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/6914",
-            "price": 180,
-            "name": "ふつうのつりざお05",
-            "date": "2022-12-01",
-            "stock": 39
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g054-060-S1W-B/",
-            "price": 165,
-            "name": "【ポケカ】Ｕ◇ふつう",
-            "date": "2022-12-01",
             "stock": 1
         }
     ]

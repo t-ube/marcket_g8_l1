@@ -2,10 +2,18 @@
     "items": [
         {
             "market": "magi",
-            "link": "/items/2020282694",
-            "price": 9800,
+            "link": "/items/537920275",
+            "price": 7000,
             "name": "リザードンV SSR",
-            "date": "2022-12-08",
+            "date": "2022-12-09",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1657387100",
+            "price": 10300,
+            "name": "リザードンV SSR",
+            "date": "2022-12-09",
             "stock": 1
         },
         {
@@ -13,13 +21,69 @@
             "link": "/items/1285305290",
             "price": 9897,
             "name": "リザードンV SSR",
-            "date": "2022-12-08",
+            "date": "2022-12-09",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1657387100",
-            "price": 10300,
+            "link": "/items/2020282694",
+            "price": 9800,
+            "name": "リザードンV SSR",
+            "date": "2022-12-09",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/20695880",
+            "price": 11340,
+            "name": "リザードンV【SSR",
+            "date": "2022-12-09",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/616643665",
+            "price": 9954,
+            "name": "〔状態A-〕リザード",
+            "date": "2022-12-09",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/25863",
+            "price": 32000,
+            "name": "【PSA10】リザー",
+            "date": "2022-12-09",
+            "stock": 3
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18713",
+            "price": 12000,
+            "name": "リザードンV(SSR",
+            "date": "2022-12-09",
+            "stock": 13
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30896",
+            "price": 9480,
+            "name": "リザードンV307/",
+            "date": "2022-12-09",
+            "stock": 32
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17456",
+            "price": 10800,
+            "name": "リザードンV307/",
+            "date": "2022-12-09",
+            "stock": 76
+        },
+        {
+            "market": "magi",
+            "link": "/items/1285305290",
+            "price": 9897,
             "name": "リザードンV SSR",
             "date": "2022-12-08",
             "stock": 1
@@ -34,9 +98,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/616643665",
-            "price": 9954,
-            "name": "〔状態A-〕リザード",
+            "link": "/items/1657387100",
+            "price": 10300,
+            "name": "リザードンV SSR",
+            "date": "2022-12-08",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2020282694",
+            "price": 9800,
+            "name": "リザードンV SSR",
             "date": "2022-12-08",
             "stock": 1
         },
@@ -49,12 +121,12 @@
             "stock": 1
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/25863",
-            "price": 32000,
-            "name": "【PSA10】リザー",
+            "market": "magi",
+            "link": "/items/616643665",
+            "price": 9954,
+            "name": "〔状態A-〕リザード",
             "date": "2022-12-08",
-            "stock": 3
+            "stock": 1
         },
         {
             "market": "hareruya2",
@@ -63,6 +135,14 @@
             "name": "リザードンV(SSR",
             "date": "2022-12-08",
             "stock": 13
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/25863",
+            "price": 32000,
+            "name": "【PSA10】リザー",
+            "date": "2022-12-08",
+            "stock": 3
         },
         {
             "market": "cardrush",
@@ -90,24 +170,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/1657387100",
-            "price": 10300,
-            "name": "リザードンV SSR",
-            "date": "2022-12-07",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/616643665",
-            "price": 9954,
-            "name": "〔状態A-〕リザード",
-            "date": "2022-12-07",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/537920275",
-            "price": 7000,
+            "link": "/items/2020282694",
+            "price": 9800,
             "name": "リザードンV SSR",
             "date": "2022-12-07",
             "stock": 1
@@ -122,19 +186,27 @@
         },
         {
             "market": "magi",
-            "link": "/items/2020282694",
-            "price": 9800,
+            "link": "/items/537920275",
+            "price": 7000,
             "name": "リザードンV SSR",
             "date": "2022-12-07",
             "stock": 1
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18713",
-            "price": 12000,
-            "name": "リザードンV(SSR",
+            "market": "magi",
+            "link": "/items/616643665",
+            "price": 9954,
+            "name": "〔状態A-〕リザード",
             "date": "2022-12-07",
-            "stock": 13
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1657387100",
+            "price": 10300,
+            "name": "リザードンV SSR",
+            "date": "2022-12-07",
+            "stock": 1
         },
         {
             "market": "hareruya2",
@@ -143,6 +215,14 @@
             "name": "【PSA10】リザー",
             "date": "2022-12-07",
             "stock": 3
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18713",
+            "price": 12000,
+            "name": "リザードンV(SSR",
+            "date": "2022-12-07",
+            "stock": 13
         },
         {
             "market": "cardrush",
@@ -162,9 +242,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/2020282694",
-            "price": 9800,
-            "name": "リザードンV SSR",
+            "link": "/items/616643665",
+            "price": 9954,
+            "name": "〔状態A-〕リザード",
             "date": "2022-12-06",
             "stock": 1
         },
@@ -173,14 +253,6 @@
             "link": "/items/20695880",
             "price": 11340,
             "name": "リザードンV【SSR",
-            "date": "2022-12-06",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1657387100",
-            "price": 10300,
-            "name": "リザードンV SSR",
             "date": "2022-12-06",
             "stock": 1
         },
@@ -194,9 +266,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/616643665",
-            "price": 9954,
-            "name": "〔状態A-〕リザード",
+            "link": "/items/1657387100",
+            "price": 10300,
+            "name": "リザードンV SSR",
+            "date": "2022-12-06",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2020282694",
+            "price": 9800,
+            "name": "リザードンV SSR",
             "date": "2022-12-06",
             "stock": 1
         },
@@ -242,17 +322,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/1657387100",
-            "price": 10300,
+            "link": "/items/1285305290",
+            "price": 9898,
             "name": "リザードンV SSR",
-            "date": "2022-12-05",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/616643665",
-            "price": 9954,
-            "name": "〔状態A-〕リザード",
             "date": "2022-12-05",
             "stock": 1
         },
@@ -266,19 +338,19 @@
         },
         {
             "market": "magi",
-            "link": "/items/1285305290",
-            "price": 9898,
-            "name": "リザードンV SSR",
+            "link": "/items/616643665",
+            "price": 9954,
+            "name": "〔状態A-〕リザード",
             "date": "2022-12-05",
             "stock": 1
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/25863",
-            "price": 32000,
-            "name": "【PSA10】リザー",
+            "market": "magi",
+            "link": "/items/1657387100",
+            "price": 10300,
+            "name": "リザードンV SSR",
             "date": "2022-12-05",
-            "stock": 3
+            "stock": 1
         },
         {
             "market": "hareruya2",
@@ -289,12 +361,12 @@
             "stock": 12
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30896",
-            "price": 9480,
-            "name": "リザードンV307/",
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/25863",
+            "price": 32000,
+            "name": "【PSA10】リザー",
             "date": "2022-12-05",
-            "stock": 32
+            "stock": 3
         },
         {
             "market": "cardrush",
@@ -305,28 +377,12 @@
             "stock": 81
         },
         {
-            "market": "magi",
-            "link": "/items/616643665",
-            "price": 9954,
-            "name": "〔状態A-〕リザード",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2020282694",
-            "price": 9800,
-            "name": "リザードンV SSR",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/20695880",
-            "price": 11340,
-            "name": "リザードンV【SSR",
-            "date": "2022-12-04",
-            "stock": 1
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30896",
+            "price": 9480,
+            "name": "リザードンV307/",
+            "date": "2022-12-05",
+            "stock": 32
         },
         {
             "market": "magi",
@@ -337,12 +393,28 @@
             "stock": 1
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18713",
-            "price": 12000,
-            "name": "リザードンV(SSR",
+            "market": "magi",
+            "link": "/items/20695880",
+            "price": 11340,
+            "name": "リザードンV【SSR",
             "date": "2022-12-04",
-            "stock": 12
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2020282694",
+            "price": 9800,
+            "name": "リザードンV SSR",
+            "date": "2022-12-04",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/616643665",
+            "price": 9954,
+            "name": "〔状態A-〕リザード",
+            "date": "2022-12-04",
+            "stock": 1
         },
         {
             "market": "hareruya2",
@@ -353,12 +425,12 @@
             "stock": 3
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17456",
-            "price": 10800,
-            "name": "リザードンV307/",
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18713",
+            "price": 12000,
+            "name": "リザードンV(SSR",
             "date": "2022-12-04",
-            "stock": 82
+            "stock": 12
         },
         {
             "market": "cardrush",
@@ -369,9 +441,17 @@
             "stock": 32
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17456",
+            "price": 10800,
+            "name": "リザードンV307/",
+            "date": "2022-12-04",
+            "stock": 82
+        },
+        {
             "market": "magi",
-            "link": "/items/2020282694",
-            "price": 9800,
+            "link": "/items/1285305290",
+            "price": 9899,
             "name": "リザードンV SSR",
             "date": "2022-12-03",
             "stock": 1
@@ -386,17 +466,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/616643665",
-            "price": 9954,
-            "name": "〔状態A-〕リザード",
+            "link": "/items/2020282694",
+            "price": 9800,
+            "name": "リザードンV SSR",
             "date": "2022-12-03",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1285305290",
-            "price": 9899,
-            "name": "リザードンV SSR",
+            "link": "/items/616643665",
+            "price": 9954,
+            "name": "〔状態A-〕リザード",
             "date": "2022-12-03",
             "stock": 1
         },
@@ -495,70 +575,6 @@
             "name": "リザードンV307/",
             "date": "2022-12-02",
             "stock": 32
-        },
-        {
-            "market": "magi",
-            "link": "/items/1285305290",
-            "price": 9899,
-            "name": "リザードンV SSR",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2020282694",
-            "price": 9800,
-            "name": "リザードンV SSR",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/616643665",
-            "price": 9954,
-            "name": "〔状態A-〕リザード",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/20695880",
-            "price": 11340,
-            "name": "リザードンV【SSR",
-            "date": "2022-12-01",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/25863",
-            "price": 32000,
-            "name": "【PSA10】リザー",
-            "date": "2022-12-01",
-            "stock": 3
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18713",
-            "price": 12000,
-            "name": "リザードンV(SSR",
-            "date": "2022-12-01",
-            "stock": 12
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17456",
-            "price": 10800,
-            "name": "リザードンV307/",
-            "date": "2022-12-01",
-            "stock": 82
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30896",
-            "price": 9480,
-            "name": "リザードンV307/",
-            "date": "2022-12-01",
-            "stock": 31
         }
     ]
 }
