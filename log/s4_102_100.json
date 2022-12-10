@@ -5,6 +5,22 @@
             "link": "https://www.hareruya2.com/product/18387",
             "price": 1000,
             "name": "ファイアローV(SR",
+            "date": "2022-12-10",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14590",
+            "price": 780,
+            "name": "ファイアローV102",
+            "date": "2022-12-10",
+            "stock": 13
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18387",
+            "price": 1000,
+            "name": "ファイアローV(SR",
             "date": "2022-12-09",
             "stock": 2
         },
@@ -110,22 +126,6 @@
             "price": 780,
             "name": "ファイアローV102",
             "date": "2022-12-03",
-            "stock": 6
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18387",
-            "price": 1000,
-            "name": "ファイアローV(SR",
-            "date": "2022-12-02",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14590",
-            "price": 780,
-            "name": "ファイアローV102",
-            "date": "2022-12-02",
             "stock": 6
         }
     ]

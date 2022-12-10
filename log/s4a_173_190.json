@@ -2,10 +2,10 @@
     "items": [
         {
             "market": "magi",
-            "link": "/items/1843249224",
-            "price": 200,
+            "link": "/items/1241741657",
+            "price": 100,
             "name": "ネズ 173/190",
-            "date": "2022-12-09",
+            "date": "2022-12-10",
             "stock": 1
         },
         {
@@ -13,15 +13,55 @@
             "link": "/items/1663371308",
             "price": 100,
             "name": "ネズ 173/190",
-            "date": "2022-12-09",
+            "date": "2022-12-10",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1241741657",
+            "link": "/items/1843249224",
+            "price": 200,
+            "name": "ネズ 173/190",
+            "date": "2022-12-10",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/291275961",
+            "price": 220,
+            "name": "ネズ 173/190",
+            "date": "2022-12-10",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/261155064",
+            "price": 150,
+            "name": "ネズ 173/190",
+            "date": "2022-12-10",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1685989626",
             "price": 100,
             "name": "ネズ 173/190",
-            "date": "2022-12-09",
+            "date": "2022-12-10",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/211489814",
+            "price": 150,
+            "name": "ネズ 173/190",
+            "date": "2022-12-10",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1656904115",
+            "price": 100,
+            "name": "ネズ 173/190",
+            "date": "2022-12-10",
             "stock": 1
         },
         {
@@ -29,12 +69,68 @@
             "link": "/items/1967553618",
             "price": 100,
             "name": "ネズ 173/190",
-            "date": "2022-12-09",
+            "date": "2022-12-10",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18842",
+            "price": 100,
+            "name": "ネズ:ミラー(CP)",
+            "date": "2022-12-10",
+            "stock": 12
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18579",
+            "price": 50,
+            "name": "ネズ(CP){サポー",
+            "date": "2022-12-10",
+            "stock": 115
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17322",
+            "price": 120,
+            "name": "ネズ173/190",
+            "date": "2022-12-10",
+            "stock": 31
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17156",
+            "price": 80,
+            "name": "ネズ173/190",
+            "date": "2022-12-10",
+            "stock": 122
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30766",
+            "price": 110,
+            "name": "ネズ173/190",
+            "date": "2022-12-10",
+            "stock": 4
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g173-190-S4A-BM/",
+            "price": 110,
+            "name": "【ポケカ】Ｃ）ミラー",
+            "date": "2022-12-10",
             "stock": 1
         },
         {
             "market": "magi",
             "link": "/items/1656904115",
+            "price": 100,
+            "name": "ネズ 173/190",
+            "date": "2022-12-09",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1663371308",
             "price": 100,
             "name": "ネズ 173/190",
             "date": "2022-12-09",
@@ -73,12 +169,28 @@
             "stock": 1
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18579",
-            "price": 50,
-            "name": "ネズ(CP){サポー",
+            "market": "magi",
+            "link": "/items/1843249224",
+            "price": 200,
+            "name": "ネズ 173/190",
             "date": "2022-12-09",
-            "stock": 115
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1241741657",
+            "price": 100,
+            "name": "ネズ 173/190",
+            "date": "2022-12-09",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1967553618",
+            "price": 100,
+            "name": "ネズ 173/190",
+            "date": "2022-12-09",
+            "stock": 1
         },
         {
             "market": "hareruya2",
@@ -89,20 +201,12 @@
             "stock": 12
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30766",
-            "price": 110,
-            "name": "ネズ173/190",
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18579",
+            "price": 50,
+            "name": "ネズ(CP){サポー",
             "date": "2022-12-09",
-            "stock": 4
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17322",
-            "price": 120,
-            "name": "ネズ173/190",
-            "date": "2022-12-09",
-            "stock": 31
+            "stock": 115
         },
         {
             "market": "cardrush",
@@ -113,6 +217,22 @@
             "stock": 124
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30766",
+            "price": 110,
+            "name": "ネズ173/190",
+            "date": "2022-12-09",
+            "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17322",
+            "price": 120,
+            "name": "ネズ173/190",
+            "date": "2022-12-09",
+            "stock": 31
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g173-190-S4A-BM/",
             "price": 110,
@@ -122,15 +242,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/211489814",
-            "price": 150,
-            "name": "ネズ 173/190",
-            "date": "2022-12-08",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1685989626",
+            "link": "/items/1663371308",
             "price": 100,
             "name": "ネズ 173/190",
             "date": "2022-12-08",
@@ -138,31 +250,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/1843249224",
-            "price": 200,
-            "name": "ネズ 173/190",
-            "date": "2022-12-08",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/291275961",
-            "price": 220,
-            "name": "ネズ 173/190",
-            "date": "2022-12-08",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/261155064",
-            "price": 150,
-            "name": "ネズ 173/190",
-            "date": "2022-12-08",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1241741657",
+            "link": "/items/1656904115",
             "price": 100,
             "name": "ネズ 173/190",
             "date": "2022-12-08",
@@ -178,7 +266,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/1663371308",
+            "link": "/items/1241741657",
             "price": 100,
             "name": "ネズ 173/190",
             "date": "2022-12-08",
@@ -186,8 +274,40 @@
         },
         {
             "market": "magi",
-            "link": "/items/1656904115",
+            "link": "/items/261155064",
+            "price": 150,
+            "name": "ネズ 173/190",
+            "date": "2022-12-08",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/291275961",
+            "price": 220,
+            "name": "ネズ 173/190",
+            "date": "2022-12-08",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1843249224",
+            "price": 200,
+            "name": "ネズ 173/190",
+            "date": "2022-12-08",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1685989626",
             "price": 100,
+            "name": "ネズ 173/190",
+            "date": "2022-12-08",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/211489814",
+            "price": 150,
             "name": "ネズ 173/190",
             "date": "2022-12-08",
             "stock": 1
@@ -210,11 +330,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17156",
-            "price": 80,
+            "link": "https://www.cardrush-pokemon.jp/product/17322",
+            "price": 120,
             "name": "ネズ173/190",
             "date": "2022-12-08",
-            "stock": 128
+            "stock": 31
         },
         {
             "market": "cardrush",
@@ -226,11 +346,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17322",
-            "price": 120,
+            "link": "https://www.cardrush-pokemon.jp/product/17156",
+            "price": 80,
             "name": "ネズ173/190",
             "date": "2022-12-08",
-            "stock": 31
+            "stock": 128
         },
         {
             "market": "torecolo",
@@ -238,6 +358,30 @@
             "price": 110,
             "name": "【ポケカ】Ｃ）ミラー",
             "date": "2022-12-08",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1843249224",
+            "price": 200,
+            "name": "ネズ 173/190",
+            "date": "2022-12-07",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/291275961",
+            "price": 220,
+            "name": "ネズ 173/190",
+            "date": "2022-12-07",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1685989626",
+            "price": 100,
+            "name": "ネズ 173/190",
+            "date": "2022-12-07",
             "stock": 1
         },
         {
@@ -257,28 +401,12 @@
             "stock": 1
         },
         {
-            "market": "magi",
-            "link": "/items/1685989626",
-            "price": 100,
-            "name": "ネズ 173/190",
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18579",
+            "price": 50,
+            "name": "ネズ(CP){サポー",
             "date": "2022-12-07",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/291275961",
-            "price": 220,
-            "name": "ネズ 173/190",
-            "date": "2022-12-07",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1843249224",
-            "price": 200,
-            "name": "ネズ 173/190",
-            "date": "2022-12-07",
-            "stock": 1
+            "stock": 118
         },
         {
             "market": "hareruya2",
@@ -289,20 +417,12 @@
             "stock": 12
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18579",
-            "price": 50,
-            "name": "ネズ(CP){サポー",
-            "date": "2022-12-07",
-            "stock": 118
-        },
-        {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17322",
-            "price": 120,
+            "link": "https://www.cardrush-pokemon.jp/product/30766",
+            "price": 110,
             "name": "ネズ173/190",
             "date": "2022-12-07",
-            "stock": 32
+            "stock": 4
         },
         {
             "market": "cardrush",
@@ -314,11 +434,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30766",
-            "price": 110,
+            "link": "https://www.cardrush-pokemon.jp/product/17322",
+            "price": 120,
             "name": "ネズ173/190",
             "date": "2022-12-07",
-            "stock": 4
+            "stock": 32
         },
         {
             "market": "torecolo",
@@ -326,14 +446,6 @@
             "price": 110,
             "name": "【ポケカ】Ｃ）ミラー",
             "date": "2022-12-07",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/211489814",
-            "price": 150,
-            "name": "ネズ 173/190",
-            "date": "2022-12-06",
             "stock": 1
         },
         {
@@ -354,6 +466,14 @@
         },
         {
             "market": "magi",
+            "link": "/items/1685989626",
+            "price": 100,
+            "name": "ネズ 173/190",
+            "date": "2022-12-06",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/1843249224",
             "price": 200,
             "name": "ネズ 173/190",
@@ -362,8 +482,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/1685989626",
-            "price": 100,
+            "link": "/items/211489814",
+            "price": 150,
             "name": "ネズ 173/190",
             "date": "2022-12-06",
             "stock": 1
@@ -383,14 +503,6 @@
             "name": "ネズ(CP){サポー",
             "date": "2022-12-06",
             "stock": 118
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30766",
-            "price": 110,
-            "name": "ネズ173/190",
-            "date": "2022-12-06",
-            "stock": 4
         },
         {
             "market": "cardrush",
@@ -409,6 +521,14 @@
             "stock": 33
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30766",
+            "price": 110,
+            "name": "ネズ173/190",
+            "date": "2022-12-06",
+            "stock": 4
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g173-190-S4A-BM/",
             "price": 110,
@@ -418,24 +538,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/291275961",
-            "price": 220,
-            "name": "ネズ 173/190",
-            "date": "2022-12-05",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/261155064",
+            "link": "/items/211489814",
             "price": 150,
-            "name": "ネズ 173/190",
-            "date": "2022-12-05",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1685989626",
-            "price": 100,
             "name": "ネズ 173/190",
             "date": "2022-12-05",
             "stock": 1
@@ -450,19 +554,27 @@
         },
         {
             "market": "magi",
-            "link": "/items/211489814",
+            "link": "/items/1685989626",
+            "price": 100,
+            "name": "ネズ 173/190",
+            "date": "2022-12-05",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/261155064",
             "price": 150,
             "name": "ネズ 173/190",
             "date": "2022-12-05",
             "stock": 1
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18842",
-            "price": 100,
-            "name": "ネズ:ミラー(CP)",
+            "market": "magi",
+            "link": "/items/291275961",
+            "price": 220,
+            "name": "ネズ 173/190",
             "date": "2022-12-05",
-            "stock": 12
+            "stock": 1
         },
         {
             "market": "hareruya2",
@@ -473,12 +585,20 @@
             "stock": 120
         },
         {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18842",
+            "price": 100,
+            "name": "ネズ:ミラー(CP)",
+            "date": "2022-12-05",
+            "stock": 12
+        },
+        {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17156",
-            "price": 80,
+            "link": "https://www.cardrush-pokemon.jp/product/30766",
+            "price": 110,
             "name": "ネズ173/190",
             "date": "2022-12-05",
-            "stock": 142
+            "stock": 4
         },
         {
             "market": "cardrush",
@@ -490,11 +610,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30766",
-            "price": 110,
+            "link": "https://www.cardrush-pokemon.jp/product/17156",
+            "price": 80,
             "name": "ネズ173/190",
             "date": "2022-12-05",
-            "stock": 4
+            "stock": 142
         },
         {
             "market": "torecolo",
@@ -502,6 +622,14 @@
             "price": 110,
             "name": "【ポケカ】Ｃ）ミラー",
             "date": "2022-12-05",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/211489814",
+            "price": 150,
+            "name": "ネズ 173/190",
+            "date": "2022-12-04",
             "stock": 1
         },
         {
@@ -515,14 +643,6 @@
         {
             "market": "magi",
             "link": "/items/261155064",
-            "price": 150,
-            "name": "ネズ 173/190",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/211489814",
             "price": 150,
             "name": "ネズ 173/190",
             "date": "2022-12-04",
@@ -559,6 +679,14 @@
             "name": "ネズ(CP){サポー",
             "date": "2022-12-04",
             "stock": 126
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30766",
+            "price": 110,
+            "name": "ネズ173/190",
+            "date": "2022-12-04",
+            "stock": 4
         },
         {
             "market": "cardrush",
@@ -577,14 +705,6 @@
             "stock": 144
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30766",
-            "price": 110,
-            "name": "ネズ173/190",
-            "date": "2022-12-04",
-            "stock": 4
-        },
-        {
             "market": "torecolo",
             "link": "/shop/g/g173-190-S4A-BM/",
             "price": 110,
@@ -594,8 +714,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/1685989626",
-            "price": 100,
+            "link": "/items/261155064",
+            "price": 150,
             "name": "ネズ 173/190",
             "date": "2022-12-03",
             "stock": 1
@@ -626,8 +746,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/261155064",
-            "price": 150,
+            "link": "/items/1685989626",
+            "price": 100,
             "name": "ネズ 173/190",
             "date": "2022-12-03",
             "stock": 1
@@ -678,94 +798,6 @@
             "price": 110,
             "name": "【ポケカ】Ｃ）ミラー",
             "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/211489814",
-            "price": 150,
-            "name": "ネズ 173/190",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/291275961",
-            "price": 220,
-            "name": "ネズ 173/190",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1685989626",
-            "price": 100,
-            "name": "ネズ 173/190",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1843249224",
-            "price": 200,
-            "name": "ネズ 173/190",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/261155064",
-            "price": 150,
-            "name": "ネズ 173/190",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18579",
-            "price": 50,
-            "name": "ネズ(CP){サポー",
-            "date": "2022-12-02",
-            "stock": 126
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18842",
-            "price": 100,
-            "name": "ネズ:ミラー(CP)",
-            "date": "2022-12-02",
-            "stock": 12
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30766",
-            "price": 110,
-            "name": "ネズ173/190",
-            "date": "2022-12-02",
-            "stock": 4
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17156",
-            "price": 80,
-            "name": "ネズ173/190",
-            "date": "2022-12-02",
-            "stock": 145
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17322",
-            "price": 120,
-            "name": "ネズ173/190",
-            "date": "2022-12-02",
-            "stock": 33
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g173-190-S4A-BM/",
-            "price": 110,
-            "name": "【ポケカ】Ｃ）ミラー",
-            "date": "2022-12-02",
             "stock": 1
         }
     ]

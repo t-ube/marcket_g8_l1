@@ -5,6 +5,22 @@
             "link": "https://www.cardrush-pokemon.jp/product/7879",
             "price": 580,
             "name": "ミロカロスV099/",
+            "date": "2022-12-10",
+            "stock": 5
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/7545",
+            "price": 880,
+            "name": "ミロカロスV099/",
+            "date": "2022-12-10",
+            "stock": 16
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/7879",
+            "price": 580,
+            "name": "ミロカロスV099/",
             "date": "2022-12-09",
             "stock": 5
         },
@@ -66,14 +82,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7879",
-            "price": 580,
-            "name": "ミロカロスV099/",
-            "date": "2022-12-06",
-            "stock": 4
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/29925",
             "price": 730,
             "name": "ミロカロスV099/",
@@ -82,10 +90,26 @@
         },
         {
             "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/7879",
+            "price": 580,
+            "name": "ミロカロスV099/",
+            "date": "2022-12-06",
+            "stock": 4
+        },
+        {
+            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/7545",
             "price": 880,
             "name": "ミロカロスV099/",
             "date": "2022-12-06",
+            "stock": 14
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/7545",
+            "price": 880,
+            "name": "ミロカロスV099/",
+            "date": "2022-12-05",
             "stock": 14
         },
         {
@@ -98,14 +122,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7545",
-            "price": 880,
-            "name": "ミロカロスV099/",
-            "date": "2022-12-05",
-            "stock": 14
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/29925",
             "price": 730,
             "name": "ミロカロスV099/",
@@ -114,11 +130,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7545",
-            "price": 880,
+            "link": "https://www.cardrush-pokemon.jp/product/29925",
+            "price": 730,
             "name": "ミロカロスV099/",
             "date": "2022-12-04",
-            "stock": 14
+            "stock": 1
         },
         {
             "market": "cardrush",
@@ -130,27 +146,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/29925",
-            "price": 730,
+            "link": "https://www.cardrush-pokemon.jp/product/7545",
+            "price": 880,
             "name": "ミロカロスV099/",
             "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/29925",
-            "price": 730,
-            "name": "ミロカロスV099/",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7879",
-            "price": 580,
-            "name": "ミロカロスV099/",
-            "date": "2022-12-03",
-            "stock": 4
+            "stock": 14
         },
         {
             "market": "cardrush",
@@ -162,27 +162,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/29925",
-            "price": 730,
-            "name": "ミロカロスV099/",
-            "date": "2022-12-02",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7545",
-            "price": 880,
-            "name": "ミロカロスV099/",
-            "date": "2022-12-02",
-            "stock": 14
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/7879",
             "price": 580,
             "name": "ミロカロスV099/",
-            "date": "2022-12-02",
+            "date": "2022-12-03",
             "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/29925",
+            "price": 730,
+            "name": "ミロカロスV099/",
+            "date": "2022-12-03",
+            "stock": 1
         }
     ]
 }
