@@ -5,6 +5,22 @@
             "link": "/items/1632720072",
             "price": 2971,
             "name": "ルリナ HR 118",
+            "date": "2022-12-11",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18403",
+            "price": 3500,
+            "name": "ルリナ(HR){サポ",
+            "date": "2022-12-11",
+            "stock": 2
+        },
+        {
+            "market": "magi",
+            "link": "/items/1632720072",
+            "price": 2971,
+            "name": "ルリナ HR 118",
             "date": "2022-12-10",
             "stock": 1
         },
@@ -114,17 +130,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/333966168",
-            "price": 3444,
-            "name": "ルリナ【HR】{11",
+            "link": "/items/1632720072",
+            "price": 3064,
+            "name": "ルリナ HR 118",
             "date": "2022-12-04",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1632720072",
-            "price": 3064,
-            "name": "ルリナ HR 118",
+            "link": "/items/333966168",
+            "price": 3444,
+            "name": "ルリナ【HR】{11",
             "date": "2022-12-04",
             "stock": 1
         },
@@ -143,38 +159,6 @@
             "name": "ルリナ118/100",
             "date": "2022-12-04",
             "stock": 10
-        },
-        {
-            "market": "magi",
-            "link": "/items/1632720072",
-            "price": 3064,
-            "name": "ルリナ HR 118",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/333966168",
-            "price": 3444,
-            "name": "ルリナ【HR】{11",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18403",
-            "price": 3500,
-            "name": "ルリナ(HR){サポ",
-            "date": "2022-12-03",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14606",
-            "price": 3280,
-            "name": "ルリナ118/100",
-            "date": "2022-12-03",
-            "stock": 14
         }
     ]
 }

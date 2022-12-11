@@ -5,6 +5,22 @@
             "link": "https://www.hareruya2.com/product/17994",
             "price": 100,
             "name": "ドサイドンV(RR)",
+            "date": "2022-12-11",
+            "stock": 66
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/13288",
+            "price": 80,
+            "name": "ドサイドンV049/",
+            "date": "2022-12-11",
+            "stock": 91
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17994",
+            "price": 100,
+            "name": "ドサイドンV(RR)",
             "date": "2022-12-10",
             "stock": 66
         },
@@ -110,22 +126,6 @@
             "price": 80,
             "name": "ドサイドンV049/",
             "date": "2022-12-04",
-            "stock": 91
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/17994",
-            "price": 100,
-            "name": "ドサイドンV(RR)",
-            "date": "2022-12-03",
-            "stock": 66
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/13288",
-            "price": 80,
-            "name": "ドサイドンV049/",
-            "date": "2022-12-03",
             "stock": 91
         }
     ]

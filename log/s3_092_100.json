@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/18037",
             "price": 50,
             "name": "タフネスマント(U)",
+            "date": "2022-12-11",
+            "stock": 14
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/13331",
+            "price": 80,
+            "name": "タフネスマント092",
+            "date": "2022-12-11",
+            "stock": 23
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g092-100-S3-B/",
+            "price": 72,
+            "name": "【ポケカ】Ｕ◇タフネ",
+            "date": "2022-12-11",
+            "stock": 5
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18037",
+            "price": 50,
+            "name": "タフネスマント(U)",
             "date": "2022-12-10",
             "stock": 16
         },
@@ -151,6 +175,14 @@
             "name": "タフネスマント(U)",
             "date": "2022-12-04",
             "stock": 18
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/13331",
+            "price": 80,
+            "name": "タフネスマント092",
+            "date": "2022-12-04",
+            "stock": 23
         },
         {
             "market": "cardrush",
@@ -161,51 +193,11 @@
             "stock": 1
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/13331",
-            "price": 80,
-            "name": "タフネスマント092",
-            "date": "2022-12-04",
-            "stock": 23
-        },
-        {
             "market": "torecolo",
             "link": "/shop/g/g092-100-S3-B/",
             "price": 72,
             "name": "【ポケカ】Ｕ◇タフネ",
             "date": "2022-12-04",
-            "stock": 5
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18037",
-            "price": 50,
-            "name": "タフネスマント(U)",
-            "date": "2022-12-03",
-            "stock": 18
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14986",
-            "price": 50,
-            "name": "タフネスマント092",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/13331",
-            "price": 80,
-            "name": "タフネスマント092",
-            "date": "2022-12-03",
-            "stock": 23
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g092-100-S3-B/",
-            "price": 72,
-            "name": "【ポケカ】Ｕ◇タフネ",
-            "date": "2022-12-03",
             "stock": 5
         }
     ]

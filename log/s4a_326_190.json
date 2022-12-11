@@ -5,6 +5,46 @@
             "link": "/items/127820872",
             "price": 500,
             "name": "ウッウV SSR 3",
+            "date": "2022-12-11",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18732",
+            "price": 700,
+            "name": "ウッウV(SSR){",
+            "date": "2022-12-11",
+            "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17655",
+            "price": 480,
+            "name": "ウッウV326/19",
+            "date": "2022-12-11",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30915",
+            "price": 680,
+            "name": "ウッウV326/19",
+            "date": "2022-12-11",
+            "stock": 28
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17475",
+            "price": 780,
+            "name": "ウッウV326/19",
+            "date": "2022-12-11",
+            "stock": 120
+        },
+        {
+            "market": "magi",
+            "link": "/items/127820872",
+            "price": 500,
+            "name": "ウッウV SSR 3",
             "date": "2022-12-10",
             "stock": 1
         },
@@ -58,22 +98,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17655",
-            "price": 480,
-            "name": "ウッウV326/19",
-            "date": "2022-12-09",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30915",
-            "price": 680,
-            "name": "ウッウV326/19",
-            "date": "2022-12-09",
-            "stock": 28
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17475",
             "price": 780,
             "name": "ウッウV326/19",
@@ -81,108 +105,116 @@
             "stock": 120
         },
         {
-            "market": "magi",
-            "link": "/items/127820872",
-            "price": 500,
-            "name": "ウッウV SSR 3",
-            "date": "2022-12-08",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18732",
-            "price": 700,
-            "name": "ウッウV(SSR){",
-            "date": "2022-12-08",
-            "stock": 3
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17475",
-            "price": 780,
-            "name": "ウッウV326/19",
-            "date": "2022-12-08",
-            "stock": 108
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30915",
             "price": 680,
             "name": "ウッウV326/19",
-            "date": "2022-12-08",
-            "stock": 27
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17655",
-            "price": 480,
-            "name": "ウッウV326/19",
-            "date": "2022-12-08",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/127820872",
-            "price": 500,
-            "name": "ウッウV SSR 3",
-            "date": "2022-12-07",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18732",
-            "price": 700,
-            "name": "ウッウV(SSR){",
-            "date": "2022-12-07",
-            "stock": 3
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17475",
-            "price": 780,
-            "name": "ウッウV326/19",
-            "date": "2022-12-07",
-            "stock": 108
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30915",
-            "price": 680,
-            "name": "ウッウV326/19",
-            "date": "2022-12-07",
-            "stock": 27
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17655",
-            "price": 480,
-            "name": "ウッウV326/19",
-            "date": "2022-12-07",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/127820872",
-            "price": 500,
-            "name": "ウッウV SSR 3",
-            "date": "2022-12-06",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18732",
-            "price": 700,
-            "name": "ウッウV(SSR){",
-            "date": "2022-12-06",
-            "stock": 3
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30915",
-            "price": 680,
-            "name": "ウッウV326/19",
-            "date": "2022-12-06",
+            "date": "2022-12-09",
             "stock": 28
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17655",
+            "price": 480,
+            "name": "ウッウV326/19",
+            "date": "2022-12-09",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/127820872",
+            "price": 500,
+            "name": "ウッウV SSR 3",
+            "date": "2022-12-08",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18732",
+            "price": 700,
+            "name": "ウッウV(SSR){",
+            "date": "2022-12-08",
+            "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30915",
+            "price": 680,
+            "name": "ウッウV326/19",
+            "date": "2022-12-08",
+            "stock": 27
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17475",
+            "price": 780,
+            "name": "ウッウV326/19",
+            "date": "2022-12-08",
+            "stock": 108
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17655",
+            "price": 480,
+            "name": "ウッウV326/19",
+            "date": "2022-12-08",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/127820872",
+            "price": 500,
+            "name": "ウッウV SSR 3",
+            "date": "2022-12-07",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18732",
+            "price": 700,
+            "name": "ウッウV(SSR){",
+            "date": "2022-12-07",
+            "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17655",
+            "price": 480,
+            "name": "ウッウV326/19",
+            "date": "2022-12-07",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30915",
+            "price": 680,
+            "name": "ウッウV326/19",
+            "date": "2022-12-07",
+            "stock": 27
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17475",
+            "price": 780,
+            "name": "ウッウV326/19",
+            "date": "2022-12-07",
+            "stock": 108
+        },
+        {
+            "market": "magi",
+            "link": "/items/127820872",
+            "price": 500,
+            "name": "ウッウV SSR 3",
+            "date": "2022-12-06",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18732",
+            "price": 700,
+            "name": "ウッウV(SSR){",
+            "date": "2022-12-06",
+            "stock": 3
         },
         {
             "market": "cardrush",
@@ -193,6 +225,14 @@
             "stock": 96
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30915",
+            "price": 680,
+            "name": "ウッウV326/19",
+            "date": "2022-12-06",
+            "stock": 28
+        },
+        {
             "market": "magi",
             "link": "/items/127820872",
             "price": 500,
@@ -207,14 +247,6 @@
             "name": "ウッウV(SSR){",
             "date": "2022-12-05",
             "stock": 3
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30915",
-            "price": 680,
-            "name": "ウッウV326/19",
-            "date": "2022-12-05",
-            "stock": 28
         },
         {
             "market": "cardrush",
@@ -225,6 +257,14 @@
             "stock": 111
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30915",
+            "price": 680,
+            "name": "ウッウV326/19",
+            "date": "2022-12-05",
+            "stock": 28
+        },
+        {
             "market": "magi",
             "link": "/items/127820872",
             "price": 500,
@@ -254,38 +294,6 @@
             "price": 680,
             "name": "ウッウV326/19",
             "date": "2022-12-04",
-            "stock": 28
-        },
-        {
-            "market": "magi",
-            "link": "/items/127820872",
-            "price": 500,
-            "name": "ウッウV SSR 3",
-            "date": "2022-12-03",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18732",
-            "price": 700,
-            "name": "ウッウV(SSR){",
-            "date": "2022-12-03",
-            "stock": 3
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17475",
-            "price": 780,
-            "name": "ウッウV326/19",
-            "date": "2022-12-03",
-            "stock": 119
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30915",
-            "price": 680,
-            "name": "ウッウV326/19",
-            "date": "2022-12-03",
             "stock": 28
         }
     ]
