@@ -1,6 +1,30 @@
 ﻿{
     "items": [
         {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18285",
+            "price": 3200,
+            "name": "タフネスマント(UR",
+            "date": "2022-12-12",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30265",
+            "price": 2480,
+            "name": "タフネスマント094",
+            "date": "2022-12-12",
+            "stock": 14
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14154",
+            "price": 2980,
+            "name": "タフネスマント094",
+            "date": "2022-12-12",
+            "stock": 9
+        },
+        {
             "market": "magi",
             "link": "/items/2043100871",
             "price": 3444,
@@ -50,19 +74,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14154",
-            "price": 3280,
-            "name": "タフネスマント094",
-            "date": "2022-12-10",
-            "stock": 9
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30265",
             "price": 2780,
             "name": "タフネスマント094",
             "date": "2022-12-10",
             "stock": 14
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14154",
+            "price": 3280,
+            "name": "タフネスマント094",
+            "date": "2022-12-10",
+            "stock": 9
         },
         {
             "market": "magi",
@@ -79,14 +103,6 @@
             "name": "タフネスマント(UR",
             "date": "2022-12-09",
             "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14154",
-            "price": 3280,
-            "name": "タフネスマント094",
-            "date": "2022-12-09",
-            "stock": 9
         },
         {
             "market": "cardrush",
@@ -97,6 +113,14 @@
             "stock": 14
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14154",
+            "price": 3280,
+            "name": "タフネスマント094",
+            "date": "2022-12-09",
+            "stock": 9
+        },
+        {
             "market": "magi",
             "link": "/items/2043100871",
             "price": 3444,
@@ -114,19 +138,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14154",
-            "price": 3280,
-            "name": "タフネスマント094",
-            "date": "2022-12-08",
-            "stock": 8
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30265",
             "price": 2780,
             "name": "タフネスマント094",
             "date": "2022-12-08",
             "stock": 12
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14154",
+            "price": 3280,
+            "name": "タフネスマント094",
+            "date": "2022-12-08",
+            "stock": 8
         },
         {
             "market": "magi",
@@ -146,19 +170,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30265",
-            "price": 2780,
-            "name": "タフネスマント094",
-            "date": "2022-12-07",
-            "stock": 12
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/14154",
             "price": 3280,
             "name": "タフネスマント094",
             "date": "2022-12-07",
             "stock": 8
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30265",
+            "price": 2780,
+            "name": "タフネスマント094",
+            "date": "2022-12-07",
+            "stock": 12
         },
         {
             "market": "magi",
@@ -210,14 +234,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30265",
-            "price": 2780,
-            "name": "タフネスマント094",
-            "date": "2022-12-05",
-            "stock": 12
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/14154",
             "price": 3280,
             "name": "タフネスマント094",
@@ -225,35 +241,11 @@
             "stock": 8
         },
         {
-            "market": "magi",
-            "link": "/items/2043100871",
-            "price": 3444,
-            "name": "タフネスマント【UR",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18285",
-            "price": 3200,
-            "name": "タフネスマント(UR",
-            "date": "2022-12-04",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14154",
-            "price": 3280,
-            "name": "タフネスマント094",
-            "date": "2022-12-04",
-            "stock": 8
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30265",
             "price": 2780,
             "name": "タフネスマント094",
-            "date": "2022-12-04",
+            "date": "2022-12-05",
             "stock": 12
         }
     ]

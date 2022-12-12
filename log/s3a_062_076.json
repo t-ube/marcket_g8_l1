@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/18253",
             "price": 50,
             "name": "ケララッパ(C){無",
+            "date": "2022-12-12",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14097",
+            "price": 80,
+            "name": "ケララッパ062/0",
+            "date": "2022-12-12",
+            "stock": 128
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g062-076-S3A-B/",
+            "price": 44,
+            "name": "【ポケカ】Ｃ◇ケララ",
+            "date": "2022-12-12",
+            "stock": 20
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18253",
+            "price": 50,
+            "name": "ケララッパ(C){無",
             "date": "2022-12-11",
             "stock": 2
         },
@@ -166,30 +190,6 @@
             "price": 44,
             "name": "【ポケカ】Ｃ◇ケララ",
             "date": "2022-12-05",
-            "stock": 20
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18253",
-            "price": 50,
-            "name": "ケララッパ(C){無",
-            "date": "2022-12-04",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14097",
-            "price": 80,
-            "name": "ケララッパ062/0",
-            "date": "2022-12-04",
-            "stock": 128
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g062-076-S3A-B/",
-            "price": 44,
-            "name": "【ポケカ】Ｃ◇ケララ",
-            "date": "2022-12-04",
             "stock": 20
         }
     ]
