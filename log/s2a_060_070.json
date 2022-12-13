@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/17919",
             "price": 50,
             "name": "ココガラ(C){無}",
+            "date": "2022-12-13",
+            "stock": 21
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/13161",
+            "price": 30,
+            "name": "ココガラ060/07",
+            "date": "2022-12-13",
+            "stock": 40
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g060-070-S2A-B/",
+            "price": 33,
+            "name": "【ポケカ】Ｃ◇ココガ",
+            "date": "2022-12-13",
+            "stock": 8
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17919",
+            "price": 50,
+            "name": "ココガラ(C){無}",
             "date": "2022-12-12",
             "stock": 21
         },
@@ -166,30 +190,6 @@
             "price": 33,
             "name": "【ポケカ】Ｃ◇ココガ",
             "date": "2022-12-06",
-            "stock": 8
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/17919",
-            "price": 50,
-            "name": "ココガラ(C){無}",
-            "date": "2022-12-05",
-            "stock": 21
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/13161",
-            "price": 30,
-            "name": "ココガラ060/07",
-            "date": "2022-12-05",
-            "stock": 41
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g060-070-S2A-B/",
-            "price": 33,
-            "name": "【ポケカ】Ｃ◇ココガ",
-            "date": "2022-12-05",
             "stock": 8
         }
     ]

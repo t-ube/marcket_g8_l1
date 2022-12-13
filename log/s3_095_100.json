@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/18040",
             "price": 100,
             "name": "ネズ(U){サポート",
+            "date": "2022-12-13",
+            "stock": 5
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/13334",
+            "price": 80,
+            "name": "ネズ095/100",
+            "date": "2022-12-13",
+            "stock": 229
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g095-100-S3-B/",
+            "price": 110,
+            "name": "【ポケカ】Ｕ◇ネズ",
+            "date": "2022-12-13",
+            "stock": 8
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18040",
+            "price": 100,
+            "name": "ネズ(U){サポート",
             "date": "2022-12-12",
             "stock": 5
         },
@@ -166,30 +190,6 @@
             "price": 110,
             "name": "【ポケカ】Ｕ◇ネズ",
             "date": "2022-12-06",
-            "stock": 8
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18040",
-            "price": 100,
-            "name": "ネズ(U){サポート",
-            "date": "2022-12-05",
-            "stock": 5
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/13334",
-            "price": 80,
-            "name": "ネズ095/100",
-            "date": "2022-12-05",
-            "stock": 229
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g095-100-S3-B/",
-            "price": 110,
-            "name": "【ポケカ】Ｕ◇ネズ",
-            "date": "2022-12-05",
             "stock": 8
         }
     ]

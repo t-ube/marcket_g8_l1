@@ -5,7 +5,7 @@
             "link": "/items/450908894",
             "price": 550,
             "name": "バチンキー S 20",
-            "date": "2022-12-12",
+            "date": "2022-12-13",
             "stock": 1
         },
         {
@@ -13,6 +13,62 @@
             "link": "/items/849199485",
             "price": 920,
             "name": "サルノリ S 203",
+            "date": "2022-12-13",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18609",
+            "price": 250,
+            "name": "サルノリ(S){草}",
+            "date": "2022-12-13",
+            "stock": 28
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17352",
+            "price": 380,
+            "name": "サルノリ203/19",
+            "date": "2022-12-13",
+            "stock": 36
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30792",
+            "price": 330,
+            "name": "サルノリ203/19",
+            "date": "2022-12-13",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17533",
+            "price": 180,
+            "name": "サルノリ203/19",
+            "date": "2022-12-13",
+            "stock": 1
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g203-190-S4A-B/",
+            "price": 330,
+            "name": "【ポケカ】Ｓ◇サルノ",
+            "date": "2022-12-13",
+            "stock": 13
+        },
+        {
+            "market": "magi",
+            "link": "/items/849199485",
+            "price": 920,
+            "name": "サルノリ S 203",
+            "date": "2022-12-12",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/450908894",
+            "price": 550,
+            "name": "バチンキー S 20",
             "date": "2022-12-12",
             "stock": 1
         },
@@ -58,17 +114,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/849199485",
-            "price": 920,
-            "name": "サルノリ S 203",
+            "link": "/items/450908894",
+            "price": 550,
+            "name": "バチンキー S 20",
             "date": "2022-12-11",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/450908894",
-            "price": 550,
-            "name": "バチンキー S 20",
+            "link": "/items/849199485",
+            "price": 920,
+            "name": "サルノリ S 203",
             "date": "2022-12-11",
             "stock": 1
         },
@@ -79,6 +135,22 @@
             "name": "サルノリ(S){草}",
             "date": "2022-12-11",
             "stock": 28
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17533",
+            "price": 180,
+            "name": "サルノリ203/19",
+            "date": "2022-12-11",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30792",
+            "price": 330,
+            "name": "サルノリ203/19",
+            "date": "2022-12-11",
+            "stock": 2
         },
         {
             "market": "cardrush",
@@ -89,22 +161,6 @@
             "stock": 35
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30792",
-            "price": 330,
-            "name": "サルノリ203/19",
-            "date": "2022-12-11",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17533",
-            "price": 180,
-            "name": "サルノリ203/19",
-            "date": "2022-12-11",
-            "stock": 1
-        },
-        {
             "market": "torecolo",
             "link": "/shop/g/g203-190-S4A-B/",
             "price": 330,
@@ -114,17 +170,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/450908894",
-            "price": 550,
-            "name": "バチンキー S 20",
+            "link": "/items/849199485",
+            "price": 920,
+            "name": "サルノリ S 203",
             "date": "2022-12-10",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/849199485",
-            "price": 920,
-            "name": "サルノリ S 203",
+            "link": "/items/450908894",
+            "price": 550,
+            "name": "バチンキー S 20",
             "date": "2022-12-10",
             "stock": 1
         },
@@ -194,11 +250,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17533",
-            "price": 180,
+            "link": "https://www.cardrush-pokemon.jp/product/17352",
+            "price": 380,
             "name": "サルノリ203/19",
             "date": "2022-12-09",
-            "stock": 1
+            "stock": 36
         },
         {
             "market": "cardrush",
@@ -210,11 +266,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17352",
-            "price": 380,
+            "link": "https://www.cardrush-pokemon.jp/product/17533",
+            "price": 180,
             "name": "サルノリ203/19",
             "date": "2022-12-09",
-            "stock": 36
+            "stock": 1
         },
         {
             "market": "torecolo",
@@ -226,17 +282,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/849199485",
-            "price": 920,
-            "name": "サルノリ S 203",
+            "link": "/items/450908894",
+            "price": 550,
+            "name": "バチンキー S 20",
             "date": "2022-12-08",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/450908894",
-            "price": 550,
-            "name": "バチンキー S 20",
+            "link": "/items/849199485",
+            "price": 920,
+            "name": "サルノリ S 203",
             "date": "2022-12-08",
             "stock": 1
         },
@@ -250,11 +306,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17352",
-            "price": 380,
+            "link": "https://www.cardrush-pokemon.jp/product/17533",
+            "price": 180,
             "name": "サルノリ203/19",
             "date": "2022-12-08",
-            "stock": 36
+            "stock": 1
         },
         {
             "market": "cardrush",
@@ -266,11 +322,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17533",
-            "price": 180,
+            "link": "https://www.cardrush-pokemon.jp/product/17352",
+            "price": 380,
             "name": "サルノリ203/19",
             "date": "2022-12-08",
-            "stock": 1
+            "stock": 36
         },
         {
             "market": "torecolo",
@@ -338,17 +394,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/450908894",
-            "price": 550,
-            "name": "バチンキー S 20",
+            "link": "/items/849199485",
+            "price": 920,
+            "name": "サルノリ S 203",
             "date": "2022-12-06",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/849199485",
-            "price": 920,
-            "name": "サルノリ S 203",
+            "link": "/items/450908894",
+            "price": 550,
+            "name": "バチンキー S 20",
             "date": "2022-12-06",
             "stock": 1
         },
@@ -390,62 +446,6 @@
             "price": 330,
             "name": "【ポケカ】Ｓ◇サルノ",
             "date": "2022-12-06",
-            "stock": 13
-        },
-        {
-            "market": "magi",
-            "link": "/items/849199485",
-            "price": 920,
-            "name": "サルノリ S 203",
-            "date": "2022-12-05",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/450908894",
-            "price": 550,
-            "name": "バチンキー S 20",
-            "date": "2022-12-05",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18609",
-            "price": 250,
-            "name": "サルノリ(S){草}",
-            "date": "2022-12-05",
-            "stock": 28
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17533",
-            "price": 180,
-            "name": "サルノリ203/19",
-            "date": "2022-12-05",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30792",
-            "price": 330,
-            "name": "サルノリ203/19",
-            "date": "2022-12-05",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17352",
-            "price": 380,
-            "name": "サルノリ203/19",
-            "date": "2022-12-05",
-            "stock": 36
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g203-190-S4A-B/",
-            "price": 330,
-            "name": "【ポケカ】Ｓ◇サルノ",
-            "date": "2022-12-05",
             "stock": 13
         }
     ]

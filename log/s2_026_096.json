@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/17729",
             "price": 50,
             "name": "ガラルダルマッカ(C",
+            "date": "2022-12-13",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/7466",
+            "price": 30,
+            "name": "ガラルダルマッカ02",
+            "date": "2022-12-13",
+            "stock": 80
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g026-096-S2-B/",
+            "price": 33,
+            "name": "【ポケカ】Ｃ◇ガラル",
+            "date": "2022-12-13",
+            "stock": 17
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17729",
+            "price": 50,
+            "name": "ガラルダルマッカ(C",
             "date": "2022-12-12",
             "stock": 2
         },
@@ -166,30 +190,6 @@
             "price": 33,
             "name": "【ポケカ】Ｃ◇ガラル",
             "date": "2022-12-06",
-            "stock": 17
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/17729",
-            "price": 50,
-            "name": "ガラルダルマッカ(C",
-            "date": "2022-12-05",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7466",
-            "price": 30,
-            "name": "ガラルダルマッカ02",
-            "date": "2022-12-05",
-            "stock": 80
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g026-096-S2-B/",
-            "price": 33,
-            "name": "【ポケカ】Ｃ◇ガラル",
-            "date": "2022-12-05",
             "stock": 17
         }
     ]

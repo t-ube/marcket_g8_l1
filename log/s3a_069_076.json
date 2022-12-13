@@ -2,6 +2,30 @@
     "items": [
         {
             "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30230",
+            "price": 70,
+            "name": "ゴツゴツメット069",
+            "date": "2022-12-13",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14104",
+            "price": 80,
+            "name": "ゴツゴツメット069",
+            "date": "2022-12-13",
+            "stock": 228
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g069-076-S3A-B/",
+            "price": 77,
+            "name": "【ポケカ】Ｕ◇ゴツゴ",
+            "date": "2022-12-13",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/14104",
             "price": 80,
             "name": "ゴツゴツメット069",
@@ -110,22 +134,6 @@
             "price": 77,
             "name": "【ポケカ】Ｕ◇ゴツゴ",
             "date": "2022-12-06",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14104",
-            "price": 80,
-            "name": "ゴツゴツメット069",
-            "date": "2022-12-05",
-            "stock": 230
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g069-076-S3A-B/",
-            "price": 77,
-            "name": "【ポケカ】Ｕ◇ゴツゴ",
-            "date": "2022-12-05",
             "stock": 1
         }
     ]

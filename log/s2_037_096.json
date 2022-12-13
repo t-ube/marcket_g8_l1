@@ -1,6 +1,14 @@
 ﻿{
     "items": [
         {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17740",
+            "price": 100,
+            "name": "ストリンダーVMAX",
+            "date": "2022-12-13",
+            "stock": 12
+        },
+        {
             "market": "magi",
             "link": "/items/1190562526",
             "price": 150,
@@ -110,22 +118,6 @@
             "price": 100,
             "name": "ストリンダーVMAX",
             "date": "2022-12-06",
-            "stock": 13
-        },
-        {
-            "market": "magi",
-            "link": "/items/1190562526",
-            "price": 150,
-            "name": "【Ｄ特価】ストリンダ",
-            "date": "2022-12-05",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/17740",
-            "price": 100,
-            "name": "ストリンダーVMAX",
-            "date": "2022-12-05",
             "stock": 13
         }
     ]

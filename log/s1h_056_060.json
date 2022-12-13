@@ -1,6 +1,14 @@
 ﻿{
     "items": [
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/6976",
+            "price": 80,
+            "name": "げんきのハチマキ05",
+            "date": "2022-12-13",
+            "stock": 85
+        },
+        {
             "market": "magi",
             "link": "/items/221931752",
             "price": 100,
@@ -111,22 +119,6 @@
             "name": "げんきのハチマキ05",
             "date": "2022-12-06",
             "stock": 87
-        },
-        {
-            "market": "magi",
-            "link": "/items/221931752",
-            "price": 100,
-            "name": "【Ｄ】げんきのハチマ",
-            "date": "2022-12-05",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/6976",
-            "price": 80,
-            "name": "げんきのハチマキ05",
-            "date": "2022-12-05",
-            "stock": 91
         }
     ]
 }

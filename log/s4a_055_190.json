@@ -1,6 +1,38 @@
 ﻿{
     "items": [
         {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18461",
+            "price": 50,
+            "name": "パルスワン(CP){",
+            "date": "2022-12-13",
+            "stock": 75
+        },
+        {
+            "market": "magi",
+            "link": "/items/415323034",
+            "price": 300,
+            "name": "パルスワン(R仕様)",
+            "date": "2022-12-13",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1438676243",
+            "price": 100,
+            "name": "パルスワン(R仕様)",
+            "date": "2022-12-13",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17038",
+            "price": 80,
+            "name": "パルスワン055/1",
+            "date": "2022-12-13",
+            "stock": 119
+        },
+        {
             "market": "magi",
             "link": "/items/877608552",
             "price": 30,
@@ -82,9 +114,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/415323034",
-            "price": 300,
-            "name": "パルスワン(R仕様)",
+            "link": "/items/877608552",
+            "price": 30,
+            "name": "1枚30円 s4a ",
             "date": "2022-12-10",
             "stock": 1
         },
@@ -98,9 +130,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/877608552",
-            "price": 30,
-            "name": "1枚30円 s4a ",
+            "link": "/items/415323034",
+            "price": 300,
+            "name": "パルスワン(R仕様)",
             "date": "2022-12-10",
             "stock": 1
         },
@@ -130,16 +162,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/1438676243",
-            "price": 100,
+            "link": "/items/415323034",
+            "price": 300,
             "name": "パルスワン(R仕様)",
             "date": "2022-12-09",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/415323034",
-            "price": 300,
+            "link": "/items/1438676243",
+            "price": 100,
             "name": "パルスワン(R仕様)",
             "date": "2022-12-09",
             "stock": 1
@@ -162,9 +194,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/877608552",
-            "price": 30,
-            "name": "1枚30円 s4a ",
+            "link": "/items/415323034",
+            "price": 300,
+            "name": "パルスワン(R仕様)",
             "date": "2022-12-08",
             "stock": 1
         },
@@ -178,9 +210,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/415323034",
-            "price": 300,
-            "name": "パルスワン(R仕様)",
+            "link": "/items/877608552",
+            "price": 30,
+            "name": "1枚30円 s4a ",
             "date": "2022-12-08",
             "stock": 1
         },
@@ -210,17 +242,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/1438676243",
-            "price": 100,
-            "name": "パルスワン(R仕様)",
+            "link": "/items/877608552",
+            "price": 30,
+            "name": "1枚30円 s4a ",
             "date": "2022-12-07",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/877608552",
-            "price": 30,
-            "name": "1枚30円 s4a ",
+            "link": "/items/1438676243",
+            "price": 100,
+            "name": "パルスワン(R仕様)",
             "date": "2022-12-07",
             "stock": 1
         },
@@ -242,8 +274,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/1438676243",
-            "price": 100,
+            "link": "/items/415323034",
+            "price": 300,
             "name": "パルスワン(R仕様)",
             "date": "2022-12-06",
             "stock": 1
@@ -258,8 +290,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/415323034",
-            "price": 300,
+            "link": "/items/1438676243",
+            "price": 100,
             "name": "パルスワン(R仕様)",
             "date": "2022-12-06",
             "stock": 1
@@ -278,46 +310,6 @@
             "price": 80,
             "name": "パルスワン055/1",
             "date": "2022-12-06",
-            "stock": 120
-        },
-        {
-            "market": "magi",
-            "link": "/items/415323034",
-            "price": 300,
-            "name": "パルスワン(R仕様)",
-            "date": "2022-12-05",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/877608552",
-            "price": 30,
-            "name": "1枚30円 s4a ",
-            "date": "2022-12-05",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1438676243",
-            "price": 100,
-            "name": "パルスワン(R仕様)",
-            "date": "2022-12-05",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18461",
-            "price": 50,
-            "name": "パルスワン(CP){",
-            "date": "2022-12-05",
-            "stock": 75
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17038",
-            "price": 80,
-            "name": "パルスワン055/1",
-            "date": "2022-12-05",
             "stock": 120
         }
     ]

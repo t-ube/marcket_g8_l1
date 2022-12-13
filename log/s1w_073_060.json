@@ -2,17 +2,57 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/2011976393",
+            "price": 8169,
+            "name": "〔状態A-〕ザシアン",
+            "date": "2022-12-13",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1449000678",
+            "price": 5000,
+            "name": "ザシアンV UR 0",
+            "date": "2022-12-13",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/1851332420",
             "price": 9954,
             "name": "ザシアンV【UR】{",
-            "date": "2022-12-12",
+            "date": "2022-12-13",
             "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/29764",
+            "price": 7780,
+            "name": "ザシアンV073/0",
+            "date": "2022-12-13",
+            "stock": 9
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/7029",
+            "price": 9480,
+            "name": "ザシアンV073/0",
+            "date": "2022-12-13",
+            "stock": 15
         },
         {
             "market": "magi",
             "link": "/items/2011976393",
             "price": 8169,
             "name": "〔状態A-〕ザシアン",
+            "date": "2022-12-12",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1851332420",
+            "price": 9954,
+            "name": "ザシアンV【UR】{",
             "date": "2022-12-12",
             "stock": 1
         },
@@ -42,14 +82,6 @@
         },
         {
             "market": "magi",
-            "link": "/items/1449000678",
-            "price": 5000,
-            "name": "ザシアンV UR 0",
-            "date": "2022-12-11",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/2011976393",
             "price": 8694,
             "name": "〔状態A-〕ザシアン",
@@ -65,12 +97,12 @@
             "stock": 1
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/29764",
-            "price": 8280,
-            "name": "ザシアンV073/0",
+            "market": "magi",
+            "link": "/items/1449000678",
+            "price": 5000,
+            "name": "ザシアンV UR 0",
             "date": "2022-12-11",
-            "stock": 9
+            "stock": 1
         },
         {
             "market": "cardrush",
@@ -81,10 +113,18 @@
             "stock": 17
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/29764",
+            "price": 8280,
+            "name": "ザシアンV073/0",
+            "date": "2022-12-11",
+            "stock": 9
+        },
+        {
             "market": "magi",
-            "link": "/items/1449000678",
-            "price": 5000,
-            "name": "ザシアンV UR 0",
+            "link": "/items/2011976393",
+            "price": 8694,
+            "name": "〔状態A-〕ザシアン",
             "date": "2022-12-10",
             "stock": 1
         },
@@ -98,11 +138,19 @@
         },
         {
             "market": "magi",
-            "link": "/items/2011976393",
-            "price": 8694,
-            "name": "〔状態A-〕ザシアン",
+            "link": "/items/1449000678",
+            "price": 5000,
+            "name": "ザシアンV UR 0",
             "date": "2022-12-10",
             "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/29764",
+            "price": 8280,
+            "name": "ザシアンV073/0",
+            "date": "2022-12-10",
+            "stock": 9
         },
         {
             "market": "cardrush",
@@ -113,18 +161,10 @@
             "stock": 12
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/29764",
-            "price": 8280,
-            "name": "ザシアンV073/0",
-            "date": "2022-12-10",
-            "stock": 9
-        },
-        {
             "market": "magi",
-            "link": "/items/1449000678",
-            "price": 5000,
-            "name": "ザシアンV UR 0",
+            "link": "/items/2011976393",
+            "price": 8694,
+            "name": "〔状態A-〕ザシアン",
             "date": "2022-12-09",
             "stock": 1
         },
@@ -138,19 +178,11 @@
         },
         {
             "market": "magi",
-            "link": "/items/2011976393",
-            "price": 8694,
-            "name": "〔状態A-〕ザシアン",
+            "link": "/items/1449000678",
+            "price": 5000,
+            "name": "ザシアンV UR 0",
             "date": "2022-12-09",
             "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/29764",
-            "price": 8280,
-            "name": "ザシアンV073/0",
-            "date": "2022-12-09",
-            "stock": 9
         },
         {
             "market": "cardrush",
@@ -161,18 +193,18 @@
             "stock": 12
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/29764",
+            "price": 8280,
+            "name": "ザシアンV073/0",
+            "date": "2022-12-09",
+            "stock": 9
+        },
+        {
             "market": "magi",
             "link": "/items/2011976393",
             "price": 8694,
             "name": "〔状態A-〕ザシアン",
-            "date": "2022-12-08",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1449000678",
-            "price": 5000,
-            "name": "ザシアンV UR 0",
             "date": "2022-12-08",
             "stock": 1
         },
@@ -185,12 +217,12 @@
             "stock": 1
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/29764",
-            "price": 8280,
-            "name": "ザシアンV073/0",
+            "market": "magi",
+            "link": "/items/1449000678",
+            "price": 5000,
+            "name": "ザシアンV UR 0",
             "date": "2022-12-08",
-            "stock": 9
+            "stock": 1
         },
         {
             "market": "cardrush",
@@ -201,10 +233,18 @@
             "stock": 11
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/29764",
+            "price": 8280,
+            "name": "ザシアンV073/0",
+            "date": "2022-12-08",
+            "stock": 9
+        },
+        {
             "market": "magi",
-            "link": "/items/1449000678",
-            "price": 5000,
-            "name": "ザシアンV UR 0",
+            "link": "/items/1851332420",
+            "price": 10479,
+            "name": "ザシアンV【UR】{",
             "date": "2022-12-07",
             "stock": 1
         },
@@ -218,11 +258,19 @@
         },
         {
             "market": "magi",
-            "link": "/items/1851332420",
-            "price": 10479,
-            "name": "ザシアンV【UR】{",
+            "link": "/items/1449000678",
+            "price": 5000,
+            "name": "ザシアンV UR 0",
             "date": "2022-12-07",
             "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/29764",
+            "price": 8280,
+            "name": "ザシアンV073/0",
+            "date": "2022-12-07",
+            "stock": 10
         },
         {
             "market": "cardrush",
@@ -233,12 +281,28 @@
             "stock": 12
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/29764",
-            "price": 8280,
-            "name": "ザシアンV073/0",
-            "date": "2022-12-07",
-            "stock": 10
+            "market": "magi",
+            "link": "/items/2011976393",
+            "price": 8694,
+            "name": "〔状態A-〕ザシアン",
+            "date": "2022-12-06",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1449000678",
+            "price": 5000,
+            "name": "ザシアンV UR 0",
+            "date": "2022-12-06",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1851332420",
+            "price": 10479,
+            "name": "ザシアンV【UR】{",
+            "date": "2022-12-06",
+            "stock": 1
         },
         {
             "market": "magi",
@@ -249,36 +313,12 @@
             "stock": 1
         },
         {
-            "market": "magi",
-            "link": "/items/2011976393",
-            "price": 8694,
-            "name": "〔状態A-〕ザシアン",
-            "date": "2022-12-06",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1851332420",
-            "price": 10479,
-            "name": "ザシアンV【UR】{",
-            "date": "2022-12-06",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1449000678",
-            "price": 5000,
-            "name": "ザシアンV UR 0",
-            "date": "2022-12-06",
-            "stock": 1
-        },
-        {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/8302",
-            "price": 5480,
+            "link": "https://www.cardrush-pokemon.jp/product/29764",
+            "price": 8280,
             "name": "ザシアンV073/0",
             "date": "2022-12-06",
-            "stock": 1
+            "stock": 10
         },
         {
             "market": "cardrush",
@@ -290,67 +330,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/29764",
-            "price": 8280,
-            "name": "ザシアンV073/0",
-            "date": "2022-12-06",
-            "stock": 10
-        },
-        {
-            "market": "magi",
-            "link": "/items/1851332420",
-            "price": 10479,
-            "name": "ザシアンV【UR】{",
-            "date": "2022-12-05",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2011976393",
-            "price": 8694,
-            "name": "〔状態A-〕ザシアン",
-            "date": "2022-12-05",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1201697788",
-            "price": 5754,
-            "name": "〔状態B〕ザシアンV",
-            "date": "2022-12-05",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1449000678",
-            "price": 5000,
-            "name": "ザシアンV UR 0",
-            "date": "2022-12-05",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7029",
-            "price": 9980,
-            "name": "ザシアンV073/0",
-            "date": "2022-12-05",
-            "stock": 12
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/8302",
             "price": 5480,
             "name": "ザシアンV073/0",
-            "date": "2022-12-05",
+            "date": "2022-12-06",
             "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/29764",
-            "price": 8280,
-            "name": "ザシアンV073/0",
-            "date": "2022-12-05",
-            "stock": 10
         }
     ]
 }
