@@ -1,6 +1,22 @@
 ﻿{
     "items": [
         {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18023",
+            "price": 50,
+            "name": "エネコ(C){無}〈",
+            "date": "2022-12-14",
+            "stock": 2
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g078-100-S3-B/",
+            "price": 33,
+            "name": "【ポケカ】Ｃ◇エネコ",
+            "date": "2022-12-14",
+            "stock": 4
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g078-100-S3-B/",
             "price": 33,
@@ -54,14 +70,6 @@
             "price": 33,
             "name": "【ポケカ】Ｃ◇エネコ",
             "date": "2022-12-07",
-            "stock": 4
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g078-100-S3-B/",
-            "price": 33,
-            "name": "【ポケカ】Ｃ◇エネコ",
-            "date": "2022-12-06",
             "stock": 4
         }
     ]

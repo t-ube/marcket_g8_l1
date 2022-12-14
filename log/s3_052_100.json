@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/17997",
             "price": 50,
             "name": "アリアドス(U){悪",
+            "date": "2022-12-14",
+            "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/13291",
+            "price": 30,
+            "name": "アリアドス052/1",
+            "date": "2022-12-14",
+            "stock": 58
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g052-100-S3-B/",
+            "price": 33,
+            "name": "【ポケカ】Ｕ◇アリア",
+            "date": "2022-12-14",
+            "stock": 3
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17997",
+            "price": 50,
+            "name": "アリアドス(U){悪",
             "date": "2022-12-13",
             "stock": 3
         },
@@ -166,30 +190,6 @@
             "price": 33,
             "name": "【ポケカ】Ｕ◇アリア",
             "date": "2022-12-07",
-            "stock": 3
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/17997",
-            "price": 50,
-            "name": "アリアドス(U){悪",
-            "date": "2022-12-06",
-            "stock": 3
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/13291",
-            "price": 30,
-            "name": "アリアドス052/1",
-            "date": "2022-12-06",
-            "stock": 58
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g052-100-S3-B/",
-            "price": 33,
-            "name": "【ポケカ】Ｕ◇アリア",
-            "date": "2022-12-06",
             "stock": 3
         }
     ]

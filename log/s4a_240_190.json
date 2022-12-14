@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/18646",
             "price": 200,
             "name": "エレズン(S){雷}",
+            "date": "2022-12-14",
+            "stock": 28
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17389",
+            "price": 380,
+            "name": "エレズン240/19",
+            "date": "2022-12-14",
+            "stock": 36
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g240-190-S4A-B/",
+            "price": 330,
+            "name": "【ポケカ】Ｓ◇エレズ",
+            "date": "2022-12-14",
+            "stock": 7
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18646",
+            "price": 200,
+            "name": "エレズン(S){雷}",
             "date": "2022-12-13",
             "stock": 28
         },
@@ -138,19 +162,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30829",
-            "price": 330,
-            "name": "エレズン240/19",
-            "date": "2022-12-08",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17389",
             "price": 380,
             "name": "エレズン240/19",
             "date": "2022-12-08",
             "stock": 36
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30829",
+            "price": 330,
+            "name": "エレズン240/19",
+            "date": "2022-12-08",
+            "stock": 1
         },
         {
             "market": "torecolo",
@@ -170,14 +194,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30829",
-            "price": 330,
-            "name": "エレズン240/19",
-            "date": "2022-12-07",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17389",
             "price": 380,
             "name": "エレズン240/19",
@@ -185,35 +201,11 @@
             "stock": 36
         },
         {
-            "market": "torecolo",
-            "link": "/shop/g/g240-190-S4A-B/",
-            "price": 330,
-            "name": "【ポケカ】Ｓ◇エレズ",
-            "date": "2022-12-07",
-            "stock": 6
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18646",
-            "price": 200,
-            "name": "エレズン(S){雷}",
-            "date": "2022-12-06",
-            "stock": 28
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17389",
-            "price": 380,
-            "name": "エレズン240/19",
-            "date": "2022-12-06",
-            "stock": 36
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30829",
             "price": 330,
             "name": "エレズン240/19",
-            "date": "2022-12-06",
+            "date": "2022-12-07",
             "stock": 1
         },
         {
@@ -221,7 +213,7 @@
             "link": "/shop/g/g240-190-S4A-B/",
             "price": 330,
             "name": "【ポケカ】Ｓ◇エレズ",
-            "date": "2022-12-06",
+            "date": "2022-12-07",
             "stock": 6
         }
     ]

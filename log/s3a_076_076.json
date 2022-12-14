@@ -5,6 +5,30 @@
             "link": "/items/283666264",
             "price": 462,
             "name": "ツインエネルギー　4",
+            "date": "2022-12-14",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14111",
+            "price": 80,
+            "name": "ツインエネルギー07",
+            "date": "2022-12-14",
+            "stock": 63
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g076-076-S3A-B/",
+            "price": 77,
+            "name": "【ポケカ】Ｕ◇ツイン",
+            "date": "2022-12-14",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/283666264",
+            "price": 462,
+            "name": "ツインエネルギー　4",
             "date": "2022-12-13",
             "stock": 1
         },
@@ -166,30 +190,6 @@
             "price": 88,
             "name": "【ポケカ】Ｕ◇ツイン",
             "date": "2022-12-07",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/283666264",
-            "price": 462,
-            "name": "ツインエネルギー　4",
-            "date": "2022-12-06",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14111",
-            "price": 80,
-            "name": "ツインエネルギー07",
-            "date": "2022-12-06",
-            "stock": 63
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g076-076-S3A-B/",
-            "price": 88,
-            "name": "【ポケカ】Ｕ◇ツイン",
-            "date": "2022-12-06",
             "stock": 4
         }
     ]

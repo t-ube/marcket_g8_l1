@@ -5,6 +5,14 @@
             "link": "https://www.hareruya2.com/product/18158",
             "price": 100,
             "name": "しあわせタマゴ(D)",
+            "date": "2022-12-14",
+            "stock": 3
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18158",
+            "price": 100,
+            "name": "しあわせタマゴ(D)",
             "date": "2022-12-13",
             "stock": 3
         },
@@ -55,22 +63,6 @@
             "name": "しあわせタマゴ(D)",
             "date": "2022-12-07",
             "stock": 3
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18158",
-            "price": 100,
-            "name": "しあわせタマゴ(D)",
-            "date": "2022-12-06",
-            "stock": 3
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14259",
-            "price": 80,
-            "name": "しあわせタマゴ104",
-            "date": "2022-12-06",
-            "stock": 4
         }
     ]
 }

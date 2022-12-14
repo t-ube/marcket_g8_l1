@@ -5,6 +5,22 @@
             "link": "https://www.hareruya2.com/product/17462",
             "price": 200,
             "name": "イシヘンジンVMAX",
+            "date": "2022-12-14",
+            "stock": 36
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/6895",
+            "price": 120,
+            "name": "イシヘンジンVMAX",
+            "date": "2022-12-14",
+            "stock": 110
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17462",
+            "price": 200,
+            "name": "イシヘンジンVMAX",
             "date": "2022-12-13",
             "stock": 36
         },
@@ -110,22 +126,6 @@
             "price": 120,
             "name": "イシヘンジンVMAX",
             "date": "2022-12-07",
-            "stock": 113
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/17462",
-            "price": 200,
-            "name": "イシヘンジンVMAX",
-            "date": "2022-12-06",
-            "stock": 36
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/6895",
-            "price": 120,
-            "name": "イシヘンジンVMAX",
-            "date": "2022-12-06",
             "stock": 113
         }
     ]

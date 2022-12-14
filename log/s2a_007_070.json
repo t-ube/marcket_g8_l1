@@ -1,6 +1,30 @@
 ﻿{
     "items": [
         {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17866",
+            "price": 50,
+            "name": "アママイコ(C){草",
+            "date": "2022-12-14",
+            "stock": 5
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/13108",
+            "price": 30,
+            "name": "アママイコ007/0",
+            "date": "2022-12-14",
+            "stock": 10
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g007-070-S2A-B/",
+            "price": 9,
+            "name": "【ポケカ】Ｃ◇アママ",
+            "date": "2022-12-14",
+            "stock": 5
+        },
+        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/13108",
             "price": 30,
@@ -110,22 +134,6 @@
             "price": 9,
             "name": "【ポケカ】Ｃ◇アママ",
             "date": "2022-12-07",
-            "stock": 5
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/13108",
-            "price": 30,
-            "name": "アママイコ007/0",
-            "date": "2022-12-06",
-            "stock": 11
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g007-070-S2A-B/",
-            "price": 9,
-            "name": "【ポケカ】Ｃ◇アママ",
-            "date": "2022-12-06",
             "stock": 5
         }
     ]

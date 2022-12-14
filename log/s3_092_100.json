@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/18037",
             "price": 50,
             "name": "タフネスマント(U)",
+            "date": "2022-12-14",
+            "stock": 14
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/13331",
+            "price": 80,
+            "name": "タフネスマント092",
+            "date": "2022-12-14",
+            "stock": 23
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g092-100-S3-B/",
+            "price": 72,
+            "name": "【ポケカ】Ｕ◇タフネ",
+            "date": "2022-12-14",
+            "stock": 5
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18037",
+            "price": 50,
+            "name": "タフネスマント(U)",
             "date": "2022-12-13",
             "stock": 14
         },
@@ -166,30 +190,6 @@
             "price": 72,
             "name": "【ポケカ】Ｕ◇タフネ",
             "date": "2022-12-07",
-            "stock": 5
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18037",
-            "price": 50,
-            "name": "タフネスマント(U)",
-            "date": "2022-12-06",
-            "stock": 18
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/13331",
-            "price": 80,
-            "name": "タフネスマント092",
-            "date": "2022-12-06",
-            "stock": 23
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g092-100-S3-B/",
-            "price": 72,
-            "name": "【ポケカ】Ｕ◇タフネ",
-            "date": "2022-12-06",
             "stock": 5
         }
     ]

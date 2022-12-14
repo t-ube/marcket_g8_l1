@@ -1,6 +1,30 @@
 ﻿{
     "items": [
         {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18214",
+            "price": 50,
+            "name": "ピッピ(C){超}〈",
+            "date": "2022-12-14",
+            "stock": 6
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14058",
+            "price": 280,
+            "name": "ピッピ023/076",
+            "date": "2022-12-14",
+            "stock": 19
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g023-076-S3A-B/",
+            "price": 55,
+            "name": "【ポケカ】Ｃ◇ピッピ",
+            "date": "2022-12-14",
+            "stock": 15
+        },
+        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/14058",
             "price": 280,
@@ -110,22 +134,6 @@
             "price": 55,
             "name": "【ポケカ】Ｃ◇ピッピ",
             "date": "2022-12-07",
-            "stock": 15
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14058",
-            "price": 280,
-            "name": "ピッピ023/076",
-            "date": "2022-12-06",
-            "stock": 19
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g023-076-S3A-B/",
-            "price": 55,
-            "name": "【ポケカ】Ｃ◇ピッピ",
-            "date": "2022-12-06",
             "stock": 15
         }
     ]

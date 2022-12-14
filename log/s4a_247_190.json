@@ -5,6 +5,38 @@
             "link": "https://www.hareruya2.com/product/18653",
             "price": 200,
             "name": "ガラルギャロップ(S",
+            "date": "2022-12-14",
+            "stock": 20
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30836",
+            "price": 330,
+            "name": "ガラルギャロップ24",
+            "date": "2022-12-14",
+            "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17396",
+            "price": 380,
+            "name": "ガラルギャロップ24",
+            "date": "2022-12-14",
+            "stock": 39
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g247-190-S4A-B/",
+            "price": 330,
+            "name": "【ポケカ】Ｓ◇ガラル",
+            "date": "2022-12-14",
+            "stock": 7
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18653",
+            "price": 200,
+            "name": "ガラルギャロップ(S",
             "date": "2022-12-13",
             "stock": 20
         },
@@ -42,6 +74,14 @@
         },
         {
             "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17396",
+            "price": 380,
+            "name": "ガラルギャロップ24",
+            "date": "2022-12-12",
+            "stock": 34
+        },
+        {
+            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30836",
             "price": 330,
             "name": "ガラルギャロップ24",
@@ -49,14 +89,6 @@
             "stock": 3
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17396",
-            "price": 380,
-            "name": "ガラルギャロップ24",
-            "date": "2022-12-12",
-            "stock": 34
-        },
-        {
             "market": "torecolo",
             "link": "/shop/g/g247-190-S4A-B/",
             "price": 330,
@@ -106,14 +138,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17396",
-            "price": 380,
-            "name": "ガラルギャロップ24",
-            "date": "2022-12-10",
-            "stock": 34
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30836",
             "price": 330,
             "name": "ガラルギャロップ24",
@@ -121,6 +145,14 @@
             "stock": 2
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17396",
+            "price": 380,
+            "name": "ガラルギャロップ24",
+            "date": "2022-12-10",
+            "stock": 34
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g247-190-S4A-B/",
             "price": 330,
@@ -138,19 +170,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30836",
-            "price": 330,
-            "name": "ガラルギャロップ24",
-            "date": "2022-12-09",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17396",
             "price": 380,
             "name": "ガラルギャロップ24",
             "date": "2022-12-09",
             "stock": 34
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30836",
+            "price": 330,
+            "name": "ガラルギャロップ24",
+            "date": "2022-12-09",
+            "stock": 2
         },
         {
             "market": "torecolo",
@@ -202,14 +234,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17396",
-            "price": 380,
-            "name": "ガラルギャロップ24",
-            "date": "2022-12-07",
-            "stock": 34
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30836",
             "price": 330,
             "name": "ガラルギャロップ24",
@@ -217,35 +241,11 @@
             "stock": 2
         },
         {
-            "market": "torecolo",
-            "link": "/shop/g/g247-190-S4A-B/",
-            "price": 330,
-            "name": "【ポケカ】Ｓ◇ガラル",
-            "date": "2022-12-07",
-            "stock": 6
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18653",
-            "price": 200,
-            "name": "ガラルギャロップ(S",
-            "date": "2022-12-06",
-            "stock": 20
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30836",
-            "price": 330,
-            "name": "ガラルギャロップ24",
-            "date": "2022-12-06",
-            "stock": 2
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17396",
             "price": 380,
             "name": "ガラルギャロップ24",
-            "date": "2022-12-06",
+            "date": "2022-12-07",
             "stock": 34
         },
         {
@@ -253,7 +253,7 @@
             "link": "/shop/g/g247-190-S4A-B/",
             "price": 330,
             "name": "【ポケカ】Ｓ◇ガラル",
-            "date": "2022-12-06",
+            "date": "2022-12-07",
             "stock": 6
         }
     ]

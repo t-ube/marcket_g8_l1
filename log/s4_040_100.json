@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/18325",
             "price": 50,
             "name": "シビルドン(U){雷",
+            "date": "2022-12-14",
+            "stock": 12
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14494",
+            "price": 30,
+            "name": "シビルドン040/1",
+            "date": "2022-12-14",
+            "stock": 13
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g040-100-S4-B/",
+            "price": 2,
+            "name": "【ポケカ】Ｕ◇シビル",
+            "date": "2022-12-14",
+            "stock": 16
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18325",
+            "price": 50,
+            "name": "シビルドン(U){雷",
             "date": "2022-12-13",
             "stock": 12
         },
@@ -166,30 +190,6 @@
             "price": 2,
             "name": "【ポケカ】Ｕ◇シビル",
             "date": "2022-12-07",
-            "stock": 16
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18325",
-            "price": 50,
-            "name": "シビルドン(U){雷",
-            "date": "2022-12-06",
-            "stock": 12
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14494",
-            "price": 30,
-            "name": "シビルドン040/1",
-            "date": "2022-12-06",
-            "stock": 13
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g040-100-S4-B/",
-            "price": 2,
-            "name": "【ポケカ】Ｕ◇シビル",
-            "date": "2022-12-06",
             "stock": 16
         }
     ]

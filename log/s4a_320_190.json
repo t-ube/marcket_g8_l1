@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/18726",
             "price": 700,
             "name": "クロバットVMAX(",
+            "date": "2022-12-14",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30909",
+            "price": 580,
+            "name": "クロバットVMAX3",
+            "date": "2022-12-14",
+            "stock": 25
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17469",
+            "price": 680,
+            "name": "クロバットVMAX3",
+            "date": "2022-12-14",
+            "stock": 101
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18726",
+            "price": 700,
+            "name": "クロバットVMAX(",
             "date": "2022-12-13",
             "stock": 1
         },
@@ -103,6 +127,14 @@
             "name": "クロバットVMAX(",
             "date": "2022-12-09",
             "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17469",
+            "price": 680,
+            "name": "クロバットVMAX3",
+            "date": "2022-12-09",
+            "stock": 102
         },
         {
             "market": "cardrush",
@@ -111,14 +143,6 @@
             "name": "クロバットVMAX3",
             "date": "2022-12-09",
             "stock": 24
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17469",
-            "price": 680,
-            "name": "クロバットVMAX3",
-            "date": "2022-12-09",
-            "stock": 102
         },
         {
             "market": "magi",
@@ -138,19 +162,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17469",
-            "price": 680,
-            "name": "クロバットVMAX3",
-            "date": "2022-12-08",
-            "stock": 96
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30909",
             "price": 580,
             "name": "クロバットVMAX3",
             "date": "2022-12-08",
             "stock": 23
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17469",
+            "price": 680,
+            "name": "クロバットVMAX3",
+            "date": "2022-12-08",
+            "stock": 96
         },
         {
             "market": "magi",
@@ -170,14 +194,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17469",
-            "price": 680,
-            "name": "クロバットVMAX3",
-            "date": "2022-12-07",
-            "stock": 96
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30909",
             "price": 580,
             "name": "クロバットVMAX3",
@@ -185,36 +201,12 @@
             "stock": 23
         },
         {
-            "market": "magi",
-            "link": "/items/721956492",
-            "price": 430,
-            "name": "クロバットVMAX ",
-            "date": "2022-12-06",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18726",
-            "price": 700,
-            "name": "クロバットVMAX(",
-            "date": "2022-12-06",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30909",
-            "price": 580,
-            "name": "クロバットVMAX3",
-            "date": "2022-12-06",
-            "stock": 24
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17469",
             "price": 680,
             "name": "クロバットVMAX3",
-            "date": "2022-12-06",
-            "stock": 90
+            "date": "2022-12-07",
+            "stock": 96
         }
     ]
 }
