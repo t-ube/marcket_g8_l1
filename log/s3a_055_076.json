@@ -5,6 +5,46 @@
             "link": "/items/903566570",
             "price": 100,
             "name": "ルギア R 055/",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1345610033",
+            "price": 100,
+            "name": "ルギア R 055/",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18246",
+            "price": 250,
+            "name": "ルギア(R){無}〈",
+            "date": "2022-12-15",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30218",
+            "price": 250,
+            "name": "ルギア055/076",
+            "date": "2022-12-15",
+            "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14090",
+            "price": 280,
+            "name": "ルギア055/076",
+            "date": "2022-12-15",
+            "stock": 17
+        },
+        {
+            "market": "magi",
+            "link": "/items/903566570",
+            "price": 100,
+            "name": "ルギア R 055/",
             "date": "2022-12-14",
             "stock": 1
         },
@@ -170,7 +210,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/903566570",
+            "link": "/items/1345610033",
             "price": 100,
             "name": "ルギア R 055/",
             "date": "2022-12-09",
@@ -178,11 +218,19 @@
         },
         {
             "market": "magi",
-            "link": "/items/1345610033",
+            "link": "/items/903566570",
             "price": 100,
             "name": "ルギア R 055/",
             "date": "2022-12-09",
             "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30218",
+            "price": 250,
+            "name": "ルギア055/076",
+            "date": "2022-12-09",
+            "stock": 3
         },
         {
             "market": "cardrush",
@@ -193,12 +241,12 @@
             "stock": 17
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30218",
-            "price": 250,
-            "name": "ルギア055/076",
-            "date": "2022-12-09",
-            "stock": 3
+            "market": "magi",
+            "link": "/items/903566570",
+            "price": 100,
+            "name": "ルギア R 055/",
+            "date": "2022-12-08",
+            "stock": 1
         },
         {
             "market": "magi",
@@ -209,22 +257,6 @@
             "stock": 1
         },
         {
-            "market": "magi",
-            "link": "/items/903566570",
-            "price": 100,
-            "name": "ルギア R 055/",
-            "date": "2022-12-08",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14090",
-            "price": 280,
-            "name": "ルギア055/076",
-            "date": "2022-12-08",
-            "stock": 17
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30218",
             "price": 250,
@@ -233,35 +265,11 @@
             "stock": 3
         },
         {
-            "market": "magi",
-            "link": "/items/903566570",
-            "price": 100,
-            "name": "ルギア R 055/",
-            "date": "2022-12-07",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1345610033",
-            "price": 100,
-            "name": "ルギア R 055/",
-            "date": "2022-12-07",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30218",
-            "price": 250,
-            "name": "ルギア055/076",
-            "date": "2022-12-07",
-            "stock": 3
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/14090",
             "price": 280,
             "name": "ルギア055/076",
-            "date": "2022-12-07",
+            "date": "2022-12-08",
             "stock": 17
         }
     ]

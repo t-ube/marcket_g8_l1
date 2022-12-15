@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/18124",
             "price": 100,
             "name": "ふしぎなアメ(D){",
+            "date": "2022-12-15",
+            "stock": 26
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14250",
+            "price": 80,
+            "name": "ふしぎなアメ095/",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g095-127-SD-B/",
+            "price": 110,
+            "name": "【ポケカ】ＳＳ◇ふし",
+            "date": "2022-12-15",
+            "stock": 4
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18124",
+            "price": 100,
+            "name": "ふしぎなアメ(D){",
             "date": "2022-12-14",
             "stock": 26
         },
@@ -142,30 +166,6 @@
             "price": 110,
             "name": "【ポケカ】ＳＳ◇ふし",
             "date": "2022-12-08",
-            "stock": 4
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18124",
-            "price": 100,
-            "name": "ふしぎなアメ(D){",
-            "date": "2022-12-07",
-            "stock": 24
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14250",
-            "price": 80,
-            "name": "ふしぎなアメ095/",
-            "date": "2022-12-07",
-            "stock": 16
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g095-127-SD-B/",
-            "price": 110,
-            "name": "【ポケカ】ＳＳ◇ふし",
-            "date": "2022-12-07",
             "stock": 4
         }
     ]

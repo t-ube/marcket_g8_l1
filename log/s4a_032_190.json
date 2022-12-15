@@ -2,11 +2,91 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/2052786296",
+            "price": 154,
+            "name": "【特価】ラプラスVM",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1365631194",
+            "price": 138,
+            "name": "【特価】ラプラスVM",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1005838629",
+            "price": 100,
+            "name": "ラプラスVMAX R",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/324358029",
+            "price": 230,
+            "name": "ラプラスVMAX R",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1427396931",
+            "price": 180,
+            "name": "ラプラスVMAX R",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1222411620",
+            "price": 198,
+            "name": "ラプラスVMAX R",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/503144520",
+            "price": 150,
+            "name": "ラプラスVMAX R",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1936595554",
+            "price": 400,
+            "name": "ラプラスVMAX R",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/411772954",
             "price": 275,
             "name": "【特価】ラプラスVM",
-            "date": "2022-12-14",
+            "date": "2022-12-15",
             "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/569276682",
+            "price": 360,
+            "name": "【値下げ2枚】ラプラ",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18438",
+            "price": 100,
+            "name": "ラプラスVMAX(R",
+            "date": "2022-12-15",
+            "stock": 31
         },
         {
             "market": "magi",
@@ -26,22 +106,6 @@
         },
         {
             "market": "magi",
-            "link": "/items/569276682",
-            "price": 360,
-            "name": "【値下げ2枚】ラプラ",
-            "date": "2022-12-14",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1222411620",
-            "price": 198,
-            "name": "ラプラスVMAX R",
-            "date": "2022-12-14",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/2052786296",
             "price": 154,
             "name": "【特価】ラプラスVM",
@@ -50,8 +114,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/1427396931",
-            "price": 180,
+            "link": "/items/411772954",
+            "price": 275,
+            "name": "【特価】ラプラスVM",
+            "date": "2022-12-14",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1936595554",
+            "price": 400,
             "name": "ラプラスVMAX R",
             "date": "2022-12-14",
             "stock": 1
@@ -74,8 +146,24 @@
         },
         {
             "market": "magi",
-            "link": "/items/1936595554",
-            "price": 400,
+            "link": "/items/569276682",
+            "price": 360,
+            "name": "【値下げ2枚】ラプラ",
+            "date": "2022-12-14",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1222411620",
+            "price": 198,
+            "name": "ラプラスVMAX R",
+            "date": "2022-12-14",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1427396931",
+            "price": 180,
             "name": "ラプラスVMAX R",
             "date": "2022-12-14",
             "stock": 1
@@ -273,14 +361,6 @@
             "stock": 1
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17015",
-            "price": 80,
-            "name": "ラプラスVMAX03",
-            "date": "2022-12-12",
-            "stock": 14
-        },
-        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/18438",
             "price": 100,
@@ -289,10 +369,18 @@
             "stock": 31
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17015",
+            "price": 80,
+            "name": "ラプラスVMAX03",
+            "date": "2022-12-12",
+            "stock": 14
+        },
+        {
             "market": "magi",
-            "link": "/items/569276682",
-            "price": 360,
-            "name": "【値下げ2枚】ラプラ",
+            "link": "/items/2052786296",
+            "price": 154,
+            "name": "【特価】ラプラスVM",
             "date": "2022-12-11",
             "stock": 1
         },
@@ -306,9 +394,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/2052786296",
-            "price": 154,
-            "name": "【特価】ラプラスVM",
+            "link": "/items/569276682",
+            "price": 360,
+            "name": "【値下げ2枚】ラプラ",
             "date": "2022-12-11",
             "stock": 1
         },
@@ -482,16 +570,24 @@
         },
         {
             "market": "magi",
-            "link": "/items/1365631194",
-            "price": 138,
+            "link": "/items/2052786296",
+            "price": 154,
             "name": "【特価】ラプラスVM",
             "date": "2022-12-09",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/2052786296",
-            "price": 154,
+            "link": "/items/1427396931",
+            "price": 180,
+            "name": "ラプラスVMAX R",
+            "date": "2022-12-09",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1365631194",
+            "price": 138,
             "name": "【特価】ラプラスVM",
             "date": "2022-12-09",
             "stock": 1
@@ -532,14 +628,6 @@
             "market": "magi",
             "link": "/items/1005838629",
             "price": 100,
-            "name": "ラプラスVMAX R",
-            "date": "2022-12-09",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1427396931",
-            "price": 180,
             "name": "ラプラスVMAX R",
             "date": "2022-12-09",
             "stock": 1
@@ -578,14 +666,6 @@
         },
         {
             "market": "magi",
-            "link": "/items/503144520",
-            "price": 150,
-            "name": "ラプラスVMAX R",
-            "date": "2022-12-08",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/1365631194",
             "price": 138,
             "name": "【特価】ラプラスVM",
@@ -602,90 +682,10 @@
         },
         {
             "market": "magi",
-            "link": "/items/1427396931",
-            "price": 180,
-            "name": "ラプラスVMAX R",
-            "date": "2022-12-08",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1936595554",
-            "price": 400,
-            "name": "ラプラスVMAX R",
-            "date": "2022-12-08",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/1222411620",
             "price": 198,
             "name": "ラプラスVMAX R",
             "date": "2022-12-08",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/569276682",
-            "price": 360,
-            "name": "【値下げ2枚】ラプラ",
-            "date": "2022-12-08",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1005838629",
-            "price": 100,
-            "name": "ラプラスVMAX R",
-            "date": "2022-12-08",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/324358029",
-            "price": 230,
-            "name": "ラプラスVMAX R",
-            "date": "2022-12-08",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2052786296",
-            "price": 154,
-            "name": "【特価】ラプラスVM",
-            "date": "2022-12-08",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18438",
-            "price": 100,
-            "name": "ラプラスVMAX(R",
-            "date": "2022-12-08",
-            "stock": 31
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17015",
-            "price": 80,
-            "name": "ラプラスVMAX03",
-            "date": "2022-12-08",
-            "stock": 16
-        },
-        {
-            "market": "magi",
-            "link": "/items/324358029",
-            "price": 230,
-            "name": "ラプラスVMAX R",
-            "date": "2022-12-07",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/411772954",
-            "price": 275,
-            "name": "【特価】ラプラスVM",
-            "date": "2022-12-07",
             "stock": 1
         },
         {
@@ -693,15 +693,7 @@
             "link": "/items/503144520",
             "price": 150,
             "name": "ラプラスVMAX R",
-            "date": "2022-12-07",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1365631194",
-            "price": 139,
-            "name": "【特価】ラプラスVM",
-            "date": "2022-12-07",
+            "date": "2022-12-08",
             "stock": 1
         },
         {
@@ -709,7 +701,7 @@
             "link": "/items/1936595554",
             "price": 400,
             "name": "ラプラスVMAX R",
-            "date": "2022-12-07",
+            "date": "2022-12-08",
             "stock": 1
         },
         {
@@ -717,31 +709,7 @@
             "link": "/items/1427396931",
             "price": 180,
             "name": "ラプラスVMAX R",
-            "date": "2022-12-07",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/569276682",
-            "price": 360,
-            "name": "【値下げ2枚】ラプラ",
-            "date": "2022-12-07",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1222411620",
-            "price": 198,
-            "name": "ラプラスVMAX R",
-            "date": "2022-12-07",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2052786296",
-            "price": 154,
-            "name": "【特価】ラプラスVM",
-            "date": "2022-12-07",
+            "date": "2022-12-08",
             "stock": 1
         },
         {
@@ -749,7 +717,31 @@
             "link": "/items/1005838629",
             "price": 100,
             "name": "ラプラスVMAX R",
-            "date": "2022-12-07",
+            "date": "2022-12-08",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/324358029",
+            "price": 230,
+            "name": "ラプラスVMAX R",
+            "date": "2022-12-08",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2052786296",
+            "price": 154,
+            "name": "【特価】ラプラスVM",
+            "date": "2022-12-08",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/569276682",
+            "price": 360,
+            "name": "【値下げ2枚】ラプラ",
+            "date": "2022-12-08",
             "stock": 1
         },
         {
@@ -757,7 +749,7 @@
             "link": "https://www.hareruya2.com/product/18438",
             "price": 100,
             "name": "ラプラスVMAX(R",
-            "date": "2022-12-07",
+            "date": "2022-12-08",
             "stock": 31
         },
         {
@@ -765,7 +757,7 @@
             "link": "https://www.cardrush-pokemon.jp/product/17015",
             "price": 80,
             "name": "ラプラスVMAX03",
-            "date": "2022-12-07",
+            "date": "2022-12-08",
             "stock": 16
         }
     ]

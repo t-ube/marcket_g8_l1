@@ -5,6 +5,22 @@
             "link": "https://www.hareruya2.com/product/18366",
             "price": 100,
             "name": "ギルガルドVMAX(",
+            "date": "2022-12-15",
+            "stock": 63
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14535",
+            "price": 80,
+            "name": "ギルガルドVMAX0",
+            "date": "2022-12-15",
+            "stock": 36
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18366",
+            "price": 100,
+            "name": "ギルガルドVMAX(",
             "date": "2022-12-14",
             "stock": 63
         },
@@ -122,17 +138,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/372365905",
-            "price": 280,
-            "name": "【Ｄ特価】ギルガルド",
+            "link": "/items/1679902983",
+            "price": 100,
+            "name": "ギルガルドVMAX ",
             "date": "2022-12-08",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1679902983",
-            "price": 100,
-            "name": "ギルガルドVMAX ",
+            "link": "/items/372365905",
+            "price": 280,
+            "name": "【Ｄ特価】ギルガルド",
             "date": "2022-12-08",
             "stock": 1
         },
@@ -150,38 +166,6 @@
             "price": 80,
             "name": "ギルガルドVMAX0",
             "date": "2022-12-08",
-            "stock": 36
-        },
-        {
-            "market": "magi",
-            "link": "/items/372365905",
-            "price": 280,
-            "name": "【Ｄ特価】ギルガルド",
-            "date": "2022-12-07",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1679902983",
-            "price": 100,
-            "name": "ギルガルドVMAX ",
-            "date": "2022-12-07",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18366",
-            "price": 100,
-            "name": "ギルガルドVMAX(",
-            "date": "2022-12-07",
-            "stock": 62
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14535",
-            "price": 80,
-            "name": "ギルガルドVMAX0",
-            "date": "2022-12-07",
             "stock": 36
         }
     ]

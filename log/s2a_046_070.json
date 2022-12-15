@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/17905",
             "price": 50,
             "name": "ベトベター(C){悪",
+            "date": "2022-12-15",
+            "stock": 20
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/13147",
+            "price": 30,
+            "name": "ベトベター046/0",
+            "date": "2022-12-15",
+            "stock": 75
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g046-070-S2A-B/",
+            "price": 33,
+            "name": "【ポケカ】Ｃ◇ベトベ",
+            "date": "2022-12-15",
+            "stock": 12
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17905",
+            "price": 50,
+            "name": "ベトベター(C){悪",
             "date": "2022-12-14",
             "stock": 20
         },
@@ -166,30 +190,6 @@
             "price": 33,
             "name": "【ポケカ】Ｃ◇ベトベ",
             "date": "2022-12-08",
-            "stock": 12
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/17905",
-            "price": 50,
-            "name": "ベトベター(C){悪",
-            "date": "2022-12-07",
-            "stock": 15
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/13147",
-            "price": 30,
-            "name": "ベトベター046/0",
-            "date": "2022-12-07",
-            "stock": 75
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g046-070-S2A-B/",
-            "price": 33,
-            "name": "【ポケカ】Ｃ◇ベトベ",
-            "date": "2022-12-07",
             "stock": 12
         }
     ]

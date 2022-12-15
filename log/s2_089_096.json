@@ -5,6 +5,38 @@
             "link": "/items/36760189",
             "price": 280,
             "name": "のろいのスコップ【U",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/388020409",
+            "price": 200,
+            "name": "のろいのスコップ U",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/7517",
+            "price": 280,
+            "name": "のろいのスコップ08",
+            "date": "2022-12-15",
+            "stock": 8
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/29914",
+            "price": 250,
+            "name": "のろいのスコップ08",
+            "date": "2022-12-15",
+            "stock": 5
+        },
+        {
+            "market": "magi",
+            "link": "/items/36760189",
+            "price": 280,
+            "name": "のろいのスコップ【U",
             "date": "2022-12-14",
             "stock": 1
         },
@@ -114,14 +146,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7517",
-            "price": 280,
-            "name": "のろいのスコップ08",
-            "date": "2022-12-11",
-            "stock": 8
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/29914",
             "price": 250,
             "name": "のろいのスコップ08",
@@ -129,18 +153,26 @@
             "stock": 11
         },
         {
-            "market": "magi",
-            "link": "/items/36760189",
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/7517",
             "price": 280,
-            "name": "のろいのスコップ【U",
-            "date": "2022-12-10",
-            "stock": 1
+            "name": "のろいのスコップ08",
+            "date": "2022-12-11",
+            "stock": 8
         },
         {
             "market": "magi",
             "link": "/items/388020409",
             "price": 200,
             "name": "のろいのスコップ U",
+            "date": "2022-12-10",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/36760189",
+            "price": 280,
+            "name": "のろいのスコップ【U",
             "date": "2022-12-10",
             "stock": 1
         },
@@ -162,17 +194,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/36760189",
-            "price": 280,
-            "name": "のろいのスコップ【U",
+            "link": "/items/388020409",
+            "price": 200,
+            "name": "のろいのスコップ U",
             "date": "2022-12-09",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/388020409",
-            "price": 200,
-            "name": "のろいのスコップ U",
+            "link": "/items/36760189",
+            "price": 280,
+            "name": "のろいのスコップ【U",
             "date": "2022-12-09",
             "stock": 1
         },
@@ -194,17 +226,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/36760189",
-            "price": 280,
-            "name": "のろいのスコップ【U",
+            "link": "/items/388020409",
+            "price": 200,
+            "name": "のろいのスコップ U",
             "date": "2022-12-08",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/388020409",
-            "price": 200,
-            "name": "のろいのスコップ U",
+            "link": "/items/36760189",
+            "price": 280,
+            "name": "のろいのスコップ【U",
             "date": "2022-12-08",
             "stock": 1
         },
@@ -214,30 +246,6 @@
             "price": 110,
             "name": "【ポケカ】Ｕ◇のろい",
             "date": "2022-12-08",
-            "stock": 2
-        },
-        {
-            "market": "magi",
-            "link": "/items/36760189",
-            "price": 280,
-            "name": "のろいのスコップ【U",
-            "date": "2022-12-07",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/388020409",
-            "price": 200,
-            "name": "のろいのスコップ U",
-            "date": "2022-12-07",
-            "stock": 1
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g089-096-S2-B/",
-            "price": 110,
-            "name": "【ポケカ】Ｕ◇のろい",
-            "date": "2022-12-07",
             "stock": 2
         }
     ]

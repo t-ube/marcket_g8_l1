@@ -5,6 +5,38 @@
             "link": "https://www.hareruya2.com/product/18648",
             "price": 500,
             "name": "バチンウニ(S){雷",
+            "date": "2022-12-15",
+            "stock": 5
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30831",
+            "price": 330,
+            "name": "バチンウニ242/1",
+            "date": "2022-12-15",
+            "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17391",
+            "price": 380,
+            "name": "バチンウニ242/1",
+            "date": "2022-12-15",
+            "stock": 32
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g242-190-S4A-B/",
+            "price": 440,
+            "name": "【ポケカ】Ｓ◇バチン",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18648",
+            "price": 500,
+            "name": "バチンウニ(S){雷",
             "date": "2022-12-14",
             "stock": 5
         },
@@ -82,14 +114,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30831",
-            "price": 330,
-            "name": "バチンウニ242/1",
-            "date": "2022-12-11",
-            "stock": 4
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17391",
             "price": 380,
             "name": "バチンウニ242/1",
@@ -97,6 +121,14 @@
             "stock": 31
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30831",
+            "price": 330,
+            "name": "バチンウニ242/1",
+            "date": "2022-12-11",
+            "stock": 4
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/18648",
             "price": 500,
@@ -130,19 +162,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17391",
-            "price": 380,
-            "name": "バチンウニ242/1",
-            "date": "2022-12-09",
-            "stock": 31
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30831",
             "price": 330,
             "name": "バチンウニ242/1",
             "date": "2022-12-09",
             "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17391",
+            "price": 380,
+            "name": "バチンウニ242/1",
+            "date": "2022-12-09",
+            "stock": 31
         },
         {
             "market": "hareruya2",
@@ -154,14 +186,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30831",
-            "price": 330,
-            "name": "バチンウニ242/1",
-            "date": "2022-12-08",
-            "stock": 4
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17391",
             "price": 380,
             "name": "バチンウニ242/1",
@@ -169,27 +193,11 @@
             "stock": 31
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18648",
-            "price": 500,
-            "name": "バチンウニ(S){雷",
-            "date": "2022-12-07",
-            "stock": 3
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17391",
-            "price": 380,
-            "name": "バチンウニ242/1",
-            "date": "2022-12-07",
-            "stock": 31
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30831",
             "price": 330,
             "name": "バチンウニ242/1",
-            "date": "2022-12-07",
+            "date": "2022-12-08",
             "stock": 4
         }
     ]

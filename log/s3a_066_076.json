@@ -5,6 +5,22 @@
             "link": "/items/753538721",
             "price": 100,
             "name": "ポケモンキャッチャー",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18257",
+            "price": 50,
+            "name": "ポケモンキャッチャー",
+            "date": "2022-12-15",
+            "stock": 31
+        },
+        {
+            "market": "magi",
+            "link": "/items/753538721",
+            "price": 100,
+            "name": "ポケモンキャッチャー",
             "date": "2022-12-14",
             "stock": 1
         },
@@ -110,22 +126,6 @@
             "price": 50,
             "name": "ポケモンキャッチャー",
             "date": "2022-12-08",
-            "stock": 31
-        },
-        {
-            "market": "magi",
-            "link": "/items/753538721",
-            "price": 100,
-            "name": "ポケモンキャッチャー",
-            "date": "2022-12-07",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18257",
-            "price": 50,
-            "name": "ポケモンキャッチャー",
-            "date": "2022-12-07",
             "stock": 31
         }
     ]

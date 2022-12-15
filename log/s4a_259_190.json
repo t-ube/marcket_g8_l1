@@ -5,6 +5,38 @@
             "link": "https://www.hareruya2.com/product/18665",
             "price": 300,
             "name": "ドラメシヤ(S){超",
+            "date": "2022-12-15",
+            "stock": 25
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30848",
+            "price": 330,
+            "name": "ドラメシヤ259/1",
+            "date": "2022-12-15",
+            "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17408",
+            "price": 380,
+            "name": "ドラメシヤ259/1",
+            "date": "2022-12-15",
+            "stock": 23
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g259-190-S4A-B/",
+            "price": 275,
+            "name": "【ポケカ】Ｓ◇ドラメ",
+            "date": "2022-12-15",
+            "stock": 10
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18665",
+            "price": 300,
+            "name": "ドラメシヤ(S){超",
             "date": "2022-12-14",
             "stock": 25
         },
@@ -74,19 +106,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30848",
-            "price": 330,
-            "name": "ドラメシヤ259/1",
-            "date": "2022-12-12",
-            "stock": 3
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17408",
             "price": 380,
             "name": "ドラメシヤ259/1",
             "date": "2022-12-12",
             "stock": 22
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30848",
+            "price": 330,
+            "name": "ドラメシヤ259/1",
+            "date": "2022-12-12",
+            "stock": 3
         },
         {
             "market": "torecolo",
@@ -138,6 +170,14 @@
         },
         {
             "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30848",
+            "price": 330,
+            "name": "ドラメシヤ259/1",
+            "date": "2022-12-10",
+            "stock": 3
+        },
+        {
+            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17408",
             "price": 380,
             "name": "ドラメシヤ259/1",
@@ -145,14 +185,6 @@
             "stock": 22
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30848",
-            "price": 330,
-            "name": "ドラメシヤ259/1",
-            "date": "2022-12-10",
-            "stock": 3
-        },
-        {
             "market": "torecolo",
             "link": "/shop/g/g259-190-S4A-B/",
             "price": 275,
@@ -170,19 +202,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30848",
-            "price": 330,
-            "name": "ドラメシヤ259/1",
-            "date": "2022-12-09",
-            "stock": 3
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17408",
             "price": 380,
             "name": "ドラメシヤ259/1",
             "date": "2022-12-09",
             "stock": 16
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30848",
+            "price": 330,
+            "name": "ドラメシヤ259/1",
+            "date": "2022-12-09",
+            "stock": 3
         },
         {
             "market": "torecolo",
@@ -202,14 +234,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17408",
-            "price": 380,
-            "name": "ドラメシヤ259/1",
-            "date": "2022-12-08",
-            "stock": 16
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30848",
             "price": 330,
             "name": "ドラメシヤ259/1",
@@ -217,35 +241,11 @@
             "stock": 3
         },
         {
-            "market": "torecolo",
-            "link": "/shop/g/g259-190-S4A-B/",
-            "price": 275,
-            "name": "【ポケカ】Ｓ◇ドラメ",
-            "date": "2022-12-08",
-            "stock": 13
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18665",
-            "price": 300,
-            "name": "ドラメシヤ(S){超",
-            "date": "2022-12-07",
-            "stock": 25
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30848",
-            "price": 330,
-            "name": "ドラメシヤ259/1",
-            "date": "2022-12-07",
-            "stock": 3
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17408",
             "price": 380,
             "name": "ドラメシヤ259/1",
-            "date": "2022-12-07",
+            "date": "2022-12-08",
             "stock": 16
         },
         {
@@ -253,7 +253,7 @@
             "link": "/shop/g/g259-190-S4A-B/",
             "price": 275,
             "name": "【ポケカ】Ｓ◇ドラメ",
-            "date": "2022-12-07",
+            "date": "2022-12-08",
             "stock": 13
         }
     ]

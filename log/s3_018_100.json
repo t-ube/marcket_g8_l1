@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/17963",
             "price": 50,
             "name": "ヒヤップ(C){水}",
+            "date": "2022-12-15",
+            "stock": 14
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/13257",
+            "price": 30,
+            "name": "ヒヤップ018/10",
+            "date": "2022-12-15",
+            "stock": 25
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g018-100-S3-B/",
+            "price": 44,
+            "name": "【ポケカ】Ｃ◇ヒヤッ",
+            "date": "2022-12-15",
+            "stock": 7
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17963",
+            "price": 50,
+            "name": "ヒヤップ(C){水}",
             "date": "2022-12-14",
             "stock": 14
         },
@@ -166,30 +190,6 @@
             "price": 44,
             "name": "【ポケカ】Ｃ◇ヒヤッ",
             "date": "2022-12-08",
-            "stock": 7
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/17963",
-            "price": 50,
-            "name": "ヒヤップ(C){水}",
-            "date": "2022-12-07",
-            "stock": 13
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/13257",
-            "price": 30,
-            "name": "ヒヤップ018/10",
-            "date": "2022-12-07",
-            "stock": 25
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g018-100-S3-B/",
-            "price": 44,
-            "name": "【ポケカ】Ｃ◇ヒヤッ",
-            "date": "2022-12-07",
             "stock": 7
         }
     ]
