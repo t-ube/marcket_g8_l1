@@ -5,6 +5,22 @@
             "link": "https://www.hareruya2.com/product/17971",
             "price": 100,
             "name": "カジリガメV(RR)",
+            "date": "2022-12-16",
+            "stock": 54
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/13265",
+            "price": 80,
+            "name": "カジリガメV026/",
+            "date": "2022-12-16",
+            "stock": 295
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17971",
+            "price": 100,
+            "name": "カジリガメV(RR)",
             "date": "2022-12-15",
             "stock": 54
         },
@@ -110,22 +126,6 @@
             "price": 80,
             "name": "カジリガメV026/",
             "date": "2022-12-09",
-            "stock": 276
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/17971",
-            "price": 100,
-            "name": "カジリガメV(RR)",
-            "date": "2022-12-08",
-            "stock": 57
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/13265",
-            "price": 80,
-            "name": "カジリガメV026/",
-            "date": "2022-12-08",
             "stock": 276
         }
     ]

@@ -3,6 +3,22 @@
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/29744",
+            "price": 30,
+            "name": "鋼鉄のフライパン01",
+            "date": "2022-12-16",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/7009",
+            "price": 80,
+            "name": "鋼鉄のフライパン01",
+            "date": "2022-12-16",
+            "stock": 6
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/29744",
             "price": 80,
             "name": "鋼鉄のフライパン01",
             "date": "2022-12-15",
@@ -18,14 +34,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/29744",
-            "price": 80,
-            "name": "鋼鉄のフライパン01",
-            "date": "2022-12-14",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/7009",
             "price": 120,
             "name": "鋼鉄のフライパン01",
@@ -34,11 +42,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7009",
-            "price": 120,
+            "link": "https://www.cardrush-pokemon.jp/product/29744",
+            "price": 80,
             "name": "鋼鉄のフライパン01",
-            "date": "2022-12-13",
-            "stock": 4
+            "date": "2022-12-14",
+            "stock": 2
         },
         {
             "market": "cardrush",
@@ -47,6 +55,14 @@
             "name": "鋼鉄のフライパン01",
             "date": "2022-12-13",
             "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/7009",
+            "price": 120,
+            "name": "鋼鉄のフライパン01",
+            "date": "2022-12-13",
+            "stock": 4
         },
         {
             "market": "cardrush",
@@ -86,22 +102,6 @@
             "price": 120,
             "name": "鋼鉄のフライパン01",
             "date": "2022-12-09",
-            "stock": 4
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/17603",
-            "price": 100,
-            "name": "鋼鉄のフライパン(D",
-            "date": "2022-12-08",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7009",
-            "price": 120,
-            "name": "鋼鉄のフライパン01",
-            "date": "2022-12-08",
             "stock": 4
         }
     ]

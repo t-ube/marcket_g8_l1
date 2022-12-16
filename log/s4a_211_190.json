@@ -5,6 +5,46 @@
             "link": "/items/1056622280",
             "price": 880,
             "name": "ポケカ　カジッチュ　",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18617",
+            "price": 300,
+            "name": "カジッチュ(S){草",
+            "date": "2022-12-16",
+            "stock": 11
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30800",
+            "price": 330,
+            "name": "カジッチュ211/1",
+            "date": "2022-12-16",
+            "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17360",
+            "price": 380,
+            "name": "カジッチュ211/1",
+            "date": "2022-12-16",
+            "stock": 20
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g211-190-S4A-B/",
+            "price": 275,
+            "name": "【ポケカ】Ｓ◇カジッ",
+            "date": "2022-12-16",
+            "stock": 5
+        },
+        {
+            "market": "magi",
+            "link": "/items/1056622280",
+            "price": 880,
+            "name": "ポケカ　カジッチュ　",
             "date": "2022-12-15",
             "stock": 1
         },
@@ -58,19 +98,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30800",
-            "price": 330,
-            "name": "カジッチュ211/1",
-            "date": "2022-12-14",
-            "stock": 3
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17360",
             "price": 380,
             "name": "カジッチュ211/1",
             "date": "2022-12-14",
             "stock": 20
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30800",
+            "price": 330,
+            "name": "カジッチュ211/1",
+            "date": "2022-12-14",
+            "stock": 3
         },
         {
             "market": "torecolo",
@@ -178,19 +218,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17360",
-            "price": 380,
-            "name": "カジッチュ211/1",
-            "date": "2022-12-11",
-            "stock": 18
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30800",
             "price": 330,
             "name": "カジッチュ211/1",
             "date": "2022-12-11",
             "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17360",
+            "price": 380,
+            "name": "カジッチュ211/1",
+            "date": "2022-12-11",
+            "stock": 18
         },
         {
             "market": "torecolo",
@@ -218,19 +258,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30800",
-            "price": 330,
-            "name": "カジッチュ211/1",
-            "date": "2022-12-10",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17360",
             "price": 380,
             "name": "カジッチュ211/1",
             "date": "2022-12-10",
             "stock": 18
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30800",
+            "price": 330,
+            "name": "カジッチュ211/1",
+            "date": "2022-12-10",
+            "stock": 2
         },
         {
             "market": "torecolo",
@@ -258,14 +298,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17360",
-            "price": 380,
-            "name": "カジッチュ211/1",
-            "date": "2022-12-09",
-            "stock": 18
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30800",
             "price": 330,
             "name": "カジッチュ211/1",
@@ -273,43 +305,11 @@
             "stock": 2
         },
         {
-            "market": "torecolo",
-            "link": "/shop/g/g211-190-S4A-B/",
-            "price": 275,
-            "name": "【ポケカ】Ｓ◇カジッ",
-            "date": "2022-12-09",
-            "stock": 5
-        },
-        {
-            "market": "magi",
-            "link": "/items/1056622280",
-            "price": 880,
-            "name": "ポケカ　カジッチュ　",
-            "date": "2022-12-08",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18617",
-            "price": 300,
-            "name": "カジッチュ(S){草",
-            "date": "2022-12-08",
-            "stock": 11
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30800",
-            "price": 330,
-            "name": "カジッチュ211/1",
-            "date": "2022-12-08",
-            "stock": 2
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17360",
             "price": 380,
             "name": "カジッチュ211/1",
-            "date": "2022-12-08",
+            "date": "2022-12-09",
             "stock": 18
         },
         {
@@ -317,7 +317,7 @@
             "link": "/shop/g/g211-190-S4A-B/",
             "price": 275,
             "name": "【ポケカ】Ｓ◇カジッ",
-            "date": "2022-12-08",
+            "date": "2022-12-09",
             "stock": 5
         }
     ]

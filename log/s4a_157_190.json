@@ -2,16 +2,88 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/229956051",
+            "price": 1030,
+            "name": "回収ネット 157/",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/2032075842",
             "price": 300,
             "name": "【4枚セット】回収ネ",
-            "date": "2022-12-15",
+            "date": "2022-12-16",
             "stock": 4
         },
         {
             "market": "magi",
             "link": "/items/289642182",
             "price": 337,
+            "name": "【4枚セット】回収ネ",
+            "date": "2022-12-16",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/258243265",
+            "price": 325,
+            "name": "【4枚セット】回収ネ",
+            "date": "2022-12-16",
+            "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30750",
+            "price": 250,
+            "name": "回収ネット157/1",
+            "date": "2022-12-16",
+            "stock": 15
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17140",
+            "price": 220,
+            "name": "回収ネット157/1",
+            "date": "2022-12-16",
+            "stock": 209
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17306",
+            "price": 280,
+            "name": "回収ネット157/1",
+            "date": "2022-12-16",
+            "stock": 39
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30623",
+            "price": 200,
+            "name": "回収ネット157/1",
+            "date": "2022-12-16",
+            "stock": 50
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g157-190-S4A-BM/",
+            "price": 220,
+            "name": "【ポケカ】Ｃ）ミラー",
+            "date": "2022-12-16",
+            "stock": 3
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g157-190-S4A-B/",
+            "price": 220,
+            "name": "【ポケカ】Ｃ）通常仕",
+            "date": "2022-12-16",
+            "stock": 16
+        },
+        {
+            "market": "magi",
+            "link": "/items/2032075842",
+            "price": 300,
             "name": "【4枚セット】回収ネ",
             "date": "2022-12-15",
             "stock": 4
@@ -26,27 +98,19 @@
         },
         {
             "market": "magi",
+            "link": "/items/289642182",
+            "price": 337,
+            "name": "【4枚セット】回収ネ",
+            "date": "2022-12-15",
+            "stock": 4
+        },
+        {
+            "market": "magi",
             "link": "/items/229956051",
             "price": 1030,
             "name": "回収ネット 157/",
             "date": "2022-12-15",
             "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17140",
-            "price": 220,
-            "name": "回収ネット157/1",
-            "date": "2022-12-15",
-            "stock": 209
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30623",
-            "price": 200,
-            "name": "回収ネット157/1",
-            "date": "2022-12-15",
-            "stock": 30
         },
         {
             "market": "cardrush",
@@ -58,11 +122,27 @@
         },
         {
             "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30623",
+            "price": 200,
+            "name": "回収ネット157/1",
+            "date": "2022-12-15",
+            "stock": 30
+        },
+        {
+            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30750",
             "price": 250,
             "name": "回収ネット157/1",
             "date": "2022-12-15",
             "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17140",
+            "price": 220,
+            "name": "回収ネット157/1",
+            "date": "2022-12-15",
+            "stock": 209
         },
         {
             "market": "torecolo",
@@ -82,8 +162,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/258243265",
-            "price": 325,
+            "link": "/items/289642182",
+            "price": 337,
+            "name": "【4枚セット】回収ネ",
+            "date": "2022-12-14",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/2032075842",
+            "price": 300,
             "name": "【4枚セット】回収ネ",
             "date": "2022-12-14",
             "stock": 4
@@ -98,16 +186,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/2032075842",
-            "price": 300,
-            "name": "【4枚セット】回収ネ",
-            "date": "2022-12-14",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/289642182",
-            "price": 337,
+            "link": "/items/258243265",
+            "price": 325,
             "name": "【4枚セット】回収ネ",
             "date": "2022-12-14",
             "stock": 4
@@ -122,11 +202,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30750",
-            "price": 330,
+            "link": "https://www.cardrush-pokemon.jp/product/17140",
+            "price": 280,
             "name": "回収ネット157/1",
             "date": "2022-12-14",
-            "stock": 4
+            "stock": 219
         },
         {
             "market": "cardrush",
@@ -146,11 +226,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17140",
-            "price": 280,
+            "link": "https://www.cardrush-pokemon.jp/product/30750",
+            "price": 330,
             "name": "回収ネット157/1",
             "date": "2022-12-14",
-            "stock": 219
+            "stock": 4
         },
         {
             "market": "torecolo",
@@ -290,6 +370,22 @@
         },
         {
             "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17306",
+            "price": 380,
+            "name": "回収ネット157/1",
+            "date": "2022-12-12",
+            "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30750",
+            "price": 330,
+            "name": "回収ネット157/1",
+            "date": "2022-12-12",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30623",
             "price": 260,
             "name": "回収ネット157/1",
@@ -305,20 +401,12 @@
             "stock": 6
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30750",
-            "price": 330,
-            "name": "回収ネット157/1",
+            "market": "torecolo",
+            "link": "/shop/g/g157-190-S4A-B/",
+            "price": 220,
+            "name": "【ポケカ】Ｃ）通常仕",
             "date": "2022-12-12",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17306",
-            "price": 380,
-            "name": "回収ネット157/1",
-            "date": "2022-12-12",
-            "stock": 4
+            "stock": 15
         },
         {
             "market": "torecolo",
@@ -329,25 +417,9 @@
             "stock": 3
         },
         {
-            "market": "torecolo",
-            "link": "/shop/g/g157-190-S4A-B/",
-            "price": 220,
-            "name": "【ポケカ】Ｃ）通常仕",
-            "date": "2022-12-12",
-            "stock": 15
-        },
-        {
             "market": "magi",
-            "link": "/items/229956051",
-            "price": 1030,
-            "name": "回収ネット 157/",
-            "date": "2022-12-11",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2032075842",
-            "price": 300,
+            "link": "/items/289642182",
+            "price": 337,
             "name": "【4枚セット】回収ネ",
             "date": "2022-12-11",
             "stock": 4
@@ -362,11 +434,19 @@
         },
         {
             "market": "magi",
-            "link": "/items/289642182",
-            "price": 337,
+            "link": "/items/2032075842",
+            "price": 300,
             "name": "【4枚セット】回収ネ",
             "date": "2022-12-11",
             "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/229956051",
+            "price": 1030,
+            "name": "回収ネット 157/",
+            "date": "2022-12-11",
+            "stock": 1
         },
         {
             "market": "cardrush",
@@ -426,19 +506,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30750",
-            "price": 330,
-            "name": "回収ネット157/1",
-            "date": "2022-12-10",
-            "stock": 5
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17306",
             "price": 380,
             "name": "回収ネット157/1",
             "date": "2022-12-10",
             "stock": 14
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30750",
+            "price": 330,
+            "name": "回収ネット157/1",
+            "date": "2022-12-10",
+            "stock": 5
         },
         {
             "market": "torecolo",
@@ -458,6 +538,14 @@
         },
         {
             "market": "magi",
+            "link": "/items/289642182",
+            "price": 337,
+            "name": "【4枚セット】回収ネ",
+            "date": "2022-12-09",
+            "stock": 4
+        },
+        {
+            "market": "magi",
             "link": "/items/229956051",
             "price": 1030,
             "name": "回収ネット 157/",
@@ -468,14 +556,6 @@
             "market": "magi",
             "link": "/items/2032075842",
             "price": 300,
-            "name": "【4枚セット】回収ネ",
-            "date": "2022-12-09",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/289642182",
-            "price": 337,
             "name": "【4枚セット】回収ネ",
             "date": "2022-12-09",
             "stock": 4
@@ -535,102 +615,6 @@
             "name": "【ポケカ】Ｃ）通常仕",
             "date": "2022-12-09",
             "stock": 15
-        },
-        {
-            "market": "magi",
-            "link": "/items/2032075842",
-            "price": 300,
-            "name": "【4枚セット】回収ネ",
-            "date": "2022-12-08",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/289642182",
-            "price": 337,
-            "name": "【4枚セット】回収ネ",
-            "date": "2022-12-08",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/229956051",
-            "price": 1041,
-            "name": "回収ネット 157/",
-            "date": "2022-12-08",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/258243265",
-            "price": 325,
-            "name": "【4枚セット】回収ネ",
-            "date": "2022-12-08",
-            "stock": 4
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18563",
-            "price": 300,
-            "name": "回収ネット(CP){",
-            "date": "2022-12-08",
-            "stock": 14
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18826",
-            "price": 400,
-            "name": "回収ネット:ミラー(",
-            "date": "2022-12-08",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17306",
-            "price": 380,
-            "name": "回収ネット157/1",
-            "date": "2022-12-08",
-            "stock": 16
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17140",
-            "price": 280,
-            "name": "回収ネット157/1",
-            "date": "2022-12-08",
-            "stock": 14
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30623",
-            "price": 260,
-            "name": "回収ネット157/1",
-            "date": "2022-12-08",
-            "stock": 5
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30750",
-            "price": 330,
-            "name": "回収ネット157/1",
-            "date": "2022-12-08",
-            "stock": 17
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g157-190-S4A-BM/",
-            "price": 220,
-            "name": "【ポケカ】Ｃ）ミラー",
-            "date": "2022-12-08",
-            "stock": 3
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g157-190-S4A-B/",
-            "price": 220,
-            "name": "【ポケカ】Ｃ）通常仕",
-            "date": "2022-12-08",
-            "stock": 18
         }
     ]
 }

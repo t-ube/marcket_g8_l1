@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/17805",
             "price": 700,
             "name": "タイレーツV(SR)",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/29928",
+            "price": 580,
+            "name": "タイレーツV102/",
+            "date": "2022-12-16",
+            "stock": 5
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/7548",
+            "price": 680,
+            "name": "タイレーツV102/",
+            "date": "2022-12-16",
+            "stock": 28
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17805",
+            "price": 700,
+            "name": "タイレーツV(SR)",
             "date": "2022-12-15",
             "stock": 1
         },
@@ -55,6 +79,14 @@
             "name": "タイレーツV(SR)",
             "date": "2022-12-13",
             "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/7548",
+            "price": 680,
+            "name": "タイレーツV102/",
+            "date": "2022-12-13",
+            "stock": 27
         },
         {
             "market": "cardrush",
@@ -65,20 +97,20 @@
             "stock": 6
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7548",
-            "price": 680,
-            "name": "タイレーツV102/",
-            "date": "2022-12-13",
-            "stock": 27
-        },
-        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/17805",
             "price": 700,
             "name": "タイレーツV(SR)",
             "date": "2022-12-12",
             "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/29928",
+            "price": 580,
+            "name": "タイレーツV102/",
+            "date": "2022-12-12",
+            "stock": 6
         },
         {
             "market": "cardrush",
@@ -89,20 +121,20 @@
             "stock": 24
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/29928",
-            "price": 580,
-            "name": "タイレーツV102/",
-            "date": "2022-12-12",
-            "stock": 6
-        },
-        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/17805",
             "price": 700,
             "name": "タイレーツV(SR)",
             "date": "2022-12-11",
             "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/7548",
+            "price": 680,
+            "name": "タイレーツV102/",
+            "date": "2022-12-11",
+            "stock": 23
         },
         {
             "market": "cardrush",
@@ -113,28 +145,12 @@
             "stock": 5
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7548",
-            "price": 680,
-            "name": "タイレーツV102/",
-            "date": "2022-12-11",
-            "stock": 23
-        },
-        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/17805",
             "price": 700,
             "name": "タイレーツV(SR)",
             "date": "2022-12-10",
             "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7548",
-            "price": 680,
-            "name": "タイレーツV102/",
-            "date": "2022-12-10",
-            "stock": 23
         },
         {
             "market": "cardrush",
@@ -145,20 +161,20 @@
             "stock": 4
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/7548",
+            "price": 680,
+            "name": "タイレーツV102/",
+            "date": "2022-12-10",
+            "stock": 23
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/17805",
             "price": 700,
             "name": "タイレーツV(SR)",
             "date": "2022-12-09",
             "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/29928",
-            "price": 580,
-            "name": "タイレーツV102/",
-            "date": "2022-12-09",
-            "stock": 4
         },
         {
             "market": "cardrush",
@@ -169,28 +185,12 @@
             "stock": 23
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/17805",
-            "price": 700,
-            "name": "タイレーツV(SR)",
-            "date": "2022-12-08",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7548",
-            "price": 680,
-            "name": "タイレーツV102/",
-            "date": "2022-12-08",
-            "stock": 21
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/29928",
             "price": 580,
             "name": "タイレーツV102/",
-            "date": "2022-12-08",
-            "stock": 5
+            "date": "2022-12-09",
+            "stock": 4
         }
     ]
 }

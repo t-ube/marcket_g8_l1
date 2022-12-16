@@ -5,6 +5,22 @@
             "link": "https://www.hareruya2.com/product/18208",
             "price": 50,
             "name": "ライボルト(U){雷",
+            "date": "2022-12-16",
+            "stock": 5
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14052",
+            "price": 120,
+            "name": "ライボルト017/0",
+            "date": "2022-12-16",
+            "stock": 4
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18208",
+            "price": 50,
+            "name": "ライボルト(U){雷",
             "date": "2022-12-15",
             "stock": 5
         },
@@ -70,14 +86,6 @@
             "price": 120,
             "name": "ライボルト017/0",
             "date": "2022-12-09",
-            "stock": 4
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14052",
-            "price": 120,
-            "name": "ライボルト017/0",
-            "date": "2022-12-08",
             "stock": 4
         }
     ]

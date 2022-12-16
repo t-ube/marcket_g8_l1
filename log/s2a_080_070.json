@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/17939",
             "price": 1200,
             "name": "マルヤクデVMAX(",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30093",
+            "price": 730,
+            "name": "マルヤクデVMAX0",
+            "date": "2022-12-16",
+            "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/13181",
+            "price": 880,
+            "name": "マルヤクデVMAX0",
+            "date": "2022-12-16",
+            "stock": 10
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17939",
+            "price": 1200,
+            "name": "マルヤクデVMAX(",
             "date": "2022-12-15",
             "stock": 1
         },
@@ -146,19 +170,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30093",
-            "price": 730,
-            "name": "マルヤクデVMAX0",
-            "date": "2022-12-10",
-            "stock": 3
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/13181",
             "price": 880,
             "name": "マルヤクデVMAX0",
             "date": "2022-12-10",
             "stock": 8
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30093",
+            "price": 730,
+            "name": "マルヤクデVMAX0",
+            "date": "2022-12-10",
+            "stock": 3
         },
         {
             "market": "magi",
@@ -178,14 +202,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/13181",
-            "price": 880,
-            "name": "マルヤクデVMAX0",
-            "date": "2022-12-09",
-            "stock": 8
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30093",
             "price": 730,
             "name": "マルヤクデVMAX0",
@@ -193,36 +209,12 @@
             "stock": 3
         },
         {
-            "market": "magi",
-            "link": "/items/978029201",
-            "price": 597,
-            "name": "マルヤクデVMAX ",
-            "date": "2022-12-08",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/17939",
-            "price": 1200,
-            "name": "マルヤクデVMAX(",
-            "date": "2022-12-08",
-            "stock": 1
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/13181",
             "price": 880,
             "name": "マルヤクデVMAX0",
-            "date": "2022-12-08",
+            "date": "2022-12-09",
             "stock": 8
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30093",
-            "price": 730,
-            "name": "マルヤクデVMAX0",
-            "date": "2022-12-08",
-            "stock": 3
         }
     ]
 }

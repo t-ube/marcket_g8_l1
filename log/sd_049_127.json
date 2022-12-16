@@ -5,6 +5,22 @@
             "link": "https://www.hareruya2.com/product/18149",
             "price": 50,
             "name": "グラードン(D){闘",
+            "date": "2022-12-16",
+            "stock": 10
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14204",
+            "price": 30,
+            "name": "グラードン049/1",
+            "date": "2022-12-16",
+            "stock": 14
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18149",
+            "price": 50,
+            "name": "グラードン(D){闘",
             "date": "2022-12-15",
             "stock": 10
         },
@@ -110,22 +126,6 @@
             "price": 30,
             "name": "グラードン049/1",
             "date": "2022-12-09",
-            "stock": 14
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18149",
-            "price": 50,
-            "name": "グラードン(D){闘",
-            "date": "2022-12-08",
-            "stock": 10
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14204",
-            "price": 30,
-            "name": "グラードン049/1",
-            "date": "2022-12-08",
             "stock": 14
         }
     ]

@@ -5,6 +5,38 @@
             "link": "/items/710751064",
             "price": 193,
             "name": "【特価】ルギア TD",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/19643",
+            "price": 50,
+            "name": "ルギア008/020",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30030",
+            "price": 70,
+            "name": "ルギア008/020",
+            "date": "2022-12-16",
+            "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/7828",
+            "price": 80,
+            "name": "ルギア008/020",
+            "date": "2022-12-16",
+            "stock": 49
+        },
+        {
+            "market": "magi",
+            "link": "/items/710751064",
+            "price": 193,
+            "name": "【特価】ルギア TD",
             "date": "2022-12-15",
             "stock": 1
         },
@@ -106,14 +138,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/19643",
-            "price": 50,
-            "name": "ルギア008/020",
-            "date": "2022-12-11",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/7828",
             "price": 80,
             "name": "ルギア008/020",
@@ -121,6 +145,14 @@
             "stock": 50
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/19643",
+            "price": 50,
+            "name": "ルギア008/020",
+            "date": "2022-12-11",
+            "stock": 1
+        },
+        {
             "market": "magi",
             "link": "/items/710751064",
             "price": 193,
@@ -154,14 +186,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7828",
-            "price": 80,
-            "name": "ルギア008/020",
-            "date": "2022-12-09",
-            "stock": 50
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/19643",
             "price": 50,
             "name": "ルギア008/020",
@@ -169,27 +193,11 @@
             "stock": 1
         },
         {
-            "market": "magi",
-            "link": "/items/710751064",
-            "price": 193,
-            "name": "【特価】ルギア TD",
-            "date": "2022-12-08",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/19643",
-            "price": 50,
-            "name": "ルギア008/020",
-            "date": "2022-12-08",
-            "stock": 1
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/7828",
             "price": 80,
             "name": "ルギア008/020",
-            "date": "2022-12-08",
+            "date": "2022-12-09",
             "stock": 50
         }
     ]

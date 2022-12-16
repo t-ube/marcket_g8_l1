@@ -5,6 +5,102 @@
             "link": "/items/605981631",
             "price": 164,
             "name": "ユキハミ 047/1",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2047507218",
+            "price": 188,
+            "name": "ユキハミ(CP){水",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/158531752",
+            "price": 320,
+            "name": "ルリナ 164/18",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1217156747",
+            "price": 147,
+            "name": "【特価】ユキハミ 0",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1936277503",
+            "price": 100,
+            "name": "ユキハミ 047/1",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18453",
+            "price": 200,
+            "name": "ユキハミ(CP){水",
+            "date": "2022-12-16",
+            "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30552",
+            "price": 70,
+            "name": "ユキハミ047/19",
+            "date": "2022-12-16",
+            "stock": 18
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30684",
+            "price": 110,
+            "name": "ユキハミ047/19",
+            "date": "2022-12-16",
+            "stock": 16
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17030",
+            "price": 80,
+            "name": "ユキハミ047/19",
+            "date": "2022-12-16",
+            "stock": 83
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17214",
+            "price": 120,
+            "name": "ユキハミ047/19",
+            "date": "2022-12-16",
+            "stock": 82
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g047-190-S4A-B/",
+            "price": 55,
+            "name": "【ポケカ】Ｃ）通常仕",
+            "date": "2022-12-16",
+            "stock": 26
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g047-190-S4A-BM/",
+            "price": 110,
+            "name": "【ポケカ】Ｃ）ミラー",
+            "date": "2022-12-16",
+            "stock": 14
+        },
+        {
+            "market": "magi",
+            "link": "/items/2047507218",
+            "price": 188,
+            "name": "ユキハミ(CP){水",
             "date": "2022-12-15",
             "stock": 1
         },
@@ -18,6 +114,14 @@
         },
         {
             "market": "magi",
+            "link": "/items/1936277503",
+            "price": 100,
+            "name": "ユキハミ 047/1",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/158531752",
             "price": 320,
             "name": "ルリナ 164/18",
@@ -26,16 +130,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/2047507218",
-            "price": 188,
-            "name": "ユキハミ(CP){水",
-            "date": "2022-12-15",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1936277503",
-            "price": 100,
+            "link": "/items/605981631",
+            "price": 164,
             "name": "ユキハミ 047/1",
             "date": "2022-12-15",
             "stock": 1
@@ -50,19 +146,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17214",
-            "price": 120,
+            "link": "https://www.cardrush-pokemon.jp/product/30552",
+            "price": 70,
             "name": "ユキハミ047/19",
             "date": "2022-12-15",
-            "stock": 82
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17030",
-            "price": 80,
-            "name": "ユキハミ047/19",
-            "date": "2022-12-15",
-            "stock": 88
+            "stock": 18
         },
         {
             "market": "cardrush",
@@ -74,19 +162,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30552",
-            "price": 70,
+            "link": "https://www.cardrush-pokemon.jp/product/17030",
+            "price": 80,
             "name": "ユキハミ047/19",
             "date": "2022-12-15",
-            "stock": 18
+            "stock": 88
         },
         {
-            "market": "torecolo",
-            "link": "/shop/g/g047-190-S4A-BM/",
-            "price": 110,
-            "name": "【ポケカ】Ｃ）ミラー",
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17214",
+            "price": 120,
+            "name": "ユキハミ047/19",
             "date": "2022-12-15",
-            "stock": 14
+            "stock": 82
         },
         {
             "market": "torecolo",
@@ -95,6 +183,14 @@
             "name": "【ポケカ】Ｃ）通常仕",
             "date": "2022-12-15",
             "stock": 26
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g047-190-S4A-BM/",
+            "price": 110,
+            "name": "【ポケカ】Ｃ）ミラー",
+            "date": "2022-12-15",
+            "stock": 14
         },
         {
             "market": "magi",
@@ -146,6 +242,14 @@
         },
         {
             "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30684",
+            "price": 110,
+            "name": "ユキハミ047/19",
+            "date": "2022-12-14",
+            "stock": 16
+        },
+        {
+            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30552",
             "price": 70,
             "name": "ユキハミ047/19",
@@ -167,14 +271,6 @@
             "name": "ユキハミ047/19",
             "date": "2022-12-14",
             "stock": 82
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30684",
-            "price": 110,
-            "name": "ユキハミ047/19",
-            "date": "2022-12-14",
-            "stock": 16
         },
         {
             "market": "torecolo",
@@ -298,14 +394,6 @@
         },
         {
             "market": "magi",
-            "link": "/items/2047507218",
-            "price": 188,
-            "name": "ユキハミ(CP){水",
-            "date": "2022-12-12",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/158531752",
             "price": 320,
             "name": "ルリナ 164/18",
@@ -325,6 +413,14 @@
             "link": "/items/1936277503",
             "price": 100,
             "name": "ユキハミ 047/1",
+            "date": "2022-12-12",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2047507218",
+            "price": 188,
+            "name": "ユキハミ(CP){水",
             "date": "2022-12-12",
             "stock": 1
         },
@@ -482,17 +578,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/1936277503",
-            "price": 100,
-            "name": "ユキハミ 047/1",
+            "link": "/items/158531752",
+            "price": 320,
+            "name": "ルリナ 164/18",
             "date": "2022-12-10",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/158531752",
-            "price": 320,
-            "name": "ルリナ 164/18",
+            "link": "/items/1936277503",
+            "price": 100,
+            "name": "ユキハミ 047/1",
             "date": "2022-12-10",
             "stock": 1
         },
@@ -530,19 +626,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30552",
-            "price": 70,
-            "name": "ユキハミ047/19",
-            "date": "2022-12-10",
-            "stock": 18
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30684",
             "price": 110,
             "name": "ユキハミ047/19",
             "date": "2022-12-10",
             "stock": 17
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30552",
+            "price": 70,
+            "name": "ユキハミ047/19",
+            "date": "2022-12-10",
+            "stock": 18
         },
         {
             "market": "cardrush",
@@ -578,14 +674,6 @@
         },
         {
             "market": "magi",
-            "link": "/items/1936277503",
-            "price": 100,
-            "name": "ユキハミ 047/1",
-            "date": "2022-12-09",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/2047507218",
             "price": 263,
             "name": "ユキハミ(CP){水",
@@ -610,6 +698,14 @@
         },
         {
             "market": "magi",
+            "link": "/items/1936277503",
+            "price": 100,
+            "name": "ユキハミ 047/1",
+            "date": "2022-12-09",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/1217156747",
             "price": 148,
             "name": "【特価】ユキハミ 0",
@@ -623,14 +719,6 @@
             "name": "ユキハミ(CP){水",
             "date": "2022-12-09",
             "stock": 7
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30552",
-            "price": 70,
-            "name": "ユキハミ047/19",
-            "date": "2022-12-09",
-            "stock": 18
         },
         {
             "market": "cardrush",
@@ -657,99 +745,11 @@
             "stock": 82
         },
         {
-            "market": "torecolo",
-            "link": "/shop/g/g047-190-S4A-B/",
-            "price": 55,
-            "name": "【ポケカ】Ｃ）通常仕",
-            "date": "2022-12-09",
-            "stock": 26
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g047-190-S4A-BM/",
-            "price": 110,
-            "name": "【ポケカ】Ｃ）ミラー",
-            "date": "2022-12-09",
-            "stock": 14
-        },
-        {
-            "market": "magi",
-            "link": "/items/158531752",
-            "price": 320,
-            "name": "ルリナ 164/18",
-            "date": "2022-12-08",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2047507218",
-            "price": 263,
-            "name": "ユキハミ(CP){水",
-            "date": "2022-12-08",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1936277503",
-            "price": 100,
-            "name": "ユキハミ 047/1",
-            "date": "2022-12-08",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/605981631",
-            "price": 164,
-            "name": "ユキハミ 047/1",
-            "date": "2022-12-08",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1217156747",
-            "price": 148,
-            "name": "【特価】ユキハミ 0",
-            "date": "2022-12-08",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18453",
-            "price": 200,
-            "name": "ユキハミ(CP){水",
-            "date": "2022-12-08",
-            "stock": 7
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30684",
-            "price": 110,
-            "name": "ユキハミ047/19",
-            "date": "2022-12-08",
-            "stock": 17
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17030",
-            "price": 80,
-            "name": "ユキハミ047/19",
-            "date": "2022-12-08",
-            "stock": 97
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17214",
-            "price": 120,
-            "name": "ユキハミ047/19",
-            "date": "2022-12-08",
-            "stock": 82
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30552",
             "price": 70,
             "name": "ユキハミ047/19",
-            "date": "2022-12-08",
+            "date": "2022-12-09",
             "stock": 18
         },
         {
@@ -757,7 +757,7 @@
             "link": "/shop/g/g047-190-S4A-B/",
             "price": 55,
             "name": "【ポケカ】Ｃ）通常仕",
-            "date": "2022-12-08",
+            "date": "2022-12-09",
             "stock": 26
         },
         {
@@ -765,7 +765,7 @@
             "link": "/shop/g/g047-190-S4A-BM/",
             "price": 110,
             "name": "【ポケカ】Ｃ）ミラー",
-            "date": "2022-12-08",
+            "date": "2022-12-09",
             "stock": 14
         }
     ]
