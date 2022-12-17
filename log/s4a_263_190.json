@@ -5,6 +5,46 @@
             "link": "/items/1987372606",
             "price": 372,
             "name": "ガラルネギガナイト ",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18669",
+            "price": 200,
+            "name": "ガラルネギガナイト(",
+            "date": "2022-12-17",
+            "stock": 20
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30852",
+            "price": 330,
+            "name": "ガラルネギガナイト2",
+            "date": "2022-12-17",
+            "stock": 9
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17412",
+            "price": 380,
+            "name": "ガラルネギガナイト2",
+            "date": "2022-12-17",
+            "stock": 18
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g263-190-S4A-B/",
+            "price": 275,
+            "name": "【ポケカ】Ｓ◇ガラル",
+            "date": "2022-12-17",
+            "stock": 7
+        },
+        {
+            "market": "magi",
+            "link": "/items/1987372606",
+            "price": 372,
+            "name": "ガラルネギガナイト ",
             "date": "2022-12-16",
             "stock": 1
         },
@@ -58,19 +98,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30852",
-            "price": 330,
-            "name": "ガラルネギガナイト2",
-            "date": "2022-12-15",
-            "stock": 8
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17412",
             "price": 380,
             "name": "ガラルネギガナイト2",
             "date": "2022-12-15",
             "stock": 18
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30852",
+            "price": 330,
+            "name": "ガラルネギガナイト2",
+            "date": "2022-12-15",
+            "stock": 8
         },
         {
             "market": "torecolo",
@@ -98,19 +138,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17412",
-            "price": 380,
-            "name": "ガラルネギガナイト2",
-            "date": "2022-12-14",
-            "stock": 18
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30852",
             "price": 330,
             "name": "ガラルネギガナイト2",
             "date": "2022-12-14",
             "stock": 8
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17412",
+            "price": 380,
+            "name": "ガラルネギガナイト2",
+            "date": "2022-12-14",
+            "stock": 18
         },
         {
             "market": "torecolo",
@@ -143,14 +183,6 @@
             "name": "ガラルネギガナイト2",
             "date": "2022-12-13",
             "stock": 8
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17578",
-            "price": 180,
-            "name": "ガラルネギガナイト2",
-            "date": "2022-12-13",
-            "stock": 1
         },
         {
             "market": "cardrush",
@@ -161,6 +193,14 @@
             "stock": 17
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17578",
+            "price": 180,
+            "name": "ガラルネギガナイト2",
+            "date": "2022-12-13",
+            "stock": 1
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g263-190-S4A-B/",
             "price": 275,
@@ -186,22 +226,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17578",
-            "price": 180,
-            "name": "ガラルネギガナイト2",
-            "date": "2022-12-12",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30852",
-            "price": 330,
-            "name": "ガラルネギガナイト2",
-            "date": "2022-12-12",
-            "stock": 8
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17412",
             "price": 380,
             "name": "ガラルネギガナイト2",
@@ -209,6 +233,22 @@
             "stock": 15
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30852",
+            "price": 330,
+            "name": "ガラルネギガナイト2",
+            "date": "2022-12-12",
+            "stock": 8
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17578",
+            "price": 180,
+            "name": "ガラルネギガナイト2",
+            "date": "2022-12-12",
+            "stock": 1
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g263-190-S4A-B/",
             "price": 275,
@@ -234,11 +274,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17578",
-            "price": 180,
+            "link": "https://www.cardrush-pokemon.jp/product/17412",
+            "price": 380,
             "name": "ガラルネギガナイト2",
             "date": "2022-12-11",
-            "stock": 1
+            "stock": 14
         },
         {
             "market": "cardrush",
@@ -250,11 +290,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17412",
-            "price": 380,
+            "link": "https://www.cardrush-pokemon.jp/product/17578",
+            "price": 180,
             "name": "ガラルネギガナイト2",
             "date": "2022-12-11",
-            "stock": 14
+            "stock": 1
         },
         {
             "market": "torecolo",
@@ -282,6 +322,14 @@
         },
         {
             "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17578",
+            "price": 180,
+            "name": "ガラルネギガナイト2",
+            "date": "2022-12-10",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17412",
             "price": 380,
             "name": "ガラルネギガナイト2",
@@ -297,67 +345,11 @@
             "stock": 8
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17578",
-            "price": 180,
-            "name": "ガラルネギガナイト2",
-            "date": "2022-12-10",
-            "stock": 1
-        },
-        {
             "market": "torecolo",
             "link": "/shop/g/g263-190-S4A-B/",
             "price": 275,
             "name": "【ポケカ】Ｓ◇ガラル",
             "date": "2022-12-10",
-            "stock": 7
-        },
-        {
-            "market": "magi",
-            "link": "/items/1987372606",
-            "price": 372,
-            "name": "ガラルネギガナイト ",
-            "date": "2022-12-09",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18669",
-            "price": 200,
-            "name": "ガラルネギガナイト(",
-            "date": "2022-12-09",
-            "stock": 20
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17578",
-            "price": 180,
-            "name": "ガラルネギガナイト2",
-            "date": "2022-12-09",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17412",
-            "price": 380,
-            "name": "ガラルネギガナイト2",
-            "date": "2022-12-09",
-            "stock": 14
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30852",
-            "price": 330,
-            "name": "ガラルネギガナイト2",
-            "date": "2022-12-09",
-            "stock": 8
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g263-190-S4A-B/",
-            "price": 275,
-            "name": "【ポケカ】Ｓ◇ガラル",
-            "date": "2022-12-09",
             "stock": 7
         }
     ]

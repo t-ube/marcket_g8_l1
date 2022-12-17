@@ -5,6 +5,38 @@
             "link": "/items/492058006",
             "price": 3444,
             "name": "〔状態A-〕ふつうの",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1345391335",
+            "price": 4179,
+            "name": "ふつうのつりざお【U",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/29765",
+            "price": 3280,
+            "name": "ふつうのつりざお07",
+            "date": "2022-12-17",
+            "stock": 7
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/7030",
+            "price": 3980,
+            "name": "ふつうのつりざお07",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/492058006",
+            "price": 3444,
+            "name": "〔状態A-〕ふつうの",
             "date": "2022-12-16",
             "stock": 1
         },
@@ -98,19 +130,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7030",
-            "price": 3980,
-            "name": "ふつうのつりざお07",
-            "date": "2022-12-13",
-            "stock": 17
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/29765",
             "price": 3280,
             "name": "ふつうのつりざお07",
             "date": "2022-12-13",
             "stock": 7
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/7030",
+            "price": 3980,
+            "name": "ふつうのつりざお07",
+            "date": "2022-12-13",
+            "stock": 17
         },
         {
             "market": "magi",
@@ -130,14 +162,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/29765",
-            "price": 3280,
-            "name": "ふつうのつりざお07",
-            "date": "2022-12-12",
-            "stock": 7
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/7030",
             "price": 3980,
             "name": "ふつうのつりざお07",
@@ -145,6 +169,14 @@
             "stock": 17
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/29765",
+            "price": 3280,
+            "name": "ふつうのつりざお07",
+            "date": "2022-12-12",
+            "stock": 7
+        },
+        {
             "market": "magi",
             "link": "/items/492058006",
             "price": 3759,
@@ -159,14 +191,6 @@
             "name": "ふつうのつりざお【U",
             "date": "2022-12-11",
             "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/29765",
-            "price": 3580,
-            "name": "ふつうのつりざお07",
-            "date": "2022-12-11",
-            "stock": 7
         },
         {
             "market": "cardrush",
@@ -177,12 +201,12 @@
             "stock": 17
         },
         {
-            "market": "magi",
-            "link": "/items/492058006",
-            "price": 3759,
-            "name": "〔状態A-〕ふつうの",
-            "date": "2022-12-10",
-            "stock": 1
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/29765",
+            "price": 3580,
+            "name": "ふつうのつりざお07",
+            "date": "2022-12-11",
+            "stock": 7
         },
         {
             "market": "magi",
@@ -193,52 +217,28 @@
             "stock": 1
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/29765",
-            "price": 3580,
-            "name": "ふつうのつりざお07",
-            "date": "2022-12-10",
-            "stock": 7
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7030",
-            "price": 4480,
-            "name": "ふつうのつりざお07",
-            "date": "2022-12-10",
-            "stock": 12
-        },
-        {
-            "market": "magi",
-            "link": "/items/1636514388",
-            "price": 4704,
-            "name": "ふつうのつりざお【U",
-            "date": "2022-12-09",
-            "stock": 1
-        },
-        {
             "market": "magi",
             "link": "/items/492058006",
             "price": 3759,
             "name": "〔状態A-〕ふつうの",
-            "date": "2022-12-09",
+            "date": "2022-12-10",
             "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/29765",
-            "price": 3580,
-            "name": "ふつうのつりざお07",
-            "date": "2022-12-09",
-            "stock": 7
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/7030",
             "price": 4480,
             "name": "ふつうのつりざお07",
-            "date": "2022-12-09",
+            "date": "2022-12-10",
             "stock": 12
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/29765",
+            "price": 3580,
+            "name": "ふつうのつりざお07",
+            "date": "2022-12-10",
+            "stock": 7
         }
     ]
 }

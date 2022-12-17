@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/17678",
             "price": 50,
             "name": "ルチャブル(C){無",
+            "date": "2022-12-17",
+            "stock": 18
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/7345",
+            "price": 30,
+            "name": "ルチャブル061/0",
+            "date": "2022-12-17",
+            "stock": 64
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g061-070-S1A-B/",
+            "price": 33,
+            "name": "【ポケカ】Ｃ◇ルチャ",
+            "date": "2022-12-17",
+            "stock": 9
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17678",
+            "price": 50,
+            "name": "ルチャブル(C){無",
             "date": "2022-12-16",
             "stock": 18
         },
@@ -166,30 +190,6 @@
             "price": 33,
             "name": "【ポケカ】Ｃ◇ルチャ",
             "date": "2022-12-10",
-            "stock": 9
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/17678",
-            "price": 50,
-            "name": "ルチャブル(C){無",
-            "date": "2022-12-09",
-            "stock": 18
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7345",
-            "price": 30,
-            "name": "ルチャブル061/0",
-            "date": "2022-12-09",
-            "stock": 64
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g061-070-S1A-B/",
-            "price": 33,
-            "name": "【ポケカ】Ｃ◇ルチャ",
-            "date": "2022-12-09",
             "stock": 9
         }
     ]

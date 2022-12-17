@@ -5,6 +5,30 @@
             "link": "/items/1668800775",
             "price": 250,
             "name": "ガラルネギガナイトV",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18350",
+            "price": 200,
+            "name": "ガラルネギガナイトV",
+            "date": "2022-12-17",
+            "stock": 59
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14519",
+            "price": 80,
+            "name": "ガラルネギガナイトV",
+            "date": "2022-12-17",
+            "stock": 196
+        },
+        {
+            "market": "magi",
+            "link": "/items/1668800775",
+            "price": 250,
+            "name": "ガラルネギガナイトV",
             "date": "2022-12-16",
             "stock": 1
         },
@@ -95,28 +119,28 @@
             "name": "ガラルネギガナイトV",
             "date": "2022-12-13",
             "stock": 196
-        },
-        {
-            "market": "magi",
-            "link": "/items/1038050001",
-            "price": 180,
-            "name": "【Ｄ特価】ガラルネギ",
-            "date": "2022-12-12",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1668800775",
-            "price": 250,
-            "name": "ガラルネギガナイトV",
-            "date": "2022-12-12",
-            "stock": 1
         },
         {
             "market": "magi",
             "link": "/items/633884535",
             "price": 110,
             "name": "ガラルネギガナイトV",
+            "date": "2022-12-12",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1668800775",
+            "price": 250,
+            "name": "ガラルネギガナイトV",
+            "date": "2022-12-12",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1038050001",
+            "price": 180,
+            "name": "【Ｄ特価】ガラルネギ",
             "date": "2022-12-12",
             "stock": 1
         },
@@ -138,16 +162,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/633884535",
-            "price": 110,
+            "link": "/items/1668800775",
+            "price": 250,
             "name": "ガラルネギガナイトV",
             "date": "2022-12-11",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1668800775",
-            "price": 250,
+            "link": "/items/633884535",
+            "price": 110,
             "name": "ガラルネギガナイトV",
             "date": "2022-12-11",
             "stock": 1
@@ -178,8 +202,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/1668800775",
-            "price": 250,
+            "link": "/items/633884535",
+            "price": 110,
             "name": "ガラルネギガナイトV",
             "date": "2022-12-10",
             "stock": 1
@@ -194,8 +218,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/633884535",
-            "price": 110,
+            "link": "/items/1668800775",
+            "price": 250,
             "name": "ガラルネギガナイトV",
             "date": "2022-12-10",
             "stock": 1
@@ -214,46 +238,6 @@
             "price": 80,
             "name": "ガラルネギガナイトV",
             "date": "2022-12-10",
-            "stock": 199
-        },
-        {
-            "market": "magi",
-            "link": "/items/633884535",
-            "price": 110,
-            "name": "ガラルネギガナイトV",
-            "date": "2022-12-09",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1668800775",
-            "price": 250,
-            "name": "ガラルネギガナイトV",
-            "date": "2022-12-09",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1038050001",
-            "price": 180,
-            "name": "【Ｄ特価】ガラルネギ",
-            "date": "2022-12-09",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18350",
-            "price": 200,
-            "name": "ガラルネギガナイトV",
-            "date": "2022-12-09",
-            "stock": 57
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14519",
-            "price": 80,
-            "name": "ガラルネギガナイトV",
-            "date": "2022-12-09",
             "stock": 199
         }
     ]

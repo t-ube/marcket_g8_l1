@@ -2,6 +2,22 @@
     "items": [
         {
             "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30169",
+            "price": 730,
+            "name": "ハッサムV107/1",
+            "date": "2022-12-17",
+            "stock": 12
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/13921",
+            "price": 880,
+            "name": "ハッサムV107/1",
+            "date": "2022-12-17",
+            "stock": 16
+        },
+        {
+            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/14994",
             "price": 580,
             "name": "ハッサムV107/1",
@@ -82,14 +98,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30169",
-            "price": 730,
-            "name": "ハッサムV107/1",
-            "date": "2022-12-13",
-            "stock": 10
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/13921",
             "price": 880,
             "name": "ハッサムV107/1",
@@ -98,11 +106,27 @@
         },
         {
             "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30169",
+            "price": 730,
+            "name": "ハッサムV107/1",
+            "date": "2022-12-13",
+            "stock": 10
+        },
+        {
+            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/14994",
             "price": 580,
             "name": "ハッサムV107/1",
             "date": "2022-12-12",
             "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30169",
+            "price": 730,
+            "name": "ハッサムV107/1",
+            "date": "2022-12-12",
+            "stock": 10
         },
         {
             "market": "cardrush",
@@ -114,30 +138,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30169",
-            "price": 730,
-            "name": "ハッサムV107/1",
-            "date": "2022-12-12",
-            "stock": 10
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14994",
-            "price": 580,
-            "name": "ハッサムV107/1",
-            "date": "2022-12-11",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30169",
-            "price": 730,
-            "name": "ハッサムV107/1",
-            "date": "2022-12-11",
-            "stock": 10
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/13921",
             "price": 880,
             "name": "ハッサムV107/1",
@@ -146,19 +146,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/13921",
-            "price": 880,
-            "name": "ハッサムV107/1",
-            "date": "2022-12-10",
-            "stock": 12
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30169",
             "price": 730,
             "name": "ハッサムV107/1",
-            "date": "2022-12-10",
+            "date": "2022-12-11",
             "stock": 10
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14994",
+            "price": 580,
+            "name": "ハッサムV107/1",
+            "date": "2022-12-11",
+            "stock": 2
         },
         {
             "market": "cardrush",
@@ -170,18 +170,10 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14994",
-            "price": 580,
-            "name": "ハッサムV107/1",
-            "date": "2022-12-09",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30169",
             "price": 730,
             "name": "ハッサムV107/1",
-            "date": "2022-12-09",
+            "date": "2022-12-10",
             "stock": 10
         },
         {
@@ -189,7 +181,7 @@
             "link": "https://www.cardrush-pokemon.jp/product/13921",
             "price": 880,
             "name": "ハッサムV107/1",
-            "date": "2022-12-09",
+            "date": "2022-12-10",
             "stock": 12
         }
     ]

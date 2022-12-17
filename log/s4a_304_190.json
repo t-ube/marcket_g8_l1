@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/18710",
             "price": 700,
             "name": "ゴリランダーV(SS",
+            "date": "2022-12-17",
+            "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30893",
+            "price": 580,
+            "name": "ゴリランダーV304",
+            "date": "2022-12-17",
+            "stock": 49
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17453",
+            "price": 680,
+            "name": "ゴリランダーV304",
+            "date": "2022-12-17",
+            "stock": 129
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18710",
+            "price": 700,
+            "name": "ゴリランダーV(SS",
             "date": "2022-12-16",
             "stock": 4
         },
@@ -58,14 +82,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30893",
-            "price": 580,
-            "name": "ゴリランダーV304",
-            "date": "2022-12-14",
-            "stock": 42
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17453",
             "price": 680,
             "name": "ゴリランダーV304",
@@ -73,94 +89,94 @@
             "stock": 106
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18710",
-            "price": 700,
-            "name": "ゴリランダーV(SS",
-            "date": "2022-12-13",
-            "stock": 4
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17453",
-            "price": 680,
-            "name": "ゴリランダーV304",
-            "date": "2022-12-13",
-            "stock": 121
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30893",
             "price": 580,
             "name": "ゴリランダーV304",
-            "date": "2022-12-13",
-            "stock": 43
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18710",
-            "price": 700,
-            "name": "ゴリランダーV(SS",
-            "date": "2022-12-12",
-            "stock": 4
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30893",
-            "price": 580,
-            "name": "ゴリランダーV304",
-            "date": "2022-12-12",
-            "stock": 43
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17453",
-            "price": 680,
-            "name": "ゴリランダーV304",
-            "date": "2022-12-12",
-            "stock": 121
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18710",
-            "price": 700,
-            "name": "ゴリランダーV(SS",
-            "date": "2022-12-11",
-            "stock": 4
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17453",
-            "price": 680,
-            "name": "ゴリランダーV304",
-            "date": "2022-12-11",
-            "stock": 99
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30893",
-            "price": 580,
-            "name": "ゴリランダーV304",
-            "date": "2022-12-11",
-            "stock": 43
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18710",
-            "price": 700,
-            "name": "ゴリランダーV(SS",
-            "date": "2022-12-10",
-            "stock": 4
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30893",
-            "price": 580,
-            "name": "ゴリランダーV304",
-            "date": "2022-12-10",
+            "date": "2022-12-14",
             "stock": 42
         },
         {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18710",
+            "price": 700,
+            "name": "ゴリランダーV(SS",
+            "date": "2022-12-13",
+            "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30893",
+            "price": 580,
+            "name": "ゴリランダーV304",
+            "date": "2022-12-13",
+            "stock": 43
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17453",
+            "price": 680,
+            "name": "ゴリランダーV304",
+            "date": "2022-12-13",
+            "stock": 121
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18710",
+            "price": 700,
+            "name": "ゴリランダーV(SS",
+            "date": "2022-12-12",
+            "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17453",
+            "price": 680,
+            "name": "ゴリランダーV304",
+            "date": "2022-12-12",
+            "stock": 121
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30893",
+            "price": 580,
+            "name": "ゴリランダーV304",
+            "date": "2022-12-12",
+            "stock": 43
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18710",
+            "price": 700,
+            "name": "ゴリランダーV(SS",
+            "date": "2022-12-11",
+            "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30893",
+            "price": 580,
+            "name": "ゴリランダーV304",
+            "date": "2022-12-11",
+            "stock": 43
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17453",
+            "price": 680,
+            "name": "ゴリランダーV304",
+            "date": "2022-12-11",
+            "stock": 99
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18710",
+            "price": 700,
+            "name": "ゴリランダーV(SS",
+            "date": "2022-12-10",
+            "stock": 4
+        },
+        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17453",
             "price": 680,
@@ -169,27 +185,11 @@
             "stock": 99
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18710",
-            "price": 700,
-            "name": "ゴリランダーV(SS",
-            "date": "2022-12-09",
-            "stock": 4
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17453",
-            "price": 680,
-            "name": "ゴリランダーV304",
-            "date": "2022-12-09",
-            "stock": 99
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30893",
             "price": 580,
             "name": "ゴリランダーV304",
-            "date": "2022-12-09",
+            "date": "2022-12-10",
             "stock": 42
         }
     ]

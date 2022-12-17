@@ -2,11 +2,115 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/788536937",
+            "price": 742,
+            "name": "ガラル鉱山 U 09",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2130922801",
+            "price": 850,
+            "name": "【4枚セット】ガラル",
+            "date": "2022-12-17",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/335580292",
+            "price": 3200,
+            "name": "ガラル鉱山 U 09",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/252954350",
+            "price": 3000,
+            "name": "ガラル鉱山 U 09",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/409166021",
+            "price": 800,
+            "name": "(NM-)ガラル鉱山",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/2087410678",
             "price": 562,
             "name": "ガラル鉱山 U 09",
-            "date": "2022-12-16",
+            "date": "2022-12-17",
             "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/328135145",
+            "price": 1464,
+            "name": "ガラル鉱山 U 09",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1524106808",
+            "price": 1200,
+            "name": "【LO】【特価】おう",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/159787138",
+            "price": 680,
+            "name": "ガラル鉱山 U 09",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/59068982",
+            "price": 680,
+            "name": "ガラル鉱山 U 09",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1811333821",
+            "price": 1000,
+            "name": "ガラル鉱山 U 09",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/7521",
+            "price": 680,
+            "name": "ガラル鉱山093/0",
+            "date": "2022-12-17",
+            "stock": 67
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/24645",
+            "price": 630,
+            "name": "ガラル鉱山093/0",
+            "date": "2022-12-17",
+            "stock": 77
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g093-096-S2-B/",
+            "price": 440,
+            "name": "【ポケカ】Ｕ◇ガラル",
+            "date": "2022-12-17",
+            "stock": 1
         },
         {
             "market": "magi",
@@ -18,8 +122,56 @@
         },
         {
             "market": "magi",
+            "link": "/items/2130922801",
+            "price": 850,
+            "name": "【4枚セット】ガラル",
+            "date": "2022-12-16",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/335580292",
+            "price": 3200,
+            "name": "ガラル鉱山 U 09",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/252954350",
             "price": 3000,
+            "name": "ガラル鉱山 U 09",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/409166021",
+            "price": 800,
+            "name": "(NM-)ガラル鉱山",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2087410678",
+            "price": 562,
+            "name": "ガラル鉱山 U 09",
+            "date": "2022-12-16",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1524106808",
+            "price": 1250,
+            "name": "【LO】【特価】おう",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/159787138",
+            "price": 680,
             "name": "ガラル鉱山 U 09",
             "date": "2022-12-16",
             "stock": 1
@@ -49,44 +201,12 @@
             "stock": 1
         },
         {
-            "market": "magi",
-            "link": "/items/335580292",
-            "price": 3200,
-            "name": "ガラル鉱山 U 09",
-            "date": "2022-12-16",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/159787138",
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/7521",
             "price": 680,
-            "name": "ガラル鉱山 U 09",
+            "name": "ガラル鉱山093/0",
             "date": "2022-12-16",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1524106808",
-            "price": 1250,
-            "name": "【LO】【特価】おう",
-            "date": "2022-12-16",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2130922801",
-            "price": 850,
-            "name": "【4枚セット】ガラル",
-            "date": "2022-12-16",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/409166021",
-            "price": 800,
-            "name": "(NM-)ガラル鉱山",
-            "date": "2022-12-16",
-            "stock": 1
+            "stock": 67
         },
         {
             "market": "cardrush",
@@ -97,14 +217,6 @@
             "stock": 59
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7521",
-            "price": 680,
-            "name": "ガラル鉱山093/0",
-            "date": "2022-12-16",
-            "stock": 67
-        },
-        {
             "market": "torecolo",
             "link": "/shop/g/g093-096-S2-B/",
             "price": 440,
@@ -114,40 +226,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/1524106808",
-            "price": 1250,
-            "name": "【LO】【特価】おう",
-            "date": "2022-12-15",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2130922801",
-            "price": 850,
-            "name": "【4枚セット】ガラル",
-            "date": "2022-12-15",
-            "stock": 4
-        },
-        {
-            "market": "magi",
             "link": "/items/1811333821",
             "price": 1000,
-            "name": "ガラル鉱山 U 09",
-            "date": "2022-12-15",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/788536937",
-            "price": 745,
-            "name": "ガラル鉱山 U 09",
-            "date": "2022-12-15",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/328135145",
-            "price": 1464,
             "name": "ガラル鉱山 U 09",
             "date": "2022-12-15",
             "stock": 1
@@ -162,9 +242,33 @@
         },
         {
             "market": "magi",
+            "link": "/items/788536937",
+            "price": 745,
+            "name": "ガラル鉱山 U 09",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/159787138",
             "price": 680,
             "name": "ガラル鉱山 U 09",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2130922801",
+            "price": 850,
+            "name": "【4枚セット】ガラル",
+            "date": "2022-12-15",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1524106808",
+            "price": 1250,
+            "name": "【LO】【特価】おう",
             "date": "2022-12-15",
             "stock": 1
         },
@@ -201,12 +305,12 @@
             "stock": 4
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7521",
-            "price": 680,
-            "name": "ガラル鉱山093/0",
+            "market": "magi",
+            "link": "/items/328135145",
+            "price": 1464,
+            "name": "ガラル鉱山 U 09",
             "date": "2022-12-15",
-            "stock": 67
+            "stock": 1
         },
         {
             "market": "cardrush",
@@ -217,11 +321,67 @@
             "stock": 60
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/7521",
+            "price": 680,
+            "name": "ガラル鉱山093/0",
+            "date": "2022-12-15",
+            "stock": 67
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g093-096-S2-B/",
             "price": 440,
             "name": "【ポケカ】Ｕ◇ガラル",
             "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1524106808",
+            "price": 1250,
+            "name": "【LO】【特価】おう",
+            "date": "2022-12-14",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1811333821",
+            "price": 1000,
+            "name": "ガラル鉱山 U 09",
+            "date": "2022-12-14",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/409166021",
+            "price": 800,
+            "name": "(NM-)ガラル鉱山",
+            "date": "2022-12-14",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2087410678",
+            "price": 562,
+            "name": "ガラル鉱山 U 09",
+            "date": "2022-12-14",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/59068982",
+            "price": 680,
+            "name": "ガラル鉱山 U 09",
+            "date": "2022-12-14",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/328135145",
+            "price": 1464,
+            "name": "ガラル鉱山 U 09",
+            "date": "2022-12-14",
             "stock": 1
         },
         {
@@ -242,8 +402,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/328135145",
-            "price": 1464,
+            "link": "/items/159787138",
+            "price": 680,
             "name": "ガラル鉱山 U 09",
             "date": "2022-12-14",
             "stock": 1
@@ -260,54 +420,6 @@
             "market": "magi",
             "link": "/items/335580292",
             "price": 3200,
-            "name": "ガラル鉱山 U 09",
-            "date": "2022-12-14",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/59068982",
-            "price": 680,
-            "name": "ガラル鉱山 U 09",
-            "date": "2022-12-14",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1524106808",
-            "price": 1250,
-            "name": "【LO】【特価】おう",
-            "date": "2022-12-14",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/159787138",
-            "price": 680,
-            "name": "ガラル鉱山 U 09",
-            "date": "2022-12-14",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2087410678",
-            "price": 562,
-            "name": "ガラル鉱山 U 09",
-            "date": "2022-12-14",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/409166021",
-            "price": 800,
-            "name": "(NM-)ガラル鉱山",
-            "date": "2022-12-14",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1811333821",
-            "price": 1000,
             "name": "ガラル鉱山 U 09",
             "date": "2022-12-14",
             "stock": 1
@@ -354,11 +466,19 @@
         },
         {
             "market": "magi",
-            "link": "/items/335580292",
-            "price": 3200,
+            "link": "/items/59068982",
+            "price": 680,
             "name": "ガラル鉱山 U 09",
             "date": "2022-12-13",
             "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2130922801",
+            "price": 850,
+            "name": "【4枚セット】ガラル",
+            "date": "2022-12-13",
+            "stock": 4
         },
         {
             "market": "magi",
@@ -373,22 +493,6 @@
             "link": "/items/1524106808",
             "price": 1250,
             "name": "【LO】【特価】おう",
-            "date": "2022-12-13",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2130922801",
-            "price": 850,
-            "name": "【4枚セット】ガラル",
-            "date": "2022-12-13",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/59068982",
-            "price": 680,
-            "name": "ガラル鉱山 U 09",
             "date": "2022-12-13",
             "stock": 1
         },
@@ -433,20 +537,20 @@
             "stock": 4
         },
         {
+            "market": "magi",
+            "link": "/items/335580292",
+            "price": 3200,
+            "name": "ガラル鉱山 U 09",
+            "date": "2022-12-13",
+            "stock": 1
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/17796",
             "price": 700,
             "name": "ガラル鉱山(U){ス",
             "date": "2022-12-13",
             "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/24645",
-            "price": 630,
-            "name": "ガラル鉱山093/0",
-            "date": "2022-12-13",
-            "stock": 63
         },
         {
             "market": "cardrush",
@@ -457,12 +561,52 @@
             "stock": 67
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/24645",
+            "price": 630,
+            "name": "ガラル鉱山093/0",
+            "date": "2022-12-13",
+            "stock": 63
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g093-096-S2-B/",
             "price": 440,
             "name": "【ポケカ】Ｕ◇ガラル",
             "date": "2022-12-13",
             "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1811333821",
+            "price": 1000,
+            "name": "ガラル鉱山 U 09",
+            "date": "2022-12-12",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/409166021",
+            "price": 800,
+            "name": "(NM-)ガラル鉱山",
+            "date": "2022-12-12",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/328135145",
+            "price": 1464,
+            "name": "ガラル鉱山 U 09",
+            "date": "2022-12-12",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2087410678",
+            "price": 562,
+            "name": "ガラル鉱山 U 09",
+            "date": "2022-12-12",
+            "stock": 4
         },
         {
             "market": "magi",
@@ -482,11 +626,11 @@
         },
         {
             "market": "magi",
-            "link": "/items/159787138",
-            "price": 680,
-            "name": "ガラル鉱山 U 09",
+            "link": "/items/2130922801",
+            "price": 850,
+            "name": "【4枚セット】ガラル",
             "date": "2022-12-12",
-            "stock": 1
+            "stock": 4
         },
         {
             "market": "magi",
@@ -514,40 +658,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/328135145",
-            "price": 1464,
-            "name": "ガラル鉱山 U 09",
-            "date": "2022-12-12",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2087410678",
-            "price": 562,
-            "name": "ガラル鉱山 U 09",
-            "date": "2022-12-12",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/2130922801",
-            "price": 850,
-            "name": "【4枚セット】ガラル",
-            "date": "2022-12-12",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/409166021",
-            "price": 800,
-            "name": "(NM-)ガラル鉱山",
-            "date": "2022-12-12",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1811333821",
-            "price": 1000,
+            "link": "/items/159787138",
+            "price": 680,
             "name": "ガラル鉱山 U 09",
             "date": "2022-12-12",
             "stock": 1
@@ -682,8 +794,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/328135145",
-            "price": 1464,
+            "link": "/items/409166021",
+            "price": 800,
+            "name": "(NM-)ガラル鉱山",
+            "date": "2022-12-10",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/159787138",
+            "price": 680,
             "name": "ガラル鉱山 U 09",
             "date": "2022-12-10",
             "stock": 1
@@ -698,24 +818,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/1524106808",
-            "price": 1300,
-            "name": "【LO】【特価】おう",
-            "date": "2022-12-10",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/59068982",
-            "price": 680,
-            "name": "ガラル鉱山 U 09",
-            "date": "2022-12-10",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/159787138",
-            "price": 680,
+            "link": "/items/335580292",
+            "price": 3200,
             "name": "ガラル鉱山 U 09",
             "date": "2022-12-10",
             "stock": 1
@@ -727,22 +831,6 @@
             "name": "ガラル鉱山 U 09",
             "date": "2022-12-10",
             "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/335580292",
-            "price": 3200,
-            "name": "ガラル鉱山 U 09",
-            "date": "2022-12-10",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/409166021",
-            "price": 800,
-            "name": "(NM-)ガラル鉱山",
-            "date": "2022-12-10",
-            "stock": 1
         },
         {
             "market": "magi",
@@ -761,12 +849,28 @@
             "stock": 1
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/24645",
-            "price": 630,
-            "name": "ガラル鉱山093/0",
+            "market": "magi",
+            "link": "/items/328135145",
+            "price": 1464,
+            "name": "ガラル鉱山 U 09",
             "date": "2022-12-10",
-            "stock": 62
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1524106808",
+            "price": 1300,
+            "name": "【LO】【特価】おう",
+            "date": "2022-12-10",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/59068982",
+            "price": 680,
+            "name": "ガラル鉱山 U 09",
+            "date": "2022-12-10",
+            "stock": 1
         },
         {
             "market": "cardrush",
@@ -777,107 +881,11 @@
             "stock": 69
         },
         {
-            "market": "torecolo",
-            "link": "/shop/g/g093-096-S2-B/",
-            "price": 440,
-            "name": "【ポケカ】Ｕ◇ガラル",
-            "date": "2022-12-10",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1811333821",
-            "price": 1000,
-            "name": "ガラル鉱山 U 09",
-            "date": "2022-12-09",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/335580292",
-            "price": 3200,
-            "name": "ガラル鉱山 U 09",
-            "date": "2022-12-09",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/328135145",
-            "price": 1464,
-            "name": "ガラル鉱山 U 09",
-            "date": "2022-12-09",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/159787138",
-            "price": 680,
-            "name": "ガラル鉱山 U 09",
-            "date": "2022-12-09",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2130922801",
-            "price": 850,
-            "name": "【4枚セット】ガラル",
-            "date": "2022-12-09",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/59068982",
-            "price": 680,
-            "name": "ガラル鉱山 U 09",
-            "date": "2022-12-09",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2087410678",
-            "price": 562,
-            "name": "ガラル鉱山 U 09",
-            "date": "2022-12-09",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/252954350",
-            "price": 3000,
-            "name": "ガラル鉱山 U 09",
-            "date": "2022-12-09",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/409166021",
-            "price": 800,
-            "name": "(NM-)ガラル鉱山",
-            "date": "2022-12-09",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1524106808",
-            "price": 1300,
-            "name": "【LO】【特価】おう",
-            "date": "2022-12-09",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7521",
-            "price": 680,
-            "name": "ガラル鉱山093/0",
-            "date": "2022-12-09",
-            "stock": 73
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/24645",
             "price": 630,
             "name": "ガラル鉱山093/0",
-            "date": "2022-12-09",
+            "date": "2022-12-10",
             "stock": 62
         },
         {
@@ -885,7 +893,7 @@
             "link": "/shop/g/g093-096-S2-B/",
             "price": 440,
             "name": "【ポケカ】Ｕ◇ガラル",
-            "date": "2022-12-09",
+            "date": "2022-12-10",
             "stock": 1
         }
     ]

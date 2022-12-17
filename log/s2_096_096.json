@@ -1,6 +1,14 @@
 ﻿{
     "items": [
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/29920",
+            "price": 110,
+            "name": "キャプチャーエネルギ",
+            "date": "2022-12-17",
+            "stock": 10
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g096-096-S2-B/",
             "price": 165,
@@ -46,14 +54,6 @@
             "price": 180,
             "name": "キャプチャーエネルギ",
             "date": "2022-12-10",
-            "stock": 15
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7524",
-            "price": 180,
-            "name": "キャプチャーエネルギ",
-            "date": "2022-12-09",
             "stock": 15
         }
     ]

@@ -1,6 +1,22 @@
 ﻿{
     "items": [
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30428",
+            "price": 730,
+            "name": "ギルガルドVMAX1",
+            "date": "2022-12-17",
+            "stock": 6
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14603",
+            "price": 880,
+            "name": "ギルガルドVMAX1",
+            "date": "2022-12-17",
+            "stock": 20
+        },
+        {
             "market": "magi",
             "link": "/items/557954612",
             "price": 440,
@@ -58,14 +74,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30428",
-            "price": 730,
-            "name": "ギルガルドVMAX1",
-            "date": "2022-12-14",
-            "stock": 6
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/14603",
             "price": 880,
             "name": "ギルガルドVMAX1",
@@ -73,6 +81,14 @@
             "stock": 20
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30428",
+            "price": 730,
+            "name": "ギルガルドVMAX1",
+            "date": "2022-12-14",
+            "stock": 6
+        },
+        {
             "market": "magi",
             "link": "/items/557954612",
             "price": 450,
@@ -138,14 +154,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30428",
-            "price": 730,
-            "name": "ギルガルドVMAX1",
-            "date": "2022-12-10",
-            "stock": 6
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/14603",
             "price": 880,
             "name": "ギルガルドVMAX1",
@@ -157,16 +165,8 @@
             "link": "https://www.cardrush-pokemon.jp/product/30428",
             "price": 730,
             "name": "ギルガルドVMAX1",
-            "date": "2022-12-09",
+            "date": "2022-12-10",
             "stock": 6
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14603",
-            "price": 880,
-            "name": "ギルガルドVMAX1",
-            "date": "2022-12-09",
-            "stock": 17
         }
     ]
 }

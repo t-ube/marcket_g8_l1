@@ -5,6 +5,14 @@
             "link": "https://www.cardrush-pokemon.jp/product/14183",
             "price": 180,
             "name": "ピカチュウV028/",
+            "date": "2022-12-17",
+            "stock": 52
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14183",
+            "price": 180,
+            "name": "ピカチュウV028/",
             "date": "2022-12-16",
             "stock": 52
         },
@@ -26,14 +34,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14183",
-            "price": 180,
-            "name": "ピカチュウV028/",
-            "date": "2022-12-13",
-            "stock": 52
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/15073",
             "price": 80,
             "name": "ピカチュウV028/",
@@ -45,7 +45,7 @@
             "link": "https://www.cardrush-pokemon.jp/product/14183",
             "price": 180,
             "name": "ピカチュウV028/",
-            "date": "2022-12-12",
+            "date": "2022-12-13",
             "stock": 52
         },
         {
@@ -58,11 +58,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/15073",
-            "price": 80,
+            "link": "https://www.cardrush-pokemon.jp/product/14183",
+            "price": 180,
             "name": "ピカチュウV028/",
-            "date": "2022-12-11",
-            "stock": 1
+            "date": "2022-12-12",
+            "stock": 52
         },
         {
             "market": "cardrush",
@@ -71,6 +71,14 @@
             "name": "ピカチュウV028/",
             "date": "2022-12-11",
             "stock": 52
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/15073",
+            "price": 80,
+            "name": "ピカチュウV028/",
+            "date": "2022-12-11",
+            "stock": 1
         },
         {
             "market": "cardrush",
@@ -87,22 +95,6 @@
             "name": "ピカチュウV028/",
             "date": "2022-12-10",
             "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/15073",
-            "price": 80,
-            "name": "ピカチュウV028/",
-            "date": "2022-12-09",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14183",
-            "price": 180,
-            "name": "ピカチュウV028/",
-            "date": "2022-12-09",
-            "stock": 52
         }
     ]
 }
