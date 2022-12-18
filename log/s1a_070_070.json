@@ -5,6 +5,30 @@
             "link": "/items/666481161",
             "price": 3000,
             "name": "ツインエネルギー U",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/29846",
+            "price": 70,
+            "name": "ツインエネルギー07",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/7354",
+            "price": 80,
+            "name": "ツインエネルギー07",
+            "date": "2022-12-18",
+            "stock": 18
+        },
+        {
+            "market": "magi",
+            "link": "/items/666481161",
+            "price": 3000,
+            "name": "ツインエネルギー U",
             "date": "2022-12-17",
             "stock": 1
         },
@@ -134,46 +158,6 @@
             "price": 80,
             "name": "ツインエネルギー07",
             "date": "2022-12-11",
-            "stock": 21
-        },
-        {
-            "market": "magi",
-            "link": "/items/168616858",
-            "price": 2300,
-            "name": "［美品］ツインエネル",
-            "date": "2022-12-10",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/666481161",
-            "price": 3000,
-            "name": "ツインエネルギー U",
-            "date": "2022-12-10",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1441508866",
-            "price": 3234,
-            "name": "〔状態A-〕ツインエ",
-            "date": "2022-12-10",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2114285509",
-            "price": 3444,
-            "name": "ツインエネルギー【U",
-            "date": "2022-12-10",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7354",
-            "price": 80,
-            "name": "ツインエネルギー07",
-            "date": "2022-12-10",
             "stock": 21
         }
     ]

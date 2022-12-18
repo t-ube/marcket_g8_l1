@@ -5,6 +5,38 @@
             "link": "https://www.hareruya2.com/product/17619",
             "price": 200,
             "name": "トランセル(C){草",
+            "date": "2022-12-18",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/7286",
+            "price": 80,
+            "name": "トランセル002/0",
+            "date": "2022-12-18",
+            "stock": 55
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/29810",
+            "price": 70,
+            "name": "トランセル002/0",
+            "date": "2022-12-18",
+            "stock": 87
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g002-070-S1A-B/",
+            "price": 275,
+            "name": "【ポケカ】Ｃ◇トラン",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17619",
+            "price": 200,
+            "name": "トランセル(C){草",
             "date": "2022-12-17",
             "stock": 2
         },
@@ -58,19 +90,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7286",
-            "price": 80,
-            "name": "トランセル002/0",
-            "date": "2022-12-15",
-            "stock": 59
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/29810",
             "price": 70,
             "name": "トランセル002/0",
             "date": "2022-12-15",
             "stock": 87
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/7286",
+            "price": 80,
+            "name": "トランセル002/0",
+            "date": "2022-12-15",
+            "stock": 59
         },
         {
             "market": "hareruya2",
@@ -82,19 +114,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/29810",
-            "price": 70,
-            "name": "トランセル002/0",
-            "date": "2022-12-14",
-            "stock": 87
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/7286",
             "price": 80,
             "name": "トランセル002/0",
             "date": "2022-12-14",
             "stock": 59
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/29810",
+            "price": 70,
+            "name": "トランセル002/0",
+            "date": "2022-12-14",
+            "stock": 87
         },
         {
             "market": "hareruya2",
@@ -106,19 +138,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7286",
-            "price": 80,
-            "name": "トランセル002/0",
-            "date": "2022-12-13",
-            "stock": 59
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/29810",
             "price": 70,
             "name": "トランセル002/0",
             "date": "2022-12-13",
             "stock": 87
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/7286",
+            "price": 80,
+            "name": "トランセル002/0",
+            "date": "2022-12-13",
+            "stock": 59
         },
         {
             "market": "hareruya2",
@@ -130,19 +162,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/29810",
-            "price": 70,
-            "name": "トランセル002/0",
-            "date": "2022-12-12",
-            "stock": 87
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/7286",
             "price": 80,
             "name": "トランセル002/0",
             "date": "2022-12-12",
             "stock": 59
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/29810",
+            "price": 70,
+            "name": "トランセル002/0",
+            "date": "2022-12-12",
+            "stock": 87
         },
         {
             "market": "hareruya2",
@@ -166,30 +198,6 @@
             "price": 150,
             "name": "トランセル002/0",
             "date": "2022-12-11",
-            "stock": 87
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/17619",
-            "price": 200,
-            "name": "トランセル(C){草",
-            "date": "2022-12-10",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7286",
-            "price": 180,
-            "name": "トランセル002/0",
-            "date": "2022-12-10",
-            "stock": 59
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/29810",
-            "price": 150,
-            "name": "トランセル002/0",
-            "date": "2022-12-10",
             "stock": 87
         }
     ]

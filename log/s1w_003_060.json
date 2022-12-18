@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/17430",
             "price": 50,
             "name": "マラカッチ(C){草",
+            "date": "2022-12-18",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/6863",
+            "price": 80,
+            "name": "マラカッチ003/0",
+            "date": "2022-12-18",
+            "stock": 76
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g003-060-S1W-B/",
+            "price": 33,
+            "name": "【ポケカ】Ｃ◇マラカ",
+            "date": "2022-12-18",
+            "stock": 12
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17430",
+            "price": 50,
+            "name": "マラカッチ(C){草",
             "date": "2022-12-17",
             "stock": 2
         },
@@ -142,22 +166,6 @@
             "price": 33,
             "name": "【ポケカ】Ｃ◇マラカ",
             "date": "2022-12-11",
-            "stock": 12
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/6863",
-            "price": 80,
-            "name": "マラカッチ003/0",
-            "date": "2022-12-10",
-            "stock": 76
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g003-060-S1W-B/",
-            "price": 33,
-            "name": "【ポケカ】Ｃ◇マラカ",
-            "date": "2022-12-10",
             "stock": 12
         }
     ]

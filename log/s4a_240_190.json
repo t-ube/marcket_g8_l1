@@ -5,6 +5,38 @@
             "link": "https://www.hareruya2.com/product/18646",
             "price": 200,
             "name": "エレズン(S){雷}",
+            "date": "2022-12-18",
+            "stock": 28
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30829",
+            "price": 330,
+            "name": "エレズン240/19",
+            "date": "2022-12-18",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17389",
+            "price": 380,
+            "name": "エレズン240/19",
+            "date": "2022-12-18",
+            "stock": 37
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g240-190-S4A-B/",
+            "price": 330,
+            "name": "【ポケカ】Ｓ◇エレズ",
+            "date": "2022-12-18",
+            "stock": 7
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18646",
+            "price": 200,
+            "name": "エレズン(S){雷}",
             "date": "2022-12-17",
             "stock": 28
         },
@@ -182,30 +214,6 @@
             "price": 330,
             "name": "【ポケカ】Ｓ◇エレズ",
             "date": "2022-12-11",
-            "stock": 6
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18646",
-            "price": 200,
-            "name": "エレズン(S){雷}",
-            "date": "2022-12-10",
-            "stock": 28
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17389",
-            "price": 380,
-            "name": "エレズン240/19",
-            "date": "2022-12-10",
-            "stock": 36
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g240-190-S4A-B/",
-            "price": 330,
-            "name": "【ポケカ】Ｓ◇エレズ",
-            "date": "2022-12-10",
             "stock": 6
         }
     ]

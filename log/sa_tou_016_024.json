@@ -5,6 +5,14 @@
             "link": "https://www.cardrush-pokemon.jp/product/6796",
             "price": 80,
             "name": "ポケギア3.0016",
+            "date": "2022-12-18",
+            "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/6796",
+            "price": 80,
+            "name": "ポケギア3.0016",
             "date": "2022-12-17",
             "stock": 3
         },
@@ -50,14 +58,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/6796",
-            "price": 80,
-            "name": "ポケギア3.0016",
-            "date": "2022-12-11",
-            "stock": 3
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/29638",
             "price": 70,
             "name": "ポケギア3.0016",
@@ -66,18 +66,10 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/29638",
-            "price": 70,
-            "name": "ポケギア3.0016",
-            "date": "2022-12-10",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/6796",
             "price": 80,
             "name": "ポケギア3.0016",
-            "date": "2022-12-10",
+            "date": "2022-12-11",
             "stock": 3
         }
     ]

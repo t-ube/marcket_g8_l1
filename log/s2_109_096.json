@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/17812",
             "price": 1200,
             "name": "カラマネロVMAX(",
+            "date": "2022-12-18",
+            "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/29935",
+            "price": 730,
+            "name": "カラマネロVMAX1",
+            "date": "2022-12-18",
+            "stock": 8
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/7555",
+            "price": 880,
+            "name": "カラマネロVMAX1",
+            "date": "2022-12-18",
+            "stock": 13
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17812",
+            "price": 1200,
+            "name": "カラマネロVMAX(",
             "date": "2022-12-17",
             "stock": 3
         },
@@ -58,19 +82,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/29935",
-            "price": 730,
-            "name": "カラマネロVMAX1",
-            "date": "2022-12-15",
-            "stock": 8
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/7555",
             "price": 880,
             "name": "カラマネロVMAX1",
             "date": "2022-12-15",
             "stock": 13
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/29935",
+            "price": 730,
+            "name": "カラマネロVMAX1",
+            "date": "2022-12-15",
+            "stock": 8
         },
         {
             "market": "hareruya2",
@@ -82,19 +106,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7555",
-            "price": 880,
-            "name": "カラマネロVMAX1",
-            "date": "2022-12-14",
-            "stock": 13
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/29935",
             "price": 730,
             "name": "カラマネロVMAX1",
             "date": "2022-12-14",
             "stock": 8
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/7555",
+            "price": 880,
+            "name": "カラマネロVMAX1",
+            "date": "2022-12-14",
+            "stock": 13
         },
         {
             "market": "hareruya2",
@@ -103,14 +127,6 @@
             "name": "カラマネロVMAX(",
             "date": "2022-12-13",
             "stock": 3
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/29935",
-            "price": 730,
-            "name": "カラマネロVMAX1",
-            "date": "2022-12-13",
-            "stock": 8
         },
         {
             "market": "cardrush",
@@ -121,20 +137,20 @@
             "stock": 12
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/29935",
+            "price": 730,
+            "name": "カラマネロVMAX1",
+            "date": "2022-12-13",
+            "stock": 8
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/17812",
             "price": 1200,
             "name": "カラマネロVMAX(",
             "date": "2022-12-12",
             "stock": 3
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7555",
-            "price": 880,
-            "name": "カラマネロVMAX1",
-            "date": "2022-12-12",
-            "stock": 12
         },
         {
             "market": "cardrush",
@@ -145,20 +161,20 @@
             "stock": 8
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/7555",
+            "price": 880,
+            "name": "カラマネロVMAX1",
+            "date": "2022-12-12",
+            "stock": 12
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/17812",
             "price": 1200,
             "name": "カラマネロVMAX(",
             "date": "2022-12-11",
             "stock": 3
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/29935",
-            "price": 730,
-            "name": "カラマネロVMAX1",
-            "date": "2022-12-11",
-            "stock": 7
         },
         {
             "market": "cardrush",
@@ -169,27 +185,11 @@
             "stock": 11
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/17812",
-            "price": 1200,
-            "name": "カラマネロVMAX(",
-            "date": "2022-12-10",
-            "stock": 3
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7555",
-            "price": 880,
-            "name": "カラマネロVMAX1",
-            "date": "2022-12-10",
-            "stock": 11
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/29935",
             "price": 730,
             "name": "カラマネロVMAX1",
-            "date": "2022-12-10",
+            "date": "2022-12-11",
             "stock": 7
         }
     ]

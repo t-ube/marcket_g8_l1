@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/18211",
             "price": 100,
             "name": "ゼクロム(R){雷}",
+            "date": "2022-12-18",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14055",
+            "price": 50,
+            "name": "ゼクロム020/07",
+            "date": "2022-12-18",
+            "stock": 57
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g020-076-S3A-B/",
+            "price": 44,
+            "name": "【ポケカ】Ｒ◇ゼクロ",
+            "date": "2022-12-18",
+            "stock": 14
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18211",
+            "price": 100,
+            "name": "ゼクロム(R){雷}",
             "date": "2022-12-17",
             "stock": 2
         },
@@ -142,22 +166,6 @@
             "price": 44,
             "name": "【ポケカ】Ｒ◇ゼクロ",
             "date": "2022-12-11",
-            "stock": 14
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14055",
-            "price": 50,
-            "name": "ゼクロム020/07",
-            "date": "2022-12-10",
-            "stock": 71
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g020-076-S3A-B/",
-            "price": 44,
-            "name": "【ポケカ】Ｒ◇ゼクロ",
-            "date": "2022-12-10",
             "stock": 14
         }
     ]

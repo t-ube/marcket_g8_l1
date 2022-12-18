@@ -5,6 +5,14 @@
             "link": "/items/1738549732",
             "price": 2500,
             "name": "サーナイトVMAX ",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1738549732",
+            "price": 2500,
+            "name": "サーナイトVMAX ",
             "date": "2022-12-17",
             "stock": 1
         },
@@ -71,22 +79,6 @@
             "name": "サーナイトVMAX0",
             "date": "2022-12-11",
             "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1738549732",
-            "price": 2500,
-            "name": "サーナイトVMAX ",
-            "date": "2022-12-10",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/13182",
-            "price": 2380,
-            "name": "サーナイトVMAX0",
-            "date": "2022-12-10",
-            "stock": 2
         }
     ]
 }

@@ -5,6 +5,14 @@
             "link": "https://www.hareruya2.com/product/17998",
             "price": 150,
             "name": "クロバットV(RR)",
+            "date": "2022-12-18",
+            "stock": 17
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17998",
+            "price": 150,
+            "name": "クロバットV(RR)",
             "date": "2022-12-17",
             "stock": 17
         },
@@ -55,14 +63,6 @@
             "name": "クロバットV(RR)",
             "date": "2022-12-11",
             "stock": 19
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/17998",
-            "price": 150,
-            "name": "クロバットV(RR)",
-            "date": "2022-12-10",
-            "stock": 20
         }
     ]
 }

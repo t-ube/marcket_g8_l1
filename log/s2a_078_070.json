@@ -5,6 +5,14 @@
             "link": "https://www.cardrush-pokemon.jp/product/13179",
             "price": 1180,
             "name": "ポケモンブリーダーの",
+            "date": "2022-12-18",
+            "stock": 12
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/13179",
+            "price": 1180,
+            "name": "ポケモンブリーダーの",
             "date": "2022-12-17",
             "stock": 12
         },
@@ -58,14 +66,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/13179",
-            "price": 1180,
-            "name": "ポケモンブリーダーの",
-            "date": "2022-12-11",
-            "stock": 10
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30091",
             "price": 990,
             "name": "ポケモンブリーダーの",
@@ -73,28 +73,12 @@
             "stock": 1
         },
         {
-            "market": "magi",
-            "link": "/items/1757420756",
-            "price": 797,
-            "name": "ポケモンブリーダーの",
-            "date": "2022-12-10",
-            "stock": 1
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/13179",
             "price": 1180,
             "name": "ポケモンブリーダーの",
-            "date": "2022-12-10",
+            "date": "2022-12-11",
             "stock": 10
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30091",
-            "price": 990,
-            "name": "ポケモンブリーダーの",
-            "date": "2022-12-10",
-            "stock": 1
         }
     ]
 }

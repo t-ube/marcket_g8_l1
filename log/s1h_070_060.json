@@ -5,6 +5,22 @@
             "link": "/items/404014036",
             "price": 899,
             "name": "カビゴンVMAX H",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/29776",
+            "price": 1190,
+            "name": "カビゴンVMAX07",
+            "date": "2022-12-18",
+            "stock": 6
+        },
+        {
+            "market": "magi",
+            "link": "/items/404014036",
+            "price": 899,
+            "name": "カビゴンVMAX H",
             "date": "2022-12-17",
             "stock": 1
         },
@@ -26,14 +42,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/29776",
-            "price": 1190,
-            "name": "カビゴンVMAX07",
-            "date": "2022-12-16",
-            "stock": 6
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/7042",
             "price": 1380,
             "name": "カビゴンVMAX07",
@@ -41,6 +49,14 @@
             "stock": 1
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/29776",
+            "price": 1190,
+            "name": "カビゴンVMAX07",
+            "date": "2022-12-16",
+            "stock": 6
+        },
+        {
             "market": "magi",
             "link": "/items/404014036",
             "price": 899,
@@ -90,19 +106,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/29776",
-            "price": 1190,
-            "name": "カビゴンVMAX07",
-            "date": "2022-12-14",
-            "stock": 6
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/7042",
             "price": 1380,
             "name": "カビゴンVMAX07",
             "date": "2022-12-14",
             "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/29776",
+            "price": 1190,
+            "name": "カビゴンVMAX07",
+            "date": "2022-12-14",
+            "stock": 6
         },
         {
             "market": "magi",
@@ -122,19 +138,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/29776",
-            "price": 1190,
-            "name": "カビゴンVMAX07",
-            "date": "2022-12-13",
-            "stock": 6
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/7042",
             "price": 1380,
             "name": "カビゴンVMAX07",
             "date": "2022-12-13",
             "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/29776",
+            "price": 1190,
+            "name": "カビゴンVMAX07",
+            "date": "2022-12-13",
+            "stock": 6
         },
         {
             "market": "magi",
@@ -178,14 +194,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7042",
-            "price": 1380,
-            "name": "カビゴンVMAX07",
-            "date": "2022-12-11",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/29776",
             "price": 1190,
             "name": "カビゴンVMAX07",
@@ -193,27 +201,11 @@
             "stock": 6
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/17572",
-            "price": 1500,
-            "name": "カビゴンVMAX(H",
-            "date": "2022-12-10",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/29776",
-            "price": 1190,
-            "name": "カビゴンVMAX07",
-            "date": "2022-12-10",
-            "stock": 6
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/7042",
             "price": 1380,
             "name": "カビゴンVMAX07",
-            "date": "2022-12-10",
+            "date": "2022-12-11",
             "stock": 1
         }
     ]

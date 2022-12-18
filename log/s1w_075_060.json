@@ -5,7 +5,7 @@
             "link": "/items/168474271",
             "price": 5000,
             "name": "ふうせん UR 07",
-            "date": "2022-12-17",
+            "date": "2022-12-18",
             "stock": 1
         },
         {
@@ -13,6 +13,30 @@
             "link": "/items/1950076305",
             "price": 5229,
             "name": "ふうせん【UR】{0",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/7031",
+            "price": 4980,
+            "name": "ふうせん075/06",
+            "date": "2022-12-18",
+            "stock": 39
+        },
+        {
+            "market": "magi",
+            "link": "/items/1950076305",
+            "price": 5229,
+            "name": "ふうせん【UR】{0",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/168474271",
+            "price": 5000,
+            "name": "ふうせん UR 07",
             "date": "2022-12-17",
             "stock": 1
         },
@@ -74,17 +98,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/1950076305",
-            "price": 5229,
-            "name": "ふうせん【UR】{0",
+            "link": "/items/168474271",
+            "price": 5000,
+            "name": "ふうせん UR 07",
             "date": "2022-12-14",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/168474271",
-            "price": 5000,
-            "name": "ふうせん UR 07",
+            "link": "/items/1950076305",
+            "price": 5229,
+            "name": "ふうせん【UR】{0",
             "date": "2022-12-14",
             "stock": 1
         },
@@ -98,14 +122,6 @@
         },
         {
             "market": "magi",
-            "link": "/items/1224667337",
-            "price": 2500,
-            "name": "ふうせん UR 07",
-            "date": "2022-12-13",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/168474271",
             "price": 5000,
             "name": "ふうせん UR 07",
@@ -117,6 +133,14 @@
             "link": "/items/1950076305",
             "price": 5229,
             "name": "ふうせん【UR】{0",
+            "date": "2022-12-13",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1224667337",
+            "price": 2500,
+            "name": "ふうせん UR 07",
             "date": "2022-12-13",
             "stock": 1
         },
@@ -130,8 +154,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/1224667337",
-            "price": 2500,
+            "link": "/items/168474271",
+            "price": 5000,
             "name": "ふうせん UR 07",
             "date": "2022-12-12",
             "stock": 1
@@ -146,8 +170,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/168474271",
-            "price": 5000,
+            "link": "/items/1224667337",
+            "price": 2500,
             "name": "ふうせん UR 07",
             "date": "2022-12-12",
             "stock": 1
@@ -183,30 +207,6 @@
             "name": "ふうせん075/06",
             "date": "2022-12-11",
             "stock": 36
-        },
-        {
-            "market": "magi",
-            "link": "/items/1224667337",
-            "price": 2500,
-            "name": "ふうせん UR 07",
-            "date": "2022-12-10",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1950076305",
-            "price": 5754,
-            "name": "ふうせん【UR】{0",
-            "date": "2022-12-10",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7031",
-            "price": 5480,
-            "name": "ふうせん075/06",
-            "date": "2022-12-10",
-            "stock": 33
         }
     ]
 }

@@ -5,6 +5,46 @@
             "link": "/items/161761461",
             "price": 220,
             "name": "ポプラ　S3a 07",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18263",
+            "price": 50,
+            "name": "ポプラ(U){サポー",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14107",
+            "price": 80,
+            "name": "ポプラ072/076",
+            "date": "2022-12-18",
+            "stock": 42
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30233",
+            "price": 70,
+            "name": "ポプラ072/076",
+            "date": "2022-12-18",
+            "stock": 5
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g072-076-S3A-B/",
+            "price": 44,
+            "name": "【ポケカ】Ｕ◇ポプラ",
+            "date": "2022-12-18",
+            "stock": 9
+        },
+        {
+            "market": "magi",
+            "link": "/items/161761461",
+            "price": 220,
+            "name": "ポプラ　S3a 07",
             "date": "2022-12-17",
             "stock": 1
         },
@@ -58,14 +98,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14107",
-            "price": 80,
-            "name": "ポプラ072/076",
-            "date": "2022-12-16",
-            "stock": 42
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30233",
             "price": 70,
             "name": "ポプラ072/076",
@@ -73,6 +105,14 @@
             "stock": 1
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14107",
+            "price": 80,
+            "name": "ポプラ072/076",
+            "date": "2022-12-16",
+            "stock": 42
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g072-076-S3A-B/",
             "price": 44,
@@ -238,38 +278,6 @@
             "price": 44,
             "name": "【ポケカ】Ｕ◇ポプラ",
             "date": "2022-12-11",
-            "stock": 9
-        },
-        {
-            "market": "magi",
-            "link": "/items/161761461",
-            "price": 220,
-            "name": "ポプラ　S3a 07",
-            "date": "2022-12-10",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18263",
-            "price": 50,
-            "name": "ポプラ(U){サポー",
-            "date": "2022-12-10",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14107",
-            "price": 80,
-            "name": "ポプラ072/076",
-            "date": "2022-12-10",
-            "stock": 44
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g072-076-S3A-B/",
-            "price": 44,
-            "name": "【ポケカ】Ｕ◇ポプラ",
-            "date": "2022-12-10",
             "stock": 9
         }
     ]

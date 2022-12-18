@@ -5,6 +5,22 @@
             "link": "https://www.hareruya2.com/product/18354",
             "price": 100,
             "name": "ドラピオンV(RR)",
+            "date": "2022-12-18",
+            "stock": 85
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14523",
+            "price": 80,
+            "name": "ドラピオンV069/",
+            "date": "2022-12-18",
+            "stock": 174
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18354",
+            "price": 100,
+            "name": "ドラピオンV(RR)",
             "date": "2022-12-17",
             "stock": 85
         },
@@ -58,14 +74,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30375",
-            "price": 70,
-            "name": "ドラピオンV069/",
-            "date": "2022-12-15",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/14523",
             "price": 80,
             "name": "ドラピオンV069/",
@@ -73,6 +81,14 @@
             "stock": 175
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30375",
+            "price": 70,
+            "name": "ドラピオンV069/",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/18354",
             "price": 100,
@@ -150,22 +166,6 @@
             "price": 80,
             "name": "ドラピオンV069/",
             "date": "2022-12-11",
-            "stock": 176
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18354",
-            "price": 100,
-            "name": "ドラピオンV(RR)",
-            "date": "2022-12-10",
-            "stock": 81
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14523",
-            "price": 80,
-            "name": "ドラピオンV069/",
-            "date": "2022-12-10",
             "stock": 176
         }
     ]

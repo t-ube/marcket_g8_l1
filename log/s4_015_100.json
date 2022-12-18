@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/18300",
             "price": 50,
             "name": "マグカルゴ(C){炎",
+            "date": "2022-12-18",
+            "stock": 15
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14469",
+            "price": 30,
+            "name": "マグカルゴ015/1",
+            "date": "2022-12-18",
+            "stock": 37
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g015-100-S4-B/",
+            "price": 33,
+            "name": "【ポケカ】Ｃ◇マグカ",
+            "date": "2022-12-18",
+            "stock": 12
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18300",
+            "price": 50,
+            "name": "マグカルゴ(C){炎",
             "date": "2022-12-17",
             "stock": 15
         },
@@ -166,30 +190,6 @@
             "price": 33,
             "name": "【ポケカ】Ｃ◇マグカ",
             "date": "2022-12-11",
-            "stock": 12
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18300",
-            "price": 50,
-            "name": "マグカルゴ(C){炎",
-            "date": "2022-12-10",
-            "stock": 15
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14469",
-            "price": 30,
-            "name": "マグカルゴ015/1",
-            "date": "2022-12-10",
-            "stock": 37
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g015-100-S4-B/",
-            "price": 33,
-            "name": "【ポケカ】Ｃ◇マグカ",
-            "date": "2022-12-10",
             "stock": 12
         }
     ]
