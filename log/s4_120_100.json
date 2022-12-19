@@ -5,6 +5,30 @@
             "link": "/items/1913208623",
             "price": 980,
             "name": "望遠スコープ UR ",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30433",
+            "price": 930,
+            "name": "望遠スコープ120/",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14608",
+            "price": 1080,
+            "name": "望遠スコープ120/",
+            "date": "2022-12-19",
+            "stock": 16
+        },
+        {
+            "market": "magi",
+            "link": "/items/1913208623",
+            "price": 980,
+            "name": "望遠スコープ UR ",
             "date": "2022-12-18",
             "stock": 1
         },
@@ -90,19 +114,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30433",
-            "price": 930,
-            "name": "望遠スコープ120/",
-            "date": "2022-12-15",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/14608",
             "price": 1080,
             "name": "望遠スコープ120/",
             "date": "2022-12-15",
             "stock": 17
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30433",
+            "price": 930,
+            "name": "望遠スコープ120/",
+            "date": "2022-12-15",
+            "stock": 1
         },
         {
             "market": "torecolo",
@@ -117,6 +141,14 @@
             "link": "/items/1913208623",
             "price": 980,
             "name": "望遠スコープ UR ",
+            "date": "2022-12-14",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30433",
+            "price": 930,
+            "name": "望遠スコープ120/",
             "date": "2022-12-14",
             "stock": 1
         },
@@ -129,14 +161,6 @@
             "stock": 23
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30433",
-            "price": 930,
-            "name": "望遠スコープ120/",
-            "date": "2022-12-14",
-            "stock": 1
-        },
-        {
             "market": "torecolo",
             "link": "/shop/g/g120-100-S4-B/",
             "price": 1100,
@@ -149,14 +173,6 @@
             "link": "/items/1913208623",
             "price": 980,
             "name": "望遠スコープ UR ",
-            "date": "2022-12-13",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30433",
-            "price": 930,
-            "name": "望遠スコープ120/",
             "date": "2022-12-13",
             "stock": 1
         },
@@ -169,6 +185,14 @@
             "stock": 21
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30433",
+            "price": 930,
+            "name": "望遠スコープ120/",
+            "date": "2022-12-13",
+            "stock": 1
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g120-100-S4-B/",
             "price": 1100,
@@ -198,30 +222,6 @@
             "price": 1100,
             "name": "【ポケカ】ＵＲ◇望遠",
             "date": "2022-12-12",
-            "stock": 3
-        },
-        {
-            "market": "magi",
-            "link": "/items/1913208623",
-            "price": 980,
-            "name": "望遠スコープ UR ",
-            "date": "2022-12-11",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14608",
-            "price": 1180,
-            "name": "望遠スコープ120/",
-            "date": "2022-12-11",
-            "stock": 20
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g120-100-S4-B/",
-            "price": 1100,
-            "name": "【ポケカ】ＵＲ◇望遠",
-            "date": "2022-12-11",
             "stock": 3
         }
     ]

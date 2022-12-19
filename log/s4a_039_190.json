@@ -2,16 +2,80 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/1151683232",
+            "price": 184,
+            "name": "メッソン 039/1",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/1688896631",
             "price": 666,
+            "name": "メッソン 039/1",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18753",
+            "price": 100,
+            "name": "メッソン:ミラー(C",
+            "date": "2022-12-19",
+            "stock": 15
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18445",
+            "price": 50,
+            "name": "メッソン(CP){水",
+            "date": "2022-12-19",
+            "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17206",
+            "price": 80,
+            "name": "メッソン039/19",
+            "date": "2022-12-19",
+            "stock": 12
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17022",
+            "price": 50,
+            "name": "メッソン039/19",
+            "date": "2022-12-19",
+            "stock": 62
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g039-190-S4A-BM/",
+            "price": 33,
+            "name": "【ポケカ】Ｃ）ミラー",
+            "date": "2022-12-19",
+            "stock": 9
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g039-190-S4A-B/",
+            "price": 33,
+            "name": "【ポケカ】Ｃ）通常仕",
+            "date": "2022-12-19",
+            "stock": 22
+        },
+        {
+            "market": "magi",
+            "link": "/items/1151683232",
+            "price": 184,
             "name": "メッソン 039/1",
             "date": "2022-12-18",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1151683232",
-            "price": 184,
+            "link": "/items/1688896631",
+            "price": 666,
             "name": "メッソン 039/1",
             "date": "2022-12-18",
             "stock": 1
@@ -42,14 +106,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30677",
-            "price": 70,
-            "name": "メッソン039/19",
-            "date": "2022-12-18",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17206",
             "price": 80,
             "name": "メッソン039/19",
@@ -57,12 +113,12 @@
             "stock": 12
         },
         {
-            "market": "torecolo",
-            "link": "/shop/g/g039-190-S4A-B/",
-            "price": 33,
-            "name": "【ポケカ】Ｃ）通常仕",
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30677",
+            "price": 70,
+            "name": "メッソン039/19",
             "date": "2022-12-18",
-            "stock": 22
+            "stock": 1
         },
         {
             "market": "torecolo",
@@ -73,6 +129,14 @@
             "stock": 9
         },
         {
+            "market": "torecolo",
+            "link": "/shop/g/g039-190-S4A-B/",
+            "price": 33,
+            "name": "【ポケカ】Ｃ）通常仕",
+            "date": "2022-12-18",
+            "stock": 22
+        },
+        {
             "market": "magi",
             "link": "/items/1688896631",
             "price": 666,
@@ -106,6 +170,14 @@
         },
         {
             "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17022",
+            "price": 50,
+            "name": "メッソン039/19",
+            "date": "2022-12-17",
+            "stock": 65
+        },
+        {
+            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30677",
             "price": 70,
             "name": "メッソン039/19",
@@ -119,14 +191,6 @@
             "name": "メッソン039/19",
             "date": "2022-12-17",
             "stock": 12
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17022",
-            "price": 50,
-            "name": "メッソン039/19",
-            "date": "2022-12-17",
-            "stock": 65
         },
         {
             "market": "torecolo",
@@ -361,20 +425,20 @@
             "stock": 22
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18753",
-            "price": 100,
-            "name": "メッソン:ミラー(C",
-            "date": "2022-12-13",
-            "stock": 15
-        },
-        {
             "market": "magi",
             "link": "/items/1151683232",
             "price": 184,
             "name": "メッソン 039/1",
             "date": "2022-12-13",
             "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18753",
+            "price": 100,
+            "name": "メッソン:ミラー(C",
+            "date": "2022-12-13",
+            "stock": 15
         },
         {
             "market": "hareruya2",
@@ -450,14 +514,6 @@
         },
         {
             "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18753",
-            "price": 100,
-            "name": "メッソン:ミラー(C",
-            "date": "2022-12-12",
-            "stock": 15
-        },
-        {
-            "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/18445",
             "price": 50,
             "name": "メッソン(CP){水",
@@ -465,12 +521,12 @@
             "stock": 5
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30677",
-            "price": 70,
-            "name": "メッソン039/19",
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18753",
+            "price": 100,
+            "name": "メッソン:ミラー(C",
             "date": "2022-12-12",
-            "stock": 1
+            "stock": 15
         },
         {
             "market": "cardrush",
@@ -482,74 +538,10 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17206",
-            "price": 80,
-            "name": "メッソン039/19",
-            "date": "2022-12-12",
-            "stock": 12
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g039-190-S4A-BM/",
-            "price": 33,
-            "name": "【ポケカ】Ｃ）ミラー",
-            "date": "2022-12-12",
-            "stock": 9
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g039-190-S4A-B/",
-            "price": 33,
-            "name": "【ポケカ】Ｃ）通常仕",
-            "date": "2022-12-12",
-            "stock": 22
-        },
-        {
-            "market": "magi",
-            "link": "/items/1151683232",
-            "price": 184,
-            "name": "メッソン 039/1",
-            "date": "2022-12-11",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1688896631",
-            "price": 666,
-            "name": "メッソン 039/1",
-            "date": "2022-12-11",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18445",
-            "price": 50,
-            "name": "メッソン(CP){水",
-            "date": "2022-12-11",
-            "stock": 5
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18753",
-            "price": 100,
-            "name": "メッソン:ミラー(C",
-            "date": "2022-12-11",
-            "stock": 15
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17022",
-            "price": 50,
-            "name": "メッソン039/19",
-            "date": "2022-12-11",
-            "stock": 66
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30677",
             "price": 70,
             "name": "メッソン039/19",
-            "date": "2022-12-11",
+            "date": "2022-12-12",
             "stock": 1
         },
         {
@@ -557,24 +549,24 @@
             "link": "https://www.cardrush-pokemon.jp/product/17206",
             "price": 80,
             "name": "メッソン039/19",
-            "date": "2022-12-11",
+            "date": "2022-12-12",
             "stock": 12
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g039-190-S4A-B/",
-            "price": 33,
-            "name": "【ポケカ】Ｃ）通常仕",
-            "date": "2022-12-11",
-            "stock": 22
         },
         {
             "market": "torecolo",
             "link": "/shop/g/g039-190-S4A-BM/",
             "price": 33,
             "name": "【ポケカ】Ｃ）ミラー",
-            "date": "2022-12-11",
+            "date": "2022-12-12",
             "stock": 9
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g039-190-S4A-B/",
+            "price": 33,
+            "name": "【ポケカ】Ｃ）通常仕",
+            "date": "2022-12-12",
+            "stock": 22
         }
     ]
 }

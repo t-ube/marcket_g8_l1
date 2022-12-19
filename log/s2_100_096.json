@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/17803",
             "price": 700,
             "name": "ストリンダーV(SR",
+            "date": "2022-12-19",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/29926",
+            "price": 580,
+            "name": "ストリンダーV100",
+            "date": "2022-12-19",
+            "stock": 17
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/7546",
+            "price": 680,
+            "name": "ストリンダーV100",
+            "date": "2022-12-19",
+            "stock": 21
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17803",
+            "price": 700,
+            "name": "ストリンダーV(SR",
             "date": "2022-12-18",
             "stock": 2
         },
@@ -58,16 +82,16 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/29926",
-            "price": 580,
+            "link": "https://www.cardrush-pokemon.jp/product/7546",
+            "price": 680,
             "name": "ストリンダーV100",
             "date": "2022-12-16",
             "stock": 20
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7546",
-            "price": 680,
+            "link": "https://www.cardrush-pokemon.jp/product/29926",
+            "price": 580,
             "name": "ストリンダーV100",
             "date": "2022-12-16",
             "stock": 20
@@ -82,16 +106,16 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/29926",
-            "price": 580,
+            "link": "https://www.cardrush-pokemon.jp/product/7546",
+            "price": 680,
             "name": "ストリンダーV100",
             "date": "2022-12-15",
             "stock": 20
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7546",
-            "price": 680,
+            "link": "https://www.cardrush-pokemon.jp/product/29926",
+            "price": 580,
             "name": "ストリンダーV100",
             "date": "2022-12-15",
             "stock": 20
@@ -103,6 +127,14 @@
             "name": "ストリンダーV(SR",
             "date": "2022-12-14",
             "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/7546",
+            "price": 680,
+            "name": "ストリンダーV100",
+            "date": "2022-12-14",
+            "stock": 20
         },
         {
             "market": "cardrush",
@@ -113,28 +145,12 @@
             "stock": 19
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7546",
-            "price": 680,
-            "name": "ストリンダーV100",
-            "date": "2022-12-14",
-            "stock": 20
-        },
-        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/17803",
             "price": 700,
             "name": "ストリンダーV(SR",
             "date": "2022-12-13",
             "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/29926",
-            "price": 580,
-            "name": "ストリンダーV100",
-            "date": "2022-12-13",
-            "stock": 20
         },
         {
             "market": "cardrush",
@@ -145,22 +161,22 @@
             "stock": 19
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/17803",
-            "price": 700,
-            "name": "ストリンダーV(SR",
-            "date": "2022-12-12",
-            "stock": 2
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/29926",
             "price": 580,
             "name": "ストリンダーV100",
-            "date": "2022-12-12",
+            "date": "2022-12-13",
             "stock": 20
         },
         {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17803",
+            "price": 700,
+            "name": "ストリンダーV(SR",
+            "date": "2022-12-12",
+            "stock": 2
+        },
+        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/7546",
             "price": 680,
@@ -169,27 +185,11 @@
             "stock": 16
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/17803",
-            "price": 700,
-            "name": "ストリンダーV(SR",
-            "date": "2022-12-11",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7546",
-            "price": 680,
-            "name": "ストリンダーV100",
-            "date": "2022-12-11",
-            "stock": 16
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/29926",
             "price": 580,
             "name": "ストリンダーV100",
-            "date": "2022-12-11",
+            "date": "2022-12-12",
             "stock": 20
         }
     ]

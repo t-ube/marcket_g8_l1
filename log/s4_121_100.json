@@ -5,8 +5,56 @@
             "link": "/items/547625282",
             "price": 1563,
             "name": "メモリーカプセル U",
-            "date": "2022-12-18",
+            "date": "2022-12-19",
             "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1401725625",
+            "price": 1200,
+            "name": "メモリーカプセル U",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/904189726",
+            "price": 1000,
+            "name": "メモリーカプセル U",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1442917231",
+            "price": 3500,
+            "name": "メモリーカプセル U",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18406",
+            "price": 1300,
+            "name": "メモリーカプセル(U",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14609",
+            "price": 1280,
+            "name": "メモリーカプセル12",
+            "date": "2022-12-19",
+            "stock": 43
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30434",
+            "price": 1090,
+            "name": "メモリーカプセル12",
+            "date": "2022-12-19",
+            "stock": 6
         },
         {
             "market": "magi",
@@ -28,6 +76,14 @@
             "market": "magi",
             "link": "/items/1442917231",
             "price": 3500,
+            "name": "メモリーカプセル U",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/547625282",
+            "price": 1563,
             "name": "メモリーカプセル U",
             "date": "2022-12-18",
             "stock": 1
@@ -42,14 +98,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30434",
-            "price": 1090,
-            "name": "メモリーカプセル12",
-            "date": "2022-12-18",
-            "stock": 7
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/14609",
             "price": 1280,
             "name": "メモリーカプセル12",
@@ -57,17 +105,25 @@
             "stock": 43
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30434",
+            "price": 1090,
+            "name": "メモリーカプセル12",
+            "date": "2022-12-18",
+            "stock": 7
+        },
+        {
             "market": "magi",
-            "link": "/items/1401725625",
-            "price": 1200,
+            "link": "/items/904189726",
+            "price": 1000,
             "name": "メモリーカプセル U",
             "date": "2022-12-17",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/547625282",
-            "price": 1563,
+            "link": "/items/1401725625",
+            "price": 1200,
             "name": "メモリーカプセル U",
             "date": "2022-12-17",
             "stock": 1
@@ -82,8 +138,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/904189726",
-            "price": 1000,
+            "link": "/items/547625282",
+            "price": 1563,
             "name": "メモリーカプセル U",
             "date": "2022-12-17",
             "stock": 1
@@ -114,8 +170,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/904189726",
-            "price": 1000,
+            "link": "/items/547625282",
+            "price": 1563,
             "name": "メモリーカプセル U",
             "date": "2022-12-16",
             "stock": 1
@@ -130,8 +186,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/547625282",
-            "price": 1563,
+            "link": "/items/904189726",
+            "price": 1000,
             "name": "メモリーカプセル U",
             "date": "2022-12-16",
             "stock": 1
@@ -154,19 +210,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14609",
-            "price": 1280,
-            "name": "メモリーカプセル12",
-            "date": "2022-12-16",
-            "stock": 43
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30434",
             "price": 1090,
             "name": "メモリーカプセル12",
             "date": "2022-12-16",
             "stock": 7
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14609",
+            "price": 1280,
+            "name": "メモリーカプセル12",
+            "date": "2022-12-16",
+            "stock": 43
         },
         {
             "market": "torecolo",
@@ -218,19 +274,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30434",
-            "price": 1090,
-            "name": "メモリーカプセル12",
-            "date": "2022-12-15",
-            "stock": 7
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/14609",
             "price": 1280,
             "name": "メモリーカプセル12",
             "date": "2022-12-15",
             "stock": 43
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30434",
+            "price": 1090,
+            "name": "メモリーカプセル12",
+            "date": "2022-12-15",
+            "stock": 7
         },
         {
             "market": "torecolo",
@@ -242,16 +298,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/904189726",
-            "price": 1000,
-            "name": "メモリーカプセル U",
-            "date": "2022-12-14",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/547625282",
-            "price": 1563,
+            "link": "/items/1401725625",
+            "price": 1200,
             "name": "メモリーカプセル U",
             "date": "2022-12-14",
             "stock": 1
@@ -266,8 +314,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/1401725625",
-            "price": 1200,
+            "link": "/items/547625282",
+            "price": 1563,
+            "name": "メモリーカプセル U",
+            "date": "2022-12-14",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/904189726",
+            "price": 1000,
             "name": "メモリーカプセル U",
             "date": "2022-12-14",
             "stock": 1
@@ -279,14 +335,6 @@
             "name": "メモリーカプセル(U",
             "date": "2022-12-14",
             "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30434",
-            "price": 1090,
-            "name": "メモリーカプセル12",
-            "date": "2022-12-14",
-            "stock": 7
         },
         {
             "market": "cardrush",
@@ -297,6 +345,14 @@
             "stock": 53
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30434",
+            "price": 1090,
+            "name": "メモリーカプセル12",
+            "date": "2022-12-14",
+            "stock": 7
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g121-100-S4-B/",
             "price": 1320,
@@ -306,6 +362,14 @@
         },
         {
             "market": "magi",
+            "link": "/items/904189726",
+            "price": 1000,
+            "name": "メモリーカプセル U",
+            "date": "2022-12-13",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/1442917231",
             "price": 3500,
             "name": "メモリーカプセル U",
@@ -324,14 +388,6 @@
             "market": "magi",
             "link": "/items/1401725625",
             "price": 1200,
-            "name": "メモリーカプセル U",
-            "date": "2022-12-13",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/904189726",
-            "price": 1000,
             "name": "メモリーカプセル U",
             "date": "2022-12-13",
             "stock": 1
@@ -370,16 +426,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/547625282",
-            "price": 1563,
+            "link": "/items/1442917231",
+            "price": 3500,
             "name": "メモリーカプセル U",
             "date": "2022-12-12",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1401725625",
-            "price": 1200,
+            "link": "/items/547625282",
+            "price": 1563,
             "name": "メモリーカプセル U",
             "date": "2022-12-12",
             "stock": 1
@@ -394,8 +450,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/1442917231",
-            "price": 3500,
+            "link": "/items/1401725625",
+            "price": 1200,
             "name": "メモリーカプセル U",
             "date": "2022-12-12",
             "stock": 1
@@ -407,14 +463,6 @@
             "name": "メモリーカプセル(U",
             "date": "2022-12-12",
             "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30434",
-            "price": 1090,
-            "name": "メモリーカプセル12",
-            "date": "2022-12-12",
-            "stock": 7
         },
         {
             "market": "cardrush",
@@ -425,83 +473,19 @@
             "stock": 50
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30434",
+            "price": 1090,
+            "name": "メモリーカプセル12",
+            "date": "2022-12-12",
+            "stock": 7
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g121-100-S4-B/",
             "price": 1320,
             "name": "【ポケカ】ＵＲ◇メモ",
             "date": "2022-12-12",
-            "stock": 3
-        },
-        {
-            "market": "magi",
-            "link": "/items/904189726",
-            "price": 1000,
-            "name": "メモリーカプセル U",
-            "date": "2022-12-11",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1442917231",
-            "price": 3500,
-            "name": "メモリーカプセル U",
-            "date": "2022-12-11",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/547625282",
-            "price": 1563,
-            "name": "メモリーカプセル U",
-            "date": "2022-12-11",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1401725625",
-            "price": 1200,
-            "name": "メモリーカプセル U",
-            "date": "2022-12-11",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18406",
-            "price": 1400,
-            "name": "メモリーカプセル(U",
-            "date": "2022-12-11",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14609",
-            "price": 1480,
-            "name": "メモリーカプセル12",
-            "date": "2022-12-11",
-            "stock": 50
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30434",
-            "price": 1230,
-            "name": "メモリーカプセル12",
-            "date": "2022-12-11",
-            "stock": 7
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/16061",
-            "price": 680,
-            "name": "メモリーカプセル12",
-            "date": "2022-12-11",
-            "stock": 1
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g121-100-S4-B/",
-            "price": 1320,
-            "name": "【ポケカ】ＵＲ◇メモ",
-            "date": "2022-12-11",
             "stock": 3
         }
     ]

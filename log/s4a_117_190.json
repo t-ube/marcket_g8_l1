@@ -5,23 +5,7 @@
             "link": "/items/1275271913",
             "price": 580,
             "name": "アメイジングイベルタ",
-            "date": "2022-12-18",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1427554033",
-            "price": 480,
-            "name": "イベルタル A 11",
-            "date": "2022-12-18",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/555297013",
-            "price": 500,
-            "name": "イベルタル(CP){",
-            "date": "2022-12-18",
+            "date": "2022-12-19",
             "stock": 1
         },
         {
@@ -29,7 +13,39 @@
             "link": "/items/1617738761",
             "price": 980,
             "name": "イベルタル A 11",
-            "date": "2022-12-18",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1360787281",
+            "price": 299,
+            "name": "アメイジングイベルタ",
+            "date": "2022-12-19",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1314825207",
+            "price": 5000,
+            "name": "ライコウ　カイオーガ",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/993254157",
+            "price": 500,
+            "name": "イベルタル A 11",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1427554033",
+            "price": 480,
+            "name": "イベルタル A 11",
+            "date": "2022-12-19",
             "stock": 1
         },
         {
@@ -37,6 +53,54 @@
             "link": "/items/2136951620",
             "price": 599,
             "name": "イベルタル A 11",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1405997153",
+            "price": 800,
+            "name": "イベルタル【A】{1",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/555297013",
+            "price": 500,
+            "name": "イベルタル(CP){",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18523",
+            "price": 500,
+            "name": "イベルタル(CP){",
+            "date": "2022-12-19",
+            "stock": 14
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17100",
+            "price": 220,
+            "name": "イベルタル117/1",
+            "date": "2022-12-19",
+            "stock": 102
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g117-190-S4A-B/",
+            "price": 440,
+            "name": "【ポケカ】Ａ◇イベル",
+            "date": "2022-12-19",
+            "stock": 3
+        },
+        {
+            "market": "magi",
+            "link": "/items/1314825207",
+            "price": 5000,
+            "name": "ライコウ　カイオーガ",
             "date": "2022-12-18",
             "stock": 1
         },
@@ -50,17 +114,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/993254157",
-            "price": 500,
+            "link": "/items/1427554033",
+            "price": 480,
             "name": "イベルタル A 11",
             "date": "2022-12-18",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1314825207",
-            "price": 5000,
-            "name": "ライコウ　カイオーガ",
+            "link": "/items/1275271913",
+            "price": 580,
+            "name": "アメイジングイベルタ",
             "date": "2022-12-18",
             "stock": 1
         },
@@ -73,12 +137,52 @@
             "stock": 4
         },
         {
+            "market": "magi",
+            "link": "/items/555297013",
+            "price": 500,
+            "name": "イベルタル(CP){",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1617738761",
+            "price": 980,
+            "name": "イベルタル A 11",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2136951620",
+            "price": 599,
+            "name": "イベルタル A 11",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/993254157",
+            "price": 500,
+            "name": "イベルタル A 11",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/18523",
             "price": 500,
             "name": "イベルタル(CP){",
             "date": "2022-12-18",
             "stock": 17
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30597",
+            "price": 190,
+            "name": "イベルタル117/1",
+            "date": "2022-12-18",
+            "stock": 1
         },
         {
             "market": "cardrush",
@@ -89,14 +193,6 @@
             "stock": 110
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30597",
-            "price": 190,
-            "name": "イベルタル117/1",
-            "date": "2022-12-18",
-            "stock": 1
-        },
-        {
             "market": "torecolo",
             "link": "/shop/g/g117-190-S4A-B/",
             "price": 440,
@@ -106,32 +202,24 @@
         },
         {
             "market": "magi",
-            "link": "/items/1427554033",
-            "price": 480,
+            "link": "/items/993254157",
+            "price": 500,
             "name": "イベルタル A 11",
             "date": "2022-12-17",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1360787281",
-            "price": 299,
-            "name": "アメイジングイベルタ",
-            "date": "2022-12-17",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/1314825207",
-            "price": 5000,
-            "name": "ライコウ　カイオーガ",
+            "link": "/items/2136951620",
+            "price": 599,
+            "name": "イベルタル A 11",
             "date": "2022-12-17",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/993254157",
-            "price": 500,
+            "link": "/items/1617738761",
+            "price": 980,
             "name": "イベルタル A 11",
             "date": "2022-12-17",
             "stock": 1
@@ -146,8 +234,24 @@
         },
         {
             "market": "magi",
-            "link": "/items/1617738761",
-            "price": 980,
+            "link": "/items/1314825207",
+            "price": 5000,
+            "name": "ライコウ　カイオーガ",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1360787281",
+            "price": 299,
+            "name": "アメイジングイベルタ",
+            "date": "2022-12-17",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1427554033",
+            "price": 480,
             "name": "イベルタル A 11",
             "date": "2022-12-17",
             "stock": 1
@@ -157,14 +261,6 @@
             "link": "/items/1275271913",
             "price": 580,
             "name": "アメイジングイベルタ",
-            "date": "2022-12-17",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2136951620",
-            "price": 599,
-            "name": "イベルタル A 11",
             "date": "2022-12-17",
             "stock": 1
         },
@@ -178,19 +274,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30597",
-            "price": 190,
-            "name": "イベルタル117/1",
-            "date": "2022-12-17",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17100",
             "price": 220,
             "name": "イベルタル117/1",
             "date": "2022-12-17",
             "stock": 109
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30597",
+            "price": 190,
+            "name": "イベルタル117/1",
+            "date": "2022-12-17",
+            "stock": 1
         },
         {
             "market": "torecolo",
@@ -210,16 +306,24 @@
         },
         {
             "market": "magi",
-            "link": "/items/1617738761",
-            "price": 980,
-            "name": "イベルタル A 11",
+            "link": "/items/555297013",
+            "price": 500,
+            "name": "イベルタル(CP){",
             "date": "2022-12-16",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1427554033",
-            "price": 480,
+            "link": "/items/1314825207",
+            "price": 5000,
+            "name": "ライコウ　カイオーガ",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1617738761",
+            "price": 980,
             "name": "イベルタル A 11",
             "date": "2022-12-16",
             "stock": 1
@@ -250,17 +354,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/555297013",
-            "price": 500,
-            "name": "イベルタル(CP){",
-            "date": "2022-12-16",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1314825207",
-            "price": 5000,
-            "name": "ライコウ　カイオーガ",
+            "link": "/items/1427554033",
+            "price": 480,
+            "name": "イベルタル A 11",
             "date": "2022-12-16",
             "stock": 1
         },
@@ -298,6 +394,14 @@
         },
         {
             "market": "magi",
+            "link": "/items/1427554033",
+            "price": 480,
+            "name": "イベルタル A 11",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/993254157",
             "price": 500,
             "name": "イベルタル A 11",
@@ -314,9 +418,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/1314825207",
-            "price": 5000,
-            "name": "ライコウ　カイオーガ",
+            "link": "/items/555297013",
+            "price": 500,
+            "name": "イベルタル(CP){",
             "date": "2022-12-15",
             "stock": 1
         },
@@ -338,25 +442,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/555297013",
-            "price": 500,
-            "name": "イベルタル(CP){",
-            "date": "2022-12-15",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1427554033",
-            "price": 480,
-            "name": "イベルタル A 11",
-            "date": "2022-12-15",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/1275271913",
             "price": 580,
             "name": "アメイジングイベルタ",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1314825207",
+            "price": 5000,
+            "name": "ライコウ　カイオーガ",
             "date": "2022-12-15",
             "stock": 1
         },
@@ -370,19 +466,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30597",
-            "price": 190,
-            "name": "イベルタル117/1",
-            "date": "2022-12-15",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17100",
             "price": 220,
             "name": "イベルタル117/1",
             "date": "2022-12-15",
             "stock": 112
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30597",
+            "price": 190,
+            "name": "イベルタル117/1",
+            "date": "2022-12-15",
+            "stock": 1
         },
         {
             "market": "torecolo",
@@ -394,32 +490,24 @@
         },
         {
             "market": "magi",
-            "link": "/items/1427554033",
-            "price": 480,
-            "name": "イベルタル A 11",
+            "link": "/items/1275271913",
+            "price": 580,
+            "name": "アメイジングイベルタ",
             "date": "2022-12-14",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/555297013",
-            "price": 500,
-            "name": "イベルタル(CP){",
+            "link": "/items/1360787281",
+            "price": 299,
+            "name": "アメイジングイベルタ",
             "date": "2022-12-14",
-            "stock": 1
+            "stock": 4
         },
         {
             "market": "magi",
-            "link": "/items/1314825207",
-            "price": 5000,
-            "name": "ライコウ　カイオーガ",
-            "date": "2022-12-14",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/993254157",
-            "price": 500,
+            "link": "/items/2136951620",
+            "price": 599,
             "name": "イベルタル A 11",
             "date": "2022-12-14",
             "stock": 1
@@ -434,25 +522,33 @@
         },
         {
             "market": "magi",
-            "link": "/items/2136951620",
-            "price": 599,
+            "link": "/items/1314825207",
+            "price": 5000,
+            "name": "ライコウ　カイオーガ",
+            "date": "2022-12-14",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/555297013",
+            "price": 500,
+            "name": "イベルタル(CP){",
+            "date": "2022-12-14",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1427554033",
+            "price": 480,
             "name": "イベルタル A 11",
             "date": "2022-12-14",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1360787281",
-            "price": 299,
-            "name": "アメイジングイベルタ",
-            "date": "2022-12-14",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/1275271913",
-            "price": 580,
-            "name": "アメイジングイベルタ",
+            "link": "/items/993254157",
+            "price": 500,
+            "name": "イベルタル A 11",
             "date": "2022-12-14",
             "stock": 1
         },
@@ -490,6 +586,14 @@
         },
         {
             "market": "magi",
+            "link": "/items/1275271913",
+            "price": 580,
+            "name": "アメイジングイベルタ",
+            "date": "2022-12-13",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/993254157",
             "price": 500,
             "name": "イベルタル A 11",
@@ -509,14 +613,6 @@
             "link": "/items/1314825207",
             "price": 5000,
             "name": "ライコウ　カイオーガ",
-            "date": "2022-12-13",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1275271913",
-            "price": 580,
-            "name": "アメイジングイベルタ",
             "date": "2022-12-13",
             "stock": 1
         },
@@ -562,19 +658,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30597",
-            "price": 190,
-            "name": "イベルタル117/1",
-            "date": "2022-12-13",
-            "stock": 3
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17100",
             "price": 220,
             "name": "イベルタル117/1",
             "date": "2022-12-13",
             "stock": 119
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30597",
+            "price": 190,
+            "name": "イベルタル117/1",
+            "date": "2022-12-13",
+            "stock": 3
         },
         {
             "market": "torecolo",
@@ -586,27 +682,11 @@
         },
         {
             "market": "magi",
-            "link": "/items/1617738761",
-            "price": 980,
-            "name": "イベルタル A 11",
+            "link": "/items/1360787281",
+            "price": 299,
+            "name": "アメイジングイベルタ",
             "date": "2022-12-12",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/222080011",
-            "price": 440,
-            "name": "イベルタル A 11",
-            "date": "2022-12-12",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/993254157",
-            "price": 500,
-            "name": "イベルタル A 11",
-            "date": "2022-12-12",
-            "stock": 1
+            "stock": 4
         },
         {
             "market": "magi",
@@ -634,6 +714,14 @@
         },
         {
             "market": "magi",
+            "link": "/items/1617738761",
+            "price": 980,
+            "name": "イベルタル A 11",
+            "date": "2022-12-12",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/2136951620",
             "price": 599,
             "name": "イベルタル A 11",
@@ -642,17 +730,25 @@
         },
         {
             "market": "magi",
-            "link": "/items/1360787281",
-            "price": 299,
-            "name": "アメイジングイベルタ",
-            "date": "2022-12-12",
-            "stock": 4
-        },
-        {
-            "market": "magi",
             "link": "/items/555297013",
             "price": 500,
             "name": "イベルタル(CP){",
+            "date": "2022-12-12",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/222080011",
+            "price": 440,
+            "name": "イベルタル A 11",
+            "date": "2022-12-12",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/993254157",
+            "price": 500,
+            "name": "イベルタル A 11",
             "date": "2022-12-12",
             "stock": 1
         },
@@ -686,110 +782,6 @@
             "price": 440,
             "name": "【ポケカ】Ａ◇イベル",
             "date": "2022-12-12",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1427554033",
-            "price": 480,
-            "name": "イベルタル A 11",
-            "date": "2022-12-11",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1360787281",
-            "price": 299,
-            "name": "アメイジングイベルタ",
-            "date": "2022-12-11",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/1275271913",
-            "price": 580,
-            "name": "アメイジングイベルタ",
-            "date": "2022-12-11",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/993254157",
-            "price": 500,
-            "name": "イベルタル A 11",
-            "date": "2022-12-11",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2136951620",
-            "price": 599,
-            "name": "イベルタル A 11",
-            "date": "2022-12-11",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/222080011",
-            "price": 440,
-            "name": "イベルタル A 11",
-            "date": "2022-12-11",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1617738761",
-            "price": 980,
-            "name": "イベルタル A 11",
-            "date": "2022-12-11",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1314825207",
-            "price": 5000,
-            "name": "ライコウ　カイオーガ",
-            "date": "2022-12-11",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/555297013",
-            "price": 500,
-            "name": "イベルタル(CP){",
-            "date": "2022-12-11",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18523",
-            "price": 500,
-            "name": "イベルタル(CP){",
-            "date": "2022-12-11",
-            "stock": 15
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17100",
-            "price": 220,
-            "name": "イベルタル117/1",
-            "date": "2022-12-11",
-            "stock": 120
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30597",
-            "price": 190,
-            "name": "イベルタル117/1",
-            "date": "2022-12-11",
-            "stock": 5
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g117-190-S4A-B/",
-            "price": 440,
-            "name": "【ポケカ】Ａ◇イベル",
-            "date": "2022-12-11",
             "stock": 1
         }
     ]
