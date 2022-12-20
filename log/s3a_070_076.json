@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/18261",
             "price": 50,
             "name": "おとなのおねえさん(",
+            "date": "2022-12-20",
+            "stock": 12
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14105",
+            "price": 80,
+            "name": "おとなのおねえさん0",
+            "date": "2022-12-20",
+            "stock": 18
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g070-076-S3A-B/",
+            "price": 88,
+            "name": "【ポケカ】Ｕ◇おとな",
+            "date": "2022-12-20",
+            "stock": 10
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18261",
+            "price": 50,
+            "name": "おとなのおねえさん(",
             "date": "2022-12-19",
             "stock": 12
         },
@@ -166,30 +190,6 @@
             "price": 88,
             "name": "【ポケカ】Ｕ◇おとな",
             "date": "2022-12-13",
-            "stock": 6
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18261",
-            "price": 50,
-            "name": "おとなのおねえさん(",
-            "date": "2022-12-12",
-            "stock": 7
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14105",
-            "price": 80,
-            "name": "おとなのおねえさん0",
-            "date": "2022-12-12",
-            "stock": 29
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g070-076-S3A-B/",
-            "price": 88,
-            "name": "【ポケカ】Ｕ◇おとな",
-            "date": "2022-12-12",
             "stock": 6
         }
     ]

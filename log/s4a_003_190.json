@@ -5,6 +5,38 @@
             "link": "/items/1410801008",
             "price": 120,
             "name": "ポケモンカード ジュ",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18409",
+            "price": 50,
+            "name": "ジュナイパー(CP)",
+            "date": "2022-12-20",
+            "stock": 52
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/16986",
+            "price": 80,
+            "name": "ジュナイパー003/",
+            "date": "2022-12-20",
+            "stock": 504
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g003-190-S4A-B/",
+            "price": 66,
+            "name": "【ポケカ】Ｒ◇ジュナ",
+            "date": "2022-12-20",
+            "stock": 10
+        },
+        {
+            "market": "magi",
+            "link": "/items/1410801008",
+            "price": 120,
+            "name": "ポケモンカード ジュ",
             "date": "2022-12-19",
             "stock": 1
         },
@@ -193,20 +225,20 @@
             "stock": 10
         },
         {
-            "market": "magi",
-            "link": "/items/1410801008",
-            "price": 120,
-            "name": "ポケモンカード ジュ",
-            "date": "2022-12-13",
-            "stock": 1
-        },
-        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/18409",
             "price": 50,
             "name": "ジュナイパー(CP)",
             "date": "2022-12-13",
             "stock": 52
+        },
+        {
+            "market": "magi",
+            "link": "/items/1410801008",
+            "price": 120,
+            "name": "ポケモンカード ジュ",
+            "date": "2022-12-13",
+            "stock": 1
         },
         {
             "market": "cardrush",
@@ -222,46 +254,6 @@
             "price": 66,
             "name": "【ポケカ】Ｒ◇ジュナ",
             "date": "2022-12-13",
-            "stock": 10
-        },
-        {
-            "market": "magi",
-            "link": "/items/980721526",
-            "price": 100,
-            "name": "【Ｄ特価】s4a ジ",
-            "date": "2022-12-12",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1410801008",
-            "price": 120,
-            "name": "ポケモンカード ジュ",
-            "date": "2022-12-12",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18409",
-            "price": 50,
-            "name": "ジュナイパー(CP)",
-            "date": "2022-12-12",
-            "stock": 52
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/16986",
-            "price": 80,
-            "name": "ジュナイパー003/",
-            "date": "2022-12-12",
-            "stock": 508
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g003-190-S4A-B/",
-            "price": 66,
-            "name": "【ポケカ】Ｒ◇ジュナ",
-            "date": "2022-12-12",
             "stock": 10
         }
     ]

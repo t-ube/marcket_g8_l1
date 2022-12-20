@@ -1,6 +1,14 @@
 ﻿{
     "items": [
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17337",
+            "price": 180,
+            "name": "キャプチャーエネルギ",
+            "date": "2022-12-20",
+            "stock": 4
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/18854",
             "price": 200,
@@ -74,14 +82,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30778",
-            "price": 150,
-            "name": "キャプチャーエネルギ",
-            "date": "2022-12-17",
-            "stock": 3
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17171",
             "price": 120,
             "name": "キャプチャーエネルギ",
@@ -103,6 +103,14 @@
             "name": "キャプチャーエネルギ",
             "date": "2022-12-17",
             "stock": 10
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30778",
+            "price": 150,
+            "name": "キャプチャーエネルギ",
+            "date": "2022-12-17",
+            "stock": 3
         },
         {
             "market": "hareruya2",
@@ -202,14 +210,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17171",
-            "price": 120,
-            "name": "キャプチャーエネルギ",
-            "date": "2022-12-13",
-            "stock": 113
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17337",
             "price": 180,
             "name": "キャプチャーエネルギ",
@@ -217,36 +217,12 @@
             "stock": 23
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18854",
-            "price": 200,
-            "name": "キャプチャーエネルギ",
-            "date": "2022-12-12",
-            "stock": 9
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17337",
-            "price": 180,
-            "name": "キャプチャーエネルギ",
-            "date": "2022-12-12",
-            "stock": 25
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17171",
             "price": 120,
             "name": "キャプチャーエネルギ",
-            "date": "2022-12-12",
-            "stock": 119
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g188-190-S4A-B/",
-            "price": 165,
-            "name": "【ポケカ】Ｃ）通常仕",
-            "date": "2022-12-12",
-            "stock": 2
+            "date": "2022-12-13",
+            "stock": 113
         }
     ]
 }

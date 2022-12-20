@@ -2,11 +2,67 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/2066238611",
+            "price": 15540,
+            "name": "〔状態A-〕マリィ【",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/822359124",
+            "price": 9999999,
+            "name": "マリィ HR 072",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/45070550",
+            "price": 15980,
+            "name": "マリィ HR 072",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1373462490",
+            "price": 16800,
+            "name": "マリィ HR 072",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/1452711489",
             "price": 18690,
             "name": "マリィ【HR】{07",
-            "date": "2022-12-19",
+            "date": "2022-12-20",
             "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17574",
+            "price": 18000,
+            "name": "マリィ(HR){サポ",
+            "date": "2022-12-20",
+            "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/7044",
+            "price": 17800,
+            "name": "マリィ072/060",
+            "date": "2022-12-20",
+            "stock": 8
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/29778",
+            "price": 14800,
+            "name": "マリィ072/060",
+            "date": "2022-12-20",
+            "stock": 2
         },
         {
             "market": "magi",
@@ -18,24 +74,24 @@
         },
         {
             "market": "magi",
-            "link": "/items/45070550",
-            "price": 15980,
+            "link": "/items/822359124",
+            "price": 9999999,
             "name": "マリィ HR 072",
             "date": "2022-12-19",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/936681843",
-            "price": 41790,
-            "name": "〔PSA10鑑定済〕",
+            "link": "/items/1452711489",
+            "price": 18690,
+            "name": "マリィ【HR】{07",
             "date": "2022-12-19",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/822359124",
-            "price": 9999999,
+            "link": "/items/45070550",
+            "price": 15980,
             "name": "マリィ HR 072",
             "date": "2022-12-19",
             "stock": 1
@@ -49,6 +105,14 @@
             "stock": 1
         },
         {
+            "market": "magi",
+            "link": "/items/936681843",
+            "price": 41790,
+            "name": "〔PSA10鑑定済〕",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/17574",
             "price": 18000,
@@ -82,24 +146,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/822359124",
-            "price": 9999999,
+            "link": "/items/45070550",
+            "price": 15980,
             "name": "マリィ HR 072",
             "date": "2022-12-18",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1452711489",
-            "price": 18690,
-            "name": "マリィ【HR】{07",
-            "date": "2022-12-18",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1373462490",
-            "price": 17800,
+            "link": "/items/822359124",
+            "price": 9999999,
             "name": "マリィ HR 072",
             "date": "2022-12-18",
             "stock": 1
@@ -114,9 +170,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/45070550",
-            "price": 15980,
+            "link": "/items/1373462490",
+            "price": 17800,
             "name": "マリィ HR 072",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1452711489",
+            "price": 18690,
+            "name": "マリィ【HR】{07",
             "date": "2022-12-18",
             "stock": 1
         },
@@ -146,8 +210,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/822359124",
-            "price": 9999999,
+            "link": "/items/936681843",
+            "price": 41790,
+            "name": "〔PSA10鑑定済〕",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1373462490",
+            "price": 17800,
             "name": "マリィ HR 072",
             "date": "2022-12-17",
             "stock": 1
@@ -162,17 +234,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/1373462490",
-            "price": 17800,
+            "link": "/items/822359124",
+            "price": 9999999,
             "name": "マリィ HR 072",
-            "date": "2022-12-17",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/936681843",
-            "price": 41790,
-            "name": "〔PSA10鑑定済〕",
             "date": "2022-12-17",
             "stock": 1
         },
@@ -194,14 +258,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7044",
-            "price": 17800,
-            "name": "マリィ072/060",
-            "date": "2022-12-17",
-            "stock": 7
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/34280",
             "price": 39800,
             "name": "マリィ072/060",
@@ -209,17 +265,25 @@
             "stock": 1
         },
         {
-            "market": "magi",
-            "link": "/items/1373462490",
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/7044",
             "price": 17800,
+            "name": "マリィ072/060",
+            "date": "2022-12-17",
+            "stock": 7
+        },
+        {
+            "market": "magi",
+            "link": "/items/45070550",
+            "price": 15980,
             "name": "マリィ HR 072",
             "date": "2022-12-16",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/45070550",
-            "price": 15980,
+            "link": "/items/1373462490",
+            "price": 17800,
             "name": "マリィ HR 072",
             "date": "2022-12-16",
             "stock": 1
@@ -282,8 +346,8 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/8107",
-            "price": 9980,
+            "link": "https://www.cardrush-pokemon.jp/product/34280",
+            "price": 39800,
             "name": "マリィ072/060",
             "date": "2022-12-16",
             "stock": 1
@@ -298,41 +362,17 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/34280",
-            "price": 39800,
+            "link": "https://www.cardrush-pokemon.jp/product/8107",
+            "price": 9980,
             "name": "マリィ072/060",
             "date": "2022-12-16",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/45070550",
-            "price": 15980,
-            "name": "マリィ HR 072",
-            "date": "2022-12-15",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/936681843",
-            "price": 41790,
-            "name": "〔PSA10鑑定済〕",
-            "date": "2022-12-15",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1664676113",
-            "price": 15540,
-            "name": "〔状態A-〕マリィ【",
-            "date": "2022-12-15",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1373462490",
-            "price": 17800,
-            "name": "マリィ HR 072",
+            "link": "/items/1353217118",
+            "price": 10479,
+            "name": "〔状態B〕マリィ【H",
             "date": "2022-12-15",
             "stock": 1
         },
@@ -346,17 +386,41 @@
         },
         {
             "market": "magi",
-            "link": "/items/1452711489",
-            "price": 18690,
-            "name": "マリィ【HR】{07",
+            "link": "/items/1373462490",
+            "price": 17800,
+            "name": "マリィ HR 072",
             "date": "2022-12-15",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1353217118",
-            "price": 10479,
-            "name": "〔状態B〕マリィ【H",
+            "link": "/items/1664676113",
+            "price": 15540,
+            "name": "〔状態A-〕マリィ【",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/936681843",
+            "price": 41790,
+            "name": "〔PSA10鑑定済〕",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/45070550",
+            "price": 15980,
+            "name": "マリィ HR 072",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1452711489",
+            "price": 18690,
+            "name": "マリィ【HR】{07",
             "date": "2022-12-15",
             "stock": 1
         },
@@ -402,6 +466,14 @@
         },
         {
             "market": "magi",
+            "link": "/items/1664676113",
+            "price": 15540,
+            "name": "〔状態A-〕マリィ【",
+            "date": "2022-12-14",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/936681843",
             "price": 41790,
             "name": "〔PSA10鑑定済〕",
@@ -421,14 +493,6 @@
             "link": "/items/1452711489",
             "price": 18690,
             "name": "マリィ【HR】{07",
-            "date": "2022-12-14",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1664676113",
-            "price": 15540,
-            "name": "〔状態A-〕マリィ【",
             "date": "2022-12-14",
             "stock": 1
         },
@@ -458,14 +522,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7044",
-            "price": 17800,
-            "name": "マリィ072/060",
-            "date": "2022-12-14",
-            "stock": 7
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/29778",
             "price": 14800,
             "name": "マリィ072/060",
@@ -474,11 +530,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/34280",
-            "price": 39800,
+            "link": "https://www.cardrush-pokemon.jp/product/7044",
+            "price": 17800,
             "name": "マリィ072/060",
             "date": "2022-12-14",
-            "stock": 1
+            "stock": 7
         },
         {
             "market": "cardrush",
@@ -489,10 +545,18 @@
             "stock": 1
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/34280",
+            "price": 39800,
+            "name": "マリィ072/060",
+            "date": "2022-12-14",
+            "stock": 1
+        },
+        {
             "market": "magi",
-            "link": "/items/1452711489",
-            "price": 18690,
-            "name": "マリィ【HR】{07",
+            "link": "/items/45070550",
+            "price": 15980,
+            "name": "マリィ HR 072",
             "date": "2022-12-13",
             "stock": 1
         },
@@ -522,9 +586,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/45070550",
-            "price": 15980,
-            "name": "マリィ HR 072",
+            "link": "/items/1452711489",
+            "price": 18690,
+            "name": "マリィ【HR】{07",
             "date": "2022-12-13",
             "stock": 1
         },
@@ -559,94 +623,6 @@
             "name": "マリィ072/060",
             "date": "2022-12-13",
             "stock": 6
-        },
-        {
-            "market": "magi",
-            "link": "/items/936681843",
-            "price": 41790,
-            "name": "〔PSA10鑑定済〕",
-            "date": "2022-12-12",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1456937143",
-            "price": 10479,
-            "name": "〔状態B〕マリィ【H",
-            "date": "2022-12-12",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1664676113",
-            "price": 15540,
-            "name": "〔状態A-〕マリィ【",
-            "date": "2022-12-12",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/45070550",
-            "price": 15980,
-            "name": "マリィ HR 072",
-            "date": "2022-12-12",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1452711489",
-            "price": 18690,
-            "name": "マリィ【HR】{07",
-            "date": "2022-12-12",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1373462490",
-            "price": 17800,
-            "name": "マリィ HR 072",
-            "date": "2022-12-12",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/17574",
-            "price": 19000,
-            "name": "マリィ(HR){サポ",
-            "date": "2022-12-12",
-            "stock": 4
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/29778",
-            "price": 14800,
-            "name": "マリィ072/060",
-            "date": "2022-12-12",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/8107",
-            "price": 9980,
-            "name": "マリィ072/060",
-            "date": "2022-12-12",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/34280",
-            "price": 39800,
-            "name": "マリィ072/060",
-            "date": "2022-12-12",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7044",
-            "price": 17800,
-            "name": "マリィ072/060",
-            "date": "2022-12-12",
-            "stock": 5
         }
     ]
 }

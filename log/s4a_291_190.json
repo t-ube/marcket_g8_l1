@@ -3,6 +3,54 @@
         {
             "market": "magi",
             "link": "/items/651732428",
+            "price": 780,
+            "name": "【大幅値下げ】ジュラ",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18697",
+            "price": 150,
+            "name": "ジュラルドン(S){",
+            "date": "2022-12-20",
+            "stock": 45
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17600",
+            "price": 180,
+            "name": "ジュラルドン291/",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30880",
+            "price": 330,
+            "name": "ジュラルドン291/",
+            "date": "2022-12-20",
+            "stock": 12
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17440",
+            "price": 380,
+            "name": "ジュラルドン291/",
+            "date": "2022-12-20",
+            "stock": 53
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g291-190-S4A-B/",
+            "price": 275,
+            "name": "【ポケカ】Ｓ◇ジュラ",
+            "date": "2022-12-20",
+            "stock": 14
+        },
+        {
+            "market": "magi",
+            "link": "/items/651732428",
             "price": 800,
             "name": "【大幅値下げ】ジュラ",
             "date": "2022-12-19",
@@ -50,17 +98,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/651732428",
-            "price": 800,
-            "name": "【大幅値下げ】ジュラ",
+            "link": "/items/219764986",
+            "price": 100,
+            "name": "ジュラルドン S 2",
             "date": "2022-12-18",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/219764986",
-            "price": 100,
-            "name": "ジュラルドン S 2",
+            "link": "/items/651732428",
+            "price": 800,
+            "name": "【大幅値下げ】ジュラ",
             "date": "2022-12-18",
             "stock": 1
         },
@@ -74,11 +122,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17440",
-            "price": 380,
+            "link": "https://www.cardrush-pokemon.jp/product/17600",
+            "price": 180,
             "name": "ジュラルドン291/",
             "date": "2022-12-18",
-            "stock": 49
+            "stock": 1
         },
         {
             "market": "cardrush",
@@ -90,11 +138,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17600",
-            "price": 180,
+            "link": "https://www.cardrush-pokemon.jp/product/17440",
+            "price": 380,
             "name": "ジュラルドン291/",
             "date": "2022-12-18",
-            "stock": 1
+            "stock": 49
         },
         {
             "market": "torecolo",
@@ -106,17 +154,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/219764986",
-            "price": 100,
-            "name": "ジュラルドン S 2",
+            "link": "/items/651732428",
+            "price": 800,
+            "name": "【大幅値下げ】ジュラ",
             "date": "2022-12-17",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/651732428",
-            "price": 800,
-            "name": "【大幅値下げ】ジュラ",
+            "link": "/items/219764986",
+            "price": 100,
+            "name": "ジュラルドン S 2",
             "date": "2022-12-17",
             "stock": 1
         },
@@ -127,6 +175,14 @@
             "name": "ジュラルドン(S){",
             "date": "2022-12-17",
             "stock": 45
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17440",
+            "price": 380,
+            "name": "ジュラルドン291/",
+            "date": "2022-12-17",
+            "stock": 49
         },
         {
             "market": "cardrush",
@@ -145,14 +201,6 @@
             "stock": 12
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17440",
-            "price": 380,
-            "name": "ジュラルドン291/",
-            "date": "2022-12-17",
-            "stock": 49
-        },
-        {
             "market": "torecolo",
             "link": "/shop/g/g291-190-S4A-B/",
             "price": 275,
@@ -162,17 +210,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/651732428",
-            "price": 800,
-            "name": "【大幅値下げ】ジュラ",
+            "link": "/items/219764986",
+            "price": 100,
+            "name": "ジュラルドン S 2",
             "date": "2022-12-16",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/219764986",
-            "price": 100,
-            "name": "ジュラルドン S 2",
+            "link": "/items/651732428",
+            "price": 800,
+            "name": "【大幅値下げ】ジュラ",
             "date": "2022-12-16",
             "stock": 1
         },
@@ -186,11 +234,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17600",
-            "price": 180,
+            "link": "https://www.cardrush-pokemon.jp/product/17440",
+            "price": 380,
             "name": "ジュラルドン291/",
             "date": "2022-12-16",
-            "stock": 1
+            "stock": 49
         },
         {
             "market": "cardrush",
@@ -202,11 +250,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17440",
-            "price": 380,
+            "link": "https://www.cardrush-pokemon.jp/product/17600",
+            "price": 180,
             "name": "ジュラルドン291/",
             "date": "2022-12-16",
-            "stock": 49
+            "stock": 1
         },
         {
             "market": "torecolo",
@@ -218,17 +266,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/219764986",
-            "price": 100,
-            "name": "ジュラルドン S 2",
+            "link": "/items/651732428",
+            "price": 800,
+            "name": "【大幅値下げ】ジュラ",
             "date": "2022-12-15",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/651732428",
-            "price": 800,
-            "name": "【大幅値下げ】ジュラ",
+            "link": "/items/219764986",
+            "price": 100,
+            "name": "ジュラルドン S 2",
             "date": "2022-12-15",
             "stock": 1
         },
@@ -250,19 +298,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30880",
-            "price": 330,
-            "name": "ジュラルドン291/",
-            "date": "2022-12-15",
-            "stock": 8
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17600",
             "price": 180,
             "name": "ジュラルドン291/",
             "date": "2022-12-15",
             "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30880",
+            "price": 330,
+            "name": "ジュラルドン291/",
+            "date": "2022-12-15",
+            "stock": 8
         },
         {
             "market": "torecolo",
@@ -330,17 +378,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/219764986",
-            "price": 100,
-            "name": "ジュラルドン S 2",
+            "link": "/items/651732428",
+            "price": 800,
+            "name": "【大幅値下げ】ジュラ",
             "date": "2022-12-13",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/651732428",
-            "price": 800,
-            "name": "【大幅値下げ】ジュラ",
+            "link": "/items/219764986",
+            "price": 100,
+            "name": "ジュラルドン S 2",
             "date": "2022-12-13",
             "stock": 1
         },
@@ -351,6 +399,22 @@
             "name": "ジュラルドン(S){",
             "date": "2022-12-13",
             "stock": 45
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17440",
+            "price": 380,
+            "name": "ジュラルドン291/",
+            "date": "2022-12-13",
+            "stock": 48
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30880",
+            "price": 330,
+            "name": "ジュラルドン291/",
+            "date": "2022-12-13",
+            "stock": 8
         },
         {
             "market": "cardrush",
@@ -361,83 +425,11 @@
             "stock": 2
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30880",
-            "price": 330,
-            "name": "ジュラルドン291/",
-            "date": "2022-12-13",
-            "stock": 8
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17440",
-            "price": 380,
-            "name": "ジュラルドン291/",
-            "date": "2022-12-13",
-            "stock": 48
-        },
-        {
             "market": "torecolo",
             "link": "/shop/g/g291-190-S4A-B/",
             "price": 275,
             "name": "【ポケカ】Ｓ◇ジュラ",
             "date": "2022-12-13",
-            "stock": 12
-        },
-        {
-            "market": "magi",
-            "link": "/items/651732428",
-            "price": 800,
-            "name": "【大幅値下げ】ジュラ",
-            "date": "2022-12-12",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/219764986",
-            "price": 100,
-            "name": "ジュラルドン S 2",
-            "date": "2022-12-12",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18697",
-            "price": 150,
-            "name": "ジュラルドン(S){",
-            "date": "2022-12-12",
-            "stock": 45
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17600",
-            "price": 180,
-            "name": "ジュラルドン291/",
-            "date": "2022-12-12",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30880",
-            "price": 330,
-            "name": "ジュラルドン291/",
-            "date": "2022-12-12",
-            "stock": 8
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17440",
-            "price": 380,
-            "name": "ジュラルドン291/",
-            "date": "2022-12-12",
-            "stock": 48
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g291-190-S4A-B/",
-            "price": 275,
-            "name": "【ポケカ】Ｓ◇ジュラ",
-            "date": "2022-12-12",
             "stock": 12
         }
     ]

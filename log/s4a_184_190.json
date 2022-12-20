@@ -2,11 +2,107 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/516550761",
+            "price": 40,
+            "name": "PC スピード雷エネ",
+            "date": "2022-12-20",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/20725833",
+            "price": 40,
+            "name": "PC スピード雷エネ",
+            "date": "2022-12-20",
+            "stock": 4
+        },
+        {
+            "market": "magi",
             "link": "/items/665412543",
             "price": 47,
             "name": "スピード雷エネルギー",
-            "date": "2022-12-19",
+            "date": "2022-12-20",
             "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1922648850",
+            "price": 299,
+            "name": "スピード雷エネルギー",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1415737157",
+            "price": 75,
+            "name": "【4枚セット】スピー",
+            "date": "2022-12-20",
+            "stock": 4
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18590",
+            "price": 100,
+            "name": "スピード雷エネルギー",
+            "date": "2022-12-20",
+            "stock": 90
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18850",
+            "price": 200,
+            "name": "スピード雷エネルギー",
+            "date": "2022-12-20",
+            "stock": 12
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17167",
+            "price": 80,
+            "name": "スピード雷エネルギー",
+            "date": "2022-12-20",
+            "stock": 122
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30650",
+            "price": 70,
+            "name": "スピード雷エネルギー",
+            "date": "2022-12-20",
+            "stock": 114
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17333",
+            "price": 120,
+            "name": "スピード雷エネルギー",
+            "date": "2022-12-20",
+            "stock": 46
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30774",
+            "price": 110,
+            "name": "スピード雷エネルギー",
+            "date": "2022-12-20",
+            "stock": 12
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g184-190-S4A-B/",
+            "price": 77,
+            "name": "【ポケカ】Ｃ）通常仕",
+            "date": "2022-12-20",
+            "stock": 10
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g184-190-S4A-BM/",
+            "price": 77,
+            "name": "【ポケカ】Ｃ）ミラー",
+            "date": "2022-12-20",
+            "stock": 3
         },
         {
             "market": "magi",
@@ -25,12 +121,12 @@
             "stock": 4
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18590",
-            "price": 100,
+            "market": "magi",
+            "link": "/items/665412543",
+            "price": 47,
             "name": "スピード雷エネルギー",
             "date": "2022-12-19",
-            "stock": 94
+            "stock": 4
         },
         {
             "market": "hareruya2",
@@ -41,20 +137,20 @@
             "stock": 12
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30774",
-            "price": 110,
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18590",
+            "price": 100,
             "name": "スピード雷エネルギー",
             "date": "2022-12-19",
-            "stock": 12
+            "stock": 94
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30650",
-            "price": 70,
+            "link": "https://www.cardrush-pokemon.jp/product/17167",
+            "price": 80,
             "name": "スピード雷エネルギー",
             "date": "2022-12-19",
-            "stock": 114
+            "stock": 129
         },
         {
             "market": "cardrush",
@@ -66,19 +162,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17167",
-            "price": 80,
+            "link": "https://www.cardrush-pokemon.jp/product/30650",
+            "price": 70,
             "name": "スピード雷エネルギー",
             "date": "2022-12-19",
-            "stock": 129
+            "stock": 114
         },
         {
-            "market": "torecolo",
-            "link": "/shop/g/g184-190-S4A-BM/",
-            "price": 77,
-            "name": "【ポケカ】Ｃ）ミラー",
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30774",
+            "price": 110,
+            "name": "スピード雷エネルギー",
             "date": "2022-12-19",
-            "stock": 3
+            "stock": 12
         },
         {
             "market": "torecolo",
@@ -87,6 +183,14 @@
             "name": "【ポケカ】Ｃ）通常仕",
             "date": "2022-12-19",
             "stock": 10
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g184-190-S4A-BM/",
+            "price": 77,
+            "name": "【ポケカ】Ｃ）ミラー",
+            "date": "2022-12-19",
+            "stock": 3
         },
         {
             "market": "magi",
@@ -130,6 +234,14 @@
         },
         {
             "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17167",
+            "price": 80,
+            "name": "スピード雷エネルギー",
+            "date": "2022-12-18",
+            "stock": 135
+        },
+        {
+            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30774",
             "price": 110,
             "name": "スピード雷エネルギー",
@@ -151,14 +263,6 @@
             "name": "スピード雷エネルギー",
             "date": "2022-12-18",
             "stock": 46
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17167",
-            "price": 80,
-            "name": "スピード雷エネルギー",
-            "date": "2022-12-18",
-            "stock": 135
         },
         {
             "market": "torecolo",
@@ -226,14 +330,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30774",
-            "price": 110,
-            "name": "スピード雷エネルギー",
-            "date": "2022-12-17",
-            "stock": 12
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30650",
             "price": 70,
             "name": "スピード雷エネルギー",
@@ -247,6 +343,14 @@
             "name": "スピード雷エネルギー",
             "date": "2022-12-17",
             "stock": 46
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30774",
+            "price": 110,
+            "name": "スピード雷エネルギー",
+            "date": "2022-12-17",
+            "stock": 12
         },
         {
             "market": "torecolo",
@@ -290,19 +394,19 @@
         },
         {
             "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18590",
-            "price": 100,
-            "name": "スピード雷エネルギー",
-            "date": "2022-12-16",
-            "stock": 97
-        },
-        {
-            "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/18850",
             "price": 200,
             "name": "スピード雷エネルギー",
             "date": "2022-12-16",
             "stock": 12
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18590",
+            "price": 100,
+            "name": "スピード雷エネルギー",
+            "date": "2022-12-16",
+            "stock": 97
         },
         {
             "market": "cardrush",
@@ -338,19 +442,19 @@
         },
         {
             "market": "torecolo",
-            "link": "/shop/g/g184-190-S4A-B/",
-            "price": 77,
-            "name": "【ポケカ】Ｃ）通常仕",
-            "date": "2022-12-16",
-            "stock": 10
-        },
-        {
-            "market": "torecolo",
             "link": "/shop/g/g184-190-S4A-BM/",
             "price": 77,
             "name": "【ポケカ】Ｃ）ミラー",
             "date": "2022-12-16",
             "stock": 3
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g184-190-S4A-B/",
+            "price": 77,
+            "name": "【ポケカ】Ｃ）通常仕",
+            "date": "2022-12-16",
+            "stock": 10
         },
         {
             "market": "magi",
@@ -394,6 +498,14 @@
         },
         {
             "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17167",
+            "price": 80,
+            "name": "スピード雷エネルギー",
+            "date": "2022-12-15",
+            "stock": 145
+        },
+        {
+            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30650",
             "price": 70,
             "name": "スピード雷エネルギー",
@@ -417,12 +529,12 @@
             "stock": 46
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17167",
-            "price": 80,
-            "name": "スピード雷エネルギー",
+            "market": "torecolo",
+            "link": "/shop/g/g184-190-S4A-B/",
+            "price": 77,
+            "name": "【ポケカ】Ｃ）通常仕",
             "date": "2022-12-15",
-            "stock": 145
+            "stock": 10
         },
         {
             "market": "torecolo",
@@ -433,12 +545,12 @@
             "stock": 3
         },
         {
-            "market": "torecolo",
-            "link": "/shop/g/g184-190-S4A-B/",
-            "price": 77,
-            "name": "【ポケカ】Ｃ）通常仕",
-            "date": "2022-12-15",
-            "stock": 10
+            "market": "magi",
+            "link": "/items/665412543",
+            "price": 50,
+            "name": "スピード雷エネルギー",
+            "date": "2022-12-14",
+            "stock": 4
         },
         {
             "market": "magi",
@@ -453,14 +565,6 @@
             "link": "/items/1415737157",
             "price": 75,
             "name": "【4枚セット】スピー",
-            "date": "2022-12-14",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/665412543",
-            "price": 50,
-            "name": "スピード雷エネルギー",
             "date": "2022-12-14",
             "stock": 4
         },
@@ -554,6 +658,14 @@
         },
         {
             "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18850",
+            "price": 200,
+            "name": "スピード雷エネルギー",
+            "date": "2022-12-13",
+            "stock": 12
+        },
+        {
+            "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/18590",
             "price": 100,
             "name": "スピード雷エネルギー",
@@ -561,12 +673,12 @@
             "stock": 96
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18850",
-            "price": 200,
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17167",
+            "price": 80,
             "name": "スピード雷エネルギー",
             "date": "2022-12-13",
-            "stock": 12
+            "stock": 154
         },
         {
             "market": "cardrush",
@@ -593,14 +705,6 @@
             "stock": 46
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17167",
-            "price": 80,
-            "name": "スピード雷エネルギー",
-            "date": "2022-12-13",
-            "stock": 154
-        },
-        {
             "market": "torecolo",
             "link": "/shop/g/g184-190-S4A-BM/",
             "price": 77,
@@ -614,94 +718,6 @@
             "price": 77,
             "name": "【ポケカ】Ｃ）通常仕",
             "date": "2022-12-13",
-            "stock": 9
-        },
-        {
-            "market": "magi",
-            "link": "/items/1415737157",
-            "price": 75,
-            "name": "【4枚セット】スピー",
-            "date": "2022-12-12",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/1922648850",
-            "price": 299,
-            "name": "スピード雷エネルギー",
-            "date": "2022-12-12",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/665412543",
-            "price": 50,
-            "name": "スピード雷エネルギー",
-            "date": "2022-12-12",
-            "stock": 4
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18590",
-            "price": 100,
-            "name": "スピード雷エネルギー",
-            "date": "2022-12-12",
-            "stock": 95
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18850",
-            "price": 200,
-            "name": "スピード雷エネルギー",
-            "date": "2022-12-12",
-            "stock": 12
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30650",
-            "price": 70,
-            "name": "スピード雷エネルギー",
-            "date": "2022-12-12",
-            "stock": 58
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30774",
-            "price": 110,
-            "name": "スピード雷エネルギー",
-            "date": "2022-12-12",
-            "stock": 6
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17333",
-            "price": 120,
-            "name": "スピード雷エネルギー",
-            "date": "2022-12-12",
-            "stock": 46
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17167",
-            "price": 80,
-            "name": "スピード雷エネルギー",
-            "date": "2022-12-12",
-            "stock": 161
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g184-190-S4A-BM/",
-            "price": 77,
-            "name": "【ポケカ】Ｃ）ミラー",
-            "date": "2022-12-12",
-            "stock": 3
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g184-190-S4A-B/",
-            "price": 77,
-            "name": "【ポケカ】Ｃ）通常仕",
-            "date": "2022-12-12",
             "stock": 9
         }
     ]
