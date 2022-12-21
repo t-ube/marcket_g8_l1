@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/17490",
             "price": 800,
             "name": "ソーナンスV(SR)",
+            "date": "2022-12-21",
+            "stock": 5
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/29754",
+            "price": 580,
+            "name": "ソーナンスV063/",
+            "date": "2022-12-21",
+            "stock": 11
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/7019",
+            "price": 680,
+            "name": "ソーナンスV063/",
+            "date": "2022-12-21",
+            "stock": 18
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17490",
+            "price": 800,
+            "name": "ソーナンスV(SR)",
             "date": "2022-12-20",
             "stock": 5
         },
@@ -58,19 +82,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/29754",
-            "price": 580,
-            "name": "ソーナンスV063/",
-            "date": "2022-12-18",
-            "stock": 11
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/7019",
             "price": 680,
             "name": "ソーナンスV063/",
             "date": "2022-12-18",
             "stock": 17
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/29754",
+            "price": 580,
+            "name": "ソーナンスV063/",
+            "date": "2022-12-18",
+            "stock": 11
         },
         {
             "market": "hareruya2",
@@ -82,19 +106,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7019",
-            "price": 680,
-            "name": "ソーナンスV063/",
-            "date": "2022-12-17",
-            "stock": 17
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/29754",
             "price": 580,
             "name": "ソーナンスV063/",
             "date": "2022-12-17",
             "stock": 11
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/7019",
+            "price": 680,
+            "name": "ソーナンスV063/",
+            "date": "2022-12-17",
+            "stock": 17
         },
         {
             "market": "hareruya2",
@@ -103,6 +127,14 @@
             "name": "ソーナンスV(SR)",
             "date": "2022-12-16",
             "stock": 5
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/7019",
+            "price": 680,
+            "name": "ソーナンスV063/",
+            "date": "2022-12-16",
+            "stock": 17
         },
         {
             "market": "cardrush",
@@ -113,28 +145,12 @@
             "stock": 15
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7019",
-            "price": 680,
-            "name": "ソーナンスV063/",
-            "date": "2022-12-16",
-            "stock": 17
-        },
-        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/17490",
             "price": 800,
             "name": "ソーナンスV(SR)",
             "date": "2022-12-15",
             "stock": 5
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7019",
-            "price": 680,
-            "name": "ソーナンスV063/",
-            "date": "2022-12-15",
-            "stock": 17
         },
         {
             "market": "cardrush",
@@ -145,20 +161,20 @@
             "stock": 15
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/7019",
+            "price": 680,
+            "name": "ソーナンスV063/",
+            "date": "2022-12-15",
+            "stock": 17
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/17490",
             "price": 800,
             "name": "ソーナンスV(SR)",
             "date": "2022-12-14",
             "stock": 5
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7019",
-            "price": 680,
-            "name": "ソーナンスV063/",
-            "date": "2022-12-14",
-            "stock": 17
         },
         {
             "market": "cardrush",
@@ -169,28 +185,12 @@
             "stock": 14
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/17490",
-            "price": 800,
-            "name": "ソーナンスV(SR)",
-            "date": "2022-12-13",
-            "stock": 5
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/7019",
             "price": 680,
             "name": "ソーナンスV063/",
-            "date": "2022-12-13",
+            "date": "2022-12-14",
             "stock": 17
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/29754",
-            "price": 580,
-            "name": "ソーナンスV063/",
-            "date": "2022-12-13",
-            "stock": 13
         }
     ]
 }

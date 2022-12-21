@@ -1,6 +1,14 @@
 ﻿{
     "items": [
         {
+            "market": "torecolo",
+            "link": "/shop/g/g014-024-SB-B/",
+            "price": 110,
+            "name": "【ポケカ】ＳＳ◇ダー",
+            "date": "2022-12-21",
+            "stock": 5
+        },
+        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/7006",
             "price": 120,
@@ -102,22 +110,6 @@
             "price": 110,
             "name": "【ポケカ】ＳＳ◇ダー",
             "date": "2022-12-14",
-            "stock": 3
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/17600",
-            "price": 100,
-            "name": "ダートじてんしゃ(D",
-            "date": "2022-12-13",
-            "stock": 2
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g014-024-SB-B/",
-            "price": 110,
-            "name": "【ポケカ】ＳＳ◇ダー",
-            "date": "2022-12-13",
             "stock": 3
         }
     ]

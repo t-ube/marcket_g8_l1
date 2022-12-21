@@ -5,13 +5,53 @@
             "link": "/items/833046684",
             "price": 4500,
             "name": "メタルソーサー UR",
-            "date": "2022-12-20",
+            "date": "2022-12-21",
             "stock": 1
         },
         {
             "market": "magi",
             "link": "/items/587571411",
             "price": 2700,
+            "name": "メタルソーサー UR",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17577",
+            "price": 3000,
+            "name": "メタルソーサー(UR",
+            "date": "2022-12-21",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/7047",
+            "price": 2780,
+            "name": "メタルソーサー075",
+            "date": "2022-12-21",
+            "stock": 65
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/29781",
+            "price": 2380,
+            "name": "メタルソーサー075",
+            "date": "2022-12-21",
+            "stock": 10
+        },
+        {
+            "market": "magi",
+            "link": "/items/587571411",
+            "price": 2700,
+            "name": "メタルソーサー UR",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/833046684",
+            "price": 4500,
             "name": "メタルソーサー UR",
             "date": "2022-12-20",
             "stock": 1
@@ -82,16 +122,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/587571411",
-            "price": 2700,
+            "link": "/items/833046684",
+            "price": 4500,
             "name": "メタルソーサー UR",
             "date": "2022-12-18",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/833046684",
-            "price": 4500,
+            "link": "/items/587571411",
+            "price": 2700,
             "name": "メタルソーサー UR",
             "date": "2022-12-18",
             "stock": 1
@@ -106,14 +146,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7047",
-            "price": 2780,
-            "name": "メタルソーサー075",
-            "date": "2022-12-18",
-            "stock": 65
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/29781",
             "price": 2380,
             "name": "メタルソーサー075",
@@ -121,6 +153,14 @@
             "stock": 10
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/7047",
+            "price": 2780,
+            "name": "メタルソーサー075",
+            "date": "2022-12-18",
+            "stock": 65
+        },
+        {
             "market": "magi",
             "link": "/items/833046684",
             "price": 4500,
@@ -143,14 +183,6 @@
             "name": "メタルソーサー(UR",
             "date": "2022-12-17",
             "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/29781",
-            "price": 2380,
-            "name": "メタルソーサー075",
-            "date": "2022-12-17",
-            "stock": 10
         },
         {
             "market": "cardrush",
@@ -161,6 +193,14 @@
             "stock": 65
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/29781",
+            "price": 2380,
+            "name": "メタルソーサー075",
+            "date": "2022-12-17",
+            "stock": 10
+        },
+        {
             "market": "magi",
             "link": "/items/833046684",
             "price": 4500,
@@ -183,14 +223,6 @@
             "name": "メタルソーサー(UR",
             "date": "2022-12-16",
             "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7047",
-            "price": 2780,
-            "name": "メタルソーサー075",
-            "date": "2022-12-16",
-            "stock": 65
         },
         {
             "market": "cardrush",
@@ -201,17 +233,25 @@
             "stock": 10
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/7047",
+            "price": 2780,
+            "name": "メタルソーサー075",
+            "date": "2022-12-16",
+            "stock": 65
+        },
+        {
             "market": "magi",
-            "link": "/items/833046684",
-            "price": 4500,
+            "link": "/items/587571411",
+            "price": 2700,
             "name": "メタルソーサー UR",
             "date": "2022-12-15",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/587571411",
-            "price": 2700,
+            "link": "/items/833046684",
+            "price": 4500,
             "name": "メタルソーサー UR",
             "date": "2022-12-15",
             "stock": 1
@@ -242,16 +282,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/833046684",
-            "price": 4500,
+            "link": "/items/587571411",
+            "price": 2700,
             "name": "メタルソーサー UR",
             "date": "2022-12-14",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/587571411",
-            "price": 2700,
+            "link": "/items/833046684",
+            "price": 4500,
             "name": "メタルソーサー UR",
             "date": "2022-12-14",
             "stock": 1
@@ -263,14 +303,6 @@
             "name": "メタルソーサー(UR",
             "date": "2022-12-14",
             "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/29781",
-            "price": 2380,
-            "name": "メタルソーサー075",
-            "date": "2022-12-14",
-            "stock": 10
         },
         {
             "market": "cardrush",
@@ -281,43 +313,11 @@
             "stock": 65
         },
         {
-            "market": "magi",
-            "link": "/items/587571411",
-            "price": 2700,
-            "name": "メタルソーサー UR",
-            "date": "2022-12-13",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/833046684",
-            "price": 4500,
-            "name": "メタルソーサー UR",
-            "date": "2022-12-13",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/17577",
-            "price": 3500,
-            "name": "メタルソーサー(UR",
-            "date": "2022-12-13",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7047",
-            "price": 2780,
-            "name": "メタルソーサー075",
-            "date": "2022-12-13",
-            "stock": 63
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/29781",
             "price": 2380,
             "name": "メタルソーサー075",
-            "date": "2022-12-13",
+            "date": "2022-12-14",
             "stock": 10
         }
     ]

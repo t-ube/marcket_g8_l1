@@ -5,6 +5,22 @@
             "link": "https://www.cardrush-pokemon.jp/product/29941",
             "price": 1530,
             "name": "ツールスクラッパー1",
+            "date": "2022-12-21",
+            "stock": 16
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/7561",
+            "price": 1780,
+            "name": "ツールスクラッパー1",
+            "date": "2022-12-21",
+            "stock": 24
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/29941",
+            "price": 1530,
+            "name": "ツールスクラッパー1",
             "date": "2022-12-20",
             "stock": 16
         },
@@ -34,6 +50,14 @@
         },
         {
             "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/7561",
+            "price": 1780,
+            "name": "ツールスクラッパー1",
+            "date": "2022-12-18",
+            "stock": 24
+        },
+        {
+            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/16283",
             "price": 780,
             "name": "ツールスクラッパー1",
@@ -53,8 +77,16 @@
             "link": "https://www.cardrush-pokemon.jp/product/7561",
             "price": 1780,
             "name": "ツールスクラッパー1",
-            "date": "2022-12-18",
+            "date": "2022-12-17",
             "stock": 24
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/29941",
+            "price": 1530,
+            "name": "ツールスクラッパー1",
+            "date": "2022-12-17",
+            "stock": 16
         },
         {
             "market": "cardrush",
@@ -69,7 +101,7 @@
             "link": "https://www.cardrush-pokemon.jp/product/29941",
             "price": 1530,
             "name": "ツールスクラッパー1",
-            "date": "2022-12-17",
+            "date": "2022-12-16",
             "stock": 16
         },
         {
@@ -77,16 +109,8 @@
             "link": "https://www.cardrush-pokemon.jp/product/7561",
             "price": 1780,
             "name": "ツールスクラッパー1",
-            "date": "2022-12-17",
-            "stock": 24
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/29941",
-            "price": 1530,
-            "name": "ツールスクラッパー1",
             "date": "2022-12-16",
-            "stock": 16
+            "stock": 24
         },
         {
             "market": "cardrush",
@@ -98,19 +122,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7561",
-            "price": 1780,
-            "name": "ツールスクラッパー1",
-            "date": "2022-12-16",
-            "stock": 24
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/29941",
-            "price": 1530,
+            "link": "https://www.cardrush-pokemon.jp/product/16283",
+            "price": 780,
             "name": "ツールスクラッパー1",
             "date": "2022-12-15",
-            "stock": 16
+            "stock": 1
         },
         {
             "market": "cardrush",
@@ -122,11 +138,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/16283",
-            "price": 780,
+            "link": "https://www.cardrush-pokemon.jp/product/29941",
+            "price": 1530,
             "name": "ツールスクラッパー1",
             "date": "2022-12-15",
-            "stock": 1
+            "stock": 16
         },
         {
             "market": "cardrush",
@@ -151,30 +167,6 @@
             "name": "ツールスクラッパー1",
             "date": "2022-12-14",
             "stock": 23
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/16283",
-            "price": 780,
-            "name": "ツールスクラッパー1",
-            "date": "2022-12-13",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7561",
-            "price": 1780,
-            "name": "ツールスクラッパー1",
-            "date": "2022-12-13",
-            "stock": 20
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/29941",
-            "price": 1530,
-            "name": "ツールスクラッパー1",
-            "date": "2022-12-13",
-            "stock": 16
         }
     ]
 }

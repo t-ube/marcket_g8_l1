@@ -3,6 +3,22 @@
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/18204",
+            "price": 120,
+            "name": "ザルードV(RR){",
+            "date": "2022-12-21",
+            "stock": 93
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14048",
+            "price": 80,
+            "name": "ザルードV013/0",
+            "date": "2022-12-21",
+            "stock": 7
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18204",
             "price": 200,
             "name": "ザルードV(RR){",
             "date": "2022-12-20",
@@ -86,14 +102,6 @@
             "price": 200,
             "name": "ザルードV(RR){",
             "date": "2022-12-14",
-            "stock": 84
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18204",
-            "price": 200,
-            "name": "ザルードV(RR){",
-            "date": "2022-12-13",
             "stock": 84
         }
     ]

@@ -5,6 +5,38 @@
             "link": "https://www.hareruya2.com/product/17615",
             "price": 100,
             "name": "メタルソーサー(D)",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/29795",
+            "price": 70,
+            "name": "メタルソーサー005",
+            "date": "2022-12-21",
+            "stock": 9
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/7098",
+            "price": 80,
+            "name": "メタルソーサー005",
+            "date": "2022-12-21",
+            "stock": 47
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g005-007-SP1-B/",
+            "price": 110,
+            "name": "【ポケカ】ＳＳ◇メタ",
+            "date": "2022-12-21",
+            "stock": 3
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17615",
+            "price": 100,
+            "name": "メタルソーサー(D)",
             "date": "2022-12-20",
             "stock": 1
         },
@@ -71,14 +103,6 @@
             "name": "メタルソーサー(D)",
             "date": "2022-12-18",
             "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/29795",
-            "price": 70,
-            "name": "メタルソーサー005",
-            "date": "2022-12-18",
-            "stock": 9
         },
         {
             "market": "cardrush",
@@ -89,6 +113,14 @@
             "stock": 48
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/29795",
+            "price": 70,
+            "name": "メタルソーサー005",
+            "date": "2022-12-18",
+            "stock": 9
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g005-007-SP1-B/",
             "price": 110,
@@ -98,19 +130,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/29795",
-            "price": 70,
-            "name": "メタルソーサー005",
-            "date": "2022-12-17",
-            "stock": 9
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/7098",
             "price": 80,
             "name": "メタルソーサー005",
             "date": "2022-12-17",
             "stock": 52
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/29795",
+            "price": 70,
+            "name": "メタルソーサー005",
+            "date": "2022-12-17",
+            "stock": 9
         },
         {
             "market": "torecolo",
@@ -170,14 +202,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7098",
-            "price": 80,
-            "name": "メタルソーサー005",
-            "date": "2022-12-14",
-            "stock": 52
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/29795",
             "price": 70,
             "name": "メタルソーサー005",
@@ -185,27 +209,11 @@
             "stock": 9
         },
         {
-            "market": "torecolo",
-            "link": "/shop/g/g005-007-SP1-B/",
-            "price": 110,
-            "name": "【ポケカ】ＳＳ◇メタ",
-            "date": "2022-12-14",
-            "stock": 3
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/29795",
-            "price": 70,
-            "name": "メタルソーサー005",
-            "date": "2022-12-13",
-            "stock": 9
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/7098",
             "price": 80,
             "name": "メタルソーサー005",
-            "date": "2022-12-13",
+            "date": "2022-12-14",
             "stock": 52
         },
         {
@@ -213,7 +221,7 @@
             "link": "/shop/g/g005-007-SP1-B/",
             "price": 110,
             "name": "【ポケカ】ＳＳ◇メタ",
-            "date": "2022-12-13",
+            "date": "2022-12-14",
             "stock": 3
         }
     ]

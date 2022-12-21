@@ -5,6 +5,38 @@
             "link": "https://www.hareruya2.com/product/18652",
             "price": 200,
             "name": "ガラルポニータ(S)",
+            "date": "2022-12-21",
+            "stock": 14
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30835",
+            "price": 330,
+            "name": "ガラルポニータ246",
+            "date": "2022-12-21",
+            "stock": 6
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17395",
+            "price": 380,
+            "name": "ガラルポニータ246",
+            "date": "2022-12-21",
+            "stock": 24
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g246-190-S4A-B/",
+            "price": 330,
+            "name": "【ポケカ】Ｓ◇ガラル",
+            "date": "2022-12-21",
+            "stock": 7
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18652",
+            "price": 200,
+            "name": "ガラルポニータ(S)",
             "date": "2022-12-20",
             "stock": 13
         },
@@ -42,19 +74,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30835",
-            "price": 330,
-            "name": "ガラルポニータ246",
-            "date": "2022-12-19",
-            "stock": 6
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17395",
             "price": 380,
             "name": "ガラルポニータ246",
             "date": "2022-12-19",
             "stock": 24
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30835",
+            "price": 330,
+            "name": "ガラルポニータ246",
+            "date": "2022-12-19",
+            "stock": 6
         },
         {
             "market": "torecolo",
@@ -106,19 +138,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17395",
-            "price": 380,
-            "name": "ガラルポニータ246",
-            "date": "2022-12-17",
-            "stock": 24
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30835",
             "price": 330,
             "name": "ガラルポニータ246",
             "date": "2022-12-17",
             "stock": 6
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17395",
+            "price": 380,
+            "name": "ガラルポニータ246",
+            "date": "2022-12-17",
+            "stock": 24
         },
         {
             "market": "torecolo",
@@ -135,14 +167,6 @@
             "name": "ガラルポニータ(S)",
             "date": "2022-12-16",
             "stock": 13
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30835",
-            "price": 330,
-            "name": "ガラルポニータ246",
-            "date": "2022-12-16",
-            "stock": 5
         },
         {
             "market": "cardrush",
@@ -153,6 +177,14 @@
             "stock": 23
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30835",
+            "price": 330,
+            "name": "ガラルポニータ246",
+            "date": "2022-12-16",
+            "stock": 5
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g246-190-S4A-B/",
             "price": 330,
@@ -202,14 +234,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17395",
-            "price": 380,
-            "name": "ガラルポニータ246",
-            "date": "2022-12-14",
-            "stock": 20
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30835",
             "price": 330,
             "name": "ガラルポニータ246",
@@ -217,35 +241,11 @@
             "stock": 5
         },
         {
-            "market": "torecolo",
-            "link": "/shop/g/g246-190-S4A-B/",
-            "price": 330,
-            "name": "【ポケカ】Ｓ◇ガラル",
-            "date": "2022-12-14",
-            "stock": 7
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18652",
-            "price": 200,
-            "name": "ガラルポニータ(S)",
-            "date": "2022-12-13",
-            "stock": 14
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30835",
-            "price": 330,
-            "name": "ガラルポニータ246",
-            "date": "2022-12-13",
-            "stock": 5
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17395",
             "price": 380,
             "name": "ガラルポニータ246",
-            "date": "2022-12-13",
+            "date": "2022-12-14",
             "stock": 20
         },
         {
@@ -253,7 +253,7 @@
             "link": "/shop/g/g246-190-S4A-B/",
             "price": 330,
             "name": "【ポケカ】Ｓ◇ガラル",
-            "date": "2022-12-13",
+            "date": "2022-12-14",
             "stock": 7
         }
     ]

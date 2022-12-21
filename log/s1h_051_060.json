@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/17553",
             "price": 50,
             "name": "バイウールー(C){",
+            "date": "2022-12-21",
+            "stock": 5
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/6971",
+            "price": 30,
+            "name": "バイウールー051/",
+            "date": "2022-12-21",
+            "stock": 33
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g051-060-S1H-B/",
+            "price": 28,
+            "name": "【ポケカ】Ｃ◇バイウ",
+            "date": "2022-12-21",
+            "stock": 27
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17553",
+            "price": 50,
+            "name": "バイウールー(C){",
             "date": "2022-12-20",
             "stock": 5
         },
@@ -166,30 +190,6 @@
             "price": 28,
             "name": "【ポケカ】Ｃ◇バイウ",
             "date": "2022-12-14",
-            "stock": 27
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/17553",
-            "price": 50,
-            "name": "バイウールー(C){",
-            "date": "2022-12-13",
-            "stock": 5
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/6971",
-            "price": 30,
-            "name": "バイウールー051/",
-            "date": "2022-12-13",
-            "stock": 33
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g051-060-S1H-B/",
-            "price": 28,
-            "name": "【ポケカ】Ｃ◇バイウ",
-            "date": "2022-12-13",
             "stock": 27
         }
     ]

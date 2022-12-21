@@ -42,11 +42,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17171",
-            "price": 120,
+            "link": "https://www.cardrush-pokemon.jp/product/30778",
+            "price": 150,
             "name": "キャプチャーエネルギ",
             "date": "2022-12-18",
-            "stock": 1
+            "stock": 3
         },
         {
             "market": "cardrush",
@@ -58,19 +58,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30654",
-            "price": 110,
+            "link": "https://www.cardrush-pokemon.jp/product/17171",
+            "price": 120,
             "name": "キャプチャーエネルギ",
             "date": "2022-12-18",
             "stock": 1
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30778",
-            "price": 150,
+            "link": "https://www.cardrush-pokemon.jp/product/30654",
+            "price": 110,
             "name": "キャプチャーエネルギ",
             "date": "2022-12-18",
-            "stock": 3
+            "stock": 1
         },
         {
             "market": "hareruya2",
@@ -199,30 +199,6 @@
             "name": "【ポケカ】Ｃ）通常仕",
             "date": "2022-12-14",
             "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18854",
-            "price": 200,
-            "name": "キャプチャーエネルギ",
-            "date": "2022-12-13",
-            "stock": 9
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17337",
-            "price": 180,
-            "name": "キャプチャーエネルギ",
-            "date": "2022-12-13",
-            "stock": 23
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17171",
-            "price": 120,
-            "name": "キャプチャーエネルギ",
-            "date": "2022-12-13",
-            "stock": 113
         }
     ]
 }

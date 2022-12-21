@@ -5,6 +5,30 @@
             "link": "/items/1036916963",
             "price": 550,
             "name": "エール団のしたっぱ ",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/29774",
+            "price": 680,
+            "name": "エール団のしたっぱ0",
+            "date": "2022-12-21",
+            "stock": 21
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/7039",
+            "price": 780,
+            "name": "エール団のしたっぱ0",
+            "date": "2022-12-21",
+            "stock": 34
+        },
+        {
+            "market": "magi",
+            "link": "/items/1036916963",
+            "price": 550,
+            "name": "エール団のしたっぱ ",
             "date": "2022-12-20",
             "stock": 1
         },
@@ -82,19 +106,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/29774",
-            "price": 680,
-            "name": "エール団のしたっぱ0",
-            "date": "2022-12-17",
-            "stock": 21
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/7039",
             "price": 780,
             "name": "エール団のしたっぱ0",
             "date": "2022-12-17",
             "stock": 31
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/29774",
+            "price": 680,
+            "name": "エール団のしたっぱ0",
+            "date": "2022-12-17",
+            "stock": 21
         },
         {
             "market": "magi",
@@ -106,19 +130,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7039",
-            "price": 780,
-            "name": "エール団のしたっぱ0",
-            "date": "2022-12-16",
-            "stock": 31
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/29774",
             "price": 680,
             "name": "エール団のしたっぱ0",
             "date": "2022-12-16",
             "stock": 21
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/7039",
+            "price": 780,
+            "name": "エール団のしたっぱ0",
+            "date": "2022-12-16",
+            "stock": 31
         },
         {
             "market": "magi",
@@ -127,14 +151,6 @@
             "name": "エール団のしたっぱ ",
             "date": "2022-12-15",
             "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/29774",
-            "price": 680,
-            "name": "エール団のしたっぱ0",
-            "date": "2022-12-15",
-            "stock": 21
         },
         {
             "market": "cardrush",
@@ -145,20 +161,20 @@
             "stock": 29
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/29774",
+            "price": 680,
+            "name": "エール団のしたっぱ0",
+            "date": "2022-12-15",
+            "stock": 21
+        },
+        {
             "market": "magi",
             "link": "/items/1036916963",
             "price": 550,
             "name": "エール団のしたっぱ ",
             "date": "2022-12-14",
             "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7039",
-            "price": 780,
-            "name": "エール団のしたっぱ0",
-            "date": "2022-12-14",
-            "stock": 29
         },
         {
             "market": "cardrush",
@@ -169,28 +185,12 @@
             "stock": 19
         },
         {
-            "market": "magi",
-            "link": "/items/1036916963",
-            "price": 550,
-            "name": "エール団のしたっぱ ",
-            "date": "2022-12-13",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/29774",
-            "price": 680,
-            "name": "エール団のしたっぱ0",
-            "date": "2022-12-13",
-            "stock": 17
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/7039",
             "price": 780,
             "name": "エール団のしたっぱ0",
-            "date": "2022-12-13",
-            "stock": 25
+            "date": "2022-12-14",
+            "stock": 29
         }
     ]
 }

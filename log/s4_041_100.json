@@ -5,6 +5,22 @@
             "link": "https://www.hareruya2.com/product/18326",
             "price": 100,
             "name": "フーディンV(RR)",
+            "date": "2022-12-21",
+            "stock": 87
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14495",
+            "price": 80,
+            "name": "フーディンV041/",
+            "date": "2022-12-21",
+            "stock": 233
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18326",
+            "price": 100,
+            "name": "フーディンV(RR)",
             "date": "2022-12-20",
             "stock": 87
         },
@@ -110,22 +126,6 @@
             "price": 80,
             "name": "フーディンV041/",
             "date": "2022-12-14",
-            "stock": 233
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18326",
-            "price": 100,
-            "name": "フーディンV(RR)",
-            "date": "2022-12-13",
-            "stock": 85
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14495",
-            "price": 80,
-            "name": "フーディンV041/",
-            "date": "2022-12-13",
             "stock": 233
         }
     ]
