@@ -5,6 +5,22 @@
             "link": "https://www.hareruya2.com/product/17813",
             "price": 900,
             "name": "ダイオウドウVMAX",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/7556",
+            "price": 780,
+            "name": "ダイオウドウVMAX",
+            "date": "2022-12-22",
+            "stock": 3
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17813",
+            "price": 900,
+            "name": "ダイオウドウVMAX",
             "date": "2022-12-21",
             "stock": 1
         },
@@ -90,14 +106,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/29936",
-            "price": 680,
-            "name": "ダイオウドウVMAX",
-            "date": "2022-12-16",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/7556",
             "price": 780,
             "name": "ダイオウドウVMAX",
@@ -105,9 +113,25 @@
             "stock": 3
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/29936",
+            "price": 680,
+            "name": "ダイオウドウVMAX",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/17813",
             "price": 900,
+            "name": "ダイオウドウVMAX",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/29936",
+            "price": 680,
             "name": "ダイオウドウVMAX",
             "date": "2022-12-15",
             "stock": 1
@@ -119,38 +143,6 @@
             "name": "ダイオウドウVMAX",
             "date": "2022-12-15",
             "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/29936",
-            "price": 680,
-            "name": "ダイオウドウVMAX",
-            "date": "2022-12-15",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/17813",
-            "price": 900,
-            "name": "ダイオウドウVMAX",
-            "date": "2022-12-14",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7556",
-            "price": 780,
-            "name": "ダイオウドウVMAX",
-            "date": "2022-12-14",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/29936",
-            "price": 680,
-            "name": "ダイオウドウVMAX",
-            "date": "2022-12-14",
-            "stock": 1
         }
     ]
 }

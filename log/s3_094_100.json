@@ -5,6 +5,22 @@
             "link": "/items/2022406344",
             "price": 100,
             "name": "とりつかい U 09",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/13333",
+            "price": 80,
+            "name": "とりつかい094/1",
+            "date": "2022-12-22",
+            "stock": 9
+        },
+        {
+            "market": "magi",
+            "link": "/items/2022406344",
+            "price": 100,
+            "name": "とりつかい U 09",
             "date": "2022-12-21",
             "stock": 1
         },
@@ -110,30 +126,6 @@
             "price": 80,
             "name": "とりつかい094/1",
             "date": "2022-12-15",
-            "stock": 10
-        },
-        {
-            "market": "magi",
-            "link": "/items/2022406344",
-            "price": 100,
-            "name": "とりつかい U 09",
-            "date": "2022-12-14",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18039",
-            "price": 50,
-            "name": "とりつかい(U){サ",
-            "date": "2022-12-14",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/13333",
-            "price": 80,
-            "name": "とりつかい094/1",
-            "date": "2022-12-14",
             "stock": 10
         }
     ]

@@ -5,6 +5,38 @@
             "link": "/items/2059277558",
             "price": 780,
             "name": "ビクティニV S-T",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1058566921",
+            "price": 820,
+            "name": "【2枚】ビクティニV",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/29583",
+            "price": 450,
+            "name": "ビクティニV003/",
+            "date": "2022-12-22",
+            "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/6725",
+            "price": 480,
+            "name": "ビクティニV003/",
+            "date": "2022-12-22",
+            "stock": 123
+        },
+        {
+            "market": "magi",
+            "link": "/items/2059277558",
+            "price": 780,
+            "name": "ビクティニV S-T",
             "date": "2022-12-21",
             "stock": 1
         },
@@ -34,17 +66,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/2059277558",
-            "price": 780,
-            "name": "ビクティニV S-T",
+            "link": "/items/1058566921",
+            "price": 820,
+            "name": "【2枚】ビクティニV",
             "date": "2022-12-20",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1058566921",
-            "price": 820,
-            "name": "【2枚】ビクティニV",
+            "link": "/items/2059277558",
+            "price": 780,
+            "name": "ビクティニV S-T",
             "date": "2022-12-20",
             "stock": 1
         },
@@ -55,14 +87,6 @@
             "name": "ビクティニV(D){",
             "date": "2022-12-20",
             "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/29583",
-            "price": 450,
-            "name": "ビクティニV003/",
-            "date": "2022-12-20",
-            "stock": 3
         },
         {
             "market": "cardrush",
@@ -73,18 +97,26 @@
             "stock": 122
         },
         {
-            "market": "magi",
-            "link": "/items/1058566921",
-            "price": 850,
-            "name": "【2枚】ビクティニV",
-            "date": "2022-12-19",
-            "stock": 1
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/29583",
+            "price": 450,
+            "name": "ビクティニV003/",
+            "date": "2022-12-20",
+            "stock": 3
         },
         {
             "market": "magi",
             "link": "/items/2059277558",
             "price": 780,
             "name": "ビクティニV S-T",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1058566921",
+            "price": 850,
+            "name": "【2枚】ビクティニV",
             "date": "2022-12-19",
             "stock": 1
         },
@@ -98,19 +130,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/6725",
-            "price": 480,
-            "name": "ビクティニV003/",
-            "date": "2022-12-19",
-            "stock": 124
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/29583",
             "price": 450,
             "name": "ビクティニV003/",
             "date": "2022-12-19",
             "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/6725",
+            "price": 480,
+            "name": "ビクティニV003/",
+            "date": "2022-12-19",
+            "stock": 124
         },
         {
             "market": "magi",
@@ -154,14 +186,6 @@
         },
         {
             "market": "magi",
-            "link": "/items/1058566921",
-            "price": 850,
-            "name": "【2枚】ビクティニV",
-            "date": "2022-12-17",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/2059277558",
             "price": 780,
             "name": "ビクティニV S-T",
@@ -169,12 +193,12 @@
             "stock": 1
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/6725",
-            "price": 480,
-            "name": "ビクティニV003/",
+            "market": "magi",
+            "link": "/items/1058566921",
+            "price": 850,
+            "name": "【2枚】ビクティニV",
             "date": "2022-12-17",
-            "stock": 124
+            "stock": 1
         },
         {
             "market": "cardrush",
@@ -185,10 +209,18 @@
             "stock": 3
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/6725",
+            "price": 480,
+            "name": "ビクティニV003/",
+            "date": "2022-12-17",
+            "stock": 124
+        },
+        {
             "market": "magi",
-            "link": "/items/2059277558",
-            "price": 780,
-            "name": "ビクティニV S-T",
+            "link": "/items/1058566921",
+            "price": 850,
+            "name": "【2枚】ビクティニV",
             "date": "2022-12-16",
             "stock": 1
         },
@@ -202,9 +234,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/1058566921",
-            "price": 850,
-            "name": "【2枚】ビクティニV",
+            "link": "/items/2059277558",
+            "price": 780,
+            "name": "ビクティニV S-T",
             "date": "2022-12-16",
             "stock": 1
         },
@@ -226,9 +258,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/2059277558",
-            "price": 780,
-            "name": "ビクティニV S-T",
+            "link": "/items/1058566921",
+            "price": 850,
+            "name": "【2枚】ビクティニV",
             "date": "2022-12-15",
             "stock": 1
         },
@@ -242,19 +274,11 @@
         },
         {
             "market": "magi",
-            "link": "/items/1058566921",
-            "price": 850,
-            "name": "【2枚】ビクティニV",
+            "link": "/items/2059277558",
+            "price": 780,
+            "name": "ビクティニV S-T",
             "date": "2022-12-15",
             "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/6725",
-            "price": 480,
-            "name": "ビクティニV003/",
-            "date": "2022-12-15",
-            "stock": 124
         },
         {
             "market": "cardrush",
@@ -265,52 +289,12 @@
             "stock": 6
         },
         {
-            "market": "magi",
-            "link": "/items/1058566921",
-            "price": 850,
-            "name": "【2枚】ビクティニV",
-            "date": "2022-12-14",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1320525317",
-            "price": 399,
-            "name": "ビクティニV S-T",
-            "date": "2022-12-14",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2059277558",
-            "price": 780,
-            "name": "ビクティニV S-T",
-            "date": "2022-12-14",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/17042",
-            "price": 300,
-            "name": "ビクティニV(D){",
-            "date": "2022-12-14",
-            "stock": 3
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/29583",
-            "price": 450,
-            "name": "ビクティニV003/",
-            "date": "2022-12-14",
-            "stock": 10
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/6725",
             "price": 480,
             "name": "ビクティニV003/",
-            "date": "2022-12-14",
-            "stock": 126
+            "date": "2022-12-15",
+            "stock": 124
         }
     ]
 }

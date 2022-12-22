@@ -5,7 +5,7 @@
             "link": "/items/1950903803",
             "price": 100,
             "name": "【Ｄ】妖しいカンヅメ",
-            "date": "2022-12-21",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
@@ -13,6 +13,54 @@
             "link": "/items/1845980025",
             "price": 100,
             "name": "妖しいカンヅメ U ",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17922",
+            "price": 120,
+            "name": "妖しいカンヅメ(U)",
+            "date": "2022-12-22",
+            "stock": 58
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/13164",
+            "price": 80,
+            "name": "妖しいカンヅメ063",
+            "date": "2022-12-22",
+            "stock": 35
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30076",
+            "price": 70,
+            "name": "妖しいカンヅメ063",
+            "date": "2022-12-22",
+            "stock": 9
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g063-070-S2A-B/",
+            "price": 110,
+            "name": "【ポケカ】Ｕ◇妖しい",
+            "date": "2022-12-22",
+            "stock": 5
+        },
+        {
+            "market": "magi",
+            "link": "/items/1845980025",
+            "price": 100,
+            "name": "妖しいカンヅメ U ",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1950903803",
+            "price": 100,
+            "name": "【Ｄ】妖しいカンヅメ",
             "date": "2022-12-21",
             "stock": 1
         },
@@ -74,19 +122,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/13164",
-            "price": 80,
-            "name": "妖しいカンヅメ063",
-            "date": "2022-12-20",
-            "stock": 39
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30076",
             "price": 70,
             "name": "妖しいカンヅメ063",
             "date": "2022-12-20",
             "stock": 16
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/13164",
+            "price": 80,
+            "name": "妖しいカンヅメ063",
+            "date": "2022-12-20",
+            "stock": 39
         },
         {
             "market": "torecolo",
@@ -98,17 +146,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/1950903803",
+            "link": "/items/1845980025",
             "price": 100,
-            "name": "【Ｄ】妖しいカンヅメ",
+            "name": "妖しいカンヅメ U ",
             "date": "2022-12-19",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1845980025",
+            "link": "/items/1950903803",
             "price": 100,
-            "name": "妖しいカンヅメ U ",
+            "name": "【Ｄ】妖しいカンヅメ",
             "date": "2022-12-19",
             "stock": 1
         },
@@ -154,16 +202,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/1020012819",
-            "price": 300,
+            "link": "/items/1845980025",
+            "price": 100,
             "name": "妖しいカンヅメ U ",
             "date": "2022-12-18",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1845980025",
-            "price": 100,
+            "link": "/items/1020012819",
+            "price": 300,
             "name": "妖しいカンヅメ U ",
             "date": "2022-12-18",
             "stock": 1
@@ -178,19 +226,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/13164",
-            "price": 80,
-            "name": "妖しいカンヅメ063",
-            "date": "2022-12-18",
-            "stock": 43
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30076",
             "price": 70,
             "name": "妖しいカンヅメ063",
             "date": "2022-12-18",
             "stock": 16
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/13164",
+            "price": 80,
+            "name": "妖しいカンヅメ063",
+            "date": "2022-12-18",
+            "stock": 43
         },
         {
             "market": "torecolo",
@@ -202,9 +250,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/1020012819",
-            "price": 300,
-            "name": "妖しいカンヅメ U ",
+            "link": "/items/1950903803",
+            "price": 100,
+            "name": "【Ｄ】妖しいカンヅメ",
             "date": "2022-12-17",
             "stock": 1
         },
@@ -218,9 +266,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/1950903803",
-            "price": 100,
-            "name": "【Ｄ】妖しいカンヅメ",
+            "link": "/items/1020012819",
+            "price": 300,
+            "name": "妖しいカンヅメ U ",
             "date": "2022-12-17",
             "stock": 1
         },
@@ -234,19 +282,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/13164",
-            "price": 80,
-            "name": "妖しいカンヅメ063",
-            "date": "2022-12-17",
-            "stock": 43
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30076",
             "price": 70,
             "name": "妖しいカンヅメ063",
             "date": "2022-12-17",
             "stock": 16
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/13164",
+            "price": 80,
+            "name": "妖しいカンヅメ063",
+            "date": "2022-12-17",
+            "stock": 43
         },
         {
             "market": "torecolo",
@@ -255,6 +303,14 @@
             "name": "【ポケカ】Ｕ◇妖しい",
             "date": "2022-12-17",
             "stock": 5
+        },
+        {
+            "market": "magi",
+            "link": "/items/1020012819",
+            "price": 300,
+            "name": "妖しいカンヅメ U ",
+            "date": "2022-12-16",
+            "stock": 1
         },
         {
             "market": "magi",
@@ -266,14 +322,6 @@
         },
         {
             "market": "magi",
-            "link": "/items/1020012819",
-            "price": 300,
-            "name": "妖しいカンヅメ U ",
-            "date": "2022-12-16",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/1950903803",
             "price": 100,
             "name": "【Ｄ】妖しいカンヅメ",
@@ -314,8 +362,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/1020012819",
-            "price": 300,
+            "link": "/items/1845980025",
+            "price": 100,
             "name": "妖しいカンヅメ U ",
             "date": "2022-12-15",
             "stock": 1
@@ -330,8 +378,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/1845980025",
-            "price": 100,
+            "link": "/items/1020012819",
+            "price": 300,
             "name": "妖しいカンヅメ U ",
             "date": "2022-12-15",
             "stock": 1
@@ -366,62 +414,6 @@
             "price": 110,
             "name": "【ポケカ】Ｕ◇妖しい",
             "date": "2022-12-15",
-            "stock": 5
-        },
-        {
-            "market": "magi",
-            "link": "/items/1020012819",
-            "price": 300,
-            "name": "妖しいカンヅメ U ",
-            "date": "2022-12-14",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1845980025",
-            "price": 100,
-            "name": "妖しいカンヅメ U ",
-            "date": "2022-12-14",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1950903803",
-            "price": 100,
-            "name": "【Ｄ】妖しいカンヅメ",
-            "date": "2022-12-14",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/17922",
-            "price": 200,
-            "name": "妖しいカンヅメ(U)",
-            "date": "2022-12-14",
-            "stock": 62
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/13164",
-            "price": 80,
-            "name": "妖しいカンヅメ063",
-            "date": "2022-12-14",
-            "stock": 49
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30076",
-            "price": 70,
-            "name": "妖しいカンヅメ063",
-            "date": "2022-12-14",
-            "stock": 16
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g063-070-S2A-B/",
-            "price": 110,
-            "name": "【ポケカ】Ｕ◇妖しい",
-            "date": "2022-12-14",
             "stock": 5
         }
     ]

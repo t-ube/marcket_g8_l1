@@ -2,11 +2,43 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/1769726165",
+            "price": 1500,
+            "name": "ザシアン A 033",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/258661913",
             "price": 19999,
             "name": "ザシアンアメイジング",
-            "date": "2022-12-21",
+            "date": "2022-12-22",
             "stock": 2
+        },
+        {
+            "market": "magi",
+            "link": "/items/17963358",
+            "price": 880,
+            "name": "ザシアン アメイジン",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30205",
+            "price": 1330,
+            "name": "ザシアン033/07",
+            "date": "2022-12-22",
+            "stock": 9
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14068",
+            "price": 1580,
+            "name": "ザシアン033/07",
+            "date": "2022-12-22",
+            "stock": 30
         },
         {
             "market": "magi",
@@ -23,6 +55,14 @@
             "name": "ザシアン A 033",
             "date": "2022-12-21",
             "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/258661913",
+            "price": 19999,
+            "name": "ザシアンアメイジング",
+            "date": "2022-12-21",
+            "stock": 2
         },
         {
             "market": "cardrush",
@@ -114,17 +154,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/1769726165",
-            "price": 1500,
-            "name": "ザシアン A 033",
+            "link": "/items/17963358",
+            "price": 880,
+            "name": "ザシアン アメイジン",
             "date": "2022-12-18",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/17963358",
-            "price": 880,
-            "name": "ザシアン アメイジン",
+            "link": "/items/1769726165",
+            "price": 1500,
+            "name": "ザシアン A 033",
             "date": "2022-12-18",
             "stock": 1
         },
@@ -138,22 +178,6 @@
         },
         {
             "market": "magi",
-            "link": "/items/1769726165",
-            "price": 1500,
-            "name": "ザシアン A 033",
-            "date": "2022-12-17",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/258661913",
-            "price": 19999,
-            "name": "ザシアンアメイジング",
-            "date": "2022-12-17",
-            "stock": 2
-        },
-        {
-            "market": "magi",
             "link": "/items/17963358",
             "price": 900,
             "name": "ザシアン アメイジン",
@@ -161,12 +185,44 @@
             "stock": 1
         },
         {
+            "market": "magi",
+            "link": "/items/258661913",
+            "price": 19999,
+            "name": "ザシアンアメイジング",
+            "date": "2022-12-17",
+            "stock": 2
+        },
+        {
+            "market": "magi",
+            "link": "/items/1769726165",
+            "price": 1500,
+            "name": "ザシアン A 033",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/14068",
             "price": 1580,
             "name": "ザシアン033/07",
             "date": "2022-12-17",
             "stock": 16
+        },
+        {
+            "market": "magi",
+            "link": "/items/258661913",
+            "price": 19999,
+            "name": "ザシアンアメイジング",
+            "date": "2022-12-16",
+            "stock": 2
+        },
+        {
+            "market": "magi",
+            "link": "/items/1769726165",
+            "price": 1500,
+            "name": "ザシアン A 033",
+            "date": "2022-12-16",
+            "stock": 1
         },
         {
             "market": "magi",
@@ -177,22 +233,6 @@
             "stock": 1
         },
         {
-            "market": "magi",
-            "link": "/items/1769726165",
-            "price": 1500,
-            "name": "ザシアン A 033",
-            "date": "2022-12-16",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/258661913",
-            "price": 19999,
-            "name": "ザシアンアメイジング",
-            "date": "2022-12-16",
-            "stock": 2
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/14068",
             "price": 1580,
@@ -202,14 +242,6 @@
         },
         {
             "market": "magi",
-            "link": "/items/1769726165",
-            "price": 1500,
-            "name": "ザシアン A 033",
-            "date": "2022-12-15",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/258661913",
             "price": 19999,
             "name": "ザシアンアメイジング",
@@ -217,27 +249,11 @@
             "stock": 2
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14068",
-            "price": 1580,
-            "name": "ザシアン033/07",
-            "date": "2022-12-15",
-            "stock": 16
-        },
-        {
-            "market": "magi",
-            "link": "/items/258661913",
-            "price": 19999,
-            "name": "ザシアンアメイジング",
-            "date": "2022-12-14",
-            "stock": 2
-        },
-        {
             "market": "magi",
             "link": "/items/1769726165",
             "price": 1500,
             "name": "ザシアン A 033",
-            "date": "2022-12-14",
+            "date": "2022-12-15",
             "stock": 1
         },
         {
@@ -245,7 +261,7 @@
             "link": "https://www.cardrush-pokemon.jp/product/14068",
             "price": 1580,
             "name": "ザシアン033/07",
-            "date": "2022-12-14",
+            "date": "2022-12-15",
             "stock": 16
         }
     ]

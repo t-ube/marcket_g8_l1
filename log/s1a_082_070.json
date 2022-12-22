@@ -1,6 +1,14 @@
 ﻿{
     "items": [
         {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17699",
+            "price": 8000,
+            "name": "ソニア(HR){サポ",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
             "market": "magi",
             "link": "/items/815830421",
             "price": 4704,
@@ -138,14 +146,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7366",
-            "price": 7480,
-            "name": "ソニア082/070",
-            "date": "2022-12-17",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/8352",
             "price": 4480,
             "name": "ソニア082/070",
@@ -153,11 +153,11 @@
             "stock": 1
         },
         {
-            "market": "magi",
-            "link": "/items/1043892001",
-            "price": 7854,
-            "name": "ソニア【HR】{08",
-            "date": "2022-12-16",
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/7366",
+            "price": 7480,
+            "name": "ソニア082/070",
+            "date": "2022-12-17",
             "stock": 1
         },
         {
@@ -165,6 +165,14 @@
             "link": "/items/815830421",
             "price": 4704,
             "name": "〔状態B〕ソニア【H",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1043892001",
+            "price": 7854,
+            "name": "ソニア【HR】{08",
             "date": "2022-12-16",
             "stock": 1
         },
@@ -178,6 +186,14 @@
         },
         {
             "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/8352",
+            "price": 4480,
+            "name": "ソニア082/070",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/7366",
             "price": 7480,
             "name": "ソニア082/070",
@@ -185,11 +201,11 @@
             "stock": 1
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/8352",
-            "price": 4480,
-            "name": "ソニア082/070",
-            "date": "2022-12-16",
+            "market": "magi",
+            "link": "/items/815830421",
+            "price": 4704,
+            "name": "〔状態B〕ソニア【H",
+            "date": "2022-12-15",
             "stock": 1
         },
         {
@@ -201,18 +217,18 @@
             "stock": 1
         },
         {
-            "market": "magi",
-            "link": "/items/815830421",
-            "price": 4704,
-            "name": "〔状態B〕ソニア【H",
-            "date": "2022-12-15",
-            "stock": 1
-        },
-        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/17699",
             "price": 8000,
             "name": "ソニア(HR){サポ",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/8352",
+            "price": 4480,
+            "name": "ソニア082/070",
             "date": "2022-12-15",
             "stock": 1
         },
@@ -223,38 +239,6 @@
             "name": "ソニア082/070",
             "date": "2022-12-15",
             "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/8352",
-            "price": 4480,
-            "name": "ソニア082/070",
-            "date": "2022-12-15",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/815830421",
-            "price": 4704,
-            "name": "〔状態B〕ソニア【H",
-            "date": "2022-12-14",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/17699",
-            "price": 8000,
-            "name": "ソニア(HR){サポ",
-            "date": "2022-12-14",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/8352",
-            "price": 4480,
-            "name": "ソニア082/070",
-            "date": "2022-12-14",
-            "stock": 1
         }
     ]
 }

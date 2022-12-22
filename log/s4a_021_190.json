@@ -2,9 +2,129 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/1707659375",
+            "price": 5000,
+            "name": "アメイジング　ライコ",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1512245983",
+            "price": 9555,
+            "name": "ポケカ　カイオーガ　",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1112121584",
+            "price": 8500,
+            "name": "レシラム　ファースト",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1900839838",
+            "price": 368,
+            "name": "レシラム アメイジン",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/699606700",
+            "price": 200,
+            "name": "レシラム A 021",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1314825207",
+            "price": 5000,
+            "name": "ライコウ　カイオーガ",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/152562716",
+            "price": 500,
+            "name": "レシラム　アメイジン",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1812014746",
+            "price": 300,
+            "name": "ポケモンカードs ア",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/333456627",
             "price": 350,
             "name": "アメイジングレシラム",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2074302141",
+            "price": 499,
+            "name": "カイオーガ　レシラム",
+            "date": "2022-12-22",
+            "stock": 2
+        },
+        {
+            "market": "magi",
+            "link": "/items/467031304",
+            "price": 200,
+            "name": "No.003 レシラ",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18427",
+            "price": 200,
+            "name": "レシラム(CP){炎",
+            "date": "2022-12-22",
+            "stock": 177
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30537",
+            "price": 70,
+            "name": "レシラム021/19",
+            "date": "2022-12-22",
+            "stock": 4
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g021-190-S4A-B/",
+            "price": 77,
+            "name": "【ポケカ】Ａ◇レシラ",
+            "date": "2022-12-22",
+            "stock": 23
+        },
+        {
+            "market": "magi",
+            "link": "/items/152562716",
+            "price": 500,
+            "name": "レシラム　アメイジン",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/467031304",
+            "price": 200,
+            "name": "No.003 レシラ",
             "date": "2022-12-21",
             "stock": 1
         },
@@ -13,6 +133,38 @@
             "link": "/items/1112121584",
             "price": 8500,
             "name": "レシラム　ファースト",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1900839838",
+            "price": 372,
+            "name": "レシラム アメイジン",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/699606700",
+            "price": 200,
+            "name": "レシラム A 021",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1314825207",
+            "price": 5000,
+            "name": "ライコウ　カイオーガ",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/333456627",
+            "price": 350,
+            "name": "アメイジングレシラム",
             "date": "2022-12-21",
             "stock": 1
         },
@@ -34,22 +186,6 @@
         },
         {
             "market": "magi",
-            "link": "/items/1900839838",
-            "price": 372,
-            "name": "レシラム アメイジン",
-            "date": "2022-12-21",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/467031304",
-            "price": 200,
-            "name": "No.003 レシラ",
-            "date": "2022-12-21",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/1707659375",
             "price": 5000,
             "name": "アメイジング　ライコ",
@@ -61,30 +197,6 @@
             "link": "/items/1812014746",
             "price": 300,
             "name": "ポケモンカードs ア",
-            "date": "2022-12-21",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/152562716",
-            "price": 500,
-            "name": "レシラム　アメイジン",
-            "date": "2022-12-21",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1314825207",
-            "price": 5000,
-            "name": "ライコウ　カイオーガ",
-            "date": "2022-12-21",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/699606700",
-            "price": 200,
-            "name": "レシラム A 021",
             "date": "2022-12-21",
             "stock": 1
         },
@@ -98,19 +210,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17004",
-            "price": 80,
-            "name": "レシラム021/19",
-            "date": "2022-12-21",
-            "stock": 76
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30537",
             "price": 70,
             "name": "レシラム021/19",
             "date": "2022-12-21",
             "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17004",
+            "price": 80,
+            "name": "レシラム021/19",
+            "date": "2022-12-21",
+            "stock": 76
         },
         {
             "market": "torecolo",
@@ -122,57 +234,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/467031304",
-            "price": 200,
-            "name": "No.003 レシラ",
-            "date": "2022-12-20",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1707659375",
-            "price": 5000,
-            "name": "アメイジング　ライコ",
-            "date": "2022-12-20",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2074302141",
-            "price": 499,
-            "name": "カイオーガ　レシラム",
-            "date": "2022-12-20",
-            "stock": 2
-        },
-        {
-            "market": "magi",
             "link": "/items/1112121584",
             "price": 8500,
             "name": "レシラム　ファースト",
-            "date": "2022-12-20",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1512245983",
-            "price": 9555,
-            "name": "ポケカ　カイオーガ　",
-            "date": "2022-12-20",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1900839838",
-            "price": 372,
-            "name": "レシラム アメイジン",
-            "date": "2022-12-20",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1314825207",
-            "price": 5000,
-            "name": "ライコウ　カイオーガ",
             "date": "2022-12-20",
             "stock": 1
         },
@@ -186,9 +250,41 @@
         },
         {
             "market": "magi",
+            "link": "/items/1900839838",
+            "price": 372,
+            "name": "レシラム アメイジン",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1512245983",
+            "price": 9555,
+            "name": "ポケカ　カイオーガ　",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/152562716",
             "price": 500,
             "name": "レシラム　アメイジン",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2074302141",
+            "price": 499,
+            "name": "カイオーガ　レシラム",
+            "date": "2022-12-20",
+            "stock": 2
+        },
+        {
+            "market": "magi",
+            "link": "/items/1707659375",
+            "price": 5000,
+            "name": "アメイジング　ライコ",
             "date": "2022-12-20",
             "stock": 1
         },
@@ -202,9 +298,25 @@
         },
         {
             "market": "magi",
+            "link": "/items/467031304",
+            "price": 200,
+            "name": "No.003 レシラ",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/699606700",
             "price": 200,
             "name": "レシラム A 021",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1314825207",
+            "price": 5000,
+            "name": "ライコウ　カイオーガ",
             "date": "2022-12-20",
             "stock": 1
         },
@@ -242,6 +354,38 @@
         },
         {
             "market": "magi",
+            "link": "/items/1707659375",
+            "price": 5000,
+            "name": "アメイジング　ライコ",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1812014746",
+            "price": 300,
+            "name": "ポケモンカードs ア",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/333456627",
+            "price": 350,
+            "name": "アメイジングレシラム",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1314825207",
+            "price": 5000,
+            "name": "ライコウ　カイオーガ",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/699606700",
             "price": 200,
             "name": "レシラム A 021",
@@ -258,11 +402,11 @@
         },
         {
             "market": "magi",
-            "link": "/items/1112121584",
-            "price": 8500,
-            "name": "レシラム　ファースト",
+            "link": "/items/2074302141",
+            "price": 499,
+            "name": "カイオーガ　レシラム",
             "date": "2022-12-19",
-            "stock": 1
+            "stock": 2
         },
         {
             "market": "magi",
@@ -290,41 +434,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/333456627",
-            "price": 350,
-            "name": "アメイジングレシラム",
-            "date": "2022-12-19",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1314825207",
-            "price": 5000,
-            "name": "ライコウ　カイオーガ",
-            "date": "2022-12-19",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2074302141",
-            "price": 499,
-            "name": "カイオーガ　レシラム",
-            "date": "2022-12-19",
-            "stock": 2
-        },
-        {
-            "market": "magi",
-            "link": "/items/1812014746",
-            "price": 300,
-            "name": "ポケモンカードs ア",
-            "date": "2022-12-19",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1707659375",
-            "price": 5000,
-            "name": "アメイジング　ライコ",
+            "link": "/items/1112121584",
+            "price": 8500,
+            "name": "レシラム　ファースト",
             "date": "2022-12-19",
             "stock": 1
         },
@@ -362,6 +474,14 @@
         },
         {
             "market": "magi",
+            "link": "/items/1314825207",
+            "price": 5000,
+            "name": "ライコウ　カイオーガ",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/699606700",
             "price": 200,
             "name": "レシラム A 021",
@@ -378,11 +498,11 @@
         },
         {
             "market": "magi",
-            "link": "/items/2074302141",
-            "price": 499,
-            "name": "カイオーガ　レシラム",
+            "link": "/items/152562716",
+            "price": 500,
+            "name": "レシラム　アメイジン",
             "date": "2022-12-18",
-            "stock": 2
+            "stock": 1
         },
         {
             "market": "magi",
@@ -397,22 +517,6 @@
             "link": "/items/1512245983",
             "price": 9555,
             "name": "ポケカ　カイオーガ　",
-            "date": "2022-12-18",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/152562716",
-            "price": 500,
-            "name": "レシラム　アメイジン",
-            "date": "2022-12-18",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1314825207",
-            "price": 5000,
-            "name": "ライコウ　カイオーガ",
             "date": "2022-12-18",
             "stock": 1
         },
@@ -447,6 +551,14 @@
             "name": "ポケモンカードs ア",
             "date": "2022-12-18",
             "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2074302141",
+            "price": 499,
+            "name": "カイオーガ　レシラム",
+            "date": "2022-12-18",
+            "stock": 2
         },
         {
             "market": "hareruya2",
@@ -482,9 +594,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/1812014746",
-            "price": 300,
-            "name": "ポケモンカードs ア",
+            "link": "/items/1707659375",
+            "price": 5000,
+            "name": "アメイジング　ライコ",
             "date": "2022-12-17",
             "stock": 1
         },
@@ -498,6 +610,22 @@
         },
         {
             "market": "magi",
+            "link": "/items/699606700",
+            "price": 200,
+            "name": "レシラム A 021",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1812014746",
+            "price": 300,
+            "name": "ポケモンカードs ア",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/467031304",
             "price": 200,
             "name": "No.003 レシラ",
@@ -506,9 +634,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/1112121584",
-            "price": 8500,
-            "name": "レシラム　ファースト",
+            "link": "/items/1900839838",
+            "price": 372,
+            "name": "レシラム アメイジン",
             "date": "2022-12-17",
             "stock": 1
         },
@@ -546,25 +674,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/699606700",
-            "price": 200,
-            "name": "レシラム A 021",
-            "date": "2022-12-17",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1707659375",
-            "price": 5000,
-            "name": "アメイジング　ライコ",
-            "date": "2022-12-17",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1900839838",
-            "price": 372,
-            "name": "レシラム アメイジン",
+            "link": "/items/1112121584",
+            "price": 8500,
+            "name": "レシラム　ファースト",
             "date": "2022-12-17",
             "stock": 1
         },
@@ -602,6 +714,30 @@
         },
         {
             "market": "magi",
+            "link": "/items/1112121584",
+            "price": 8500,
+            "name": "レシラム　ファースト",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/152562716",
+            "price": 500,
+            "name": "レシラム　アメイジン",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1512245983",
+            "price": 9555,
+            "name": "ポケカ　カイオーガ　",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/467031304",
             "price": 200,
             "name": "No.003 レシラ",
@@ -613,14 +749,6 @@
             "link": "/items/1314825207",
             "price": 5000,
             "name": "ライコウ　カイオーガ",
-            "date": "2022-12-16",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1112121584",
-            "price": 8500,
-            "name": "レシラム　ファースト",
             "date": "2022-12-16",
             "stock": 1
         },
@@ -666,25 +794,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/152562716",
-            "price": 500,
-            "name": "レシラム　アメイジン",
-            "date": "2022-12-16",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/1812014746",
             "price": 300,
             "name": "ポケモンカードs ア",
-            "date": "2022-12-16",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1512245983",
-            "price": 9555,
-            "name": "ポケカ　カイオーガ　",
             "date": "2022-12-16",
             "stock": 1
         },
@@ -714,35 +826,11 @@
         },
         {
             "market": "magi",
-            "link": "/items/152562716",
-            "price": 500,
-            "name": "レシラム　アメイジン",
+            "link": "/items/2074302141",
+            "price": 499,
+            "name": "カイオーガ　レシラム",
             "date": "2022-12-15",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1112121584",
-            "price": 8500,
-            "name": "レシラム　ファースト",
-            "date": "2022-12-15",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1707659375",
-            "price": 5000,
-            "name": "アメイジング　ライコ",
-            "date": "2022-12-15",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1900839838",
-            "price": 372,
-            "name": "レシラム アメイジン",
-            "date": "2022-12-15",
-            "stock": 1
+            "stock": 2
         },
         {
             "market": "magi",
@@ -770,9 +858,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/1314825207",
-            "price": 5000,
-            "name": "ライコウ　カイオーガ",
+            "link": "/items/1112121584",
+            "price": 8500,
+            "name": "レシラム　ファースト",
             "date": "2022-12-15",
             "stock": 1
         },
@@ -786,74 +874,18 @@
         },
         {
             "market": "magi",
-            "link": "/items/2074302141",
-            "price": 499,
-            "name": "カイオーガ　レシラム",
-            "date": "2022-12-15",
-            "stock": 2
-        },
-        {
-            "market": "magi",
-            "link": "/items/1512245983",
-            "price": 9555,
-            "name": "ポケカ　カイオーガ　",
-            "date": "2022-12-15",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2031769388",
-            "price": 230,
-            "name": "ポケモンカード　レシ",
-            "date": "2022-12-15",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18427",
-            "price": 200,
-            "name": "レシラム(CP){炎",
-            "date": "2022-12-15",
-            "stock": 159
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17004",
-            "price": 80,
-            "name": "レシラム021/19",
-            "date": "2022-12-15",
-            "stock": 82
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g021-190-S4A-B/",
-            "price": 77,
-            "name": "【ポケカ】Ａ◇レシラ",
-            "date": "2022-12-15",
-            "stock": 23
-        },
-        {
-            "market": "magi",
-            "link": "/items/2074302141",
-            "price": 499,
-            "name": "カイオーガ　レシラム",
-            "date": "2022-12-14",
-            "stock": 2
-        },
-        {
-            "market": "magi",
-            "link": "/items/1512245983",
-            "price": 9555,
-            "name": "ポケカ　カイオーガ　",
-            "date": "2022-12-14",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/1314825207",
             "price": 5000,
             "name": "ライコウ　カイオーガ",
-            "date": "2022-12-14",
+            "date": "2022-12-15",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1512245983",
+            "price": 9555,
+            "name": "ポケカ　カイオーガ　",
+            "date": "2022-12-15",
             "stock": 1
         },
         {
@@ -861,7 +893,7 @@
             "link": "/items/2031769388",
             "price": 230,
             "name": "ポケモンカード　レシ",
-            "date": "2022-12-14",
+            "date": "2022-12-15",
             "stock": 1
         },
         {
@@ -869,31 +901,7 @@
             "link": "/items/152562716",
             "price": 500,
             "name": "レシラム　アメイジン",
-            "date": "2022-12-14",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1112121584",
-            "price": 8500,
-            "name": "レシラム　ファースト",
-            "date": "2022-12-14",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1812014746",
-            "price": 300,
-            "name": "ポケモンカードs ア",
-            "date": "2022-12-14",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/333456627",
-            "price": 350,
-            "name": "アメイジングレシラム",
-            "date": "2022-12-14",
+            "date": "2022-12-15",
             "stock": 1
         },
         {
@@ -901,7 +909,7 @@
             "link": "/items/1707659375",
             "price": 5000,
             "name": "アメイジング　ライコ",
-            "date": "2022-12-14",
+            "date": "2022-12-15",
             "stock": 1
         },
         {
@@ -909,23 +917,7 @@
             "link": "/items/1900839838",
             "price": 372,
             "name": "レシラム アメイジン",
-            "date": "2022-12-14",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/467031304",
-            "price": 200,
-            "name": "No.003 レシラ",
-            "date": "2022-12-14",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/699606700",
-            "price": 200,
-            "name": "レシラム A 021",
-            "date": "2022-12-14",
+            "date": "2022-12-15",
             "stock": 1
         },
         {
@@ -933,7 +925,7 @@
             "link": "https://www.hareruya2.com/product/18427",
             "price": 200,
             "name": "レシラム(CP){炎",
-            "date": "2022-12-14",
+            "date": "2022-12-15",
             "stock": 159
         },
         {
@@ -941,7 +933,7 @@
             "link": "https://www.cardrush-pokemon.jp/product/17004",
             "price": 80,
             "name": "レシラム021/19",
-            "date": "2022-12-14",
+            "date": "2022-12-15",
             "stock": 82
         },
         {
@@ -949,7 +941,7 @@
             "link": "/shop/g/g021-190-S4A-B/",
             "price": 77,
             "name": "【ポケカ】Ａ◇レシラ",
-            "date": "2022-12-14",
+            "date": "2022-12-15",
             "stock": 23
         }
     ]

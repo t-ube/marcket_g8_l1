@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/17436",
             "price": 50,
             "name": "エンニュート(C){",
+            "date": "2022-12-22",
+            "stock": 16
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/6869",
+            "price": 30,
+            "name": "エンニュート009/",
+            "date": "2022-12-22",
+            "stock": 38
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g009-060-S1W-B/",
+            "price": 33,
+            "name": "【ポケカ】Ｃ◇エンニ",
+            "date": "2022-12-22",
+            "stock": 9
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17436",
+            "price": 50,
+            "name": "エンニュート(C){",
             "date": "2022-12-21",
             "stock": 16
         },
@@ -166,30 +190,6 @@
             "price": 33,
             "name": "【ポケカ】Ｃ◇エンニ",
             "date": "2022-12-15",
-            "stock": 9
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/17436",
-            "price": 50,
-            "name": "エンニュート(C){",
-            "date": "2022-12-14",
-            "stock": 16
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/6869",
-            "price": 30,
-            "name": "エンニュート009/",
-            "date": "2022-12-14",
-            "stock": 38
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g009-060-S1W-B/",
-            "price": 33,
-            "name": "【ポケカ】Ｃ◇エンニ",
-            "date": "2022-12-14",
             "stock": 9
         }
     ]

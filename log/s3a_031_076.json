@@ -5,6 +5,22 @@
             "link": "https://www.hareruya2.com/product/18222",
             "price": 80,
             "name": "マホイップV(RR)",
+            "date": "2022-12-22",
+            "stock": 123
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14066",
+            "price": 80,
+            "name": "マホイップV031/",
+            "date": "2022-12-22",
+            "stock": 76
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18222",
+            "price": 80,
+            "name": "マホイップV(RR)",
             "date": "2022-12-21",
             "stock": 123
         },
@@ -110,22 +126,6 @@
             "price": 80,
             "name": "マホイップV031/",
             "date": "2022-12-15",
-            "stock": 81
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18222",
-            "price": 100,
-            "name": "マホイップV(RR)",
-            "date": "2022-12-14",
-            "stock": 125
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14066",
-            "price": 80,
-            "name": "マホイップV031/",
-            "date": "2022-12-14",
             "stock": 81
         }
     ]

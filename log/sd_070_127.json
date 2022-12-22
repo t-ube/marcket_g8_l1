@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/18095",
             "price": 50,
             "name": "アーマーガア(D){",
+            "date": "2022-12-22",
+            "stock": 17
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14225",
+            "price": 30,
+            "name": "アーマーガア070/",
+            "date": "2022-12-22",
+            "stock": 9
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g070-127-SD-B/",
+            "price": 8,
+            "name": "【ポケカ】ＳＳ◇アー",
+            "date": "2022-12-22",
+            "stock": 19
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18095",
+            "price": 50,
+            "name": "アーマーガア(D){",
             "date": "2022-12-21",
             "stock": 17
         },
@@ -166,30 +190,6 @@
             "price": 8,
             "name": "【ポケカ】ＳＳ◇アー",
             "date": "2022-12-15",
-            "stock": 19
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18095",
-            "price": 50,
-            "name": "アーマーガア(D){",
-            "date": "2022-12-14",
-            "stock": 17
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14225",
-            "price": 30,
-            "name": "アーマーガア070/",
-            "date": "2022-12-14",
-            "stock": 9
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g070-127-SD-B/",
-            "price": 8,
-            "name": "【ポケカ】ＳＳ◇アー",
-            "date": "2022-12-14",
             "stock": 19
         }
     ]

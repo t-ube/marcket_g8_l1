@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/18272",
             "price": 700,
             "name": "ハガネールV(SR)",
+            "date": "2022-12-22",
+            "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30253",
+            "price": 680,
+            "name": "ハガネールV081/",
+            "date": "2022-12-22",
+            "stock": 22
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14142",
+            "price": 780,
+            "name": "ハガネールV081/",
+            "date": "2022-12-22",
+            "stock": 30
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18272",
+            "price": 700,
+            "name": "ハガネールV(SR)",
             "date": "2022-12-21",
             "stock": 3
         },
@@ -58,19 +82,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30253",
-            "price": 680,
-            "name": "ハガネールV081/",
-            "date": "2022-12-19",
-            "stock": 22
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/14142",
             "price": 780,
             "name": "ハガネールV081/",
             "date": "2022-12-19",
             "stock": 29
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30253",
+            "price": 680,
+            "name": "ハガネールV081/",
+            "date": "2022-12-19",
+            "stock": 22
         },
         {
             "market": "magi",
@@ -90,19 +114,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30253",
-            "price": 680,
-            "name": "ハガネールV081/",
-            "date": "2022-12-18",
-            "stock": 22
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/14142",
             "price": 780,
             "name": "ハガネールV081/",
             "date": "2022-12-18",
             "stock": 29
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30253",
+            "price": 680,
+            "name": "ハガネールV081/",
+            "date": "2022-12-18",
+            "stock": 22
         },
         {
             "market": "hareruya2",
@@ -162,14 +186,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14142",
-            "price": 780,
-            "name": "ハガネールV081/",
-            "date": "2022-12-15",
-            "stock": 28
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30253",
             "price": 680,
             "name": "ハガネールV081/",
@@ -177,27 +193,11 @@
             "stock": 21
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18272",
-            "price": 700,
-            "name": "ハガネールV(SR)",
-            "date": "2022-12-14",
-            "stock": 3
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30253",
-            "price": 680,
-            "name": "ハガネールV081/",
-            "date": "2022-12-14",
-            "stock": 20
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/14142",
             "price": 780,
             "name": "ハガネールV081/",
-            "date": "2022-12-14",
+            "date": "2022-12-15",
             "stock": 28
         }
     ]

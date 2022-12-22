@@ -5,6 +5,22 @@
             "link": "/items/1873779232",
             "price": 390,
             "name": "マリィ　4枚　S3a",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14108",
+            "price": 80,
+            "name": "マリィ073/076",
+            "date": "2022-12-22",
+            "stock": 77
+        },
+        {
+            "market": "magi",
+            "link": "/items/1873779232",
+            "price": 390,
+            "name": "マリィ　4枚　S3a",
             "date": "2022-12-21",
             "stock": 1
         },
@@ -69,6 +85,14 @@
             "link": "/items/1873779232",
             "price": 390,
             "name": "マリィ　4枚　S3a",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30234",
+            "price": 70,
+            "name": "マリィ073/076",
             "date": "2022-12-17",
             "stock": 1
         },
@@ -79,14 +103,6 @@
             "name": "マリィ073/076",
             "date": "2022-12-17",
             "stock": 82
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30234",
-            "price": 70,
-            "name": "マリィ073/076",
-            "date": "2022-12-17",
-            "stock": 1
         },
         {
             "market": "magi",
@@ -126,22 +142,6 @@
             "price": 80,
             "name": "マリィ073/076",
             "date": "2022-12-15",
-            "stock": 82
-        },
-        {
-            "market": "magi",
-            "link": "/items/1873779232",
-            "price": 390,
-            "name": "マリィ　4枚　S3a",
-            "date": "2022-12-14",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14108",
-            "price": 80,
-            "name": "マリィ073/076",
-            "date": "2022-12-14",
             "stock": 82
         }
     ]

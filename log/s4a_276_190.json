@@ -2,16 +2,80 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/954019538",
+            "price": 672,
+            "name": "ガラルマタドガス S",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1764164321",
+            "price": 600,
+            "name": "ガラルマタドガス S",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/1291513465",
             "price": 2999,
             "name": "ガラルマタドガス S",
-            "date": "2022-12-21",
+            "date": "2022-12-22",
             "stock": 1
         },
         {
             "market": "magi",
             "link": "/items/1799704588",
             "price": 450,
+            "name": "ガラルマタドガス S",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18682",
+            "price": 900,
+            "name": "ガラルマタドガス(S",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17425",
+            "price": 780,
+            "name": "ガラルマタドガス27",
+            "date": "2022-12-22",
+            "stock": 112
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30865",
+            "price": 680,
+            "name": "ガラルマタドガス27",
+            "date": "2022-12-22",
+            "stock": 10
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g276-190-S4A-B/",
+            "price": 880,
+            "name": "【ポケカ】Ｓ◇ガラル",
+            "date": "2022-12-22",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1799704588",
+            "price": 450,
+            "name": "ガラルマタドガス S",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1291513465",
+            "price": 2999,
             "name": "ガラルマタドガス S",
             "date": "2022-12-21",
             "stock": 1
@@ -39,6 +103,14 @@
             "name": "ガラルマタドガス(S",
             "date": "2022-12-21",
             "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30865",
+            "price": 680,
+            "name": "ガラルマタドガス27",
+            "date": "2022-12-21",
+            "stock": 10
         },
         {
             "market": "cardrush",
@@ -49,28 +121,12 @@
             "stock": 106
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30865",
-            "price": 680,
-            "name": "ガラルマタドガス27",
-            "date": "2022-12-21",
-            "stock": 10
-        },
-        {
             "market": "torecolo",
             "link": "/shop/g/g276-190-S4A-B/",
             "price": 880,
             "name": "【ポケカ】Ｓ◇ガラル",
             "date": "2022-12-21",
             "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/1764164321",
-            "price": 600,
-            "name": "ガラルマタドガス S",
-            "date": "2022-12-20",
-            "stock": 1
         },
         {
             "market": "magi",
@@ -90,6 +146,14 @@
         },
         {
             "market": "magi",
+            "link": "/items/1764164321",
+            "price": 600,
+            "name": "ガラルマタドガス S",
+            "date": "2022-12-20",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/1291513465",
             "price": 2999,
             "name": "ガラルマタドガス S",
@@ -103,14 +167,6 @@
             "name": "ガラルマタドガス(S",
             "date": "2022-12-20",
             "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30865",
-            "price": 680,
-            "name": "ガラルマタドガス27",
-            "date": "2022-12-20",
-            "stock": 10
         },
         {
             "market": "cardrush",
@@ -121,6 +177,14 @@
             "stock": 105
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30865",
+            "price": 680,
+            "name": "ガラルマタドガス27",
+            "date": "2022-12-20",
+            "stock": 10
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g276-190-S4A-B/",
             "price": 880,
@@ -130,16 +194,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/1799704588",
-            "price": 450,
-            "name": "ガラルマタドガス S",
-            "date": "2022-12-19",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/954019538",
-            "price": 672,
+            "link": "/items/1764164321",
+            "price": 600,
             "name": "ガラルマタドガス S",
             "date": "2022-12-19",
             "stock": 1
@@ -154,8 +210,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/1764164321",
-            "price": 600,
+            "link": "/items/1799704588",
+            "price": 450,
+            "name": "ガラルマタドガス S",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/954019538",
+            "price": 672,
             "name": "ガラルマタドガス S",
             "date": "2022-12-19",
             "stock": 1
@@ -194,8 +258,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/1764164321",
-            "price": 600,
+            "link": "/items/954019538",
+            "price": 672,
             "name": "ガラルマタドガス S",
             "date": "2022-12-18",
             "stock": 1
@@ -218,8 +282,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/954019538",
-            "price": 672,
+            "link": "/items/1764164321",
+            "price": 600,
             "name": "ガラルマタドガス S",
             "date": "2022-12-18",
             "stock": 1
@@ -231,6 +295,14 @@
             "name": "ガラルマタドガス(S",
             "date": "2022-12-18",
             "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17425",
+            "price": 780,
+            "name": "ガラルマタドガス27",
+            "date": "2022-12-18",
+            "stock": 95
         },
         {
             "market": "cardrush",
@@ -241,14 +313,6 @@
             "stock": 12
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17425",
-            "price": 780,
-            "name": "ガラルマタドガス27",
-            "date": "2022-12-18",
-            "stock": 95
-        },
-        {
             "market": "torecolo",
             "link": "/shop/g/g276-190-S4A-B/",
             "price": 880,
@@ -258,16 +322,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/1799704588",
-            "price": 450,
-            "name": "ガラルマタドガス S",
-            "date": "2022-12-17",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1764164321",
-            "price": 600,
+            "link": "/items/954019538",
+            "price": 672,
             "name": "ガラルマタドガス S",
             "date": "2022-12-17",
             "stock": 1
@@ -282,8 +338,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/954019538",
-            "price": 672,
+            "link": "/items/1764164321",
+            "price": 600,
+            "name": "ガラルマタドガス S",
+            "date": "2022-12-17",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1799704588",
+            "price": 450,
             "name": "ガラルマタドガス S",
             "date": "2022-12-17",
             "stock": 1
@@ -298,19 +362,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30865",
-            "price": 680,
-            "name": "ガラルマタドガス27",
-            "date": "2022-12-17",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17425",
             "price": 780,
             "name": "ガラルマタドガス27",
             "date": "2022-12-17",
             "stock": 95
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30865",
+            "price": 680,
+            "name": "ガラルマタドガス27",
+            "date": "2022-12-17",
+            "stock": 2
         },
         {
             "market": "torecolo",
@@ -322,6 +386,14 @@
         },
         {
             "market": "magi",
+            "link": "/items/1764164321",
+            "price": 600,
+            "name": "ガラルマタドガス S",
+            "date": "2022-12-16",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/954019538",
             "price": 672,
             "name": "ガラルマタドガス S",
@@ -332,14 +404,6 @@
             "market": "magi",
             "link": "/items/1291513465",
             "price": 2999,
-            "name": "ガラルマタドガス S",
-            "date": "2022-12-16",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1764164321",
-            "price": 600,
             "name": "ガラルマタドガス S",
             "date": "2022-12-16",
             "stock": 1
@@ -386,16 +450,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/1291513465",
-            "price": 2999,
+            "link": "/items/1764164321",
+            "price": 600,
             "name": "ガラルマタドガス S",
             "date": "2022-12-15",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1799704588",
-            "price": 450,
+            "link": "/items/1291513465",
+            "price": 2999,
             "name": "ガラルマタドガス S",
             "date": "2022-12-15",
             "stock": 1
@@ -410,8 +474,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/1764164321",
-            "price": 600,
+            "link": "/items/1799704588",
+            "price": 450,
             "name": "ガラルマタドガス S",
             "date": "2022-12-15",
             "stock": 1
@@ -423,14 +487,6 @@
             "name": "ガラルマタドガス(S",
             "date": "2022-12-15",
             "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30865",
-            "price": 680,
-            "name": "ガラルマタドガス27",
-            "date": "2022-12-15",
-            "stock": 2
         },
         {
             "market": "cardrush",
@@ -441,83 +497,19 @@
             "stock": 95
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30865",
+            "price": 680,
+            "name": "ガラルマタドガス27",
+            "date": "2022-12-15",
+            "stock": 2
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g276-190-S4A-B/",
             "price": 880,
             "name": "【ポケカ】Ｓ◇ガラル",
             "date": "2022-12-15",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/1799704588",
-            "price": 450,
-            "name": "ガラルマタドガス S",
-            "date": "2022-12-14",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1764164321",
-            "price": 600,
-            "name": "ガラルマタドガス S",
-            "date": "2022-12-14",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1291513465",
-            "price": 2999,
-            "name": "ガラルマタドガス S",
-            "date": "2022-12-14",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1394932201",
-            "price": 1999,
-            "name": "ガラルマタドガス S",
-            "date": "2022-12-14",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/954019538",
-            "price": 672,
-            "name": "ガラルマタドガス S",
-            "date": "2022-12-14",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18682",
-            "price": 900,
-            "name": "ガラルマタドガス(S",
-            "date": "2022-12-14",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17425",
-            "price": 780,
-            "name": "ガラルマタドガス27",
-            "date": "2022-12-14",
-            "stock": 97
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30865",
-            "price": 680,
-            "name": "ガラルマタドガス27",
-            "date": "2022-12-14",
-            "stock": 2
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g276-190-S4A-B/",
-            "price": 880,
-            "name": "【ポケカ】Ｓ◇ガラル",
-            "date": "2022-12-14",
             "stock": 4
         }
     ]

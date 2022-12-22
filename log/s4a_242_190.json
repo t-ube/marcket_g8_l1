@@ -5,6 +5,38 @@
             "link": "https://www.hareruya2.com/product/18648",
             "price": 500,
             "name": "バチンウニ(S){雷",
+            "date": "2022-12-22",
+            "stock": 5
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30831",
+            "price": 330,
+            "name": "バチンウニ242/1",
+            "date": "2022-12-22",
+            "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17391",
+            "price": 380,
+            "name": "バチンウニ242/1",
+            "date": "2022-12-22",
+            "stock": 37
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g242-190-S4A-B/",
+            "price": 440,
+            "name": "【ポケカ】Ｓ◇バチン",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18648",
+            "price": 500,
+            "name": "バチンウニ(S){雷",
             "date": "2022-12-21",
             "stock": 5
         },
@@ -42,19 +74,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30831",
-            "price": 330,
-            "name": "バチンウニ242/1",
-            "date": "2022-12-20",
-            "stock": 4
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17391",
             "price": 380,
             "name": "バチンウニ242/1",
             "date": "2022-12-20",
             "stock": 37
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30831",
+            "price": 330,
+            "name": "バチンウニ242/1",
+            "date": "2022-12-20",
+            "stock": 4
         },
         {
             "market": "torecolo",
@@ -103,14 +135,6 @@
             "name": "バチンウニ(S){雷",
             "date": "2022-12-18",
             "stock": 5
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30831",
-            "price": 330,
-            "name": "バチンウニ242/1",
-            "date": "2022-12-18",
-            "stock": 4
         },
         {
             "market": "cardrush",
@@ -119,6 +143,14 @@
             "name": "バチンウニ242/1",
             "date": "2022-12-18",
             "stock": 33
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30831",
+            "price": 330,
+            "name": "バチンウニ242/1",
+            "date": "2022-12-18",
+            "stock": 4
         },
         {
             "market": "torecolo",
@@ -135,14 +167,6 @@
             "name": "バチンウニ(S){雷",
             "date": "2022-12-17",
             "stock": 5
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17391",
-            "price": 380,
-            "name": "バチンウニ242/1",
-            "date": "2022-12-17",
-            "stock": 33
         },
         {
             "market": "cardrush",
@@ -151,6 +175,14 @@
             "name": "バチンウニ242/1",
             "date": "2022-12-17",
             "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17391",
+            "price": 380,
+            "name": "バチンウニ242/1",
+            "date": "2022-12-17",
+            "stock": 33
         },
         {
             "market": "torecolo",
@@ -202,14 +234,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30831",
-            "price": 330,
-            "name": "バチンウニ242/1",
-            "date": "2022-12-15",
-            "stock": 3
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17391",
             "price": 380,
             "name": "バチンウニ242/1",
@@ -217,35 +241,11 @@
             "stock": 32
         },
         {
-            "market": "torecolo",
-            "link": "/shop/g/g242-190-S4A-B/",
-            "price": 440,
-            "name": "【ポケカ】Ｓ◇バチン",
-            "date": "2022-12-15",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18648",
-            "price": 500,
-            "name": "バチンウニ(S){雷",
-            "date": "2022-12-14",
-            "stock": 5
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17391",
-            "price": 380,
-            "name": "バチンウニ242/1",
-            "date": "2022-12-14",
-            "stock": 32
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30831",
             "price": 330,
             "name": "バチンウニ242/1",
-            "date": "2022-12-14",
+            "date": "2022-12-15",
             "stock": 3
         },
         {
@@ -253,7 +253,7 @@
             "link": "/shop/g/g242-190-S4A-B/",
             "price": 440,
             "name": "【ポケカ】Ｓ◇バチン",
-            "date": "2022-12-14",
+            "date": "2022-12-15",
             "stock": 1
         }
     ]
