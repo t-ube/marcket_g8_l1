@@ -5,6 +5,30 @@
             "link": "https://www.cardrush-pokemon.jp/product/14271",
             "price": 220,
             "name": "ポケモンセンターのお",
+            "date": "2022-12-23",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30313",
+            "price": 190,
+            "name": "ポケモンセンターのお",
+            "date": "2022-12-23",
+            "stock": 3
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g116-127-SD-B/",
+            "price": 220,
+            "name": "【ポケカ】ＳＳ◇ポケ",
+            "date": "2022-12-23",
+            "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14271",
+            "price": 220,
+            "name": "ポケモンセンターのお",
             "date": "2022-12-22",
             "stock": 2
         },
@@ -74,19 +98,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14271",
-            "price": 220,
-            "name": "ポケモンセンターのお",
-            "date": "2022-12-19",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30313",
             "price": 190,
             "name": "ポケモンセンターのお",
             "date": "2022-12-19",
             "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14271",
+            "price": 220,
+            "name": "ポケモンセンターのお",
+            "date": "2022-12-19",
+            "stock": 2
         },
         {
             "market": "torecolo",
@@ -122,19 +146,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30313",
-            "price": 190,
-            "name": "ポケモンセンターのお",
-            "date": "2022-12-17",
-            "stock": 3
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/14271",
             "price": 220,
             "name": "ポケモンセンターのお",
             "date": "2022-12-17",
             "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30313",
+            "price": 190,
+            "name": "ポケモンセンターのお",
+            "date": "2022-12-17",
+            "stock": 3
         },
         {
             "market": "torecolo",
@@ -146,14 +170,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14271",
-            "price": 220,
-            "name": "ポケモンセンターのお",
-            "date": "2022-12-16",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30313",
             "price": 190,
             "name": "ポケモンセンターのお",
@@ -161,27 +177,11 @@
             "stock": 3
         },
         {
-            "market": "torecolo",
-            "link": "/shop/g/g116-127-SD-B/",
-            "price": 220,
-            "name": "【ポケカ】ＳＳ◇ポケ",
-            "date": "2022-12-16",
-            "stock": 3
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30313",
-            "price": 190,
-            "name": "ポケモンセンターのお",
-            "date": "2022-12-15",
-            "stock": 3
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/14271",
             "price": 220,
             "name": "ポケモンセンターのお",
-            "date": "2022-12-15",
+            "date": "2022-12-16",
             "stock": 2
         },
         {
@@ -189,7 +189,7 @@
             "link": "/shop/g/g116-127-SD-B/",
             "price": 220,
             "name": "【ポケカ】ＳＳ◇ポケ",
-            "date": "2022-12-15",
+            "date": "2022-12-16",
             "stock": 3
         }
     ]

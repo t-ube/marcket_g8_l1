@@ -5,6 +5,22 @@
             "link": "https://www.hareruya2.com/product/17571",
             "price": 1000,
             "name": "モルペコVMAX(H",
+            "date": "2022-12-23",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/7041",
+            "price": 680,
+            "name": "モルペコVMAX06",
+            "date": "2022-12-23",
+            "stock": 5
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17571",
+            "price": 1000,
+            "name": "モルペコVMAX(H",
             "date": "2022-12-22",
             "stock": 2
         },
@@ -110,22 +126,6 @@
             "price": 680,
             "name": "モルペコVMAX06",
             "date": "2022-12-16",
-            "stock": 7
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/17571",
-            "price": 1000,
-            "name": "モルペコVMAX(H",
-            "date": "2022-12-15",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7041",
-            "price": 680,
-            "name": "モルペコVMAX06",
-            "date": "2022-12-15",
             "stock": 7
         }
     ]

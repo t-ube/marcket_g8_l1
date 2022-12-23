@@ -5,8 +5,48 @@
             "link": "/items/456225735",
             "price": 800,
             "name": "ボールガイ SR 1",
-            "date": "2022-12-22",
+            "date": "2022-12-23",
             "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2094974187",
+            "price": 1200,
+            "name": "ポケモンカード ボー",
+            "date": "2022-12-23",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1172008232",
+            "price": 1868,
+            "name": "【美品】ボールガイ ",
+            "date": "2022-12-23",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30786",
+            "price": 730,
+            "name": "ボールガイ196/1",
+            "date": "2022-12-23",
+            "stock": 25
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17345",
+            "price": 880,
+            "name": "ボールガイ196/1",
+            "date": "2022-12-23",
+            "stock": 86
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g196-190-S4A-B/",
+            "price": 880,
+            "name": "【ポケカ】ＳＲ◇ボー",
+            "date": "2022-12-23",
+            "stock": 5
         },
         {
             "market": "magi",
@@ -18,19 +58,19 @@
         },
         {
             "market": "magi",
+            "link": "/items/456225735",
+            "price": 800,
+            "name": "ボールガイ SR 1",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/2094974187",
             "price": 1200,
             "name": "ポケモンカード ボー",
             "date": "2022-12-22",
             "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30786",
-            "price": 730,
-            "name": "ボールガイ196/1",
-            "date": "2022-12-22",
-            "stock": 25
         },
         {
             "market": "cardrush",
@@ -41,6 +81,14 @@
             "stock": 91
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30786",
+            "price": 730,
+            "name": "ボールガイ196/1",
+            "date": "2022-12-22",
+            "stock": 25
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g196-190-S4A-B/",
             "price": 880,
@@ -50,9 +98,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/2094974187",
-            "price": 1200,
-            "name": "ポケモンカード ボー",
+            "link": "/items/1172008232",
+            "price": 1868,
+            "name": "【美品】ボールガイ ",
             "date": "2022-12-21",
             "stock": 1
         },
@@ -66,9 +114,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/1172008232",
-            "price": 1868,
-            "name": "【美品】ボールガイ ",
+            "link": "/items/2094974187",
+            "price": 1200,
+            "name": "ポケモンカード ボー",
             "date": "2022-12-21",
             "stock": 1
         },
@@ -170,19 +218,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30786",
-            "price": 730,
-            "name": "ボールガイ196/1",
-            "date": "2022-12-19",
-            "stock": 32
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17345",
             "price": 880,
             "name": "ボールガイ196/1",
             "date": "2022-12-19",
             "stock": 94
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30786",
+            "price": 730,
+            "name": "ボールガイ196/1",
+            "date": "2022-12-19",
+            "stock": 32
         },
         {
             "market": "torecolo",
@@ -202,14 +250,6 @@
         },
         {
             "market": "magi",
-            "link": "/items/1172008232",
-            "price": 1868,
-            "name": "【美品】ボールガイ ",
-            "date": "2022-12-18",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/2094974187",
             "price": 1200,
             "name": "ポケモンカード ボー",
@@ -217,12 +257,12 @@
             "stock": 1
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30786",
-            "price": 730,
-            "name": "ボールガイ196/1",
+            "market": "magi",
+            "link": "/items/1172008232",
+            "price": 1868,
+            "name": "【美品】ボールガイ ",
             "date": "2022-12-18",
-            "stock": 32
+            "stock": 1
         },
         {
             "market": "cardrush",
@@ -233,6 +273,14 @@
             "stock": 95
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30786",
+            "price": 730,
+            "name": "ボールガイ196/1",
+            "date": "2022-12-18",
+            "stock": 32
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g196-190-S4A-B/",
             "price": 880,
@@ -242,9 +290,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/2094974187",
-            "price": 1200,
-            "name": "ポケモンカード ボー",
+            "link": "/items/456225735",
+            "price": 800,
+            "name": "ボールガイ SR 1",
             "date": "2022-12-17",
             "stock": 1
         },
@@ -258,9 +306,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/456225735",
-            "price": 800,
-            "name": "ボールガイ SR 1",
+            "link": "/items/2094974187",
+            "price": 1200,
+            "name": "ポケモンカード ボー",
             "date": "2022-12-17",
             "stock": 1
         },
@@ -274,19 +322,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30786",
-            "price": 730,
-            "name": "ボールガイ196/1",
-            "date": "2022-12-17",
-            "stock": 32
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17345",
             "price": 880,
             "name": "ボールガイ196/1",
             "date": "2022-12-17",
             "stock": 96
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30786",
+            "price": 730,
+            "name": "ボールガイ196/1",
+            "date": "2022-12-17",
+            "stock": 32
         },
         {
             "market": "torecolo",
@@ -298,9 +346,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/456225735",
-            "price": 800,
-            "name": "ボールガイ SR 1",
+            "link": "/items/2094974187",
+            "price": 1200,
+            "name": "ポケモンカード ボー",
             "date": "2022-12-16",
             "stock": 1
         },
@@ -314,9 +362,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/2094974187",
-            "price": 1200,
-            "name": "ポケモンカード ボー",
+            "link": "/items/456225735",
+            "price": 800,
+            "name": "ボールガイ SR 1",
             "date": "2022-12-16",
             "stock": 1
         },
@@ -327,14 +375,6 @@
             "name": "ボールガイ(SR){",
             "date": "2022-12-16",
             "stock": 4
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30786",
-            "price": 730,
-            "name": "ボールガイ196/1",
-            "date": "2022-12-16",
-            "stock": 32
         },
         {
             "market": "cardrush",
@@ -345,59 +385,11 @@
             "stock": 95
         },
         {
-            "market": "torecolo",
-            "link": "/shop/g/g196-190-S4A-B/",
-            "price": 880,
-            "name": "【ポケカ】ＳＲ◇ボー",
-            "date": "2022-12-16",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/1172008232",
-            "price": 1868,
-            "name": "【美品】ボールガイ ",
-            "date": "2022-12-15",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/456225735",
-            "price": 800,
-            "name": "ボールガイ SR 1",
-            "date": "2022-12-15",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2094974187",
-            "price": 1200,
-            "name": "ポケモンカード ボー",
-            "date": "2022-12-15",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18602",
-            "price": 1000,
-            "name": "ボールガイ(SR){",
-            "date": "2022-12-15",
-            "stock": 4
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17345",
-            "price": 880,
-            "name": "ボールガイ196/1",
-            "date": "2022-12-15",
-            "stock": 94
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30786",
             "price": 730,
             "name": "ボールガイ196/1",
-            "date": "2022-12-15",
+            "date": "2022-12-16",
             "stock": 32
         },
         {
@@ -405,7 +397,7 @@
             "link": "/shop/g/g196-190-S4A-B/",
             "price": 880,
             "name": "【ポケカ】ＳＲ◇ボー",
-            "date": "2022-12-15",
+            "date": "2022-12-16",
             "stock": 4
         }
     ]

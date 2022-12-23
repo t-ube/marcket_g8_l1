@@ -5,6 +5,22 @@
             "link": "https://www.hareruya2.com/product/18308",
             "price": 100,
             "name": "ガラルヒヒダルマV(",
+            "date": "2022-12-23",
+            "stock": 98
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14477",
+            "price": 80,
+            "name": "ガラルヒヒダルマV0",
+            "date": "2022-12-23",
+            "stock": 721
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18308",
+            "price": 100,
+            "name": "ガラルヒヒダルマV(",
             "date": "2022-12-22",
             "stock": 98
         },
@@ -110,22 +126,6 @@
             "price": 80,
             "name": "ガラルヒヒダルマV0",
             "date": "2022-12-16",
-            "stock": 722
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18308",
-            "price": 100,
-            "name": "ガラルヒヒダルマV(",
-            "date": "2022-12-15",
-            "stock": 97
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14477",
-            "price": 80,
-            "name": "ガラルヒヒダルマV0",
-            "date": "2022-12-15",
             "stock": 722
         }
     ]

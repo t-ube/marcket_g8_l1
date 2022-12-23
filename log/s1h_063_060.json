@@ -5,6 +5,22 @@
             "link": "https://www.cardrush-pokemon.jp/product/29770",
             "price": 680,
             "name": "イエッサンV063/",
+            "date": "2022-12-23",
+            "stock": 32
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/7035",
+            "price": 780,
+            "name": "イエッサンV063/",
+            "date": "2022-12-23",
+            "stock": 58
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/29770",
+            "price": 680,
+            "name": "イエッサンV063/",
             "date": "2022-12-22",
             "stock": 30
         },
@@ -18,27 +34,19 @@
         },
         {
             "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/7035",
+            "price": 780,
+            "name": "イエッサンV063/",
+            "date": "2022-12-21",
+            "stock": 53
+        },
+        {
+            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/29770",
             "price": 680,
             "name": "イエッサンV063/",
             "date": "2022-12-21",
             "stock": 30
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7035",
-            "price": 780,
-            "name": "イエッサンV063/",
-            "date": "2022-12-21",
-            "stock": 53
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7035",
-            "price": 780,
-            "name": "イエッサンV063/",
-            "date": "2022-12-20",
-            "stock": 53
         },
         {
             "market": "cardrush",
@@ -53,7 +61,7 @@
             "link": "https://www.cardrush-pokemon.jp/product/7035",
             "price": 780,
             "name": "イエッサンV063/",
-            "date": "2022-12-19",
+            "date": "2022-12-20",
             "stock": 53
         },
         {
@@ -69,7 +77,7 @@
             "link": "https://www.cardrush-pokemon.jp/product/7035",
             "price": 780,
             "name": "イエッサンV063/",
-            "date": "2022-12-18",
+            "date": "2022-12-19",
             "stock": 53
         },
         {
@@ -85,7 +93,7 @@
             "link": "https://www.cardrush-pokemon.jp/product/7035",
             "price": 780,
             "name": "イエッサンV063/",
-            "date": "2022-12-17",
+            "date": "2022-12-18",
             "stock": 53
         },
         {
@@ -95,6 +103,14 @@
             "name": "イエッサンV063/",
             "date": "2022-12-17",
             "stock": 29
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/7035",
+            "price": 780,
+            "name": "イエッサンV063/",
+            "date": "2022-12-17",
+            "stock": 53
         },
         {
             "market": "cardrush",
@@ -111,30 +127,6 @@
             "name": "イエッサンV063/",
             "date": "2022-12-16",
             "stock": 52
-        },
-        {
-            "market": "magi",
-            "link": "/items/1810977397",
-            "price": 400,
-            "name": "イエッサンV SR ",
-            "date": "2022-12-15",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/29770",
-            "price": 680,
-            "name": "イエッサンV063/",
-            "date": "2022-12-15",
-            "stock": 28
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7035",
-            "price": 780,
-            "name": "イエッサンV063/",
-            "date": "2022-12-15",
-            "stock": 46
         }
     ]
 }

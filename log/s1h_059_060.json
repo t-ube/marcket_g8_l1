@@ -5,6 +5,14 @@
             "link": "https://www.cardrush-pokemon.jp/product/6979",
             "price": 120,
             "name": "マリィ059/060",
+            "date": "2022-12-23",
+            "stock": 41
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/6979",
+            "price": 120,
+            "name": "マリィ059/060",
             "date": "2022-12-22",
             "stock": 41
         },
@@ -58,19 +66,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/29725",
-            "price": 110,
-            "name": "マリィ059/060",
-            "date": "2022-12-18",
-            "stock": 6
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/6979",
             "price": 120,
             "name": "マリィ059/060",
             "date": "2022-12-18",
             "stock": 41
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/29725",
+            "price": 110,
+            "name": "マリィ059/060",
+            "date": "2022-12-18",
+            "stock": 6
         },
         {
             "market": "magi",
@@ -126,30 +134,6 @@
             "price": 120,
             "name": "マリィ059/060",
             "date": "2022-12-16",
-            "stock": 41
-        },
-        {
-            "market": "magi",
-            "link": "/items/248154713",
-            "price": 500,
-            "name": "マリィ R 059/",
-            "date": "2022-12-15",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/17561",
-            "price": 100,
-            "name": "マリィ(R){サポー",
-            "date": "2022-12-15",
-            "stock": 11
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/6979",
-            "price": 120,
-            "name": "マリィ059/060",
-            "date": "2022-12-15",
             "stock": 41
         }
     ]

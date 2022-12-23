@@ -5,16 +5,80 @@
             "link": "/items/1582958884",
             "price": 120,
             "name": "コーティング鋼エネル",
-            "date": "2022-12-22",
+            "date": "2022-12-23",
             "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2068071029",
+            "price": 40,
+            "name": "PC コーティング鋼",
+            "date": "2022-12-23",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1577787877",
+            "price": 100,
+            "name": "コーティング鋼エネル",
+            "date": "2022-12-23",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1673176503",
+            "price": 40,
+            "name": "PC コーティング鋼",
+            "date": "2022-12-23",
+            "stock": 4
         },
         {
             "market": "magi",
             "link": "/items/914300865",
             "price": 40,
             "name": "PC コーティング鋼",
-            "date": "2022-12-22",
+            "date": "2022-12-23",
             "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1168364511",
+            "price": 40,
+            "name": "PC コーティング鋼",
+            "date": "2022-12-23",
+            "stock": 4
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18385",
+            "price": 100,
+            "name": "コーティング鋼エネル",
+            "date": "2022-12-23",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14554",
+            "price": 80,
+            "name": "コーティング鋼エネル",
+            "date": "2022-12-23",
+            "stock": 283
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g100-100-S4-B/",
+            "price": 28,
+            "name": "【ポケカ】Ｕ◇コーテ",
+            "date": "2022-12-23",
+            "stock": 9
+        },
+        {
+            "market": "magi",
+            "link": "/items/1582958884",
+            "price": 120,
+            "name": "コーティング鋼エネル",
+            "date": "2022-12-22",
+            "stock": 1
         },
         {
             "market": "magi",
@@ -26,7 +90,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/2068071029",
+            "link": "/items/914300865",
             "price": 40,
             "name": "PC コーティング鋼",
             "date": "2022-12-22",
@@ -47,6 +111,14 @@
             "name": "コーティング鋼エネル",
             "date": "2022-12-22",
             "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2068071029",
+            "price": 40,
+            "name": "PC コーティング鋼",
+            "date": "2022-12-22",
+            "stock": 4
         },
         {
             "market": "hareruya2",
@@ -74,23 +146,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/2068071029",
-            "price": 40,
-            "name": "PC コーティング鋼",
-            "date": "2022-12-21",
-            "stock": 4
-        },
-        {
-            "market": "magi",
             "link": "/items/914300865",
-            "price": 40,
-            "name": "PC コーティング鋼",
-            "date": "2022-12-21",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/1673176503",
             "price": 40,
             "name": "PC コーティング鋼",
             "date": "2022-12-21",
@@ -114,7 +170,23 @@
         },
         {
             "market": "magi",
+            "link": "/items/2068071029",
+            "price": 40,
+            "name": "PC コーティング鋼",
+            "date": "2022-12-21",
+            "stock": 4
+        },
+        {
+            "market": "magi",
             "link": "/items/1168364511",
+            "price": 40,
+            "name": "PC コーティング鋼",
+            "date": "2022-12-21",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1673176503",
             "price": 40,
             "name": "PC コーティング鋼",
             "date": "2022-12-21",
@@ -146,19 +218,11 @@
         },
         {
             "market": "magi",
-            "link": "/items/1168364511",
-            "price": 40,
-            "name": "PC コーティング鋼",
+            "link": "/items/1577787877",
+            "price": 100,
+            "name": "コーティング鋼エネル",
             "date": "2022-12-20",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/914300865",
-            "price": 40,
-            "name": "PC コーティング鋼",
-            "date": "2022-12-20",
-            "stock": 4
+            "stock": 1
         },
         {
             "market": "magi",
@@ -170,15 +234,15 @@
         },
         {
             "market": "magi",
-            "link": "/items/1577787877",
-            "price": 100,
-            "name": "コーティング鋼エネル",
+            "link": "/items/2068071029",
+            "price": 40,
+            "name": "PC コーティング鋼",
             "date": "2022-12-20",
-            "stock": 1
+            "stock": 4
         },
         {
             "market": "magi",
-            "link": "/items/2068071029",
+            "link": "/items/1168364511",
             "price": 40,
             "name": "PC コーティング鋼",
             "date": "2022-12-20",
@@ -191,6 +255,14 @@
             "name": "コーティング鋼エネル",
             "date": "2022-12-20",
             "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/914300865",
+            "price": 40,
+            "name": "PC コーティング鋼",
+            "date": "2022-12-20",
+            "stock": 4
         },
         {
             "market": "hareruya2",
@@ -218,11 +290,19 @@
         },
         {
             "market": "magi",
-            "link": "/items/914300865",
+            "link": "/items/1168364511",
             "price": 40,
             "name": "PC コーティング鋼",
             "date": "2022-12-19",
             "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1582958884",
+            "price": 120,
+            "name": "コーティング鋼エネル",
+            "date": "2022-12-19",
+            "stock": 1
         },
         {
             "market": "magi",
@@ -242,15 +322,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/1582958884",
-            "price": 120,
-            "name": "コーティング鋼エネル",
-            "date": "2022-12-19",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1168364511",
+            "link": "/items/2068071029",
             "price": 40,
             "name": "PC コーティング鋼",
             "date": "2022-12-19",
@@ -258,7 +330,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/2068071029",
+            "link": "/items/914300865",
             "price": 40,
             "name": "PC コーティング鋼",
             "date": "2022-12-19",
@@ -290,7 +362,31 @@
         },
         {
             "market": "magi",
-            "link": "/items/1673176503",
+            "link": "/items/914300865",
+            "price": 40,
+            "name": "PC コーティング鋼",
+            "date": "2022-12-18",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1582958884",
+            "price": 120,
+            "name": "コーティング鋼エネル",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1577787877",
+            "price": 100,
+            "name": "コーティング鋼エネル",
+            "date": "2022-12-18",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1168364511",
             "price": 40,
             "name": "PC コーティング鋼",
             "date": "2022-12-18",
@@ -306,31 +402,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/1168364511",
-            "price": 40,
-            "name": "PC コーティング鋼",
-            "date": "2022-12-18",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/1577787877",
-            "price": 100,
-            "name": "コーティング鋼エネル",
-            "date": "2022-12-18",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1582958884",
-            "price": 120,
-            "name": "コーティング鋼エネル",
-            "date": "2022-12-18",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/914300865",
+            "link": "/items/1673176503",
             "price": 40,
             "name": "PC コーティング鋼",
             "date": "2022-12-18",
@@ -426,39 +498,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/1168364511",
-            "price": 40,
-            "name": "PC コーティング鋼",
-            "date": "2022-12-16",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/914300865",
-            "price": 40,
-            "name": "PC コーティング鋼",
-            "date": "2022-12-16",
-            "stock": 4
-        },
-        {
-            "market": "magi",
             "link": "/items/1673176503",
-            "price": 40,
-            "name": "PC コーティング鋼",
-            "date": "2022-12-16",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/1582958884",
-            "price": 120,
-            "name": "コーティング鋼エネル",
-            "date": "2022-12-16",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2068071029",
             "price": 40,
             "name": "PC コーティング鋼",
             "date": "2022-12-16",
@@ -473,51 +513,11 @@
             "stock": 1
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14554",
-            "price": 80,
-            "name": "コーティング鋼エネル",
-            "date": "2022-12-16",
-            "stock": 283
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g100-100-S4-B/",
-            "price": 28,
-            "name": "【ポケカ】Ｕ◇コーテ",
-            "date": "2022-12-16",
-            "stock": 9
-        },
-        {
             "market": "magi",
             "link": "/items/2068071029",
             "price": 40,
             "name": "PC コーティング鋼",
-            "date": "2022-12-15",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/914300865",
-            "price": 40,
-            "name": "PC コーティング鋼",
-            "date": "2022-12-15",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/1673176503",
-            "price": 40,
-            "name": "PC コーティング鋼",
-            "date": "2022-12-15",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/1168364511",
-            "price": 40,
-            "name": "PC コーティング鋼",
-            "date": "2022-12-15",
+            "date": "2022-12-16",
             "stock": 4
         },
         {
@@ -525,15 +525,31 @@
             "link": "/items/1582958884",
             "price": 120,
             "name": "コーティング鋼エネル",
-            "date": "2022-12-15",
+            "date": "2022-12-16",
             "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/914300865",
+            "price": 40,
+            "name": "PC コーティング鋼",
+            "date": "2022-12-16",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1168364511",
+            "price": 40,
+            "name": "PC コーティング鋼",
+            "date": "2022-12-16",
+            "stock": 4
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/14554",
             "price": 80,
             "name": "コーティング鋼エネル",
-            "date": "2022-12-15",
+            "date": "2022-12-16",
             "stock": 283
         },
         {
@@ -541,7 +557,7 @@
             "link": "/shop/g/g100-100-S4-B/",
             "price": 28,
             "name": "【ポケカ】Ｕ◇コーテ",
-            "date": "2022-12-15",
+            "date": "2022-12-16",
             "stock": 9
         }
     ]
