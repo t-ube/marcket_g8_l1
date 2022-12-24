@@ -5,6 +5,38 @@
             "link": "https://www.hareruya2.com/product/17926",
             "price": 100,
             "name": "カブ(U){サポート",
+            "date": "2022-12-24",
+            "stock": 13
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30080",
+            "price": 150,
+            "name": "カブ067/070",
+            "date": "2022-12-24",
+            "stock": 58
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/13168",
+            "price": 180,
+            "name": "カブ067/070",
+            "date": "2022-12-24",
+            "stock": 183
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g067-070-S2A-B/",
+            "price": 110,
+            "name": "【ポケカ】Ｕ◇カブ",
+            "date": "2022-12-24",
+            "stock": 11
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17926",
+            "price": 100,
+            "name": "カブ(U){サポート",
             "date": "2022-12-23",
             "stock": 13
         },
@@ -42,19 +74,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30080",
-            "price": 150,
-            "name": "カブ067/070",
-            "date": "2022-12-22",
-            "stock": 58
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/13168",
             "price": 180,
             "name": "カブ067/070",
             "date": "2022-12-22",
             "stock": 183
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30080",
+            "price": 150,
+            "name": "カブ067/070",
+            "date": "2022-12-22",
+            "stock": 58
         },
         {
             "market": "torecolo",
@@ -106,14 +138,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/13168",
-            "price": 180,
-            "name": "カブ067/070",
-            "date": "2022-12-20",
-            "stock": 183
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30080",
             "price": 150,
             "name": "カブ067/070",
@@ -121,6 +145,14 @@
             "stock": 58
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/13168",
+            "price": 180,
+            "name": "カブ067/070",
+            "date": "2022-12-20",
+            "stock": 183
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g067-070-S2A-B/",
             "price": 110,
@@ -138,19 +170,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30080",
-            "price": 150,
-            "name": "カブ067/070",
-            "date": "2022-12-19",
-            "stock": 58
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/13168",
             "price": 180,
             "name": "カブ067/070",
             "date": "2022-12-19",
             "stock": 183
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30080",
+            "price": 150,
+            "name": "カブ067/070",
+            "date": "2022-12-19",
+            "stock": 58
         },
         {
             "market": "torecolo",
@@ -202,14 +234,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/13168",
-            "price": 180,
-            "name": "カブ067/070",
-            "date": "2022-12-17",
-            "stock": 183
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30080",
             "price": 150,
             "name": "カブ067/070",
@@ -217,35 +241,11 @@
             "stock": 58
         },
         {
-            "market": "torecolo",
-            "link": "/shop/g/g067-070-S2A-B/",
-            "price": 110,
-            "name": "【ポケカ】Ｕ◇カブ",
-            "date": "2022-12-17",
-            "stock": 11
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/17926",
-            "price": 100,
-            "name": "カブ(U){サポート",
-            "date": "2022-12-16",
-            "stock": 18
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30080",
-            "price": 150,
-            "name": "カブ067/070",
-            "date": "2022-12-16",
-            "stock": 58
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/13168",
             "price": 180,
             "name": "カブ067/070",
-            "date": "2022-12-16",
+            "date": "2022-12-17",
             "stock": 183
         },
         {
@@ -253,7 +253,7 @@
             "link": "/shop/g/g067-070-S2A-B/",
             "price": 110,
             "name": "【ポケカ】Ｕ◇カブ",
-            "date": "2022-12-16",
+            "date": "2022-12-17",
             "stock": 11
         }
     ]

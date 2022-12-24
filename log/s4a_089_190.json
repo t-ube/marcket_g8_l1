@@ -5,6 +5,30 @@
             "link": "/items/555782845",
             "price": 155,
             "name": "【特価】ドラパルトV",
+            "date": "2022-12-24",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/34756525",
+            "price": 120,
+            "name": "ドラパルトVMAX ",
+            "date": "2022-12-24",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18495",
+            "price": 100,
+            "name": "ドラパルトVMAX(",
+            "date": "2022-12-24",
+            "stock": 37
+        },
+        {
+            "market": "magi",
+            "link": "/items/555782845",
+            "price": 155,
+            "name": "【特価】ドラパルトV",
             "date": "2022-12-23",
             "stock": 1
         },
@@ -146,17 +170,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/555782845",
-            "price": 155,
-            "name": "【特価】ドラパルトV",
+            "link": "/items/34756525",
+            "price": 120,
+            "name": "ドラパルトVMAX ",
             "date": "2022-12-18",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/34756525",
-            "price": 120,
-            "name": "ドラパルトVMAX ",
+            "link": "/items/555782845",
+            "price": 155,
+            "name": "【特価】ドラパルトV",
             "date": "2022-12-18",
             "stock": 1
         },
@@ -178,17 +202,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/34756525",
-            "price": 120,
-            "name": "ドラパルトVMAX ",
+            "link": "/items/555782845",
+            "price": 155,
+            "name": "【特価】ドラパルトV",
             "date": "2022-12-17",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/555782845",
-            "price": 155,
-            "name": "【特価】ドラパルトV",
+            "link": "/items/34756525",
+            "price": 120,
+            "name": "ドラパルトVMAX ",
             "date": "2022-12-17",
             "stock": 1
         },
@@ -206,38 +230,6 @@
             "price": 80,
             "name": "ドラパルトVMAX0",
             "date": "2022-12-17",
-            "stock": 6
-        },
-        {
-            "market": "magi",
-            "link": "/items/555782845",
-            "price": 155,
-            "name": "【特価】ドラパルトV",
-            "date": "2022-12-16",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/34756525",
-            "price": 120,
-            "name": "ドラパルトVMAX ",
-            "date": "2022-12-16",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18495",
-            "price": 100,
-            "name": "ドラパルトVMAX(",
-            "date": "2022-12-16",
-            "stock": 32
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17072",
-            "price": 80,
-            "name": "ドラパルトVMAX0",
-            "date": "2022-12-16",
             "stock": 6
         }
     ]

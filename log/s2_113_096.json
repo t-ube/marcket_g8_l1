@@ -5,6 +5,30 @@
             "link": "/items/1864790108",
             "price": 1300,
             "name": "ガラルニャイキング ",
+            "date": "2022-12-24",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/29939",
+            "price": 1880,
+            "name": "ガラルニャイキング1",
+            "date": "2022-12-24",
+            "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/7559",
+            "price": 2180,
+            "name": "ガラルニャイキング1",
+            "date": "2022-12-24",
+            "stock": 12
+        },
+        {
+            "market": "magi",
+            "link": "/items/1864790108",
+            "price": 1300,
+            "name": "ガラルニャイキング ",
             "date": "2022-12-23",
             "stock": 1
         },
@@ -106,6 +130,14 @@
         },
         {
             "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/29939",
+            "price": 1880,
+            "name": "ガラルニャイキング1",
+            "date": "2022-12-19",
+            "stock": 4
+        },
+        {
+            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/7559",
             "price": 2180,
             "name": "ガラルニャイキング1",
@@ -114,11 +146,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/29939",
-            "price": 1880,
+            "link": "https://www.cardrush-pokemon.jp/product/7559",
+            "price": 2180,
             "name": "ガラルニャイキング1",
-            "date": "2022-12-19",
-            "stock": 4
+            "date": "2022-12-18",
+            "stock": 12
         },
         {
             "market": "cardrush",
@@ -130,22 +162,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7559",
-            "price": 2180,
-            "name": "ガラルニャイキング1",
-            "date": "2022-12-18",
-            "stock": 12
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7559",
-            "price": 2180,
-            "name": "ガラルニャイキング1",
-            "date": "2022-12-17",
-            "stock": 12
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/29939",
             "price": 1880,
             "name": "ガラルニャイキング1",
@@ -157,16 +173,8 @@
             "link": "https://www.cardrush-pokemon.jp/product/7559",
             "price": 2180,
             "name": "ガラルニャイキング1",
-            "date": "2022-12-16",
+            "date": "2022-12-17",
             "stock": 12
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/29939",
-            "price": 1880,
-            "name": "ガラルニャイキング1",
-            "date": "2022-12-16",
-            "stock": 4
         }
     ]
 }

@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/18087",
             "price": 50,
             "name": "エネルギー転送(D)",
+            "date": "2022-12-24",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14241",
+            "price": 80,
+            "name": "エネルギー転送086",
+            "date": "2022-12-24",
+            "stock": 8
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g086-127-SD-B/",
+            "price": 77,
+            "name": "【ポケカ】ＳＳ◇エネ",
+            "date": "2022-12-24",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18087",
+            "price": 50,
+            "name": "エネルギー転送(D)",
             "date": "2022-12-23",
             "stock": 1
         },
@@ -126,22 +150,6 @@
             "price": 77,
             "name": "【ポケカ】ＳＳ◇エネ",
             "date": "2022-12-17",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14241",
-            "price": 80,
-            "name": "エネルギー転送086",
-            "date": "2022-12-16",
-            "stock": 12
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g086-127-SD-B/",
-            "price": 77,
-            "name": "【ポケカ】ＳＳ◇エネ",
-            "date": "2022-12-16",
             "stock": 1
         }
     ]

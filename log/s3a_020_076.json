@@ -5,6 +5,38 @@
             "link": "/items/2079765596",
             "price": 45,
             "name": "PC ゼクロム(02",
+            "date": "2022-12-24",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/211787964",
+            "price": 45,
+            "name": "PC ゼクロム(02",
+            "date": "2022-12-24",
+            "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14055",
+            "price": 50,
+            "name": "ゼクロム020/07",
+            "date": "2022-12-24",
+            "stock": 52
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g020-076-S3A-B/",
+            "price": 44,
+            "name": "【ポケカ】Ｒ◇ゼクロ",
+            "date": "2022-12-24",
+            "stock": 14
+        },
+        {
+            "market": "magi",
+            "link": "/items/2079765596",
+            "price": 45,
+            "name": "PC ゼクロム(02",
             "date": "2022-12-23",
             "stock": 4
         },
@@ -66,7 +98,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/2079765596",
+            "link": "/items/211787964",
             "price": 45,
             "name": "PC ゼクロム(02",
             "date": "2022-12-21",
@@ -74,7 +106,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/211787964",
+            "link": "/items/2079765596",
             "price": 45,
             "name": "PC ゼクロム(02",
             "date": "2022-12-21",
@@ -130,7 +162,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/211787964",
+            "link": "/items/2079765596",
             "price": 45,
             "name": "PC ゼクロム(02",
             "date": "2022-12-19",
@@ -138,7 +170,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/2079765596",
+            "link": "/items/211787964",
             "price": 45,
             "name": "PC ゼクロム(02",
             "date": "2022-12-19",
@@ -214,30 +246,6 @@
             "price": 44,
             "name": "【ポケカ】Ｒ◇ゼクロ",
             "date": "2022-12-17",
-            "stock": 14
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18211",
-            "price": 100,
-            "name": "ゼクロム(R){雷}",
-            "date": "2022-12-16",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14055",
-            "price": 50,
-            "name": "ゼクロム020/07",
-            "date": "2022-12-16",
-            "stock": 60
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g020-076-S3A-B/",
-            "price": 44,
-            "name": "【ポケカ】Ｒ◇ゼクロ",
-            "date": "2022-12-16",
             "stock": 14
         }
     ]

@@ -5,6 +5,62 @@
             "link": "/items/558826048",
             "price": 114,
             "name": "タタッコ 099/1",
+            "date": "2022-12-24",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18505",
+            "price": 50,
+            "name": "タタッコ(CP){闘",
+            "date": "2022-12-24",
+            "stock": 19
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18792",
+            "price": 100,
+            "name": "タタッコ:ミラー(C",
+            "date": "2022-12-24",
+            "stock": 27
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17082",
+            "price": 30,
+            "name": "タタッコ099/19",
+            "date": "2022-12-24",
+            "stock": 8
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17260",
+            "price": 80,
+            "name": "タタッコ099/19",
+            "date": "2022-12-24",
+            "stock": 37
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g099-190-S4A-BM/",
+            "price": 20,
+            "name": "【ポケカ】Ｃ）ミラー",
+            "date": "2022-12-24",
+            "stock": 11
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g099-190-S4A-B/",
+            "price": 2,
+            "name": "【ポケカ】Ｃ）通常仕",
+            "date": "2022-12-24",
+            "stock": 10
+        },
+        {
+            "market": "magi",
+            "link": "/items/558826048",
+            "price": 114,
+            "name": "タタッコ 099/1",
             "date": "2022-12-23",
             "stock": 1
         },
@@ -66,14 +122,6 @@
         },
         {
             "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18505",
-            "price": 50,
-            "name": "タタッコ(CP){闘",
-            "date": "2022-12-22",
-            "stock": 19
-        },
-        {
-            "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/18792",
             "price": 100,
             "name": "タタッコ:ミラー(C",
@@ -81,6 +129,22 @@
             "stock": 27
         },
         {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18505",
+            "price": 50,
+            "name": "タタッコ(CP){闘",
+            "date": "2022-12-22",
+            "stock": 19
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17260",
+            "price": 80,
+            "name": "タタッコ099/19",
+            "date": "2022-12-22",
+            "stock": 37
+        },
+        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17082",
             "price": 30,
@@ -89,22 +153,6 @@
             "stock": 8
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17260",
-            "price": 80,
-            "name": "タタッコ099/19",
-            "date": "2022-12-22",
-            "stock": 37
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g099-190-S4A-BM/",
-            "price": 20,
-            "name": "【ポケカ】Ｃ）ミラー",
-            "date": "2022-12-22",
-            "stock": 11
-        },
-        {
             "market": "torecolo",
             "link": "/shop/g/g099-190-S4A-B/",
             "price": 2,
@@ -113,6 +161,14 @@
             "stock": 10
         },
         {
+            "market": "torecolo",
+            "link": "/shop/g/g099-190-S4A-BM/",
+            "price": 20,
+            "name": "【ポケカ】Ｃ）ミラー",
+            "date": "2022-12-22",
+            "stock": 11
+        },
+        {
             "market": "magi",
             "link": "/items/558826048",
             "price": 114,
@@ -122,19 +178,19 @@
         },
         {
             "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18792",
-            "price": 100,
-            "name": "タタッコ:ミラー(C",
-            "date": "2022-12-21",
-            "stock": 26
-        },
-        {
-            "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/18505",
             "price": 50,
             "name": "タタッコ(CP){闘",
             "date": "2022-12-21",
             "stock": 19
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18792",
+            "price": 100,
+            "name": "タタッコ:ミラー(C",
+            "date": "2022-12-21",
+            "stock": 26
         },
         {
             "market": "cardrush",
@@ -151,14 +207,6 @@
             "name": "タタッコ099/19",
             "date": "2022-12-21",
             "stock": 8
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g099-190-S4A-B/",
-            "price": 2,
-            "name": "【ポケカ】Ｃ）通常仕",
-            "date": "2022-12-21",
-            "stock": 10
         },
         {
             "market": "torecolo",
@@ -169,20 +217,12 @@
             "stock": 11
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18792",
-            "price": 100,
-            "name": "タタッコ:ミラー(C",
-            "date": "2022-12-20",
-            "stock": 26
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18505",
-            "price": 50,
-            "name": "タタッコ(CP){闘",
-            "date": "2022-12-20",
-            "stock": 19
+            "market": "torecolo",
+            "link": "/shop/g/g099-190-S4A-B/",
+            "price": 2,
+            "name": "【ポケカ】Ｃ）通常仕",
+            "date": "2022-12-21",
+            "stock": 10
         },
         {
             "market": "magi",
@@ -193,12 +233,20 @@
             "stock": 1
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17260",
-            "price": 80,
-            "name": "タタッコ099/19",
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18505",
+            "price": 50,
+            "name": "タタッコ(CP){闘",
             "date": "2022-12-20",
-            "stock": 37
+            "stock": 19
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18792",
+            "price": 100,
+            "name": "タタッコ:ミラー(C",
+            "date": "2022-12-20",
+            "stock": 26
         },
         {
             "market": "cardrush",
@@ -207,6 +255,22 @@
             "name": "タタッコ099/19",
             "date": "2022-12-20",
             "stock": 8
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17260",
+            "price": 80,
+            "name": "タタッコ099/19",
+            "date": "2022-12-20",
+            "stock": 37
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g099-190-S4A-B/",
+            "price": 2,
+            "name": "【ポケカ】Ｃ）通常仕",
+            "date": "2022-12-20",
+            "stock": 10
         },
         {
             "market": "torecolo",
@@ -217,28 +281,12 @@
             "stock": 11
         },
         {
-            "market": "torecolo",
-            "link": "/shop/g/g099-190-S4A-B/",
-            "price": 2,
-            "name": "【ポケカ】Ｃ）通常仕",
-            "date": "2022-12-20",
-            "stock": 10
-        },
-        {
             "market": "magi",
             "link": "/items/558826048",
             "price": 114,
             "name": "タタッコ 099/1",
             "date": "2022-12-19",
             "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18792",
-            "price": 100,
-            "name": "タタッコ:ミラー(C",
-            "date": "2022-12-19",
-            "stock": 26
         },
         {
             "market": "hareruya2",
@@ -249,12 +297,12 @@
             "stock": 19
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17082",
-            "price": 30,
-            "name": "タタッコ099/19",
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18792",
+            "price": 100,
+            "name": "タタッコ:ミラー(C",
             "date": "2022-12-19",
-            "stock": 8
+            "stock": 26
         },
         {
             "market": "cardrush",
@@ -263,6 +311,14 @@
             "name": "タタッコ099/19",
             "date": "2022-12-19",
             "stock": 37
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17082",
+            "price": 30,
+            "name": "タタッコ099/19",
+            "date": "2022-12-19",
+            "stock": 8
         },
         {
             "market": "torecolo",
@@ -346,19 +402,19 @@
         },
         {
             "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18505",
-            "price": 50,
-            "name": "タタッコ(CP){闘",
-            "date": "2022-12-17",
-            "stock": 19
-        },
-        {
-            "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/18792",
             "price": 100,
             "name": "タタッコ:ミラー(C",
             "date": "2022-12-17",
             "stock": 26
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18505",
+            "price": 50,
+            "name": "タタッコ(CP){闘",
+            "date": "2022-12-17",
+            "stock": 19
         },
         {
             "market": "cardrush",
@@ -390,62 +446,6 @@
             "price": 20,
             "name": "【ポケカ】Ｃ）ミラー",
             "date": "2022-12-17",
-            "stock": 11
-        },
-        {
-            "market": "magi",
-            "link": "/items/558826048",
-            "price": 114,
-            "name": "タタッコ 099/1",
-            "date": "2022-12-16",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18792",
-            "price": 100,
-            "name": "タタッコ:ミラー(C",
-            "date": "2022-12-16",
-            "stock": 26
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18505",
-            "price": 50,
-            "name": "タタッコ(CP){闘",
-            "date": "2022-12-16",
-            "stock": 19
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17260",
-            "price": 80,
-            "name": "タタッコ099/19",
-            "date": "2022-12-16",
-            "stock": 37
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17082",
-            "price": 30,
-            "name": "タタッコ099/19",
-            "date": "2022-12-16",
-            "stock": 8
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g099-190-S4A-B/",
-            "price": 2,
-            "name": "【ポケカ】Ｃ）通常仕",
-            "date": "2022-12-16",
-            "stock": 10
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g099-190-S4A-BM/",
-            "price": 20,
-            "name": "【ポケカ】Ｃ）ミラー",
-            "date": "2022-12-16",
             "stock": 11
         }
     ]

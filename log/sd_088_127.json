@@ -1,6 +1,22 @@
 ﻿{
     "items": [
         {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18188",
+            "price": 400,
+            "name": "クイックボール(D)",
+            "date": "2022-12-24",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30285",
+            "price": 300,
+            "name": "クイックボール088",
+            "date": "2022-12-24",
+            "stock": 2
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g088-127-SD-B/",
             "price": 330,
@@ -47,14 +63,6 @@
             "name": "クイックボール088",
             "date": "2022-12-17",
             "stock": 16
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30285",
-            "price": 300,
-            "name": "クイックボール088",
-            "date": "2022-12-16",
-            "stock": 9
         }
     ]
 }

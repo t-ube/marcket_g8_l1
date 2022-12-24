@@ -5,6 +5,22 @@
             "link": "/items/1437042624",
             "price": 200,
             "name": "ストーン闘エネルギー",
+            "date": "2022-12-24",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1506573140",
+            "price": 40,
+            "name": "PC ストーン闘エネ",
+            "date": "2022-12-24",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1437042624",
+            "price": 200,
+            "name": "ストーン闘エネルギー",
             "date": "2022-12-23",
             "stock": 1
         },
@@ -114,19 +130,19 @@
         },
         {
             "market": "magi",
-            "link": "/items/1506573140",
-            "price": 40,
-            "name": "PC ストーン闘エネ",
-            "date": "2022-12-18",
-            "stock": 4
-        },
-        {
-            "market": "magi",
             "link": "/items/1437042624",
             "price": 200,
             "name": "ストーン闘エネルギー",
             "date": "2022-12-18",
             "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1506573140",
+            "price": 40,
+            "name": "PC ストーン闘エネ",
+            "date": "2022-12-18",
+            "stock": 4
         },
         {
             "market": "hareruya2",
@@ -159,38 +175,6 @@
             "name": "ストーン闘エネルギー",
             "date": "2022-12-17",
             "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1506573140",
-            "price": 40,
-            "name": "PC ストーン闘エネ",
-            "date": "2022-12-16",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/1437042624",
-            "price": 200,
-            "name": "ストーン闘エネルギー",
-            "date": "2022-12-16",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18266",
-            "price": 50,
-            "name": "ストーン闘エネルギー",
-            "date": "2022-12-16",
-            "stock": 4
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14110",
-            "price": 80,
-            "name": "ストーン闘エネルギー",
-            "date": "2022-12-16",
-            "stock": 5
         }
     ]
 }

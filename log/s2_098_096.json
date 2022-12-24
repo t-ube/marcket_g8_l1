@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/17801",
             "price": 900,
             "name": "キュウコンV(SR)",
+            "date": "2022-12-24",
+            "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/29924",
+            "price": 680,
+            "name": "キュウコンV098/",
+            "date": "2022-12-24",
+            "stock": 11
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/7544",
+            "price": 780,
+            "name": "キュウコンV098/",
+            "date": "2022-12-24",
+            "stock": 5
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17801",
+            "price": 900,
+            "name": "キュウコンV(SR)",
             "date": "2022-12-23",
             "stock": 3
         },
@@ -58,19 +82,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/29924",
-            "price": 680,
-            "name": "キュウコンV098/",
-            "date": "2022-12-21",
-            "stock": 11
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/7544",
             "price": 780,
             "name": "キュウコンV098/",
             "date": "2022-12-21",
             "stock": 5
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/29924",
+            "price": 680,
+            "name": "キュウコンV098/",
+            "date": "2022-12-21",
+            "stock": 11
         },
         {
             "market": "hareruya2",
@@ -82,19 +106,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7544",
-            "price": 780,
-            "name": "キュウコンV098/",
-            "date": "2022-12-20",
-            "stock": 5
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/29924",
             "price": 680,
             "name": "キュウコンV098/",
             "date": "2022-12-20",
             "stock": 11
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/7544",
+            "price": 780,
+            "name": "キュウコンV098/",
+            "date": "2022-12-20",
+            "stock": 5
         },
         {
             "market": "hareruya2",
@@ -103,14 +127,6 @@
             "name": "キュウコンV(SR)",
             "date": "2022-12-19",
             "stock": 3
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/29924",
-            "price": 680,
-            "name": "キュウコンV098/",
-            "date": "2022-12-19",
-            "stock": 11
         },
         {
             "market": "cardrush",
@@ -121,12 +137,28 @@
             "stock": 6
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/29924",
+            "price": 680,
+            "name": "キュウコンV098/",
+            "date": "2022-12-19",
+            "stock": 11
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/17801",
             "price": 900,
             "name": "キュウコンV(SR)",
             "date": "2022-12-18",
             "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/29924",
+            "price": 680,
+            "name": "キュウコンV098/",
+            "date": "2022-12-18",
+            "stock": 11
         },
         {
             "market": "cardrush",
@@ -137,28 +169,12 @@
             "stock": 6
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/29924",
-            "price": 680,
-            "name": "キュウコンV098/",
-            "date": "2022-12-18",
-            "stock": 11
-        },
-        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/17801",
             "price": 900,
             "name": "キュウコンV(SR)",
             "date": "2022-12-17",
             "stock": 3
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/29924",
-            "price": 680,
-            "name": "キュウコンV098/",
-            "date": "2022-12-17",
-            "stock": 11
         },
         {
             "market": "cardrush",
@@ -169,28 +185,12 @@
             "stock": 5
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/17801",
-            "price": 900,
-            "name": "キュウコンV(SR)",
-            "date": "2022-12-16",
-            "stock": 3
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7544",
-            "price": 780,
-            "name": "キュウコンV098/",
-            "date": "2022-12-16",
-            "stock": 5
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/29924",
             "price": 680,
             "name": "キュウコンV098/",
-            "date": "2022-12-16",
-            "stock": 10
+            "date": "2022-12-17",
+            "stock": 11
         }
     ]
 }

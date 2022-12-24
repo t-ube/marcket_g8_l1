@@ -3,6 +3,78 @@
         {
             "market": "magi",
             "link": "/items/947622016",
+            "price": 238,
+            "name": "メッソン TD 00",
+            "date": "2022-12-24",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17096",
+            "price": 400,
+            "name": "メッソン:キラ(D)",
+            "date": "2022-12-24",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17137",
+            "price": 300,
+            "name": "メッソン(D){水}",
+            "date": "2022-12-24",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/29655",
+            "price": 150,
+            "name": "メッソン007/02",
+            "date": "2022-12-24",
+            "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/6831",
+            "price": 180,
+            "name": "メッソン007/02",
+            "date": "2022-12-24",
+            "stock": 20
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/6748",
+            "price": 280,
+            "name": "メッソン007/02",
+            "date": "2022-12-24",
+            "stock": 8
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/29533",
+            "price": 330,
+            "name": "メッソン007/02",
+            "date": "2022-12-24",
+            "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/29600",
+            "price": 250,
+            "name": "メッソン007/02",
+            "date": "2022-12-24",
+            "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/6672",
+            "price": 380,
+            "name": "メッソン007/02",
+            "date": "2022-12-24",
+            "stock": 8
+        },
+        {
+            "market": "magi",
+            "link": "/items/947622016",
             "price": 241,
             "name": "メッソン TD 00",
             "date": "2022-12-23",
@@ -146,14 +218,6 @@
         },
         {
             "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/17096",
-            "price": 400,
-            "name": "メッソン:キラ(D)",
-            "date": "2022-12-21",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/17137",
             "price": 300,
             "name": "メッソン(D){水}",
@@ -161,20 +225,12 @@
             "stock": 1
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/29600",
-            "price": 250,
-            "name": "メッソン007/02",
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17096",
+            "price": 400,
+            "name": "メッソン:キラ(D)",
             "date": "2022-12-21",
-            "stock": 4
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/6748",
-            "price": 280,
-            "name": "メッソン007/02",
-            "date": "2022-12-21",
-            "stock": 8
+            "stock": 1
         },
         {
             "market": "cardrush",
@@ -186,6 +242,14 @@
         },
         {
             "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/29533",
+            "price": 330,
+            "name": "メッソン007/02",
+            "date": "2022-12-21",
+            "stock": 3
+        },
+        {
+            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/6831",
             "price": 180,
             "name": "メッソン007/02",
@@ -194,11 +258,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/29533",
-            "price": 330,
+            "link": "https://www.cardrush-pokemon.jp/product/6748",
+            "price": 280,
             "name": "メッソン007/02",
             "date": "2022-12-21",
-            "stock": 3
+            "stock": 8
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/29600",
+            "price": 250,
+            "name": "メッソン007/02",
+            "date": "2022-12-21",
+            "stock": 4
         },
         {
             "market": "torecolo",
@@ -234,6 +306,14 @@
         },
         {
             "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/6672",
+            "price": 380,
+            "name": "メッソン007/02",
+            "date": "2022-12-20",
+            "stock": 8
+        },
+        {
+            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/6831",
             "price": 180,
             "name": "メッソン007/02",
@@ -263,14 +343,6 @@
             "name": "メッソン007/02",
             "date": "2022-12-20",
             "stock": 4
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/6672",
-            "price": 380,
-            "name": "メッソン007/02",
-            "date": "2022-12-20",
-            "stock": 8
         },
         {
             "market": "torecolo",
@@ -306,6 +378,14 @@
         },
         {
             "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/6831",
+            "price": 180,
+            "name": "メッソン007/02",
+            "date": "2022-12-19",
+            "stock": 20
+        },
+        {
+            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/6748",
             "price": 280,
             "name": "メッソン007/02",
@@ -335,14 +415,6 @@
             "name": "メッソン007/02",
             "date": "2022-12-19",
             "stock": 8
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/6831",
-            "price": 180,
-            "name": "メッソン007/02",
-            "date": "2022-12-19",
-            "stock": 20
         },
         {
             "market": "torecolo",
@@ -442,6 +514,30 @@
         },
         {
             "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/6831",
+            "price": 180,
+            "name": "メッソン007/02",
+            "date": "2022-12-17",
+            "stock": 21
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/29600",
+            "price": 250,
+            "name": "メッソン007/02",
+            "date": "2022-12-17",
+            "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/29533",
+            "price": 330,
+            "name": "メッソン007/02",
+            "date": "2022-12-17",
+            "stock": 3
+        },
+        {
+            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/6748",
             "price": 280,
             "name": "メッソン007/02",
@@ -457,99 +553,11 @@
             "stock": 8
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/29533",
-            "price": 330,
-            "name": "メッソン007/02",
-            "date": "2022-12-17",
-            "stock": 3
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/29600",
-            "price": 250,
-            "name": "メッソン007/02",
-            "date": "2022-12-17",
-            "stock": 4
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/6831",
-            "price": 180,
-            "name": "メッソン007/02",
-            "date": "2022-12-17",
-            "stock": 21
-        },
-        {
             "market": "torecolo",
             "link": "/shop/g/g007-023-SA-B/",
             "price": 110,
             "name": "【ポケカ】ＳＳ）通常",
             "date": "2022-12-17",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/947622016",
-            "price": 262,
-            "name": "メッソン TD 00",
-            "date": "2022-12-16",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/17096",
-            "price": 400,
-            "name": "メッソン:キラ(D)",
-            "date": "2022-12-16",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/6831",
-            "price": 180,
-            "name": "メッソン007/02",
-            "date": "2022-12-16",
-            "stock": 21
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/6672",
-            "price": 380,
-            "name": "メッソン007/02",
-            "date": "2022-12-16",
-            "stock": 8
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/29533",
-            "price": 330,
-            "name": "メッソン007/02",
-            "date": "2022-12-16",
-            "stock": 3
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/29600",
-            "price": 250,
-            "name": "メッソン007/02",
-            "date": "2022-12-16",
-            "stock": 4
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/6748",
-            "price": 280,
-            "name": "メッソン007/02",
-            "date": "2022-12-16",
-            "stock": 8
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g007-023-SA-B/",
-            "price": 110,
-            "name": "【ポケカ】ＳＳ）通常",
-            "date": "2022-12-16",
             "stock": 1
         }
     ]

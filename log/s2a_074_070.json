@@ -5,6 +5,22 @@
             "link": "/items/287430226",
             "price": 1500,
             "name": "サーナイトV SR ",
+            "date": "2022-12-24",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17933",
+            "price": 1800,
+            "name": "サーナイトV(SR)",
+            "date": "2022-12-24",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/287430226",
+            "price": 1500,
+            "name": "サーナイトV SR ",
             "date": "2022-12-23",
             "stock": 1
         },
@@ -54,14 +70,6 @@
             "price": 1500,
             "name": "サーナイトV SR ",
             "date": "2022-12-17",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/287430226",
-            "price": 1500,
-            "name": "サーナイトV SR ",
-            "date": "2022-12-16",
             "stock": 1
         }
     ]
