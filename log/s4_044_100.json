@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/18329",
             "price": 50,
             "name": "サマヨール(U){超",
+            "date": "2022-12-25",
+            "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14498",
+            "price": 30,
+            "name": "サマヨール044/1",
+            "date": "2022-12-25",
+            "stock": 24
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g044-100-S4-B/",
+            "price": 33,
+            "name": "【ポケカ】Ｕ◇サマヨ",
+            "date": "2022-12-25",
+            "stock": 13
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18329",
+            "price": 50,
+            "name": "サマヨール(U){超",
             "date": "2022-12-24",
             "stock": 3
         },
@@ -134,22 +158,6 @@
             "price": 33,
             "name": "【ポケカ】Ｕ◇サマヨ",
             "date": "2022-12-18",
-            "stock": 13
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14498",
-            "price": 30,
-            "name": "サマヨール044/1",
-            "date": "2022-12-17",
-            "stock": 24
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g044-100-S4-B/",
-            "price": 33,
-            "name": "【ポケカ】Ｕ◇サマヨ",
-            "date": "2022-12-17",
             "stock": 13
         }
     ]

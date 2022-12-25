@@ -5,6 +5,22 @@
             "link": "https://www.hareruya2.com/product/18278",
             "price": 700,
             "name": "セキタンザンVMAX",
+            "date": "2022-12-25",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14149",
+            "price": 680,
+            "name": "セキタンザンVMAX",
+            "date": "2022-12-25",
+            "stock": 10
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18278",
+            "price": 700,
+            "name": "セキタンザンVMAX",
             "date": "2022-12-24",
             "stock": 2
         },
@@ -110,22 +126,6 @@
             "price": 680,
             "name": "セキタンザンVMAX",
             "date": "2022-12-18",
-            "stock": 11
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18278",
-            "price": 700,
-            "name": "セキタンザンVMAX",
-            "date": "2022-12-17",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14149",
-            "price": 680,
-            "name": "セキタンザンVMAX",
-            "date": "2022-12-17",
             "stock": 11
         }
     ]

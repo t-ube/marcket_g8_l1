@@ -2,10 +2,18 @@
     "items": [
         {
             "market": "magi",
-            "link": "/items/1949376606",
-            "price": 150,
+            "link": "/items/202547372",
+            "price": 100,
             "name": "ストリンダーV RR",
-            "date": "2022-12-24",
+            "date": "2022-12-25",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/621885418",
+            "price": 100,
+            "name": "ストリンダーV RR",
+            "date": "2022-12-25",
             "stock": 1
         },
         {
@@ -13,13 +21,37 @@
             "link": "/items/581279881",
             "price": 120,
             "name": "ストリンダーV RR",
-            "date": "2022-12-24",
+            "date": "2022-12-25",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/621885418",
+            "link": "/items/1949376606",
+            "price": 150,
+            "name": "ストリンダーV RR",
+            "date": "2022-12-25",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18465",
             "price": 100,
+            "name": "ストリンダーV(RR",
+            "date": "2022-12-25",
+            "stock": 125
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17042",
+            "price": 80,
+            "name": "ストリンダーV059",
+            "date": "2022-12-25",
+            "stock": 293
+        },
+        {
+            "market": "magi",
+            "link": "/items/581279881",
+            "price": 120,
             "name": "ストリンダーV RR",
             "date": "2022-12-24",
             "stock": 1
@@ -33,6 +65,22 @@
             "stock": 1
         },
         {
+            "market": "magi",
+            "link": "/items/1949376606",
+            "price": 150,
+            "name": "ストリンダーV RR",
+            "date": "2022-12-24",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/621885418",
+            "price": 100,
+            "name": "ストリンダーV RR",
+            "date": "2022-12-24",
+            "stock": 1
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/18465",
             "price": 100,
@@ -50,14 +98,6 @@
         },
         {
             "market": "magi",
-            "link": "/items/1949376606",
-            "price": 150,
-            "name": "ストリンダーV RR",
-            "date": "2022-12-23",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/581279881",
             "price": 120,
             "name": "ストリンダーV RR",
@@ -68,6 +108,14 @@
             "market": "magi",
             "link": "/items/621885418",
             "price": 100,
+            "name": "ストリンダーV RR",
+            "date": "2022-12-23",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1949376606",
+            "price": 150,
             "name": "ストリンダーV RR",
             "date": "2022-12-23",
             "stock": 1
@@ -90,8 +138,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/1949376606",
-            "price": 150,
+            "link": "/items/621885418",
+            "price": 100,
             "name": "ストリンダーV RR",
             "date": "2022-12-22",
             "stock": 1
@@ -106,8 +154,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/621885418",
-            "price": 100,
+            "link": "/items/1949376606",
+            "price": 150,
             "name": "ストリンダーV RR",
             "date": "2022-12-22",
             "stock": 1
@@ -170,8 +218,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/1949376606",
-            "price": 150,
+            "link": "/items/581279881",
+            "price": 120,
             "name": "ストリンダーV RR",
             "date": "2022-12-20",
             "stock": 1
@@ -186,8 +234,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/581279881",
-            "price": 120,
+            "link": "/items/1949376606",
+            "price": 150,
             "name": "ストリンダーV RR",
             "date": "2022-12-20",
             "stock": 1
@@ -210,14 +258,6 @@
         },
         {
             "market": "magi",
-            "link": "/items/1949376606",
-            "price": 150,
-            "name": "ストリンダーV RR",
-            "date": "2022-12-19",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/621885418",
             "price": 100,
             "name": "ストリンダーV RR",
@@ -228,6 +268,14 @@
             "market": "magi",
             "link": "/items/581279881",
             "price": 120,
+            "name": "ストリンダーV RR",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1949376606",
+            "price": 150,
             "name": "ストリンダーV RR",
             "date": "2022-12-19",
             "stock": 1
@@ -250,8 +298,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/621885418",
-            "price": 100,
+            "link": "/items/1949376606",
+            "price": 150,
             "name": "ストリンダーV RR",
             "date": "2022-12-18",
             "stock": 1
@@ -266,8 +314,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/1949376606",
-            "price": 150,
+            "link": "/items/621885418",
+            "price": 100,
             "name": "ストリンダーV RR",
             "date": "2022-12-18",
             "stock": 1
@@ -286,46 +334,6 @@
             "price": 80,
             "name": "ストリンダーV059",
             "date": "2022-12-18",
-            "stock": 293
-        },
-        {
-            "market": "magi",
-            "link": "/items/1949376606",
-            "price": 150,
-            "name": "ストリンダーV RR",
-            "date": "2022-12-17",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/581279881",
-            "price": 120,
-            "name": "ストリンダーV RR",
-            "date": "2022-12-17",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/621885418",
-            "price": 100,
-            "name": "ストリンダーV RR",
-            "date": "2022-12-17",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18465",
-            "price": 100,
-            "name": "ストリンダーV(RR",
-            "date": "2022-12-17",
-            "stock": 117
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17042",
-            "price": 80,
-            "name": "ストリンダーV059",
-            "date": "2022-12-17",
             "stock": 293
         }
     ]

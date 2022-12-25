@@ -5,6 +5,22 @@
             "link": "https://www.hareruya2.com/product/17159",
             "price": 50,
             "name": "博士の研究 マグノリ",
+            "date": "2022-12-25",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/6777",
+            "price": 80,
+            "name": "博士の研究マグノリア",
+            "date": "2022-12-25",
+            "stock": 31
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17159",
+            "price": 50,
+            "name": "博士の研究 マグノリ",
             "date": "2022-12-24",
             "stock": 2
         },
@@ -42,19 +58,19 @@
         },
         {
             "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/17159",
-            "price": 50,
-            "name": "博士の研究 マグノリ",
-            "date": "2022-12-22",
-            "stock": 2
-        },
-        {
-            "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/17210",
             "price": 50,
             "name": "博士の研究 マグノリ",
             "date": "2022-12-22",
             "stock": 3
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17159",
+            "price": 50,
+            "name": "博士の研究 マグノリ",
+            "date": "2022-12-22",
+            "stock": 2
         },
         {
             "market": "cardrush",
@@ -66,19 +82,19 @@
         },
         {
             "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/17159",
-            "price": 50,
-            "name": "博士の研究 マグノリ",
-            "date": "2022-12-21",
-            "stock": 2
-        },
-        {
-            "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/17210",
             "price": 50,
             "name": "博士の研究 マグノリ",
             "date": "2022-12-21",
             "stock": 3
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17159",
+            "price": 50,
+            "name": "博士の研究 マグノリ",
+            "date": "2022-12-21",
+            "stock": 2
         },
         {
             "market": "cardrush",
@@ -114,19 +130,19 @@
         },
         {
             "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/17210",
-            "price": 50,
-            "name": "博士の研究 マグノリ",
-            "date": "2022-12-19",
-            "stock": 3
-        },
-        {
-            "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/17159",
             "price": 50,
             "name": "博士の研究 マグノリ",
             "date": "2022-12-19",
             "stock": 2
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17210",
+            "price": 50,
+            "name": "博士の研究 マグノリ",
+            "date": "2022-12-19",
+            "stock": 3
         },
         {
             "market": "cardrush",
@@ -138,14 +154,6 @@
         },
         {
             "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/17210",
-            "price": 50,
-            "name": "博士の研究 マグノリ",
-            "date": "2022-12-18",
-            "stock": 3
-        },
-        {
-            "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/17159",
             "price": 50,
             "name": "博士の研究 マグノリ",
@@ -153,35 +161,19 @@
             "stock": 2
         },
         {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17210",
+            "price": 50,
+            "name": "博士の研究 マグノリ",
+            "date": "2022-12-18",
+            "stock": 3
+        },
+        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/6777",
             "price": 80,
             "name": "博士の研究マグノリア",
             "date": "2022-12-18",
-            "stock": 31
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/17210",
-            "price": 50,
-            "name": "博士の研究 マグノリ",
-            "date": "2022-12-17",
-            "stock": 3
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/17159",
-            "price": 50,
-            "name": "博士の研究 マグノリ",
-            "date": "2022-12-17",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/6777",
-            "price": 80,
-            "name": "博士の研究マグノリア",
-            "date": "2022-12-17",
             "stock": 31
         }
     ]

@@ -1,6 +1,14 @@
 ﻿{
     "items": [
         {
+            "market": "torecolo",
+            "link": "/shop/g/g003-024-SB-B/",
+            "price": 440,
+            "name": "【ポケカ】ＳＳ◇クイ",
+            "date": "2022-12-25",
+            "stock": 2
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/17589",
             "price": 400,
@@ -95,14 +103,6 @@
             "name": "【ポケカ】ＳＳ◇クイ",
             "date": "2022-12-18",
             "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/29730",
-            "price": 300,
-            "name": "クイックボール003",
-            "date": "2022-12-17",
-            "stock": 1
         }
     ]
 }

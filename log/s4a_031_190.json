@@ -5,6 +5,38 @@
             "link": "/items/2001660707",
             "price": 110,
             "name": "ラプラスV RR 0",
+            "date": "2022-12-25",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18437",
+            "price": 100,
+            "name": "ラプラスV(RR){",
+            "date": "2022-12-25",
+            "stock": 103
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30542",
+            "price": 70,
+            "name": "ラプラスV031/1",
+            "date": "2022-12-25",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17014",
+            "price": 80,
+            "name": "ラプラスV031/1",
+            "date": "2022-12-25",
+            "stock": 508
+        },
+        {
+            "market": "magi",
+            "link": "/items/2001660707",
+            "price": 110,
+            "name": "ラプラスV RR 0",
             "date": "2022-12-24",
             "stock": 1
         },
@@ -15,6 +47,14 @@
             "name": "ラプラスV(RR){",
             "date": "2022-12-24",
             "stock": 103
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17014",
+            "price": 80,
+            "name": "ラプラスV031/1",
+            "date": "2022-12-24",
+            "stock": 509
         },
         {
             "market": "cardrush",
@@ -25,14 +65,6 @@
             "stock": 1
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17014",
-            "price": 80,
-            "name": "ラプラスV031/1",
-            "date": "2022-12-24",
-            "stock": 509
-        },
-        {
             "market": "magi",
             "link": "/items/1571962118",
             "price": 110,
@@ -174,30 +206,6 @@
             "price": 80,
             "name": "ラプラスV031/1",
             "date": "2022-12-18",
-            "stock": 509
-        },
-        {
-            "market": "magi",
-            "link": "/items/1571962118",
-            "price": 110,
-            "name": "ラプラスV RR 0",
-            "date": "2022-12-17",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18437",
-            "price": 100,
-            "name": "ラプラスV(RR){",
-            "date": "2022-12-17",
-            "stock": 95
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17014",
-            "price": 80,
-            "name": "ラプラスV031/1",
-            "date": "2022-12-17",
             "stock": 509
         }
     ]
