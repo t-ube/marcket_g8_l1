@@ -5,6 +5,14 @@
             "link": "https://www.cardrush-pokemon.jp/product/30173",
             "price": 830,
             "name": "ハッサムVMAX11",
+            "date": "2022-12-26",
+            "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30173",
+            "price": 830,
+            "name": "ハッサムVMAX11",
             "date": "2022-12-25",
             "stock": 3
         },
@@ -50,14 +58,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30173",
-            "price": 830,
-            "name": "ハッサムVMAX11",
-            "date": "2022-12-19",
-            "stock": 3
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/13925",
             "price": 980,
             "name": "ハッサムVMAX11",
@@ -69,16 +69,8 @@
             "link": "https://www.cardrush-pokemon.jp/product/30173",
             "price": 830,
             "name": "ハッサムVMAX11",
-            "date": "2022-12-18",
+            "date": "2022-12-19",
             "stock": 3
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/13925",
-            "price": 980,
-            "name": "ハッサムVMAX11",
-            "date": "2022-12-18",
-            "stock": 1
         }
     ]
 }

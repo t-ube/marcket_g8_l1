@@ -5,6 +5,14 @@
             "link": "https://www.cardrush-pokemon.jp/product/6979",
             "price": 120,
             "name": "マリィ059/060",
+            "date": "2022-12-26",
+            "stock": 41
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/6979",
+            "price": 120,
+            "name": "マリィ059/060",
             "date": "2022-12-25",
             "stock": 41
         },
@@ -42,14 +50,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/6979",
-            "price": 120,
-            "name": "マリィ059/060",
-            "date": "2022-12-20",
-            "stock": 41
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/29725",
             "price": 110,
             "name": "マリィ059/060",
@@ -61,7 +61,7 @@
             "link": "https://www.cardrush-pokemon.jp/product/6979",
             "price": 120,
             "name": "マリィ059/060",
-            "date": "2022-12-19",
+            "date": "2022-12-20",
             "stock": 41
         },
         {
@@ -73,27 +73,11 @@
             "stock": 3
         },
         {
-            "market": "magi",
-            "link": "/items/248154713",
-            "price": 500,
-            "name": "マリィ R 059/",
-            "date": "2022-12-18",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/29725",
-            "price": 110,
-            "name": "マリィ059/060",
-            "date": "2022-12-18",
-            "stock": 6
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/6979",
             "price": 120,
             "name": "マリィ059/060",
-            "date": "2022-12-18",
+            "date": "2022-12-19",
             "stock": 41
         }
     ]

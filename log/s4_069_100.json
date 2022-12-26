@@ -5,6 +5,22 @@
             "link": "https://www.hareruya2.com/product/18354",
             "price": 100,
             "name": "ドラピオンV(RR)",
+            "date": "2022-12-26",
+            "stock": 84
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14523",
+            "price": 80,
+            "name": "ドラピオンV069/",
+            "date": "2022-12-26",
+            "stock": 174
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18354",
+            "price": 100,
+            "name": "ドラピオンV(RR)",
             "date": "2022-12-25",
             "stock": 84
         },
@@ -110,22 +126,6 @@
             "price": 80,
             "name": "ドラピオンV069/",
             "date": "2022-12-19",
-            "stock": 174
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18354",
-            "price": 100,
-            "name": "ドラピオンV(RR)",
-            "date": "2022-12-18",
-            "stock": 85
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14523",
-            "price": 80,
-            "name": "ドラピオンV069/",
-            "date": "2022-12-18",
             "stock": 174
         }
     ]

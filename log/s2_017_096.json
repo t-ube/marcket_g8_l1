@@ -3,10 +3,66 @@
         {
             "market": "magi",
             "link": "/items/1494067422",
-            "price": 132,
+            "price": 130,
             "name": "【特価】ランプラー ",
-            "date": "2022-12-25",
+            "date": "2022-12-26",
             "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/551777581",
+            "price": 170,
+            "name": "ランプラー(C){炎",
+            "date": "2022-12-26",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1901789771",
+            "price": 670,
+            "name": "ランプラー(C){炎",
+            "date": "2022-12-26",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1657252097",
+            "price": 1204,
+            "name": "ランプラー C 01",
+            "date": "2022-12-26",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17720",
+            "price": 300,
+            "name": "ランプラー(C){炎",
+            "date": "2022-12-26",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/7452",
+            "price": 120,
+            "name": "ランプラー017/0",
+            "date": "2022-12-26",
+            "stock": 46
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/29883",
+            "price": 110,
+            "name": "ランプラー017/0",
+            "date": "2022-12-26",
+            "stock": 70
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g017-096-S2-B/",
+            "price": 88,
+            "name": "【ポケカ】Ｃ◇ランプ",
+            "date": "2022-12-26",
+            "stock": 17
         },
         {
             "market": "magi",
@@ -18,9 +74,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/1901789771",
-            "price": 670,
-            "name": "ランプラー(C){炎",
+            "link": "/items/1494067422",
+            "price": 132,
+            "name": "【特価】ランプラー ",
             "date": "2022-12-25",
             "stock": 1
         },
@@ -29,6 +85,14 @@
             "link": "/items/1657252097",
             "price": 1204,
             "name": "ランプラー C 01",
+            "date": "2022-12-25",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1901789771",
+            "price": 670,
+            "name": "ランプラー(C){炎",
             "date": "2022-12-25",
             "stock": 1
         },
@@ -66,17 +130,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/551777581",
-            "price": 170,
+            "link": "/items/1901789771",
+            "price": 670,
             "name": "ランプラー(C){炎",
-            "date": "2022-12-24",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1494067422",
-            "price": 132,
-            "name": "【特価】ランプラー ",
             "date": "2022-12-24",
             "stock": 1
         },
@@ -90,8 +146,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/1901789771",
-            "price": 670,
+            "link": "/items/1494067422",
+            "price": 132,
+            "name": "【特価】ランプラー ",
+            "date": "2022-12-24",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/551777581",
+            "price": 170,
             "name": "ランプラー(C){炎",
             "date": "2022-12-24",
             "stock": 1
@@ -103,14 +167,6 @@
             "name": "ランプラー(C){炎",
             "date": "2022-12-24",
             "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7452",
-            "price": 120,
-            "name": "ランプラー017/0",
-            "date": "2022-12-24",
-            "stock": 46
         },
         {
             "market": "cardrush",
@@ -121,6 +177,14 @@
             "stock": 71
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/7452",
+            "price": 120,
+            "name": "ランプラー017/0",
+            "date": "2022-12-24",
+            "stock": 46
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g017-096-S2-B/",
             "price": 88,
@@ -130,17 +194,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/1901789771",
-            "price": 670,
+            "link": "/items/551777581",
+            "price": 170,
             "name": "ランプラー(C){炎",
-            "date": "2022-12-23",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1657252097",
-            "price": 1204,
-            "name": "ランプラー C 01",
             "date": "2022-12-23",
             "stock": 1
         },
@@ -154,8 +210,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/551777581",
-            "price": 170,
+            "link": "/items/1657252097",
+            "price": 1204,
+            "name": "ランプラー C 01",
+            "date": "2022-12-23",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1901789771",
+            "price": 670,
             "name": "ランプラー(C){炎",
             "date": "2022-12-23",
             "stock": 1
@@ -202,9 +266,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/1494067422",
-            "price": 132,
-            "name": "【特価】ランプラー ",
+            "link": "/items/1901789771",
+            "price": 670,
+            "name": "ランプラー(C){炎",
             "date": "2022-12-22",
             "stock": 1
         },
@@ -218,9 +282,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/1901789771",
-            "price": 670,
-            "name": "ランプラー(C){炎",
+            "link": "/items/1494067422",
+            "price": 132,
+            "name": "【特価】ランプラー ",
             "date": "2022-12-22",
             "stock": 1
         },
@@ -231,14 +295,6 @@
             "name": "ランプラー(C){炎",
             "date": "2022-12-22",
             "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/29883",
-            "price": 110,
-            "name": "ランプラー017/0",
-            "date": "2022-12-22",
-            "stock": 64
         },
         {
             "market": "cardrush",
@@ -249,6 +305,14 @@
             "stock": 46
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/29883",
+            "price": 110,
+            "name": "ランプラー017/0",
+            "date": "2022-12-22",
+            "stock": 64
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g017-096-S2-B/",
             "price": 88,
@@ -258,17 +322,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/1901789771",
-            "price": 670,
-            "name": "ランプラー(C){炎",
-            "date": "2022-12-21",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/551777581",
-            "price": 170,
-            "name": "ランプラー(C){炎",
+            "link": "/items/1494067422",
+            "price": 132,
+            "name": "【特価】ランプラー ",
             "date": "2022-12-21",
             "stock": 1
         },
@@ -282,9 +338,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/1494067422",
-            "price": 132,
-            "name": "【特価】ランプラー ",
+            "link": "/items/551777581",
+            "price": 170,
+            "name": "ランプラー(C){炎",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1901789771",
+            "price": 670,
+            "name": "ランプラー(C){炎",
             "date": "2022-12-21",
             "stock": 1
         },
@@ -298,19 +362,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7452",
-            "price": 120,
-            "name": "ランプラー017/0",
-            "date": "2022-12-21",
-            "stock": 43
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/29883",
             "price": 110,
             "name": "ランプラー017/0",
             "date": "2022-12-21",
             "stock": 64
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/7452",
+            "price": 120,
+            "name": "ランプラー017/0",
+            "date": "2022-12-21",
+            "stock": 43
         },
         {
             "market": "torecolo",
@@ -386,17 +450,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/1657252097",
-            "price": 1204,
-            "name": "ランプラー C 01",
-            "date": "2022-12-19",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1494067422",
-            "price": 132,
-            "name": "【特価】ランプラー ",
+            "link": "/items/551777581",
+            "price": 170,
+            "name": "ランプラー(C){炎",
             "date": "2022-12-19",
             "stock": 1
         },
@@ -410,9 +466,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/551777581",
-            "price": 170,
-            "name": "ランプラー(C){炎",
+            "link": "/items/1657252097",
+            "price": 1204,
+            "name": "ランプラー C 01",
+            "date": "2022-12-19",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1494067422",
+            "price": 132,
+            "name": "【特価】ランプラー ",
             "date": "2022-12-19",
             "stock": 1
         },
@@ -446,70 +510,6 @@
             "price": 88,
             "name": "【ポケカ】Ｃ◇ランプ",
             "date": "2022-12-19",
-            "stock": 17
-        },
-        {
-            "market": "magi",
-            "link": "/items/1901789771",
-            "price": 670,
-            "name": "ランプラー(C){炎",
-            "date": "2022-12-18",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1657252097",
-            "price": 1204,
-            "name": "ランプラー C 01",
-            "date": "2022-12-18",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1494067422",
-            "price": 132,
-            "name": "【特価】ランプラー ",
-            "date": "2022-12-18",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/551777581",
-            "price": 170,
-            "name": "ランプラー(C){炎",
-            "date": "2022-12-18",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/17720",
-            "price": 300,
-            "name": "ランプラー(C){炎",
-            "date": "2022-12-18",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7452",
-            "price": 120,
-            "name": "ランプラー017/0",
-            "date": "2022-12-18",
-            "stock": 43
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/29883",
-            "price": 110,
-            "name": "ランプラー017/0",
-            "date": "2022-12-18",
-            "stock": 64
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g017-096-S2-B/",
-            "price": 88,
-            "name": "【ポケカ】Ｃ◇ランプ",
-            "date": "2022-12-18",
             "stock": 17
         }
     ]
