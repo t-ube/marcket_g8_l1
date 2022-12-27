@@ -5,6 +5,22 @@
             "link": "https://www.hareruya2.com/product/18010",
             "price": 100,
             "name": "ムゲンダイナVMAX",
+            "date": "2022-12-27",
+            "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/13304",
+            "price": 80,
+            "name": "ムゲンダイナVMAX",
+            "date": "2022-12-27",
+            "stock": 2
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18010",
+            "price": 100,
+            "name": "ムゲンダイナVMAX",
             "date": "2022-12-26",
             "stock": 3
         },
@@ -94,14 +110,6 @@
             "price": 100,
             "name": "ムゲンダイナVMAX",
             "date": "2022-12-20",
-            "stock": 4
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18010",
-            "price": 100,
-            "name": "ムゲンダイナVMAX",
-            "date": "2022-12-19",
             "stock": 4
         }
     ]

@@ -2,11 +2,27 @@
     "items": [
         {
             "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/6682",
+            "price": 80,
+            "name": "ロコン001/023",
+            "date": "2022-12-27",
+            "stock": 7
+        },
+        {
+            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/6723",
             "price": 80,
             "name": "ロコン001/023",
-            "date": "2022-12-26",
+            "date": "2022-12-27",
             "stock": 15
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g001-023-SA-R/",
+            "price": 55,
+            "name": "【ポケカ】ＳＳ）通常",
+            "date": "2022-12-27",
+            "stock": 5
         },
         {
             "market": "cardrush",
@@ -15,6 +31,14 @@
             "name": "ロコン001/023",
             "date": "2022-12-26",
             "stock": 7
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/6723",
+            "price": 80,
+            "name": "ロコン001/023",
+            "date": "2022-12-26",
+            "stock": 15
         },
         {
             "market": "torecolo",
@@ -146,14 +170,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/6723",
-            "price": 80,
-            "name": "ロコン001/023",
-            "date": "2022-12-20",
-            "stock": 16
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/6682",
             "price": 80,
             "name": "ロコン001/023",
@@ -161,35 +177,11 @@
             "stock": 13
         },
         {
-            "market": "torecolo",
-            "link": "/shop/g/g001-023-SA-R/",
-            "price": 55,
-            "name": "【ポケカ】ＳＳ）通常",
-            "date": "2022-12-20",
-            "stock": 5
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/6682",
-            "price": 80,
-            "name": "ロコン001/023",
-            "date": "2022-12-19",
-            "stock": 13
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/29543",
-            "price": 70,
-            "name": "ロコン001/023",
-            "date": "2022-12-19",
-            "stock": 1
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/6723",
             "price": 80,
             "name": "ロコン001/023",
-            "date": "2022-12-19",
+            "date": "2022-12-20",
             "stock": 16
         },
         {
@@ -197,7 +189,7 @@
             "link": "/shop/g/g001-023-SA-R/",
             "price": 55,
             "name": "【ポケカ】ＳＳ）通常",
-            "date": "2022-12-19",
+            "date": "2022-12-20",
             "stock": 5
         }
     ]

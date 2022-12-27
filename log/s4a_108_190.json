@@ -2,16 +2,56 @@
     "items": [
         {
             "market": "magi",
-            "link": "/items/935245354",
-            "price": 300,
+            "link": "/items/1260895300",
+            "price": 155,
             "name": "クロバットV RR ",
-            "date": "2022-12-26",
+            "date": "2022-12-27",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/621413018",
+            "price": 333,
+            "name": "クロバットV RR ",
+            "date": "2022-12-27",
             "stock": 1
         },
         {
             "market": "magi",
             "link": "/items/7328744",
             "price": 150,
+            "name": "クロバットV RR ",
+            "date": "2022-12-27",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/935245354",
+            "price": 300,
+            "name": "クロバットV RR ",
+            "date": "2022-12-27",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18514",
+            "price": 100,
+            "name": "クロバットV(RR)",
+            "date": "2022-12-27",
+            "stock": 90
+        },
+        {
+            "market": "magi",
+            "link": "/items/7328744",
+            "price": 150,
+            "name": "クロバットV RR ",
+            "date": "2022-12-26",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/935245354",
+            "price": 300,
             "name": "クロバットV RR ",
             "date": "2022-12-26",
             "stock": 1
@@ -98,6 +138,14 @@
         },
         {
             "market": "magi",
+            "link": "/items/621413018",
+            "price": 333,
+            "name": "クロバットV RR ",
+            "date": "2022-12-23",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/935245354",
             "price": 300,
             "name": "クロバットV RR ",
@@ -108,14 +156,6 @@
             "market": "magi",
             "link": "/items/7328744",
             "price": 150,
-            "name": "クロバットV RR ",
-            "date": "2022-12-23",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/621413018",
-            "price": 333,
             "name": "クロバットV RR ",
             "date": "2022-12-23",
             "stock": 1
@@ -138,16 +178,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/935245354",
-            "price": 300,
+            "link": "/items/7328744",
+            "price": 150,
             "name": "クロバットV RR ",
             "date": "2022-12-22",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/7328744",
-            "price": 150,
+            "link": "/items/935245354",
+            "price": 300,
             "name": "クロバットV RR ",
             "date": "2022-12-22",
             "stock": 1
@@ -162,14 +202,6 @@
         },
         {
             "market": "magi",
-            "link": "/items/7328744",
-            "price": 150,
-            "name": "クロバットV RR ",
-            "date": "2022-12-21",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/621413018",
             "price": 333,
             "name": "クロバットV RR ",
@@ -180,6 +212,14 @@
             "market": "magi",
             "link": "/items/935245354",
             "price": 300,
+            "name": "クロバットV RR ",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/7328744",
+            "price": 150,
             "name": "クロバットV RR ",
             "date": "2022-12-21",
             "stock": 1
@@ -194,8 +234,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/935245354",
-            "price": 300,
+            "link": "/items/621413018",
+            "price": 333,
             "name": "クロバットV RR ",
             "date": "2022-12-20",
             "stock": 1
@@ -210,42 +250,10 @@
         },
         {
             "market": "magi",
-            "link": "/items/621413018",
-            "price": 333,
-            "name": "クロバットV RR ",
-            "date": "2022-12-20",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18514",
-            "price": 100,
-            "name": "クロバットV(RR)",
-            "date": "2022-12-20",
-            "stock": 95
-        },
-        {
-            "market": "magi",
-            "link": "/items/621413018",
-            "price": 333,
-            "name": "クロバットV RR ",
-            "date": "2022-12-19",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/7328744",
-            "price": 150,
-            "name": "クロバットV RR ",
-            "date": "2022-12-19",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/935245354",
             "price": 300,
             "name": "クロバットV RR ",
-            "date": "2022-12-19",
+            "date": "2022-12-20",
             "stock": 1
         },
         {
@@ -253,7 +261,7 @@
             "link": "https://www.hareruya2.com/product/18514",
             "price": 100,
             "name": "クロバットV(RR)",
-            "date": "2022-12-19",
+            "date": "2022-12-20",
             "stock": 95
         }
     ]
