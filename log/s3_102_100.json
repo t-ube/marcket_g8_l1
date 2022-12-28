@@ -1,6 +1,22 @@
 ﻿{
     "items": [
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30164",
+            "price": 580,
+            "name": "カジリガメV102/",
+            "date": "2022-12-28",
+            "stock": 13
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/13916",
+            "price": 680,
+            "name": "カジリガメV102/",
+            "date": "2022-12-28",
+            "stock": 38
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/18047",
             "price": 800,
@@ -58,19 +74,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30164",
-            "price": 580,
-            "name": "カジリガメV102/",
-            "date": "2022-12-25",
-            "stock": 12
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/13916",
             "price": 680,
             "name": "カジリガメV102/",
             "date": "2022-12-25",
             "stock": 37
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30164",
+            "price": 580,
+            "name": "カジリガメV102/",
+            "date": "2022-12-25",
+            "stock": 12
         },
         {
             "market": "hareruya2",
@@ -82,19 +98,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/13916",
-            "price": 680,
-            "name": "カジリガメV102/",
-            "date": "2022-12-24",
-            "stock": 37
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30164",
             "price": 580,
             "name": "カジリガメV102/",
             "date": "2022-12-24",
             "stock": 12
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/13916",
+            "price": 680,
+            "name": "カジリガメV102/",
+            "date": "2022-12-24",
+            "stock": 37
         },
         {
             "market": "hareruya2",
@@ -106,19 +122,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30164",
-            "price": 580,
-            "name": "カジリガメV102/",
-            "date": "2022-12-23",
-            "stock": 12
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/13916",
             "price": 680,
             "name": "カジリガメV102/",
             "date": "2022-12-23",
             "stock": 37
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30164",
+            "price": 580,
+            "name": "カジリガメV102/",
+            "date": "2022-12-23",
+            "stock": 12
         },
         {
             "market": "hareruya2",
@@ -127,14 +143,6 @@
             "name": "カジリガメV(SR)",
             "date": "2022-12-22",
             "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/13916",
-            "price": 680,
-            "name": "カジリガメV102/",
-            "date": "2022-12-22",
-            "stock": 37
         },
         {
             "market": "cardrush",
@@ -145,20 +153,20 @@
             "stock": 11
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/13916",
+            "price": 680,
+            "name": "カジリガメV102/",
+            "date": "2022-12-22",
+            "stock": 37
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/18047",
             "price": 800,
             "name": "カジリガメV(SR)",
             "date": "2022-12-21",
             "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30164",
-            "price": 580,
-            "name": "カジリガメV102/",
-            "date": "2022-12-21",
-            "stock": 11
         },
         {
             "market": "cardrush",
@@ -169,27 +177,11 @@
             "stock": 37
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18047",
-            "price": 800,
-            "name": "カジリガメV(SR)",
-            "date": "2022-12-20",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/13916",
-            "price": 680,
-            "name": "カジリガメV102/",
-            "date": "2022-12-20",
-            "stock": 37
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30164",
             "price": 580,
             "name": "カジリガメV102/",
-            "date": "2022-12-20",
+            "date": "2022-12-21",
             "stock": 11
         }
     ]

@@ -5,13 +5,61 @@
             "link": "/items/2015389367",
             "price": 400,
             "name": "ジメレオン U 01",
-            "date": "2022-12-27",
+            "date": "2022-12-28",
             "stock": 1
         },
         {
             "market": "magi",
             "link": "/items/567084065",
             "price": 2404,
+            "name": "ジメレオン U 01",
+            "date": "2022-12-28",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17445",
+            "price": 200,
+            "name": "ジメレオン(U){水",
+            "date": "2022-12-28",
+            "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/6878",
+            "price": 80,
+            "name": "ジメレオン018/0",
+            "date": "2022-12-28",
+            "stock": 27
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/29672",
+            "price": 70,
+            "name": "ジメレオン018/0",
+            "date": "2022-12-28",
+            "stock": 30
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g018-060-S1W-B/",
+            "price": 110,
+            "name": "【ポケカ】Ｕ◇ジメレ",
+            "date": "2022-12-28",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/567084065",
+            "price": 2404,
+            "name": "ジメレオン U 01",
+            "date": "2022-12-27",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2015389367",
+            "price": 400,
             "name": "ジメレオン U 01",
             "date": "2022-12-27",
             "stock": 1
@@ -50,16 +98,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/567084065",
-            "price": 2404,
+            "link": "/items/2015389367",
+            "price": 400,
             "name": "ジメレオン U 01",
             "date": "2022-12-26",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/2015389367",
-            "price": 400,
+            "link": "/items/567084065",
+            "price": 2404,
             "name": "ジメレオン U 01",
             "date": "2022-12-26",
             "stock": 1
@@ -74,19 +122,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/6878",
-            "price": 80,
-            "name": "ジメレオン018/0",
-            "date": "2022-12-26",
-            "stock": 39
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/29672",
             "price": 70,
             "name": "ジメレオン018/0",
             "date": "2022-12-26",
             "stock": 30
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/6878",
+            "price": 80,
+            "name": "ジメレオン018/0",
+            "date": "2022-12-26",
+            "stock": 39
         },
         {
             "market": "torecolo",
@@ -98,16 +146,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/567084065",
-            "price": 2404,
+            "link": "/items/2015389367",
+            "price": 400,
             "name": "ジメレオン U 01",
             "date": "2022-12-25",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/2015389367",
-            "price": 400,
+            "link": "/items/567084065",
+            "price": 2404,
             "name": "ジメレオン U 01",
             "date": "2022-12-25",
             "stock": 1
@@ -122,19 +170,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/29672",
-            "price": 70,
-            "name": "ジメレオン018/0",
-            "date": "2022-12-25",
-            "stock": 30
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/6878",
             "price": 80,
             "name": "ジメレオン018/0",
             "date": "2022-12-25",
             "stock": 39
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/29672",
+            "price": 70,
+            "name": "ジメレオン018/0",
+            "date": "2022-12-25",
+            "stock": 30
         },
         {
             "market": "torecolo",
@@ -170,14 +218,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/6878",
-            "price": 80,
-            "name": "ジメレオン018/0",
-            "date": "2022-12-24",
-            "stock": 39
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/29672",
             "price": 70,
             "name": "ジメレオン018/0",
@@ -185,27 +225,19 @@
             "stock": 30
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/6878",
+            "price": 80,
+            "name": "ジメレオン018/0",
+            "date": "2022-12-24",
+            "stock": 39
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g018-060-S1W-B/",
             "price": 110,
             "name": "【ポケカ】Ｕ◇ジメレ",
             "date": "2022-12-24",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/567084065",
-            "price": 2404,
-            "name": "ジメレオン U 01",
-            "date": "2022-12-23",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2015389367",
-            "price": 400,
-            "name": "ジメレオン U 01",
-            "date": "2022-12-23",
             "stock": 1
         },
         {
@@ -217,12 +249,36 @@
             "stock": 1
         },
         {
+            "market": "magi",
+            "link": "/items/2015389367",
+            "price": 400,
+            "name": "ジメレオン U 01",
+            "date": "2022-12-23",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/567084065",
+            "price": 2404,
+            "name": "ジメレオン U 01",
+            "date": "2022-12-23",
+            "stock": 1
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/17445",
             "price": 200,
             "name": "ジメレオン(U){水",
             "date": "2022-12-23",
             "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/6878",
+            "price": 80,
+            "name": "ジメレオン018/0",
+            "date": "2022-12-23",
+            "stock": 39
         },
         {
             "market": "cardrush",
@@ -233,14 +289,6 @@
             "stock": 11
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/6878",
-            "price": 80,
-            "name": "ジメレオン018/0",
-            "date": "2022-12-23",
-            "stock": 39
-        },
-        {
             "market": "torecolo",
             "link": "/shop/g/g018-060-S1W-B/",
             "price": 110,
@@ -250,16 +298,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/2015389367",
-            "price": 400,
+            "link": "/items/1367073339",
+            "price": 150,
             "name": "ジメレオン U 01",
             "date": "2022-12-22",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1367073339",
-            "price": 150,
+            "link": "/items/2015389367",
+            "price": 400,
             "name": "ジメレオン U 01",
             "date": "2022-12-22",
             "stock": 1
@@ -279,14 +327,6 @@
             "name": "ジメレオン(U){水",
             "date": "2022-12-22",
             "stock": 4
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/6878",
-            "price": 80,
-            "name": "ジメレオン018/0",
-            "date": "2022-12-22",
-            "stock": 39
         },
         {
             "market": "cardrush",
@@ -297,19 +337,19 @@
             "stock": 11
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/6878",
+            "price": 80,
+            "name": "ジメレオン018/0",
+            "date": "2022-12-22",
+            "stock": 39
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g018-060-S1W-B/",
             "price": 110,
             "name": "【ポケカ】Ｕ◇ジメレ",
             "date": "2022-12-22",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1367073339",
-            "price": 150,
-            "name": "ジメレオン U 01",
-            "date": "2022-12-21",
             "stock": 1
         },
         {
@@ -324,6 +364,14 @@
             "market": "magi",
             "link": "/items/2015389367",
             "price": 400,
+            "name": "ジメレオン U 01",
+            "date": "2022-12-21",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1367073339",
+            "price": 150,
             "name": "ジメレオン U 01",
             "date": "2022-12-21",
             "stock": 1
@@ -350,46 +398,6 @@
             "price": 110,
             "name": "【ポケカ】Ｕ◇ジメレ",
             "date": "2022-12-21",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/567084065",
-            "price": 2404,
-            "name": "ジメレオン U 01",
-            "date": "2022-12-20",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1367073339",
-            "price": 150,
-            "name": "ジメレオン U 01",
-            "date": "2022-12-20",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2015389367",
-            "price": 400,
-            "name": "ジメレオン U 01",
-            "date": "2022-12-20",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/6878",
-            "price": 80,
-            "name": "ジメレオン018/0",
-            "date": "2022-12-20",
-            "stock": 43
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g018-060-S1W-B/",
-            "price": 110,
-            "name": "【ポケカ】Ｕ◇ジメレ",
-            "date": "2022-12-20",
             "stock": 1
         }
     ]

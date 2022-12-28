@@ -5,7 +5,79 @@
             "link": "/items/1373846197",
             "price": 324,
             "name": "ガラルニャース 12",
-            "date": "2022-12-27",
+            "date": "2022-12-28",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/364846172",
+            "price": 45,
+            "name": "1枚45円 s4a ",
+            "date": "2022-12-28",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/747325814",
+            "price": 300,
+            "name": "ガラルニャース 12",
+            "date": "2022-12-28",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/943693962",
+            "price": 110,
+            "name": "ガラルニャース(キラ",
+            "date": "2022-12-28",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18807",
+            "price": 150,
+            "name": "ガラルニャース:ミラ",
+            "date": "2022-12-28",
+            "stock": 40
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18532",
+            "price": 100,
+            "name": "ガラルニャース(CP",
+            "date": "2022-12-28",
+            "stock": 73
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17109",
+            "price": 80,
+            "name": "ガラルニャース126",
+            "date": "2022-12-28",
+            "stock": 21
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17281",
+            "price": 120,
+            "name": "ガラルニャース126",
+            "date": "2022-12-28",
+            "stock": 58
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30731",
+            "price": 110,
+            "name": "ガラルニャース126",
+            "date": "2022-12-28",
+            "stock": 1
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g126-190-S4A-B/",
+            "price": 77,
+            "name": "【ポケカ】Ｃ）通常仕",
+            "date": "2022-12-28",
             "stock": 1
         },
         {
@@ -18,9 +90,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/364846172",
-            "price": 45,
-            "name": "1枚45円 s4a ",
+            "link": "/items/1373846197",
+            "price": 324,
+            "name": "ガラルニャース 12",
             "date": "2022-12-27",
             "stock": 1
         },
@@ -31,6 +103,22 @@
             "name": "ガラルニャース(キラ",
             "date": "2022-12-27",
             "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/364846172",
+            "price": 45,
+            "name": "1枚45円 s4a ",
+            "date": "2022-12-27",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18807",
+            "price": 150,
+            "name": "ガラルニャース:ミラ",
+            "date": "2022-12-27",
+            "stock": 40
         },
         {
             "market": "hareruya2",
@@ -41,14 +129,6 @@
             "stock": 85
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18807",
-            "price": 150,
-            "name": "ガラルニャース:ミラ",
-            "date": "2022-12-27",
-            "stock": 40
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30731",
             "price": 110,
@@ -82,22 +162,6 @@
         },
         {
             "market": "magi",
-            "link": "/items/1373846197",
-            "price": 324,
-            "name": "ガラルニャース 12",
-            "date": "2022-12-26",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/364846172",
-            "price": 45,
-            "name": "1枚45円 s4a ",
-            "date": "2022-12-26",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/747325814",
             "price": 300,
             "name": "ガラルニャース 12",
@@ -111,6 +175,30 @@
             "name": "ガラルニャース(キラ",
             "date": "2022-12-26",
             "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/364846172",
+            "price": 45,
+            "name": "1枚45円 s4a ",
+            "date": "2022-12-26",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1373846197",
+            "price": 324,
+            "name": "ガラルニャース 12",
+            "date": "2022-12-26",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18807",
+            "price": 150,
+            "name": "ガラルニャース:ミラ",
+            "date": "2022-12-26",
+            "stock": 40
         },
         {
             "market": "hareruya2",
@@ -121,20 +209,12 @@
             "stock": 87
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18807",
-            "price": 150,
-            "name": "ガラルニャース:ミラ",
-            "date": "2022-12-26",
-            "stock": 40
-        },
-        {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17109",
-            "price": 80,
+            "link": "https://www.cardrush-pokemon.jp/product/17281",
+            "price": 120,
             "name": "ガラルニャース126",
             "date": "2022-12-26",
-            "stock": 21
+            "stock": 58
         },
         {
             "market": "cardrush",
@@ -146,11 +226,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17281",
-            "price": 120,
+            "link": "https://www.cardrush-pokemon.jp/product/17109",
+            "price": 80,
             "name": "ガラルニャース126",
             "date": "2022-12-26",
-            "stock": 58
+            "stock": 21
         },
         {
             "market": "torecolo",
@@ -158,6 +238,22 @@
             "price": 77,
             "name": "【ポケカ】Ｃ）通常仕",
             "date": "2022-12-26",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/747325814",
+            "price": 300,
+            "name": "ガラルニャース 12",
+            "date": "2022-12-25",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/364846172",
+            "price": 45,
+            "name": "1枚45円 s4a ",
+            "date": "2022-12-25",
             "stock": 1
         },
         {
@@ -173,22 +269,6 @@
             "link": "/items/943693962",
             "price": 110,
             "name": "ガラルニャース(キラ",
-            "date": "2022-12-25",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/364846172",
-            "price": 45,
-            "name": "1枚45円 s4a ",
-            "date": "2022-12-25",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/747325814",
-            "price": 300,
-            "name": "ガラルニャース 12",
             "date": "2022-12-25",
             "stock": 1
         },
@@ -242,9 +322,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/747325814",
-            "price": 300,
-            "name": "ガラルニャース 12",
+            "link": "/items/943693962",
+            "price": 110,
+            "name": "ガラルニャース(キラ",
             "date": "2022-12-24",
             "stock": 1
         },
@@ -266,9 +346,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/943693962",
-            "price": 110,
-            "name": "ガラルニャース(キラ",
+            "link": "/items/747325814",
+            "price": 300,
+            "name": "ガラルニャース 12",
             "date": "2022-12-24",
             "stock": 1
         },
@@ -290,11 +370,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17109",
-            "price": 80,
+            "link": "https://www.cardrush-pokemon.jp/product/30731",
+            "price": 110,
             "name": "ガラルニャース126",
             "date": "2022-12-24",
-            "stock": 21
+            "stock": 1
         },
         {
             "market": "cardrush",
@@ -306,11 +386,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30731",
-            "price": 110,
+            "link": "https://www.cardrush-pokemon.jp/product/17109",
+            "price": 80,
             "name": "ガラルニャース126",
             "date": "2022-12-24",
-            "stock": 1
+            "stock": 21
         },
         {
             "market": "torecolo",
@@ -318,6 +398,22 @@
             "price": 77,
             "name": "【ポケカ】Ｃ）通常仕",
             "date": "2022-12-24",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/747325814",
+            "price": 300,
+            "name": "ガラルニャース 12",
+            "date": "2022-12-23",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/364846172",
+            "price": 45,
+            "name": "1枚45円 s4a ",
+            "date": "2022-12-23",
             "stock": 1
         },
         {
@@ -337,20 +433,12 @@
             "stock": 1
         },
         {
-            "market": "magi",
-            "link": "/items/364846172",
-            "price": 45,
-            "name": "1枚45円 s4a ",
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18807",
+            "price": 150,
+            "name": "ガラルニャース:ミラ",
             "date": "2022-12-23",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/747325814",
-            "price": 300,
-            "name": "ガラルニャース 12",
-            "date": "2022-12-23",
-            "stock": 1
+            "stock": 40
         },
         {
             "market": "hareruya2",
@@ -361,12 +449,12 @@
             "stock": 88
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18807",
-            "price": 150,
-            "name": "ガラルニャース:ミラ",
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17281",
+            "price": 120,
+            "name": "ガラルニャース126",
             "date": "2022-12-23",
-            "stock": 40
+            "stock": 58
         },
         {
             "market": "cardrush",
@@ -377,14 +465,6 @@
             "stock": 25
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17281",
-            "price": 120,
-            "name": "ガラルニャース126",
-            "date": "2022-12-23",
-            "stock": 58
-        },
-        {
             "market": "torecolo",
             "link": "/shop/g/g126-190-S4A-B/",
             "price": 77,
@@ -394,17 +474,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/364846172",
-            "price": 45,
-            "name": "1枚45円 s4a ",
+            "link": "/items/747325814",
+            "price": 300,
+            "name": "ガラルニャース 12",
             "date": "2022-12-22",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/747325814",
-            "price": 300,
-            "name": "ガラルニャース 12",
+            "link": "/items/364846172",
+            "price": 45,
+            "name": "1枚45円 s4a ",
             "date": "2022-12-22",
             "stock": 1
         },
@@ -466,17 +546,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/943693962",
-            "price": 110,
-            "name": "ガラルニャース(キラ",
+            "link": "/items/1373846197",
+            "price": 324,
+            "name": "ガラルニャース 12",
             "date": "2022-12-21",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/364846172",
-            "price": 45,
-            "name": "1枚45円 s4a ",
+            "link": "/items/943693962",
+            "price": 110,
+            "name": "ガラルニャース(キラ",
             "date": "2022-12-21",
             "stock": 1
         },
@@ -490,122 +570,50 @@
         },
         {
             "market": "magi",
-            "link": "/items/1373846197",
-            "price": 324,
-            "name": "ガラルニャース 12",
-            "date": "2022-12-21",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18532",
-            "price": 100,
-            "name": "ガラルニャース(CP",
-            "date": "2022-12-21",
-            "stock": 89
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18807",
-            "price": 150,
-            "name": "ガラルニャース:ミラ",
-            "date": "2022-12-21",
-            "stock": 40
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17281",
-            "price": 120,
-            "name": "ガラルニャース126",
-            "date": "2022-12-21",
-            "stock": 58
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17109",
-            "price": 80,
-            "name": "ガラルニャース126",
-            "date": "2022-12-21",
-            "stock": 26
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g126-190-S4A-B/",
-            "price": 77,
-            "name": "【ポケカ】Ｃ）通常仕",
-            "date": "2022-12-21",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/747325814",
-            "price": 300,
-            "name": "ガラルニャース 12",
-            "date": "2022-12-20",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/943693962",
-            "price": 110,
-            "name": "ガラルニャース(キラ",
-            "date": "2022-12-20",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/364846172",
             "price": 45,
             "name": "1枚45円 s4a ",
-            "date": "2022-12-20",
+            "date": "2022-12-21",
             "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1373846197",
-            "price": 324,
-            "name": "ガラルニャース 12",
-            "date": "2022-12-20",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18532",
-            "price": 100,
-            "name": "ガラルニャース(CP",
-            "date": "2022-12-20",
-            "stock": 89
         },
         {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/18807",
             "price": 150,
             "name": "ガラルニャース:ミラ",
-            "date": "2022-12-20",
+            "date": "2022-12-21",
             "stock": 40
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17281",
-            "price": 120,
-            "name": "ガラルニャース126",
-            "date": "2022-12-20",
-            "stock": 58
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18532",
+            "price": 100,
+            "name": "ガラルニャース(CP",
+            "date": "2022-12-21",
+            "stock": 89
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17109",
             "price": 80,
             "name": "ガラルニャース126",
-            "date": "2022-12-20",
+            "date": "2022-12-21",
             "stock": 26
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17281",
+            "price": 120,
+            "name": "ガラルニャース126",
+            "date": "2022-12-21",
+            "stock": 58
         },
         {
             "market": "torecolo",
             "link": "/shop/g/g126-190-S4A-B/",
             "price": 77,
             "name": "【ポケカ】Ｃ）通常仕",
-            "date": "2022-12-20",
+            "date": "2022-12-21",
             "stock": 1
         }
     ]

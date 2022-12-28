@@ -3,9 +3,9 @@
         {
             "market": "magi",
             "link": "/items/1750314743",
-            "price": 210,
+            "price": 200,
             "name": "スパイクタウン U ",
-            "date": "2022-12-27",
+            "date": "2022-12-28",
             "stock": 1
         },
         {
@@ -13,6 +13,54 @@
             "link": "/items/1618741037",
             "price": 137,
             "name": "スパイクタウン(U)",
+            "date": "2022-12-28",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18042",
+            "price": 400,
+            "name": "スパイクタウン(U)",
+            "date": "2022-12-28",
+            "stock": 34
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/13336",
+            "price": 120,
+            "name": "スパイクタウン097",
+            "date": "2022-12-28",
+            "stock": 122
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30154",
+            "price": 110,
+            "name": "スパイクタウン097",
+            "date": "2022-12-28",
+            "stock": 57
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g097-100-S3-B/",
+            "price": 110,
+            "name": "【ポケカ】Ｕ◇スパイ",
+            "date": "2022-12-28",
+            "stock": 10
+        },
+        {
+            "market": "magi",
+            "link": "/items/1618741037",
+            "price": 137,
+            "name": "スパイクタウン(U)",
+            "date": "2022-12-27",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1750314743",
+            "price": 210,
+            "name": "スパイクタウン U ",
             "date": "2022-12-27",
             "stock": 1
         },
@@ -50,17 +98,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/1618741037",
-            "price": 137,
-            "name": "スパイクタウン(U)",
+            "link": "/items/1750314743",
+            "price": 210,
+            "name": "スパイクタウン U ",
             "date": "2022-12-26",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1750314743",
-            "price": 210,
-            "name": "スパイクタウン U ",
+            "link": "/items/1618741037",
+            "price": 137,
+            "name": "スパイクタウン(U)",
             "date": "2022-12-26",
             "stock": 1
         },
@@ -71,14 +119,6 @@
             "name": "スパイクタウン(U)",
             "date": "2022-12-26",
             "stock": 34
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/13336",
-            "price": 120,
-            "name": "スパイクタウン097",
-            "date": "2022-12-26",
-            "stock": 122
         },
         {
             "market": "cardrush",
@@ -89,6 +129,14 @@
             "stock": 57
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/13336",
+            "price": 120,
+            "name": "スパイクタウン097",
+            "date": "2022-12-26",
+            "stock": 122
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g097-100-S3-B/",
             "price": 110,
@@ -98,17 +146,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/1618741037",
-            "price": 137,
-            "name": "スパイクタウン(U)",
+            "link": "/items/1750314743",
+            "price": 210,
+            "name": "スパイクタウン U ",
             "date": "2022-12-25",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1750314743",
-            "price": 210,
-            "name": "スパイクタウン U ",
+            "link": "/items/1618741037",
+            "price": 137,
+            "name": "スパイクタウン(U)",
             "date": "2022-12-25",
             "stock": 1
         },
@@ -122,19 +170,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30154",
-            "price": 110,
-            "name": "スパイクタウン097",
-            "date": "2022-12-25",
-            "stock": 58
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/13336",
             "price": 120,
             "name": "スパイクタウン097",
             "date": "2022-12-25",
             "stock": 122
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30154",
+            "price": 110,
+            "name": "スパイクタウン097",
+            "date": "2022-12-25",
+            "stock": 58
         },
         {
             "market": "torecolo",
@@ -146,17 +194,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/1750314743",
-            "price": 210,
-            "name": "スパイクタウン U ",
+            "link": "/items/1618741037",
+            "price": 137,
+            "name": "スパイクタウン(U)",
             "date": "2022-12-24",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1618741037",
-            "price": 137,
-            "name": "スパイクタウン(U)",
+            "link": "/items/1750314743",
+            "price": 210,
+            "name": "スパイクタウン U ",
             "date": "2022-12-24",
             "stock": 1
         },
@@ -170,19 +218,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30154",
-            "price": 110,
-            "name": "スパイクタウン097",
-            "date": "2022-12-24",
-            "stock": 58
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/13336",
             "price": 120,
             "name": "スパイクタウン097",
             "date": "2022-12-24",
             "stock": 122
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30154",
+            "price": 110,
+            "name": "スパイクタウン097",
+            "date": "2022-12-24",
+            "stock": 58
         },
         {
             "market": "torecolo",
@@ -194,17 +242,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/1750314743",
-            "price": 210,
-            "name": "スパイクタウン U ",
+            "link": "/items/1618741037",
+            "price": 137,
+            "name": "スパイクタウン(U)",
             "date": "2022-12-23",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1618741037",
-            "price": 137,
-            "name": "スパイクタウン(U)",
+            "link": "/items/1750314743",
+            "price": 210,
+            "name": "スパイクタウン U ",
             "date": "2022-12-23",
             "stock": 1
         },
@@ -218,19 +266,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/13336",
-            "price": 120,
-            "name": "スパイクタウン097",
-            "date": "2022-12-23",
-            "stock": 122
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30154",
             "price": 110,
             "name": "スパイクタウン097",
             "date": "2022-12-23",
             "stock": 58
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/13336",
+            "price": 120,
+            "name": "スパイクタウン097",
+            "date": "2022-12-23",
+            "stock": 122
         },
         {
             "market": "torecolo",
@@ -242,17 +290,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/1750314743",
-            "price": 210,
-            "name": "スパイクタウン U ",
+            "link": "/items/1618741037",
+            "price": 137,
+            "name": "スパイクタウン(U)",
             "date": "2022-12-22",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1618741037",
-            "price": 137,
-            "name": "スパイクタウン(U)",
+            "link": "/items/1750314743",
+            "price": 210,
+            "name": "スパイクタウン U ",
             "date": "2022-12-22",
             "stock": 1
         },
@@ -342,62 +390,6 @@
             "price": 110,
             "name": "【ポケカ】Ｕ◇スパイ",
             "date": "2022-12-21",
-            "stock": 10
-        },
-        {
-            "market": "magi",
-            "link": "/items/1618741037",
-            "price": 137,
-            "name": "スパイクタウン(U)",
-            "date": "2022-12-20",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/127754186",
-            "price": 300,
-            "name": "スパイクタウン U ",
-            "date": "2022-12-20",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1750314743",
-            "price": 210,
-            "name": "スパイクタウン U ",
-            "date": "2022-12-20",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18042",
-            "price": 400,
-            "name": "スパイクタウン(U)",
-            "date": "2022-12-20",
-            "stock": 37
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/13336",
-            "price": 120,
-            "name": "スパイクタウン097",
-            "date": "2022-12-20",
-            "stock": 122
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30154",
-            "price": 110,
-            "name": "スパイクタウン097",
-            "date": "2022-12-20",
-            "stock": 58
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g097-100-S3-B/",
-            "price": 110,
-            "name": "【ポケカ】Ｕ◇スパイ",
-            "date": "2022-12-20",
             "stock": 10
         }
     ]

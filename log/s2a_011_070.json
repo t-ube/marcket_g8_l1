@@ -5,6 +5,22 @@
             "link": "https://www.hareruya2.com/product/17870",
             "price": 100,
             "name": "ヒードラン(R){炎",
+            "date": "2022-12-28",
+            "stock": 9
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/13112",
+            "price": 80,
+            "name": "ヒードラン011/0",
+            "date": "2022-12-28",
+            "stock": 133
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17870",
+            "price": 100,
+            "name": "ヒードラン(R){炎",
             "date": "2022-12-27",
             "stock": 9
         },
@@ -110,22 +126,6 @@
             "price": 80,
             "name": "ヒードラン011/0",
             "date": "2022-12-21",
-            "stock": 133
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/17870",
-            "price": 100,
-            "name": "ヒードラン(R){炎",
-            "date": "2022-12-20",
-            "stock": 9
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/13112",
-            "price": 80,
-            "name": "ヒードラン011/0",
-            "date": "2022-12-20",
             "stock": 133
         }
     ]

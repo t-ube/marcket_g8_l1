@@ -5,6 +5,38 @@
             "link": "https://www.hareruya2.com/product/17738",
             "price": 100,
             "name": "レントラー(R){雷",
+            "date": "2022-12-28",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/29887",
+            "price": 70,
+            "name": "レントラー035/0",
+            "date": "2022-12-28",
+            "stock": 6
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/7463",
+            "price": 80,
+            "name": "レントラー035/0",
+            "date": "2022-12-28",
+            "stock": 59
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g035-096-S2-B/",
+            "price": 72,
+            "name": "【ポケカ】Ｒ◇レント",
+            "date": "2022-12-28",
+            "stock": 18
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17738",
+            "price": 100,
+            "name": "レントラー(R){雷",
             "date": "2022-12-27",
             "stock": 1
         },
@@ -170,19 +202,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7463",
-            "price": 80,
-            "name": "レントラー035/0",
-            "date": "2022-12-22",
-            "stock": 59
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/29887",
             "price": 70,
             "name": "レントラー035/0",
             "date": "2022-12-22",
             "stock": 5
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/7463",
+            "price": 80,
+            "name": "レントラー035/0",
+            "date": "2022-12-22",
+            "stock": 59
         },
         {
             "market": "torecolo",
@@ -191,6 +223,14 @@
             "name": "【ポケカ】Ｒ◇レント",
             "date": "2022-12-22",
             "stock": 18
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/29887",
+            "price": 70,
+            "name": "レントラー035/0",
+            "date": "2022-12-21",
+            "stock": 5
         },
         {
             "market": "cardrush",
@@ -201,43 +241,11 @@
             "stock": 59
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/29887",
-            "price": 70,
-            "name": "レントラー035/0",
-            "date": "2022-12-21",
-            "stock": 5
-        },
-        {
             "market": "torecolo",
             "link": "/shop/g/g035-096-S2-B/",
             "price": 72,
             "name": "【ポケカ】Ｒ◇レント",
             "date": "2022-12-21",
-            "stock": 18
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7463",
-            "price": 80,
-            "name": "レントラー035/0",
-            "date": "2022-12-20",
-            "stock": 59
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/29887",
-            "price": 70,
-            "name": "レントラー035/0",
-            "date": "2022-12-20",
-            "stock": 5
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g035-096-S2-B/",
-            "price": 72,
-            "name": "【ポケカ】Ｒ◇レント",
-            "date": "2022-12-20",
             "stock": 18
         }
     ]

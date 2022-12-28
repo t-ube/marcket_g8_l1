@@ -5,7 +5,7 @@
             "link": "/items/955018786",
             "price": 600,
             "name": "【値下げ2枚】ガラル",
-            "date": "2022-12-27",
+            "date": "2022-12-28",
             "stock": 1
         },
         {
@@ -13,6 +13,54 @@
             "link": "/items/1950696672",
             "price": 110,
             "name": "ガラルサニゴーン S",
+            "date": "2022-12-28",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18655",
+            "price": 200,
+            "name": "ガラルサニゴーン(S",
+            "date": "2022-12-28",
+            "stock": 31
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17398",
+            "price": 380,
+            "name": "ガラルサニゴーン24",
+            "date": "2022-12-28",
+            "stock": 35
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30838",
+            "price": 330,
+            "name": "ガラルサニゴーン24",
+            "date": "2022-12-28",
+            "stock": 7
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g249-190-S4A-B/",
+            "price": 330,
+            "name": "【ポケカ】Ｓ◇ガラル",
+            "date": "2022-12-28",
+            "stock": 10
+        },
+        {
+            "market": "magi",
+            "link": "/items/1950696672",
+            "price": 110,
+            "name": "ガラルサニゴーン S",
+            "date": "2022-12-27",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/955018786",
+            "price": 600,
+            "name": "【値下げ2枚】ガラル",
             "date": "2022-12-27",
             "stock": 1
         },
@@ -74,19 +122,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17398",
-            "price": 380,
-            "name": "ガラルサニゴーン24",
-            "date": "2022-12-26",
-            "stock": 35
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30838",
             "price": 330,
             "name": "ガラルサニゴーン24",
             "date": "2022-12-26",
             "stock": 7
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17398",
+            "price": 380,
+            "name": "ガラルサニゴーン24",
+            "date": "2022-12-26",
+            "stock": 35
         },
         {
             "market": "torecolo",
@@ -98,17 +146,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/1950696672",
-            "price": 110,
-            "name": "ガラルサニゴーン S",
+            "link": "/items/955018786",
+            "price": 600,
+            "name": "【値下げ2枚】ガラル",
             "date": "2022-12-25",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/955018786",
-            "price": 600,
-            "name": "【値下げ2枚】ガラル",
+            "link": "/items/1950696672",
+            "price": 110,
+            "name": "ガラルサニゴーン S",
             "date": "2022-12-25",
             "stock": 1
         },
@@ -119,14 +167,6 @@
             "name": "ガラルサニゴーン(S",
             "date": "2022-12-25",
             "stock": 31
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30838",
-            "price": 330,
-            "name": "ガラルサニゴーン24",
-            "date": "2022-12-25",
-            "stock": 7
         },
         {
             "market": "cardrush",
@@ -137,6 +177,14 @@
             "stock": 34
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30838",
+            "price": 330,
+            "name": "ガラルサニゴーン24",
+            "date": "2022-12-25",
+            "stock": 7
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g249-190-S4A-B/",
             "price": 330,
@@ -146,17 +194,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/955018786",
-            "price": 600,
-            "name": "【値下げ2枚】ガラル",
+            "link": "/items/1950696672",
+            "price": 110,
+            "name": "ガラルサニゴーン S",
             "date": "2022-12-24",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1950696672",
-            "price": 110,
-            "name": "ガラルサニゴーン S",
+            "link": "/items/955018786",
+            "price": 600,
+            "name": "【値下げ2枚】ガラル",
             "date": "2022-12-24",
             "stock": 1
         },
@@ -170,14 +218,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17398",
-            "price": 380,
-            "name": "ガラルサニゴーン24",
-            "date": "2022-12-24",
-            "stock": 34
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30838",
             "price": 330,
             "name": "ガラルサニゴーン24",
@@ -185,6 +225,14 @@
             "stock": 7
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17398",
+            "price": 380,
+            "name": "ガラルサニゴーン24",
+            "date": "2022-12-24",
+            "stock": 34
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g249-190-S4A-B/",
             "price": 330,
@@ -194,17 +242,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/1950696672",
-            "price": 110,
-            "name": "ガラルサニゴーン S",
+            "link": "/items/955018786",
+            "price": 600,
+            "name": "【値下げ2枚】ガラル",
             "date": "2022-12-23",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/955018786",
-            "price": 600,
-            "name": "【値下げ2枚】ガラル",
+            "link": "/items/1950696672",
+            "price": 110,
+            "name": "ガラルサニゴーン S",
             "date": "2022-12-23",
             "stock": 1
         },
@@ -213,6 +261,14 @@
             "link": "https://www.hareruya2.com/product/18655",
             "price": 200,
             "name": "ガラルサニゴーン(S",
+            "date": "2022-12-23",
+            "stock": 31
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17398",
+            "price": 380,
+            "name": "ガラルサニゴーン24",
             "date": "2022-12-23",
             "stock": 31
         },
@@ -225,14 +281,6 @@
             "stock": 5
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17398",
-            "price": 380,
-            "name": "ガラルサニゴーン24",
-            "date": "2022-12-23",
-            "stock": 31
-        },
-        {
             "market": "torecolo",
             "link": "/shop/g/g249-190-S4A-B/",
             "price": 330,
@@ -242,17 +290,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/955018786",
-            "price": 600,
-            "name": "【値下げ2枚】ガラル",
+            "link": "/items/1950696672",
+            "price": 110,
+            "name": "ガラルサニゴーン S",
             "date": "2022-12-22",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1950696672",
-            "price": 110,
-            "name": "ガラルサニゴーン S",
+            "link": "/items/955018786",
+            "price": 600,
+            "name": "【値下げ2枚】ガラル",
             "date": "2022-12-22",
             "stock": 1
         },
@@ -290,17 +338,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/1950696672",
-            "price": 110,
-            "name": "ガラルサニゴーン S",
+            "link": "/items/955018786",
+            "price": 600,
+            "name": "【値下げ2枚】ガラル",
             "date": "2022-12-21",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/955018786",
-            "price": 600,
-            "name": "【値下げ2枚】ガラル",
+            "link": "/items/1950696672",
+            "price": 110,
+            "name": "ガラルサニゴーン S",
             "date": "2022-12-21",
             "stock": 1
         },
@@ -311,6 +359,14 @@
             "name": "ガラルサニゴーン(S",
             "date": "2022-12-21",
             "stock": 31
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30838",
+            "price": 330,
+            "name": "ガラルサニゴーン24",
+            "date": "2022-12-21",
+            "stock": 5
         },
         {
             "market": "cardrush",
@@ -321,67 +377,11 @@
             "stock": 29
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30838",
-            "price": 330,
-            "name": "ガラルサニゴーン24",
-            "date": "2022-12-21",
-            "stock": 5
-        },
-        {
             "market": "torecolo",
             "link": "/shop/g/g249-190-S4A-B/",
             "price": 330,
             "name": "【ポケカ】Ｓ◇ガラル",
             "date": "2022-12-21",
-            "stock": 10
-        },
-        {
-            "market": "magi",
-            "link": "/items/955018786",
-            "price": 600,
-            "name": "【値下げ2枚】ガラル",
-            "date": "2022-12-20",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1950696672",
-            "price": 110,
-            "name": "ガラルサニゴーン S",
-            "date": "2022-12-20",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18655",
-            "price": 200,
-            "name": "ガラルサニゴーン(S",
-            "date": "2022-12-20",
-            "stock": 31
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30838",
-            "price": 330,
-            "name": "ガラルサニゴーン24",
-            "date": "2022-12-20",
-            "stock": 5
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17398",
-            "price": 380,
-            "name": "ガラルサニゴーン24",
-            "date": "2022-12-20",
-            "stock": 29
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g249-190-S4A-B/",
-            "price": 330,
-            "name": "【ポケカ】Ｓ◇ガラル",
-            "date": "2022-12-20",
             "stock": 10
         }
     ]
