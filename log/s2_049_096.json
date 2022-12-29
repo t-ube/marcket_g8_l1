@@ -5,6 +5,22 @@
             "link": "/items/14030171",
             "price": 62,
             "name": "ドラパルトV RR ",
+            "date": "2022-12-29",
+            "stock": 4
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17752",
+            "price": 100,
+            "name": "ドラパルトV(RR)",
+            "date": "2022-12-29",
+            "stock": 6
+        },
+        {
+            "market": "magi",
+            "link": "/items/14030171",
+            "price": 62,
+            "name": "ドラパルトV RR ",
             "date": "2022-12-28",
             "stock": 4
         },
@@ -110,22 +126,6 @@
             "price": 100,
             "name": "ドラパルトV(RR)",
             "date": "2022-12-22",
-            "stock": 10
-        },
-        {
-            "market": "magi",
-            "link": "/items/14030171",
-            "price": 62,
-            "name": "ドラパルトV RR ",
-            "date": "2022-12-21",
-            "stock": 4
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/17752",
-            "price": 100,
-            "name": "ドラパルトV(RR)",
-            "date": "2022-12-21",
             "stock": 10
         }
     ]

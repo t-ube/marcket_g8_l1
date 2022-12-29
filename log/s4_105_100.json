@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/18390",
             "price": 800,
             "name": "フーディンV(SR)",
+            "date": "2022-12-29",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30419",
+            "price": 580,
+            "name": "フーディンV105/",
+            "date": "2022-12-29",
+            "stock": 13
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14593",
+            "price": 680,
+            "name": "フーディンV105/",
+            "date": "2022-12-29",
+            "stock": 26
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18390",
+            "price": 800,
+            "name": "フーディンV(SR)",
             "date": "2022-12-28",
             "stock": 2
         },
@@ -58,19 +82,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30419",
-            "price": 580,
-            "name": "フーディンV105/",
-            "date": "2022-12-26",
-            "stock": 13
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/14593",
             "price": 680,
             "name": "フーディンV105/",
             "date": "2022-12-26",
             "stock": 25
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30419",
+            "price": 580,
+            "name": "フーディンV105/",
+            "date": "2022-12-26",
+            "stock": 13
         },
         {
             "market": "hareruya2",
@@ -79,6 +103,14 @@
             "name": "フーディンV(SR)",
             "date": "2022-12-25",
             "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30419",
+            "price": 580,
+            "name": "フーディンV105/",
+            "date": "2022-12-25",
+            "stock": 13
         },
         {
             "market": "cardrush",
@@ -89,14 +121,6 @@
             "stock": 23
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30419",
-            "price": 580,
-            "name": "フーディンV105/",
-            "date": "2022-12-25",
-            "stock": 13
-        },
-        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/18390",
             "price": 800,
@@ -106,19 +130,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30419",
-            "price": 580,
-            "name": "フーディンV105/",
-            "date": "2022-12-24",
-            "stock": 13
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/14593",
             "price": 680,
             "name": "フーディンV105/",
             "date": "2022-12-24",
             "stock": 23
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30419",
+            "price": 580,
+            "name": "フーディンV105/",
+            "date": "2022-12-24",
+            "stock": 13
         },
         {
             "market": "hareruya2",
@@ -127,6 +151,14 @@
             "name": "フーディンV(SR)",
             "date": "2022-12-23",
             "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30419",
+            "price": 580,
+            "name": "フーディンV105/",
+            "date": "2022-12-23",
+            "stock": 13
         },
         {
             "market": "cardrush",
@@ -137,28 +169,12 @@
             "stock": 58
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30419",
-            "price": 580,
-            "name": "フーディンV105/",
-            "date": "2022-12-23",
-            "stock": 13
-        },
-        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/18390",
             "price": 800,
             "name": "フーディンV(SR)",
             "date": "2022-12-22",
             "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30419",
-            "price": 580,
-            "name": "フーディンV105/",
-            "date": "2022-12-22",
-            "stock": 12
         },
         {
             "market": "cardrush",
@@ -169,27 +185,11 @@
             "stock": 62
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18390",
-            "price": 800,
-            "name": "フーディンV(SR)",
-            "date": "2022-12-21",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14593",
-            "price": 680,
-            "name": "フーディンV105/",
-            "date": "2022-12-21",
-            "stock": 62
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30419",
             "price": 580,
             "name": "フーディンV105/",
-            "date": "2022-12-21",
+            "date": "2022-12-22",
             "stock": 12
         }
     ]

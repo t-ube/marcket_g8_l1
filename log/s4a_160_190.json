@@ -2,10 +2,18 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/2128742923",
+            "price": 288,
+            "name": "すごいきずぐすり 1",
+            "date": "2022-12-29",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/174644915",
             "price": 200,
             "name": "すごいきずぐすり 1",
-            "date": "2022-12-28",
+            "date": "2022-12-29",
             "stock": 1
         },
         {
@@ -13,6 +21,166 @@
             "link": "/items/613127938",
             "price": 120,
             "name": "すごいきずぐすり(キ",
+            "date": "2022-12-29",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/302560599",
+            "price": 110,
+            "name": "すごいきずぐすり 1",
+            "date": "2022-12-29",
+            "stock": 2
+        },
+        {
+            "market": "magi",
+            "link": "/items/644673419",
+            "price": 100,
+            "name": "すごいきずぐすり 1",
+            "date": "2022-12-29",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1997789574",
+            "price": 300,
+            "name": "すごいきずぐすり 1",
+            "date": "2022-12-29",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1177876703",
+            "price": 114,
+            "name": "すごいきずぐすり 1",
+            "date": "2022-12-29",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2046135691",
+            "price": 500,
+            "name": "すごいきずぐすり 1",
+            "date": "2022-12-29",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/215669293",
+            "price": 270,
+            "name": "すごいきずぐすり(キ",
+            "date": "2022-12-29",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/584321642",
+            "price": 132,
+            "name": "すごいきずぐすり 3",
+            "date": "2022-12-29",
+            "stock": 3
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18566",
+            "price": 100,
+            "name": "すごいきずぐすり(C",
+            "date": "2022-12-29",
+            "stock": 203
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18829",
+            "price": 150,
+            "name": "すごいきずぐすり:ミ",
+            "date": "2022-12-29",
+            "stock": 30
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17143",
+            "price": 120,
+            "name": "すごいきずぐすり16",
+            "date": "2022-12-29",
+            "stock": 209
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30626",
+            "price": 110,
+            "name": "すごいきずぐすり16",
+            "date": "2022-12-29",
+            "stock": 7
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17309",
+            "price": 180,
+            "name": "すごいきずぐすり16",
+            "date": "2022-12-29",
+            "stock": 58
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/36106",
+            "price": 80,
+            "name": "すごいきずぐすり16",
+            "date": "2022-12-29",
+            "stock": 21
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30753",
+            "price": 150,
+            "name": "すごいきずぐすり16",
+            "date": "2022-12-29",
+            "stock": 30
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g160-190-S4A-BM/",
+            "price": 110,
+            "name": "【ポケカ】Ｃ）ミラー",
+            "date": "2022-12-29",
+            "stock": 1
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g160-190-S4A-B/",
+            "price": 110,
+            "name": "【ポケカ】Ｃ）通常仕",
+            "date": "2022-12-29",
+            "stock": 2
+        },
+        {
+            "market": "magi",
+            "link": "/items/613127938",
+            "price": 120,
+            "name": "すごいきずぐすり(キ",
+            "date": "2022-12-28",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2128742923",
+            "price": 288,
+            "name": "すごいきずぐすり 1",
+            "date": "2022-12-28",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/215669293",
+            "price": 270,
+            "name": "すごいきずぐすり(キ",
+            "date": "2022-12-28",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/174644915",
+            "price": 200,
+            "name": "すごいきずぐすり 1",
             "date": "2022-12-28",
             "stock": 1
         },
@@ -42,33 +210,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/1177876703",
-            "price": 114,
-            "name": "すごいきずぐすり 1",
-            "date": "2022-12-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2128742923",
-            "price": 288,
-            "name": "すごいきずぐすり 1",
-            "date": "2022-12-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/2046135691",
             "price": 500,
             "name": "すごいきずぐすり 1",
-            "date": "2022-12-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/215669293",
-            "price": 270,
-            "name": "すごいきずぐすり(キ",
             "date": "2022-12-28",
             "stock": 1
         },
@@ -81,12 +225,12 @@
             "stock": 3
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18566",
-            "price": 100,
-            "name": "すごいきずぐすり(C",
+            "market": "magi",
+            "link": "/items/1177876703",
+            "price": 114,
+            "name": "すごいきずぐすり 1",
             "date": "2022-12-28",
-            "stock": 203
+            "stock": 1
         },
         {
             "market": "hareruya2",
@@ -97,20 +241,12 @@
             "stock": 30
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30753",
-            "price": 150,
-            "name": "すごいきずぐすり16",
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18566",
+            "price": 100,
+            "name": "すごいきずぐすり(C",
             "date": "2022-12-28",
-            "stock": 30
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17143",
-            "price": 120,
-            "name": "すごいきずぐすり16",
-            "date": "2022-12-28",
-            "stock": 215
+            "stock": 203
         },
         {
             "market": "cardrush",
@@ -119,6 +255,14 @@
             "name": "すごいきずぐすり16",
             "date": "2022-12-28",
             "stock": 58
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30753",
+            "price": 150,
+            "name": "すごいきずぐすり16",
+            "date": "2022-12-28",
+            "stock": 30
         },
         {
             "market": "cardrush",
@@ -137,12 +281,12 @@
             "stock": 22
         },
         {
-            "market": "torecolo",
-            "link": "/shop/g/g160-190-S4A-BM/",
-            "price": 110,
-            "name": "【ポケカ】Ｃ）ミラー",
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17143",
+            "price": 120,
+            "name": "すごいきずぐすり16",
             "date": "2022-12-28",
-            "stock": 1
+            "stock": 215
         },
         {
             "market": "torecolo",
@@ -151,6 +295,14 @@
             "name": "【ポケカ】Ｃ）通常仕",
             "date": "2022-12-28",
             "stock": 2
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g160-190-S4A-BM/",
+            "price": 110,
+            "name": "【ポケカ】Ｃ）ミラー",
+            "date": "2022-12-28",
+            "stock": 1
         },
         {
             "market": "magi",
@@ -167,14 +319,6 @@
             "name": "すごいきずぐすり 1",
             "date": "2022-12-27",
             "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/584321642",
-            "price": 132,
-            "name": "すごいきずぐすり 3",
-            "date": "2022-12-27",
-            "stock": 3
         },
         {
             "market": "magi",
@@ -233,6 +377,14 @@
             "stock": 2
         },
         {
+            "market": "magi",
+            "link": "/items/584321642",
+            "price": 132,
+            "name": "すごいきずぐすり 3",
+            "date": "2022-12-27",
+            "stock": 3
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/18566",
             "price": 100,
@@ -250,14 +402,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17309",
-            "price": 180,
-            "name": "すごいきずぐすり16",
-            "date": "2022-12-27",
-            "stock": 58
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30753",
             "price": 150,
             "name": "すごいきずぐすり16",
@@ -266,11 +410,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/36106",
-            "price": 80,
+            "link": "https://www.cardrush-pokemon.jp/product/17309",
+            "price": 180,
             "name": "すごいきずぐすり16",
             "date": "2022-12-27",
-            "stock": 23
+            "stock": 58
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17143",
+            "price": 120,
+            "name": "すごいきずぐすり16",
+            "date": "2022-12-27",
+            "stock": 215
         },
         {
             "market": "cardrush",
@@ -282,19 +434,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17143",
-            "price": 120,
+            "link": "https://www.cardrush-pokemon.jp/product/36106",
+            "price": 80,
             "name": "すごいきずぐすり16",
             "date": "2022-12-27",
-            "stock": 215
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g160-190-S4A-BM/",
-            "price": 110,
-            "name": "【ポケカ】Ｃ）ミラー",
-            "date": "2022-12-27",
-            "stock": 1
+            "stock": 23
         },
         {
             "market": "torecolo",
@@ -305,57 +449,41 @@
             "stock": 2
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18829",
-            "price": 150,
-            "name": "すごいきずぐすり:ミ",
-            "date": "2022-12-26",
-            "stock": 30
-        },
-        {
-            "market": "magi",
-            "link": "/items/584321642",
-            "price": 132,
-            "name": "すごいきずぐすり 3",
-            "date": "2022-12-26",
-            "stock": 3
-        },
-        {
-            "market": "magi",
-            "link": "/items/174644915",
-            "price": 200,
-            "name": "すごいきずぐすり 1",
-            "date": "2022-12-26",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/613127938",
-            "price": 120,
-            "name": "すごいきずぐすり(キ",
-            "date": "2022-12-26",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/302560599",
+            "market": "torecolo",
+            "link": "/shop/g/g160-190-S4A-BM/",
             "price": 110,
-            "name": "すごいきずぐすり 1",
-            "date": "2022-12-26",
-            "stock": 2
-        },
-        {
-            "market": "magi",
-            "link": "/items/644673419",
-            "price": 100,
-            "name": "すごいきずぐすり 1",
-            "date": "2022-12-26",
-            "stock": 4
+            "name": "【ポケカ】Ｃ）ミラー",
+            "date": "2022-12-27",
+            "stock": 1
         },
         {
             "market": "magi",
             "link": "/items/1997789574",
             "price": 300,
+            "name": "すごいきずぐすり 1",
+            "date": "2022-12-26",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2046135691",
+            "price": 500,
+            "name": "すごいきずぐすり 1",
+            "date": "2022-12-26",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1177876703",
+            "price": 114,
+            "name": "すごいきずぐすり 1",
+            "date": "2022-12-26",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2128742923",
+            "price": 288,
             "name": "すごいきずぐすり 1",
             "date": "2022-12-26",
             "stock": 1
@@ -378,27 +506,51 @@
         },
         {
             "market": "magi",
-            "link": "/items/2128742923",
-            "price": 288,
+            "link": "/items/584321642",
+            "price": 132,
+            "name": "すごいきずぐすり 3",
+            "date": "2022-12-26",
+            "stock": 3
+        },
+        {
+            "market": "magi",
+            "link": "/items/174644915",
+            "price": 200,
             "name": "すごいきずぐすり 1",
             "date": "2022-12-26",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1177876703",
-            "price": 114,
-            "name": "すごいきずぐすり 1",
+            "link": "/items/613127938",
+            "price": 120,
+            "name": "すごいきずぐすり(キ",
             "date": "2022-12-26",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/2046135691",
-            "price": 500,
+            "link": "/items/302560599",
+            "price": 110,
             "name": "すごいきずぐすり 1",
             "date": "2022-12-26",
-            "stock": 1
+            "stock": 2
+        },
+        {
+            "market": "magi",
+            "link": "/items/644673419",
+            "price": 100,
+            "name": "すごいきずぐすり 1",
+            "date": "2022-12-26",
+            "stock": 4
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18829",
+            "price": 150,
+            "name": "すごいきずぐすり:ミ",
+            "date": "2022-12-26",
+            "stock": 30
         },
         {
             "market": "cardrush",
@@ -474,22 +626,6 @@
         },
         {
             "market": "magi",
-            "link": "/items/644673419",
-            "price": 100,
-            "name": "すごいきずぐすり 1",
-            "date": "2022-12-25",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/584321642",
-            "price": 132,
-            "name": "すごいきずぐすり 3",
-            "date": "2022-12-25",
-            "stock": 3
-        },
-        {
-            "market": "magi",
             "link": "/items/174644915",
             "price": 200,
             "name": "すごいきずぐすり 1",
@@ -535,6 +671,22 @@
             "name": "すごいきずぐすり 1",
             "date": "2022-12-25",
             "stock": 2
+        },
+        {
+            "market": "magi",
+            "link": "/items/584321642",
+            "price": 132,
+            "name": "すごいきずぐすり 3",
+            "date": "2022-12-25",
+            "stock": 3
+        },
+        {
+            "market": "magi",
+            "link": "/items/644673419",
+            "price": 100,
+            "name": "すごいきずぐすり 1",
+            "date": "2022-12-25",
+            "stock": 4
         },
         {
             "market": "hareruya2",
@@ -551,6 +703,14 @@
             "name": "すごいきずぐすり:ミ",
             "date": "2022-12-25",
             "stock": 34
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17309",
+            "price": 180,
+            "name": "すごいきずぐすり16",
+            "date": "2022-12-25",
+            "stock": 58
         },
         {
             "market": "cardrush",
@@ -578,27 +738,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17309",
-            "price": 180,
-            "name": "すごいきずぐすり16",
-            "date": "2022-12-25",
-            "stock": 58
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/36106",
             "price": 80,
             "name": "すごいきずぐすり16",
             "date": "2022-12-25",
             "stock": 26
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g160-190-S4A-BM/",
-            "price": 110,
-            "name": "【ポケカ】Ｃ）ミラー",
-            "date": "2022-12-25",
-            "stock": 1
         },
         {
             "market": "torecolo",
@@ -609,12 +753,20 @@
             "stock": 4
         },
         {
+            "market": "torecolo",
+            "link": "/shop/g/g160-190-S4A-BM/",
+            "price": 110,
+            "name": "【ポケカ】Ｃ）ミラー",
+            "date": "2022-12-25",
+            "stock": 1
+        },
+        {
             "market": "magi",
-            "link": "/items/584321642",
-            "price": 132,
-            "name": "すごいきずぐすり 3",
+            "link": "/items/613127938",
+            "price": 120,
+            "name": "すごいきずぐすり(キ",
             "date": "2022-12-24",
-            "stock": 3
+            "stock": 1
         },
         {
             "market": "magi",
@@ -626,32 +778,24 @@
         },
         {
             "market": "magi",
-            "link": "/items/2046135691",
-            "price": 500,
-            "name": "すごいきずぐすり 1",
+            "link": "/items/584321642",
+            "price": 132,
+            "name": "すごいきずぐすり 3",
             "date": "2022-12-24",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/215669293",
-            "price": 270,
-            "name": "すごいきずぐすり(キ",
-            "date": "2022-12-24",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/644673419",
-            "price": 100,
-            "name": "すごいきずぐすり 1",
-            "date": "2022-12-24",
-            "stock": 4
+            "stock": 3
         },
         {
             "market": "magi",
             "link": "/items/2128742923",
             "price": 288,
+            "name": "すごいきずぐすり 1",
+            "date": "2022-12-24",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/174644915",
+            "price": 200,
             "name": "すごいきずぐすり 1",
             "date": "2022-12-24",
             "stock": 1
@@ -674,27 +818,27 @@
         },
         {
             "market": "magi",
-            "link": "/items/174644915",
-            "price": 200,
+            "link": "/items/644673419",
+            "price": 100,
             "name": "すごいきずぐすり 1",
             "date": "2022-12-24",
-            "stock": 1
+            "stock": 4
         },
         {
             "market": "magi",
-            "link": "/items/613127938",
-            "price": 120,
+            "link": "/items/215669293",
+            "price": 270,
             "name": "すごいきずぐすり(キ",
             "date": "2022-12-24",
             "stock": 1
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18829",
-            "price": 150,
-            "name": "すごいきずぐすり:ミ",
+            "market": "magi",
+            "link": "/items/2046135691",
+            "price": 500,
+            "name": "すごいきずぐすり 1",
             "date": "2022-12-24",
-            "stock": 34
+            "stock": 1
         },
         {
             "market": "hareruya2",
@@ -703,6 +847,14 @@
             "name": "すごいきずぐすり(C",
             "date": "2022-12-24",
             "stock": 220
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18829",
+            "price": 150,
+            "name": "すごいきずぐすり:ミ",
+            "date": "2022-12-24",
+            "stock": 34
         },
         {
             "market": "cardrush",
@@ -762,6 +914,14 @@
         },
         {
             "market": "magi",
+            "link": "/items/302560599",
+            "price": 110,
+            "name": "すごいきずぐすり 1",
+            "date": "2022-12-23",
+            "stock": 2
+        },
+        {
+            "market": "magi",
             "link": "/items/584321642",
             "price": 132,
             "name": "すごいきずぐすり 3",
@@ -775,14 +935,6 @@
             "name": "すごいきずぐすり 1",
             "date": "2022-12-23",
             "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/302560599",
-            "price": 110,
-            "name": "すごいきずぐすり 1",
-            "date": "2022-12-23",
-            "stock": 2
         },
         {
             "market": "magi",
@@ -858,35 +1010,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30626",
-            "price": 110,
-            "name": "すごいきずぐすり16",
-            "date": "2022-12-23",
-            "stock": 11
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30753",
             "price": 150,
             "name": "すごいきずぐすり16",
             "date": "2022-12-23",
             "stock": 30
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/36106",
-            "price": 80,
-            "name": "すごいきずぐすり16",
-            "date": "2022-12-23",
-            "stock": 30
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17309",
-            "price": 180,
-            "name": "すごいきずぐすり16",
-            "date": "2022-12-23",
-            "stock": 58
         },
         {
             "market": "cardrush",
@@ -897,6 +1025,30 @@
             "stock": 228
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17309",
+            "price": 180,
+            "name": "すごいきずぐすり16",
+            "date": "2022-12-23",
+            "stock": 58
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/36106",
+            "price": 80,
+            "name": "すごいきずぐすり16",
+            "date": "2022-12-23",
+            "stock": 30
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30626",
+            "price": 110,
+            "name": "すごいきずぐすり16",
+            "date": "2022-12-23",
+            "stock": 11
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g160-190-S4A-B/",
             "price": 110,
@@ -914,24 +1066,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/174644915",
-            "price": 200,
-            "name": "すごいきずぐすり 1",
-            "date": "2022-12-22",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2046135691",
-            "price": 500,
-            "name": "すごいきずぐすり 1",
-            "date": "2022-12-22",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1177876703",
-            "price": 114,
+            "link": "/items/1997789574",
+            "price": 300,
             "name": "すごいきずぐすり 1",
             "date": "2022-12-22",
             "stock": 1
@@ -946,6 +1082,14 @@
         },
         {
             "market": "magi",
+            "link": "/items/644673419",
+            "price": 100,
+            "name": "すごいきずぐすり 1",
+            "date": "2022-12-22",
+            "stock": 4
+        },
+        {
+            "market": "magi",
             "link": "/items/2128742923",
             "price": 288,
             "name": "すごいきずぐすり 1",
@@ -954,8 +1098,32 @@
         },
         {
             "market": "magi",
-            "link": "/items/1997789574",
-            "price": 300,
+            "link": "/items/613127938",
+            "price": 120,
+            "name": "すごいきずぐすり(キ",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1177876703",
+            "price": 114,
+            "name": "すごいきずぐすり 1",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2046135691",
+            "price": 500,
+            "name": "すごいきずぐすり 1",
+            "date": "2022-12-22",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/174644915",
+            "price": 200,
             "name": "すごいきずぐすり 1",
             "date": "2022-12-22",
             "stock": 1
@@ -977,20 +1145,12 @@
             "stock": 2
         },
         {
-            "market": "magi",
-            "link": "/items/613127938",
-            "price": 120,
-            "name": "すごいきずぐすり(キ",
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18829",
+            "price": 150,
+            "name": "すごいきずぐすり:ミ",
             "date": "2022-12-22",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/644673419",
-            "price": 100,
-            "name": "すごいきずぐすり 1",
-            "date": "2022-12-22",
-            "stock": 4
+            "stock": 34
         },
         {
             "market": "hareruya2",
@@ -1001,28 +1161,12 @@
             "stock": 229
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18829",
-            "price": 150,
-            "name": "すごいきずぐすり:ミ",
-            "date": "2022-12-22",
-            "stock": 34
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17143",
             "price": 120,
             "name": "すごいきずぐすり16",
             "date": "2022-12-22",
             "stock": 229
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/36106",
-            "price": 80,
-            "name": "すごいきずぐすり16",
-            "date": "2022-12-22",
-            "stock": 29
         },
         {
             "market": "cardrush",
@@ -1049,172 +1193,28 @@
             "stock": 58
         },
         {
-            "market": "torecolo",
-            "link": "/shop/g/g160-190-S4A-B/",
-            "price": 110,
-            "name": "【ポケカ】Ｃ）通常仕",
-            "date": "2022-12-22",
-            "stock": 4
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g160-190-S4A-BM/",
-            "price": 110,
-            "name": "【ポケカ】Ｃ）ミラー",
-            "date": "2022-12-22",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/644673419",
-            "price": 100,
-            "name": "すごいきずぐすり 1",
-            "date": "2022-12-21",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/1997789574",
-            "price": 300,
-            "name": "すごいきずぐすり 1",
-            "date": "2022-12-21",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/584321642",
-            "price": 132,
-            "name": "すごいきずぐすり 3",
-            "date": "2022-12-21",
-            "stock": 3
-        },
-        {
-            "market": "magi",
-            "link": "/items/302560599",
-            "price": 110,
-            "name": "すごいきずぐすり 1",
-            "date": "2022-12-21",
-            "stock": 2
-        },
-        {
-            "market": "magi",
-            "link": "/items/215669293",
-            "price": 270,
-            "name": "すごいきずぐすり(キ",
-            "date": "2022-12-21",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/613127938",
-            "price": 120,
-            "name": "すごいきずぐすり(キ",
-            "date": "2022-12-21",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2046135691",
-            "price": 500,
-            "name": "すごいきずぐすり 1",
-            "date": "2022-12-21",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2128742923",
-            "price": 288,
-            "name": "すごいきずぐすり 1",
-            "date": "2022-12-21",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/174644915",
-            "price": 200,
-            "name": "すごいきずぐすり 1",
-            "date": "2022-12-21",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1177876703",
-            "price": 114,
-            "name": "すごいきずぐすり 1",
-            "date": "2022-12-21",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18829",
-            "price": 150,
-            "name": "すごいきずぐすり:ミ",
-            "date": "2022-12-21",
-            "stock": 34
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18566",
-            "price": 80,
-            "name": "すごいきずぐすり(C",
-            "date": "2022-12-21",
-            "stock": 229
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/36106",
             "price": 80,
             "name": "すごいきずぐすり16",
-            "date": "2022-12-21",
-            "stock": 9
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17143",
-            "price": 120,
-            "name": "すごいきずぐすり16",
-            "date": "2022-12-21",
-            "stock": 256
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17309",
-            "price": 180,
-            "name": "すごいきずぐすり16",
-            "date": "2022-12-21",
-            "stock": 58
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30626",
-            "price": 110,
-            "name": "すごいきずぐすり16",
-            "date": "2022-12-21",
-            "stock": 12
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30753",
-            "price": 150,
-            "name": "すごいきずぐすり16",
-            "date": "2022-12-21",
-            "stock": 30
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g160-190-S4A-BM/",
-            "price": 110,
-            "name": "【ポケカ】Ｃ）ミラー",
-            "date": "2022-12-21",
-            "stock": 1
+            "date": "2022-12-22",
+            "stock": 29
         },
         {
             "market": "torecolo",
             "link": "/shop/g/g160-190-S4A-B/",
             "price": 110,
             "name": "【ポケカ】Ｃ）通常仕",
-            "date": "2022-12-21",
+            "date": "2022-12-22",
             "stock": 4
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g160-190-S4A-BM/",
+            "price": 110,
+            "name": "【ポケカ】Ｃ）ミラー",
+            "date": "2022-12-22",
+            "stock": 1
         }
     ]
 }

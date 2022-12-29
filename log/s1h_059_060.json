@@ -1,6 +1,22 @@
 ﻿{
     "items": [
         {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17561",
+            "price": 100,
+            "name": "マリィ(R){サポー",
+            "date": "2022-12-29",
+            "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/6979",
+            "price": 120,
+            "name": "マリィ059/060",
+            "date": "2022-12-29",
+            "stock": 23
+        },
+        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/6979",
             "price": 120,
@@ -54,14 +70,6 @@
             "price": 120,
             "name": "マリィ059/060",
             "date": "2022-12-22",
-            "stock": 41
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/6979",
-            "price": 120,
-            "name": "マリィ059/060",
-            "date": "2022-12-21",
             "stock": 41
         }
     ]

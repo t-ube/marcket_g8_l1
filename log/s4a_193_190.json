@@ -1,6 +1,22 @@
 ﻿{
     "items": [
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17342",
+            "price": 880,
+            "name": "とりつかい193/1",
+            "date": "2022-12-29",
+            "stock": 14
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g193-190-S4A-B/",
+            "price": 880,
+            "name": "【ポケカ】ＳＲ◇とり",
+            "date": "2022-12-29",
+            "stock": 2
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g193-190-S4A-B/",
             "price": 880,
@@ -90,14 +106,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17342",
-            "price": 780,
-            "name": "とりつかい193/1",
-            "date": "2022-12-23",
-            "stock": 47
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30783",
             "price": 680,
             "name": "とりつかい193/1",
@@ -105,6 +113,14 @@
             "stock": 1
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17342",
+            "price": 780,
+            "name": "とりつかい193/1",
+            "date": "2022-12-23",
+            "stock": 47
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g193-190-S4A-B/",
             "price": 880,
@@ -134,30 +150,6 @@
             "price": 880,
             "name": "【ポケカ】ＳＲ◇とり",
             "date": "2022-12-22",
-            "stock": 2
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18599",
-            "price": 1000,
-            "name": "とりつかい(SR){",
-            "date": "2022-12-21",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17342",
-            "price": 780,
-            "name": "とりつかい193/1",
-            "date": "2022-12-21",
-            "stock": 47
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g193-190-S4A-B/",
-            "price": 880,
-            "name": "【ポケカ】ＳＲ◇とり",
-            "date": "2022-12-21",
             "stock": 2
         }
     ]

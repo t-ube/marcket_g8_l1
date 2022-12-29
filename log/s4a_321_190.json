@@ -5,6 +5,38 @@
             "link": "/items/176033193",
             "price": 490,
             "name": "オーロンゲV SSR",
+            "date": "2022-12-29",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18727",
+            "price": 700,
+            "name": "オーロンゲV(SSR",
+            "date": "2022-12-29",
+            "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30910",
+            "price": 580,
+            "name": "オーロンゲV321/",
+            "date": "2022-12-29",
+            "stock": 54
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17470",
+            "price": 680,
+            "name": "オーロンゲV321/",
+            "date": "2022-12-29",
+            "stock": 119
+        },
+        {
+            "market": "magi",
+            "link": "/items/176033193",
+            "price": 490,
+            "name": "オーロンゲV SSR",
             "date": "2022-12-28",
             "stock": 1
         },
@@ -50,19 +82,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30910",
-            "price": 580,
-            "name": "オーロンゲV321/",
-            "date": "2022-12-27",
-            "stock": 54
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17470",
             "price": 680,
             "name": "オーロンゲV321/",
             "date": "2022-12-27",
             "stock": 123
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30910",
+            "price": 580,
+            "name": "オーロンゲV321/",
+            "date": "2022-12-27",
+            "stock": 54
         },
         {
             "market": "magi",
@@ -111,6 +143,14 @@
             "name": "オーロンゲV(SSR",
             "date": "2022-12-25",
             "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30910",
+            "price": 580,
+            "name": "オーロンゲV321/",
+            "date": "2022-12-25",
+            "stock": 54
         },
         {
             "market": "cardrush",
@@ -121,14 +161,6 @@
             "stock": 116
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30910",
-            "price": 580,
-            "name": "オーロンゲV321/",
-            "date": "2022-12-25",
-            "stock": 54
-        },
-        {
             "market": "magi",
             "link": "/items/176033193",
             "price": 490,
@@ -146,19 +178,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30910",
-            "price": 580,
-            "name": "オーロンゲV321/",
-            "date": "2022-12-24",
-            "stock": 54
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17470",
             "price": 680,
             "name": "オーロンゲV321/",
             "date": "2022-12-24",
             "stock": 116
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30910",
+            "price": 580,
+            "name": "オーロンゲV321/",
+            "date": "2022-12-24",
+            "stock": 54
         },
         {
             "market": "magi",
@@ -210,14 +242,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17470",
-            "price": 680,
-            "name": "オーロンゲV321/",
-            "date": "2022-12-22",
-            "stock": 145
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30910",
             "price": 580,
             "name": "オーロンゲV321/",
@@ -225,35 +249,11 @@
             "stock": 47
         },
         {
-            "market": "magi",
-            "link": "/items/176033193",
-            "price": 490,
-            "name": "オーロンゲV SSR",
-            "date": "2022-12-21",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18727",
-            "price": 700,
-            "name": "オーロンゲV(SSR",
-            "date": "2022-12-21",
-            "stock": 4
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30910",
-            "price": 580,
-            "name": "オーロンゲV321/",
-            "date": "2022-12-21",
-            "stock": 47
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17470",
             "price": 680,
             "name": "オーロンゲV321/",
-            "date": "2022-12-21",
+            "date": "2022-12-22",
             "stock": 145
         }
     ]

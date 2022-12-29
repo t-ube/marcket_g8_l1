@@ -5,6 +5,22 @@
             "link": "https://www.hareruya2.com/product/18857",
             "price": 1200,
             "name": "ムゲンダイナV(UR",
+            "date": "2022-12-29",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17476",
+            "price": 880,
+            "name": "ムゲンダイナV327",
+            "date": "2022-12-29",
+            "stock": 46
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18857",
+            "price": 1200,
+            "name": "ムゲンダイナV(UR",
             "date": "2022-12-28",
             "stock": 1
         },
@@ -66,19 +82,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30916",
-            "price": 730,
-            "name": "ムゲンダイナV327",
-            "date": "2022-12-25",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17476",
             "price": 880,
             "name": "ムゲンダイナV327",
             "date": "2022-12-25",
             "stock": 47
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30916",
+            "price": 730,
+            "name": "ムゲンダイナV327",
+            "date": "2022-12-25",
+            "stock": 1
         },
         {
             "market": "hareruya2",
@@ -87,14 +103,6 @@
             "name": "ムゲンダイナV(UR",
             "date": "2022-12-24",
             "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30916",
-            "price": 730,
-            "name": "ムゲンダイナV327",
-            "date": "2022-12-24",
-            "stock": 4
         },
         {
             "market": "cardrush",
@@ -105,20 +113,20 @@
             "stock": 48
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30916",
+            "price": 730,
+            "name": "ムゲンダイナV327",
+            "date": "2022-12-24",
+            "stock": 4
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/18857",
             "price": 1200,
             "name": "ムゲンダイナV(UR",
             "date": "2022-12-23",
             "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30916",
-            "price": 730,
-            "name": "ムゲンダイナV327",
-            "date": "2022-12-23",
-            "stock": 7
         },
         {
             "market": "cardrush",
@@ -129,12 +137,28 @@
             "stock": 47
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30916",
+            "price": 730,
+            "name": "ムゲンダイナV327",
+            "date": "2022-12-23",
+            "stock": 7
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/18857",
             "price": 1200,
             "name": "ムゲンダイナV(UR",
             "date": "2022-12-22",
             "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30916",
+            "price": 730,
+            "name": "ムゲンダイナV327",
+            "date": "2022-12-22",
+            "stock": 7
         },
         {
             "market": "cardrush",
@@ -143,38 +167,6 @@
             "name": "ムゲンダイナV327",
             "date": "2022-12-22",
             "stock": 47
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30916",
-            "price": 730,
-            "name": "ムゲンダイナV327",
-            "date": "2022-12-22",
-            "stock": 7
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18857",
-            "price": 1200,
-            "name": "ムゲンダイナV(UR",
-            "date": "2022-12-21",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17476",
-            "price": 880,
-            "name": "ムゲンダイナV327",
-            "date": "2022-12-21",
-            "stock": 46
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30916",
-            "price": 730,
-            "name": "ムゲンダイナV327",
-            "date": "2022-12-21",
-            "stock": 7
         }
     ]
 }

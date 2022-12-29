@@ -5,6 +5,22 @@
             "link": "https://www.cardrush-pokemon.jp/product/6781",
             "price": 80,
             "name": "マリィ024/024",
+            "date": "2022-12-29",
+            "stock": 7
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g024-024-SA-BR/",
+            "price": 88,
+            "name": "【ポケカ】ＳＳ）通常",
+            "date": "2022-12-29",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/6781",
+            "price": 80,
+            "name": "マリィ024/024",
             "date": "2022-12-28",
             "stock": 7
         },
@@ -62,14 +78,6 @@
             "price": 88,
             "name": "【ポケカ】ＳＳ）通常",
             "date": "2022-12-26",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/6648",
-            "price": 680,
-            "name": "マリィ024/024",
-            "date": "2022-12-25",
             "stock": 1
         },
         {
@@ -79,6 +87,14 @@
             "name": "マリィ024/024",
             "date": "2022-12-25",
             "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/6648",
+            "price": 680,
+            "name": "マリィ024/024",
+            "date": "2022-12-25",
+            "stock": 1
         },
         {
             "market": "cardrush",
@@ -159,22 +175,6 @@
             "name": "マリィ024/024",
             "date": "2022-12-22",
             "stock": 3
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/29628",
-            "price": 70,
-            "name": "マリィ024/024",
-            "date": "2022-12-21",
-            "stock": 3
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/6781",
-            "price": 80,
-            "name": "マリィ024/024",
-            "date": "2022-12-21",
-            "stock": 7
         }
     ]
 }
