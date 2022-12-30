@@ -1,6 +1,38 @@
 ﻿{
     "items": [
         {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18613",
+            "price": 150,
+            "name": "レドームシ(S){草",
+            "date": "2022-12-30",
+            "stock": 36
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30796",
+            "price": 330,
+            "name": "レドームシ207/1",
+            "date": "2022-12-30",
+            "stock": 10
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17356",
+            "price": 380,
+            "name": "レドームシ207/1",
+            "date": "2022-12-30",
+            "stock": 59
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g207-190-S4A-B/",
+            "price": 275,
+            "name": "【ポケカ】Ｓ◇レドー",
+            "date": "2022-12-30",
+            "stock": 13
+        },
+        {
             "market": "magi",
             "link": "/items/886406906",
             "price": 590,
@@ -58,6 +90,14 @@
         },
         {
             "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17356",
+            "price": 380,
+            "name": "レドームシ207/1",
+            "date": "2022-12-28",
+            "stock": 45
+        },
+        {
+            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30796",
             "price": 330,
             "name": "レドームシ207/1",
@@ -65,14 +105,6 @@
             "stock": 10
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17356",
-            "price": 380,
-            "name": "レドームシ207/1",
-            "date": "2022-12-28",
-            "stock": 45
-        },
-        {
             "market": "torecolo",
             "link": "/shop/g/g207-190-S4A-B/",
             "price": 275,
@@ -138,19 +170,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17356",
-            "price": 380,
-            "name": "レドームシ207/1",
-            "date": "2022-12-26",
-            "stock": 45
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30796",
             "price": 330,
             "name": "レドームシ207/1",
             "date": "2022-12-26",
             "stock": 9
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17356",
+            "price": 380,
+            "name": "レドームシ207/1",
+            "date": "2022-12-26",
+            "stock": 45
         },
         {
             "market": "torecolo",
@@ -178,19 +210,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17356",
-            "price": 380,
-            "name": "レドームシ207/1",
-            "date": "2022-12-25",
-            "stock": 45
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30796",
             "price": 330,
             "name": "レドームシ207/1",
             "date": "2022-12-25",
             "stock": 9
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17356",
+            "price": 380,
+            "name": "レドームシ207/1",
+            "date": "2022-12-25",
+            "stock": 45
         },
         {
             "market": "torecolo",
@@ -218,19 +250,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30796",
-            "price": 330,
-            "name": "レドームシ207/1",
-            "date": "2022-12-24",
-            "stock": 9
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17356",
             "price": 380,
             "name": "レドームシ207/1",
             "date": "2022-12-24",
             "stock": 45
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30796",
+            "price": 330,
+            "name": "レドームシ207/1",
+            "date": "2022-12-24",
+            "stock": 9
         },
         {
             "market": "torecolo",
@@ -278,46 +310,6 @@
             "price": 275,
             "name": "【ポケカ】Ｓ◇レドー",
             "date": "2022-12-23",
-            "stock": 13
-        },
-        {
-            "market": "magi",
-            "link": "/items/886406906",
-            "price": 590,
-            "name": "ポケカ　サッチムシ　",
-            "date": "2022-12-22",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18613",
-            "price": 150,
-            "name": "レドームシ(S){草",
-            "date": "2022-12-22",
-            "stock": 37
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30796",
-            "price": 330,
-            "name": "レドームシ207/1",
-            "date": "2022-12-22",
-            "stock": 9
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17356",
-            "price": 380,
-            "name": "レドームシ207/1",
-            "date": "2022-12-22",
-            "stock": 45
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g207-190-S4A-B/",
-            "price": 275,
-            "name": "【ポケカ】Ｓ◇レドー",
-            "date": "2022-12-22",
             "stock": 13
         }
     ]

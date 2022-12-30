@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/18692",
             "price": 200,
             "name": "ガラルニャイキング(",
+            "date": "2022-12-30",
+            "stock": 36
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17435",
+            "price": 380,
+            "name": "ガラルニャイキング2",
+            "date": "2022-12-30",
+            "stock": 44
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g286-190-S4A-B/",
+            "price": 330,
+            "name": "【ポケカ】Ｓ◇ガラル",
+            "date": "2022-12-30",
+            "stock": 10
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18692",
+            "price": 200,
+            "name": "ガラルニャイキング(",
             "date": "2022-12-29",
             "stock": 37
         },
@@ -42,19 +66,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17435",
-            "price": 380,
-            "name": "ガラルニャイキング2",
-            "date": "2022-12-28",
-            "stock": 36
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30875",
             "price": 330,
             "name": "ガラルニャイキング2",
             "date": "2022-12-28",
             "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17435",
+            "price": 380,
+            "name": "ガラルニャイキング2",
+            "date": "2022-12-28",
+            "stock": 36
         },
         {
             "market": "torecolo",
@@ -103,14 +127,6 @@
             "name": "ガラルニャイキング(",
             "date": "2022-12-26",
             "stock": 37
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30875",
-            "price": 330,
-            "name": "ガラルニャイキング2",
-            "date": "2022-12-26",
-            "stock": 1
         },
         {
             "market": "cardrush",
@@ -121,6 +137,14 @@
             "stock": 34
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30875",
+            "price": 330,
+            "name": "ガラルニャイキング2",
+            "date": "2022-12-26",
+            "stock": 1
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g286-190-S4A-B/",
             "price": 330,
@@ -138,19 +162,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17435",
-            "price": 380,
-            "name": "ガラルニャイキング2",
-            "date": "2022-12-25",
-            "stock": 34
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30875",
             "price": 330,
             "name": "ガラルニャイキング2",
             "date": "2022-12-25",
             "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17435",
+            "price": 380,
+            "name": "ガラルニャイキング2",
+            "date": "2022-12-25",
+            "stock": 34
         },
         {
             "market": "torecolo",
@@ -202,14 +226,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30875",
-            "price": 330,
-            "name": "ガラルニャイキング2",
-            "date": "2022-12-23",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17435",
             "price": 380,
             "name": "ガラルニャイキング2",
@@ -217,35 +233,11 @@
             "stock": 34
         },
         {
-            "market": "torecolo",
-            "link": "/shop/g/g286-190-S4A-B/",
-            "price": 330,
-            "name": "【ポケカ】Ｓ◇ガラル",
-            "date": "2022-12-23",
-            "stock": 10
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18692",
-            "price": 200,
-            "name": "ガラルニャイキング(",
-            "date": "2022-12-22",
-            "stock": 37
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17435",
-            "price": 380,
-            "name": "ガラルニャイキング2",
-            "date": "2022-12-22",
-            "stock": 29
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30875",
             "price": 330,
             "name": "ガラルニャイキング2",
-            "date": "2022-12-22",
+            "date": "2022-12-23",
             "stock": 1
         },
         {
@@ -253,7 +245,7 @@
             "link": "/shop/g/g286-190-S4A-B/",
             "price": 330,
             "name": "【ポケカ】Ｓ◇ガラル",
-            "date": "2022-12-22",
+            "date": "2022-12-23",
             "stock": 10
         }
     ]

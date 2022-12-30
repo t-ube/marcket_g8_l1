@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/18722",
             "price": 700,
             "name": "イエッサンV(SSR",
+            "date": "2022-12-30",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30905",
+            "price": 580,
+            "name": "イエッサンV316/",
+            "date": "2022-12-30",
+            "stock": 51
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17465",
+            "price": 680,
+            "name": "イエッサンV316/",
+            "date": "2022-12-30",
+            "stock": 123
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18722",
+            "price": 700,
+            "name": "イエッサンV(SSR",
             "date": "2022-12-29",
             "stock": 2
         },
@@ -58,19 +82,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30905",
-            "price": 580,
-            "name": "イエッサンV316/",
-            "date": "2022-12-27",
-            "stock": 50
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17465",
             "price": 680,
             "name": "イエッサンV316/",
             "date": "2022-12-27",
             "stock": 119
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30905",
+            "price": 580,
+            "name": "イエッサンV316/",
+            "date": "2022-12-27",
+            "stock": 50
         },
         {
             "market": "hareruya2",
@@ -154,34 +178,10 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17465",
-            "price": 680,
-            "name": "イエッサンV316/",
-            "date": "2022-12-23",
-            "stock": 127
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30905",
             "price": 580,
             "name": "イエッサンV316/",
             "date": "2022-12-23",
-            "stock": 45
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18722",
-            "price": 700,
-            "name": "イエッサンV(SSR",
-            "date": "2022-12-22",
-            "stock": 6
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30905",
-            "price": 580,
-            "name": "イエッサンV316/",
-            "date": "2022-12-22",
             "stock": 45
         },
         {
@@ -189,8 +189,8 @@
             "link": "https://www.cardrush-pokemon.jp/product/17465",
             "price": 680,
             "name": "イエッサンV316/",
-            "date": "2022-12-22",
-            "stock": 142
+            "date": "2022-12-23",
+            "stock": 127
         }
     ]
 }

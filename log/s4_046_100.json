@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/18331",
             "price": 50,
             "name": "チリーン(C){超}",
+            "date": "2022-12-30",
+            "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14500",
+            "price": 80,
+            "name": "チリーン046/10",
+            "date": "2022-12-30",
+            "stock": 184
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g046-100-S4-B/",
+            "price": 8,
+            "name": "【ポケカ】Ｃ◇チリー",
+            "date": "2022-12-30",
+            "stock": 9
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18331",
+            "price": 50,
+            "name": "チリーン(C){超}",
             "date": "2022-12-29",
             "stock": 3
         },
@@ -166,30 +190,6 @@
             "price": 8,
             "name": "【ポケカ】Ｃ◇チリー",
             "date": "2022-12-23",
-            "stock": 9
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18331",
-            "price": 50,
-            "name": "チリーン(C){超}",
-            "date": "2022-12-22",
-            "stock": 3
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14500",
-            "price": 80,
-            "name": "チリーン046/10",
-            "date": "2022-12-22",
-            "stock": 184
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g046-100-S4-B/",
-            "price": 8,
-            "name": "【ポケカ】Ｃ◇チリー",
-            "date": "2022-12-22",
             "stock": 9
         }
     ]

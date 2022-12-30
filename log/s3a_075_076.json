@@ -5,6 +5,22 @@
             "link": "/items/1437042624",
             "price": 200,
             "name": "ストーン闘エネルギー",
+            "date": "2022-12-30",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1506573140",
+            "price": 40,
+            "name": "PC ストーン闘エネ",
+            "date": "2022-12-30",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1437042624",
+            "price": 200,
+            "name": "ストーン闘エネルギー",
             "date": "2022-12-29",
             "stock": 1
         },
@@ -14,6 +30,14 @@
             "price": 40,
             "name": "PC ストーン闘エネ",
             "date": "2022-12-29",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1506573140",
+            "price": 40,
+            "name": "PC ストーン闘エネ",
+            "date": "2022-12-28",
             "stock": 4
         },
         {
@@ -26,11 +50,11 @@
         },
         {
             "market": "magi",
-            "link": "/items/1506573140",
-            "price": 40,
-            "name": "PC ストーン闘エネ",
-            "date": "2022-12-28",
-            "stock": 4
+            "link": "/items/1437042624",
+            "price": 200,
+            "name": "ストーン闘エネルギー",
+            "date": "2022-12-27",
+            "stock": 1
         },
         {
             "market": "magi",
@@ -45,7 +69,7 @@
             "link": "/items/1437042624",
             "price": 200,
             "name": "ストーン闘エネルギー",
-            "date": "2022-12-27",
+            "date": "2022-12-26",
             "stock": 1
         },
         {
@@ -61,7 +85,7 @@
             "link": "/items/1437042624",
             "price": 200,
             "name": "ストーン闘エネルギー",
-            "date": "2022-12-26",
+            "date": "2022-12-25",
             "stock": 1
         },
         {
@@ -74,22 +98,6 @@
         },
         {
             "market": "magi",
-            "link": "/items/1437042624",
-            "price": 200,
-            "name": "ストーン闘エネルギー",
-            "date": "2022-12-25",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1437042624",
-            "price": 200,
-            "name": "ストーン闘エネルギー",
-            "date": "2022-12-24",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/1506573140",
             "price": 40,
             "name": "PC ストーン闘エネ",
@@ -98,11 +106,11 @@
         },
         {
             "market": "magi",
-            "link": "/items/1506573140",
-            "price": 40,
-            "name": "PC ストーン闘エネ",
-            "date": "2022-12-23",
-            "stock": 4
+            "link": "/items/1437042624",
+            "price": 200,
+            "name": "ストーン闘エネルギー",
+            "date": "2022-12-24",
+            "stock": 1
         },
         {
             "market": "magi",
@@ -117,24 +125,8 @@
             "link": "/items/1506573140",
             "price": 40,
             "name": "PC ストーン闘エネ",
-            "date": "2022-12-22",
+            "date": "2022-12-23",
             "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/1437042624",
-            "price": 200,
-            "name": "ストーン闘エネルギー",
-            "date": "2022-12-22",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18266",
-            "price": 50,
-            "name": "ストーン闘エネルギー",
-            "date": "2022-12-22",
-            "stock": 1
         }
     ]
 }

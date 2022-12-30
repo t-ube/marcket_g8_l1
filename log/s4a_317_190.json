@@ -5,6 +5,22 @@
             "link": "https://www.cardrush-pokemon.jp/product/30906",
             "price": 580,
             "name": "ドラパルトV317/",
+            "date": "2022-12-30",
+            "stock": 14
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17466",
+            "price": 680,
+            "name": "ドラパルトV317/",
+            "date": "2022-12-30",
+            "stock": 104
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30906",
+            "price": 580,
+            "name": "ドラパルトV317/",
             "date": "2022-12-29",
             "stock": 14
         },
@@ -122,14 +138,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30906",
-            "price": 580,
-            "name": "ドラパルトV317/",
-            "date": "2022-12-23",
-            "stock": 13
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17466",
             "price": 680,
             "name": "ドラパルトV317/",
@@ -137,28 +145,12 @@
             "stock": 106
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18723",
-            "price": 700,
-            "name": "ドラパルトV(SSR",
-            "date": "2022-12-22",
-            "stock": 2
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30906",
             "price": 580,
             "name": "ドラパルトV317/",
-            "date": "2022-12-22",
+            "date": "2022-12-23",
             "stock": 13
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17466",
-            "price": 680,
-            "name": "ドラパルトV317/",
-            "date": "2022-12-22",
-            "stock": 116
         }
     ]
 }

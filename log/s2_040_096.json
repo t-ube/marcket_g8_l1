@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/17743",
             "price": 100,
             "name": "ピクシー(R){超}",
+            "date": "2022-12-30",
+            "stock": 6
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/7468",
+            "price": 80,
+            "name": "ピクシー040/09",
+            "date": "2022-12-30",
+            "stock": 19
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g040-096-S2-B/",
+            "price": 77,
+            "name": "【ポケカ】Ｒ◇ピクシ",
+            "date": "2022-12-30",
+            "stock": 14
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17743",
+            "price": 100,
+            "name": "ピクシー(R){超}",
             "date": "2022-12-29",
             "stock": 6
         },
@@ -166,30 +190,6 @@
             "price": 77,
             "name": "【ポケカ】Ｒ◇ピクシ",
             "date": "2022-12-23",
-            "stock": 14
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/17743",
-            "price": 100,
-            "name": "ピクシー(R){超}",
-            "date": "2022-12-22",
-            "stock": 6
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7468",
-            "price": 80,
-            "name": "ピクシー040/09",
-            "date": "2022-12-22",
-            "stock": 19
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g040-096-S2-B/",
-            "price": 77,
-            "name": "【ポケカ】Ｒ◇ピクシ",
-            "date": "2022-12-22",
             "stock": 14
         }
     ]

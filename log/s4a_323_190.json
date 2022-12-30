@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/18729",
             "price": 800,
             "name": "メタモンV(SSR)",
+            "date": "2022-12-30",
+            "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30912",
+            "price": 580,
+            "name": "メタモンV323/1",
+            "date": "2022-12-30",
+            "stock": 10
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17472",
+            "price": 680,
+            "name": "メタモンV323/1",
+            "date": "2022-12-30",
+            "stock": 94
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18729",
+            "price": 800,
+            "name": "メタモンV(SSR)",
             "date": "2022-12-29",
             "stock": 3
         },
@@ -162,19 +186,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30912",
-            "price": 580,
-            "name": "メタモンV323/1",
-            "date": "2022-12-24",
-            "stock": 9
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17472",
             "price": 680,
             "name": "メタモンV323/1",
             "date": "2022-12-24",
             "stock": 93
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30912",
+            "price": 580,
+            "name": "メタモンV323/1",
+            "date": "2022-12-24",
+            "stock": 9
         },
         {
             "market": "magi",
@@ -183,6 +207,14 @@
             "name": "メタモンV SSR ",
             "date": "2022-12-23",
             "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30912",
+            "price": 580,
+            "name": "メタモンV323/1",
+            "date": "2022-12-23",
+            "stock": 7
         },
         {
             "market": "cardrush",
@@ -191,38 +223,6 @@
             "name": "メタモンV323/1",
             "date": "2022-12-23",
             "stock": 103
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30912",
-            "price": 580,
-            "name": "メタモンV323/1",
-            "date": "2022-12-23",
-            "stock": 7
-        },
-        {
-            "market": "magi",
-            "link": "/items/1092696857",
-            "price": 780,
-            "name": "メタモンV SSR ",
-            "date": "2022-12-22",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30912",
-            "price": 580,
-            "name": "メタモンV323/1",
-            "date": "2022-12-22",
-            "stock": 7
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17472",
-            "price": 680,
-            "name": "メタモンV323/1",
-            "date": "2022-12-22",
-            "stock": 113
         }
     ]
 }
