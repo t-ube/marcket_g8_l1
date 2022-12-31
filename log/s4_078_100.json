@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/18363",
             "price": 50,
             "name": "テッシード(C){鋼",
+            "date": "2022-12-31",
+            "stock": 11
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14532",
+            "price": 30,
+            "name": "テッシード078/1",
+            "date": "2022-12-31",
+            "stock": 23
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g078-100-S4-B/",
+            "price": 33,
+            "name": "【ポケカ】Ｃ◇テッシ",
+            "date": "2022-12-31",
+            "stock": 15
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18363",
+            "price": 50,
+            "name": "テッシード(C){鋼",
             "date": "2022-12-30",
             "stock": 11
         },
@@ -166,30 +190,6 @@
             "price": 33,
             "name": "【ポケカ】Ｃ◇テッシ",
             "date": "2022-12-24",
-            "stock": 15
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18363",
-            "price": 50,
-            "name": "テッシード(C){鋼",
-            "date": "2022-12-23",
-            "stock": 11
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14532",
-            "price": 30,
-            "name": "テッシード078/1",
-            "date": "2022-12-23",
-            "stock": 23
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g078-100-S4-B/",
-            "price": 33,
-            "name": "【ポケカ】Ｃ◇テッシ",
-            "date": "2022-12-23",
             "stock": 15
         }
     ]

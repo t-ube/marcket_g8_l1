@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/18317",
             "price": 50,
             "name": "ビリリダマ(C){雷",
+            "date": "2022-12-31",
+            "stock": 16
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14486",
+            "price": 30,
+            "name": "ビリリダマ032/1",
+            "date": "2022-12-31",
+            "stock": 88
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g032-100-S4-B/",
+            "price": 88,
+            "name": "【ポケカ】Ｃ◇ビリリ",
+            "date": "2022-12-31",
+            "stock": 2
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18317",
+            "price": 50,
+            "name": "ビリリダマ(C){雷",
             "date": "2022-12-30",
             "stock": 16
         },
@@ -166,30 +190,6 @@
             "price": 88,
             "name": "【ポケカ】Ｃ◇ビリリ",
             "date": "2022-12-24",
-            "stock": 2
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18317",
-            "price": 50,
-            "name": "ビリリダマ(C){雷",
-            "date": "2022-12-23",
-            "stock": 19
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14486",
-            "price": 30,
-            "name": "ビリリダマ032/1",
-            "date": "2022-12-23",
-            "stock": 88
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g032-100-S4-B/",
-            "price": 88,
-            "name": "【ポケカ】Ｃ◇ビリリ",
-            "date": "2022-12-23",
             "stock": 2
         }
     ]

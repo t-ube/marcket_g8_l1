@@ -5,6 +5,22 @@
             "link": "https://www.hareruya2.com/product/17985",
             "price": 50,
             "name": "ゴビット(C){超}",
+            "date": "2022-12-31",
+            "stock": 21
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g040-100-S3-B/",
+            "price": 33,
+            "name": "【ポケカ】Ｃ◇ゴビッ",
+            "date": "2022-12-31",
+            "stock": 20
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17985",
+            "price": 50,
+            "name": "ゴビット(C){超}",
             "date": "2022-12-30",
             "stock": 21
         },
@@ -166,30 +182,6 @@
             "price": 33,
             "name": "【ポケカ】Ｃ◇ゴビッ",
             "date": "2022-12-24",
-            "stock": 20
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/17985",
-            "price": 50,
-            "name": "ゴビット(C){超}",
-            "date": "2022-12-23",
-            "stock": 21
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/13279",
-            "price": 30,
-            "name": "ゴビット040/10",
-            "date": "2022-12-23",
-            "stock": 2
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g040-100-S3-B/",
-            "price": 33,
-            "name": "【ポケカ】Ｃ◇ゴビッ",
-            "date": "2022-12-23",
             "stock": 20
         }
     ]

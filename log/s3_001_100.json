@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/17946",
             "price": 50,
             "name": "パラス(C){草}〈",
+            "date": "2022-12-31",
+            "stock": 12
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/13241",
+            "price": 30,
+            "name": "パラス001/100",
+            "date": "2022-12-31",
+            "stock": 5
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g001-100-S3-B/",
+            "price": 99,
+            "name": "【ポケカ】Ｃ◇パラス",
+            "date": "2022-12-31",
+            "stock": 7
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17946",
+            "price": 50,
+            "name": "パラス(C){草}〈",
             "date": "2022-12-30",
             "stock": 12
         },
@@ -166,30 +190,6 @@
             "price": 99,
             "name": "【ポケカ】Ｃ◇パラス",
             "date": "2022-12-24",
-            "stock": 7
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/17946",
-            "price": 50,
-            "name": "パラス(C){草}〈",
-            "date": "2022-12-23",
-            "stock": 12
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/13241",
-            "price": 30,
-            "name": "パラス001/100",
-            "date": "2022-12-23",
-            "stock": 5
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g001-100-S3-B/",
-            "price": 99,
-            "name": "【ポケカ】Ｃ◇パラス",
-            "date": "2022-12-23",
             "stock": 7
         }
     ]

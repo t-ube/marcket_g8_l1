@@ -5,6 +5,22 @@
             "link": "https://www.hareruya2.com/product/18315",
             "price": 100,
             "name": "ピカチュウV(RR)",
+            "date": "2022-12-31",
+            "stock": 54
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14484",
+            "price": 80,
+            "name": "ピカチュウV030/",
+            "date": "2022-12-31",
+            "stock": 15
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18315",
+            "price": 100,
+            "name": "ピカチュウV(RR)",
             "date": "2022-12-30",
             "stock": 54
         },
@@ -110,22 +126,6 @@
             "price": 80,
             "name": "ピカチュウV030/",
             "date": "2022-12-24",
-            "stock": 14
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18315",
-            "price": 100,
-            "name": "ピカチュウV(RR)",
-            "date": "2022-12-23",
-            "stock": 55
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14484",
-            "price": 80,
-            "name": "ピカチュウV030/",
-            "date": "2022-12-23",
             "stock": 14
         }
     ]

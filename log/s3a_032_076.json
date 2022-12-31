@@ -2,6 +2,46 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/1875332806",
+            "price": 610,
+            "name": "マホイップVMAX ",
+            "date": "2022-12-31",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1936200632",
+            "price": 420,
+            "name": "マホイップVMAX ",
+            "date": "2022-12-31",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18223",
+            "price": 100,
+            "name": "マホイップVMAX(",
+            "date": "2022-12-31",
+            "stock": 94
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30204",
+            "price": 260,
+            "name": "マホイップVMAX0",
+            "date": "2022-12-31",
+            "stock": 7
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14067",
+            "price": 280,
+            "name": "マホイップVMAX0",
+            "date": "2022-12-31",
+            "stock": 76
+        },
+        {
+            "market": "magi",
             "link": "/items/1936200632",
             "price": 420,
             "name": "マホイップVMAX ",
@@ -50,19 +90,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30204",
-            "price": 260,
-            "name": "マホイップVMAX0",
-            "date": "2022-12-29",
-            "stock": 10
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/14067",
             "price": 280,
             "name": "マホイップVMAX0",
             "date": "2022-12-29",
             "stock": 73
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30204",
+            "price": 260,
+            "name": "マホイップVMAX0",
+            "date": "2022-12-29",
+            "stock": 10
         },
         {
             "market": "magi",
@@ -146,14 +186,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30204",
-            "price": 260,
-            "name": "マホイップVMAX0",
-            "date": "2022-12-26",
-            "stock": 14
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/14067",
             "price": 280,
             "name": "マホイップVMAX0",
@@ -161,6 +193,14 @@
             "stock": 74
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30204",
+            "price": 260,
+            "name": "マホイップVMAX0",
+            "date": "2022-12-26",
+            "stock": 14
+        },
+        {
             "market": "magi",
             "link": "/items/1936200632",
             "price": 420,
@@ -210,42 +250,10 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14067",
-            "price": 280,
-            "name": "マホイップVMAX0",
-            "date": "2022-12-24",
-            "stock": 75
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30204",
             "price": 260,
             "name": "マホイップVMAX0",
             "date": "2022-12-24",
-            "stock": 14
-        },
-        {
-            "market": "magi",
-            "link": "/items/1936200632",
-            "price": 420,
-            "name": "マホイップVMAX ",
-            "date": "2022-12-23",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18223",
-            "price": 120,
-            "name": "マホイップVMAX(",
-            "date": "2022-12-23",
-            "stock": 104
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30204",
-            "price": 260,
-            "name": "マホイップVMAX0",
-            "date": "2022-12-23",
             "stock": 14
         },
         {
@@ -253,8 +261,8 @@
             "link": "https://www.cardrush-pokemon.jp/product/14067",
             "price": 280,
             "name": "マホイップVMAX0",
-            "date": "2022-12-23",
-            "stock": 77
+            "date": "2022-12-24",
+            "stock": 75
         }
     ]
 }

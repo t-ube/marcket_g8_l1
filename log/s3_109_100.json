@@ -5,6 +5,38 @@
             "link": "https://www.hareruya2.com/product/18054",
             "price": 2300,
             "name": "ネズ(SR){サポー",
+            "date": "2022-12-31",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30171",
+            "price": 1880,
+            "name": "ネズ109/100",
+            "date": "2022-12-31",
+            "stock": 7
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/13923",
+            "price": 2180,
+            "name": "ネズ109/100",
+            "date": "2022-12-31",
+            "stock": 16
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g109-100-S3-B/",
+            "price": 2200,
+            "name": "【ポケカ】ＳＲ◇ネズ",
+            "date": "2022-12-31",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18054",
+            "price": 2300,
+            "name": "ネズ(SR){サポー",
             "date": "2022-12-30",
             "stock": 1
         },
@@ -106,19 +138,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/13923",
-            "price": 2180,
-            "name": "ネズ109/100",
-            "date": "2022-12-27",
-            "stock": 9
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30171",
             "price": 1880,
             "name": "ネズ109/100",
             "date": "2022-12-27",
             "stock": 7
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/13923",
+            "price": 2180,
+            "name": "ネズ109/100",
+            "date": "2022-12-27",
+            "stock": 9
         },
         {
             "market": "torecolo",
@@ -138,19 +170,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/13923",
-            "price": 2180,
-            "name": "ネズ109/100",
-            "date": "2022-12-26",
-            "stock": 9
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30171",
             "price": 1880,
             "name": "ネズ109/100",
             "date": "2022-12-26",
             "stock": 7
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/13923",
+            "price": 2180,
+            "name": "ネズ109/100",
+            "date": "2022-12-26",
+            "stock": 9
         },
         {
             "market": "torecolo",
@@ -202,14 +234,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30171",
-            "price": 1880,
-            "name": "ネズ109/100",
-            "date": "2022-12-24",
-            "stock": 7
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/13923",
             "price": 2180,
             "name": "ネズ109/100",
@@ -217,28 +241,12 @@
             "stock": 9
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18054",
-            "price": 2500,
-            "name": "ネズ(SR){サポー",
-            "date": "2022-12-23",
-            "stock": 2
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30171",
             "price": 1880,
             "name": "ネズ109/100",
-            "date": "2022-12-23",
+            "date": "2022-12-24",
             "stock": 7
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/13923",
-            "price": 2180,
-            "name": "ネズ109/100",
-            "date": "2022-12-23",
-            "stock": 9
         }
     ]
 }

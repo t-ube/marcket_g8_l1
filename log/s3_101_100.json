@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/18046",
             "price": 800,
             "name": "ヘルガーV(SR){",
+            "date": "2022-12-31",
+            "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30163",
+            "price": 680,
+            "name": "ヘルガーV101/1",
+            "date": "2022-12-31",
+            "stock": 11
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/13915",
+            "price": 780,
+            "name": "ヘルガーV101/1",
+            "date": "2022-12-31",
+            "stock": 15
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18046",
+            "price": 800,
+            "name": "ヘルガーV(SR){",
             "date": "2022-12-30",
             "stock": 3
         },
@@ -55,14 +79,6 @@
             "name": "ヘルガーV(SR){",
             "date": "2022-12-28",
             "stock": 3
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30163",
-            "price": 680,
-            "name": "ヘルガーV101/1",
-            "date": "2022-12-28",
-            "stock": 11
         },
         {
             "market": "cardrush",
@@ -73,6 +89,14 @@
             "stock": 12
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30163",
+            "price": 680,
+            "name": "ヘルガーV101/1",
+            "date": "2022-12-28",
+            "stock": 11
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/18046",
             "price": 800,
@@ -82,16 +106,16 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/13915",
-            "price": 780,
+            "link": "https://www.cardrush-pokemon.jp/product/30163",
+            "price": 680,
             "name": "ヘルガーV101/1",
             "date": "2022-12-27",
             "stock": 11
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30163",
-            "price": 680,
+            "link": "https://www.cardrush-pokemon.jp/product/13915",
+            "price": 780,
             "name": "ヘルガーV101/1",
             "date": "2022-12-27",
             "stock": 11
@@ -106,16 +130,16 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30163",
-            "price": 680,
+            "link": "https://www.cardrush-pokemon.jp/product/13915",
+            "price": 780,
             "name": "ヘルガーV101/1",
             "date": "2022-12-26",
             "stock": 11
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/13915",
-            "price": 780,
+            "link": "https://www.cardrush-pokemon.jp/product/30163",
+            "price": 680,
             "name": "ヘルガーV101/1",
             "date": "2022-12-26",
             "stock": 11
@@ -127,6 +151,14 @@
             "name": "ヘルガーV(SR){",
             "date": "2022-12-25",
             "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30163",
+            "price": 680,
+            "name": "ヘルガーV101/1",
+            "date": "2022-12-25",
+            "stock": 11
         },
         {
             "market": "cardrush",
@@ -137,28 +169,12 @@
             "stock": 9
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30163",
-            "price": 680,
-            "name": "ヘルガーV101/1",
-            "date": "2022-12-25",
-            "stock": 11
-        },
-        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/18046",
             "price": 800,
             "name": "ヘルガーV(SR){",
             "date": "2022-12-24",
             "stock": 3
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30163",
-            "price": 680,
-            "name": "ヘルガーV101/1",
-            "date": "2022-12-24",
-            "stock": 11
         },
         {
             "market": "cardrush",
@@ -169,27 +185,11 @@
             "stock": 9
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18046",
-            "price": 800,
-            "name": "ヘルガーV(SR){",
-            "date": "2022-12-23",
-            "stock": 3
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/13915",
-            "price": 780,
-            "name": "ヘルガーV101/1",
-            "date": "2022-12-23",
-            "stock": 18
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30163",
             "price": 680,
             "name": "ヘルガーV101/1",
-            "date": "2022-12-23",
+            "date": "2022-12-24",
             "stock": 11
         }
     ]

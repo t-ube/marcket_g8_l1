@@ -5,6 +5,22 @@
             "link": "https://www.hareruya2.com/product/18118",
             "price": 50,
             "name": "ユキカブリ(D){草",
+            "date": "2022-12-31",
+            "stock": 13
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g006-127-SD-B/",
+            "price": 33,
+            "name": "【ポケカ】ＳＳ◇ユキ",
+            "date": "2022-12-31",
+            "stock": 20
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18118",
+            "price": 50,
+            "name": "ユキカブリ(D){草",
             "date": "2022-12-30",
             "stock": 13
         },
@@ -110,22 +126,6 @@
             "price": 33,
             "name": "【ポケカ】ＳＳ◇ユキ",
             "date": "2022-12-24",
-            "stock": 20
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18118",
-            "price": 50,
-            "name": "ユキカブリ(D){草",
-            "date": "2022-12-23",
-            "stock": 13
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g006-127-SD-B/",
-            "price": 33,
-            "name": "【ポケカ】ＳＳ◇ユキ",
-            "date": "2022-12-23",
             "stock": 20
         }
     ]
