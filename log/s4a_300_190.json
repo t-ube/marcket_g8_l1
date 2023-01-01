@@ -5,6 +5,38 @@
             "link": "https://www.hareruya2.com/product/18706",
             "price": 200,
             "name": "ココガラ(S){無}",
+            "date": "2023-01-01",
+            "stock": 43
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30889",
+            "price": 330,
+            "name": "ココガラ300/19",
+            "date": "2023-01-01",
+            "stock": 8
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17449",
+            "price": 380,
+            "name": "ココガラ300/19",
+            "date": "2023-01-01",
+            "stock": 59
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g300-190-S4A-B/",
+            "price": 275,
+            "name": "【ポケカ】Ｓ◇ココガ",
+            "date": "2023-01-01",
+            "stock": 7
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18706",
+            "price": 200,
+            "name": "ココガラ(S){無}",
             "date": "2022-12-31",
             "stock": 43
         },
@@ -42,19 +74,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30889",
-            "price": 330,
-            "name": "ココガラ300/19",
-            "date": "2022-12-30",
-            "stock": 8
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17449",
             "price": 380,
             "name": "ココガラ300/19",
             "date": "2022-12-30",
             "stock": 59
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30889",
+            "price": 330,
+            "name": "ココガラ300/19",
+            "date": "2022-12-30",
+            "stock": 8
         },
         {
             "market": "torecolo",
@@ -106,19 +138,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17449",
-            "price": 380,
-            "name": "ココガラ300/19",
-            "date": "2022-12-28",
-            "stock": 59
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30889",
             "price": 330,
             "name": "ココガラ300/19",
             "date": "2022-12-28",
             "stock": 8
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17449",
+            "price": 380,
+            "name": "ココガラ300/19",
+            "date": "2022-12-28",
+            "stock": 59
         },
         {
             "market": "torecolo",
@@ -138,19 +170,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30889",
-            "price": 330,
-            "name": "ココガラ300/19",
-            "date": "2022-12-27",
-            "stock": 8
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17449",
             "price": 380,
             "name": "ココガラ300/19",
             "date": "2022-12-27",
             "stock": 59
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30889",
+            "price": 330,
+            "name": "ココガラ300/19",
+            "date": "2022-12-27",
+            "stock": 8
         },
         {
             "market": "torecolo",
@@ -202,14 +234,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17449",
-            "price": 380,
-            "name": "ココガラ300/19",
-            "date": "2022-12-25",
-            "stock": 59
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30889",
             "price": 330,
             "name": "ココガラ300/19",
@@ -217,35 +241,11 @@
             "stock": 8
         },
         {
-            "market": "torecolo",
-            "link": "/shop/g/g300-190-S4A-B/",
-            "price": 275,
-            "name": "【ポケカ】Ｓ◇ココガ",
-            "date": "2022-12-25",
-            "stock": 7
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18706",
-            "price": 200,
-            "name": "ココガラ(S){無}",
-            "date": "2022-12-24",
-            "stock": 44
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30889",
-            "price": 330,
-            "name": "ココガラ300/19",
-            "date": "2022-12-24",
-            "stock": 8
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17449",
             "price": 380,
             "name": "ココガラ300/19",
-            "date": "2022-12-24",
+            "date": "2022-12-25",
             "stock": 59
         },
         {
@@ -253,7 +253,7 @@
             "link": "/shop/g/g300-190-S4A-B/",
             "price": 275,
             "name": "【ポケカ】Ｓ◇ココガ",
-            "date": "2022-12-24",
+            "date": "2022-12-25",
             "stock": 7
         }
     ]

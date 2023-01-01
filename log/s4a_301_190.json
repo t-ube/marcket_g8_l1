@@ -5,6 +5,46 @@
             "link": "/items/1642562459",
             "price": 107,
             "name": "アオガラス S 30",
+            "date": "2023-01-01",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18707",
+            "price": 200,
+            "name": "アオガラス(S){無",
+            "date": "2023-01-01",
+            "stock": 39
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30890",
+            "price": 330,
+            "name": "アオガラス301/1",
+            "date": "2023-01-01",
+            "stock": 11
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17450",
+            "price": 380,
+            "name": "アオガラス301/1",
+            "date": "2023-01-01",
+            "stock": 60
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g301-190-S4A-B/",
+            "price": 275,
+            "name": "【ポケカ】Ｓ◇アオガ",
+            "date": "2023-01-01",
+            "stock": 8
+        },
+        {
+            "market": "magi",
+            "link": "/items/1642562459",
+            "price": 107,
+            "name": "アオガラス S 30",
             "date": "2022-12-31",
             "stock": 1
         },
@@ -58,14 +98,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30890",
-            "price": 330,
-            "name": "アオガラス301/1",
-            "date": "2022-12-30",
-            "stock": 11
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17450",
             "price": 380,
             "name": "アオガラス301/1",
@@ -73,6 +105,14 @@
             "stock": 60
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30890",
+            "price": 330,
+            "name": "アオガラス301/1",
+            "date": "2022-12-30",
+            "stock": 11
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g301-190-S4A-B/",
             "price": 275,
@@ -178,19 +218,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17450",
-            "price": 380,
-            "name": "アオガラス301/1",
-            "date": "2022-12-27",
-            "stock": 61
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30890",
             "price": 330,
             "name": "アオガラス301/1",
             "date": "2022-12-27",
             "stock": 8
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17450",
+            "price": 380,
+            "name": "アオガラス301/1",
+            "date": "2022-12-27",
+            "stock": 61
         },
         {
             "market": "torecolo",
@@ -218,19 +258,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30890",
-            "price": 330,
-            "name": "アオガラス301/1",
-            "date": "2022-12-26",
-            "stock": 8
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17450",
             "price": 380,
             "name": "アオガラス301/1",
             "date": "2022-12-26",
             "stock": 61
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30890",
+            "price": 330,
+            "name": "アオガラス301/1",
+            "date": "2022-12-26",
+            "stock": 8
         },
         {
             "market": "torecolo",
@@ -258,14 +298,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17450",
-            "price": 380,
-            "name": "アオガラス301/1",
-            "date": "2022-12-25",
-            "stock": 61
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30890",
             "price": 330,
             "name": "アオガラス301/1",
@@ -273,43 +305,11 @@
             "stock": 8
         },
         {
-            "market": "torecolo",
-            "link": "/shop/g/g301-190-S4A-B/",
-            "price": 275,
-            "name": "【ポケカ】Ｓ◇アオガ",
-            "date": "2022-12-25",
-            "stock": 8
-        },
-        {
-            "market": "magi",
-            "link": "/items/1642562459",
-            "price": 107,
-            "name": "アオガラス S 30",
-            "date": "2022-12-24",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18707",
-            "price": 200,
-            "name": "アオガラス(S){無",
-            "date": "2022-12-24",
-            "stock": 40
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30890",
-            "price": 330,
-            "name": "アオガラス301/1",
-            "date": "2022-12-24",
-            "stock": 8
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17450",
             "price": 380,
             "name": "アオガラス301/1",
-            "date": "2022-12-24",
+            "date": "2022-12-25",
             "stock": 61
         },
         {
@@ -317,7 +317,7 @@
             "link": "/shop/g/g301-190-S4A-B/",
             "price": 275,
             "name": "【ポケカ】Ｓ◇アオガ",
-            "date": "2022-12-24",
+            "date": "2022-12-25",
             "stock": 8
         }
     ]

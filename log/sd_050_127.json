@@ -5,6 +5,22 @@
             "link": "/items/830241067",
             "price": 900,
             "name": "ルカリオV【-】{0",
+            "date": "2023-01-01",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18150",
+            "price": 200,
+            "name": "ルカリオV(D){闘",
+            "date": "2023-01-01",
+            "stock": 29
+        },
+        {
+            "market": "magi",
+            "link": "/items/830241067",
+            "price": 900,
+            "name": "ルカリオV【-】{0",
             "date": "2022-12-31",
             "stock": 1
         },
@@ -110,22 +126,6 @@
             "price": 200,
             "name": "ルカリオV(D){闘",
             "date": "2022-12-25",
-            "stock": 30
-        },
-        {
-            "market": "magi",
-            "link": "/items/830241067",
-            "price": 900,
-            "name": "ルカリオV【-】{0",
-            "date": "2022-12-24",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18150",
-            "price": 200,
-            "name": "ルカリオV(D){闘",
-            "date": "2022-12-24",
             "stock": 30
         }
     ]

@@ -5,6 +5,22 @@
             "link": "https://www.hareruya2.com/product/18066",
             "price": 50,
             "name": "アーボック(D){悪",
+            "date": "2023-01-01",
+            "stock": 5
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g058-127-SD-B/",
+            "price": 33,
+            "name": "【ポケカ】ＳＳ◇アー",
+            "date": "2023-01-01",
+            "stock": 4
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18066",
+            "price": 50,
+            "name": "アーボック(D){悪",
             "date": "2022-12-31",
             "stock": 5
         },
@@ -110,22 +126,6 @@
             "price": 33,
             "name": "【ポケカ】ＳＳ◇アー",
             "date": "2022-12-25",
-            "stock": 4
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18066",
-            "price": 50,
-            "name": "アーボック(D){悪",
-            "date": "2022-12-24",
-            "stock": 5
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g058-127-SD-B/",
-            "price": 33,
-            "name": "【ポケカ】ＳＳ◇アー",
-            "date": "2022-12-24",
             "stock": 4
         }
     ]

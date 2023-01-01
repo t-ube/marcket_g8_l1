@@ -2,6 +2,22 @@
     "items": [
         {
             "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14146",
+            "price": 2380,
+            "name": "オニオン084/07",
+            "date": "2023-01-01",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30257",
+            "price": 2080,
+            "name": "オニオン084/07",
+            "date": "2023-01-01",
+            "stock": 7
+        },
+        {
+            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30257",
             "price": 2080,
             "name": "オニオン084/07",
@@ -62,14 +78,6 @@
             "price": 2080,
             "name": "オニオン084/07",
             "date": "2022-12-25",
-            "stock": 7
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30257",
-            "price": 2080,
-            "name": "オニオン084/07",
-            "date": "2022-12-24",
             "stock": 7
         }
     ]

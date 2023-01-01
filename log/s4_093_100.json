@@ -2,11 +2,179 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/1577613244",
+            "price": 150,
+            "name": "サイトウ U 093",
+            "date": "2023-01-01",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1555921546",
+            "price": 100,
+            "name": "サイトウ U 093",
+            "date": "2023-01-01",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/538431831",
             "price": 600,
             "name": "サイトウ U 093",
+            "date": "2023-01-01",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1294652778",
+            "price": 198,
+            "name": "【特価】サイトウ U",
+            "date": "2023-01-01",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2033815309",
+            "price": 150,
+            "name": "サイトウ U 093",
+            "date": "2023-01-01",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/120272120",
+            "price": 75,
+            "name": "PC サイトウ(09",
+            "date": "2023-01-01",
+            "stock": 2
+        },
+        {
+            "market": "magi",
+            "link": "/items/1403155250",
+            "price": 75,
+            "name": "PC サイトウ(09",
+            "date": "2023-01-01",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1754349933",
+            "price": 150,
+            "name": "サイトウ U 093",
+            "date": "2023-01-01",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1363673527",
+            "price": 150,
+            "name": "サイトウ U 093",
+            "date": "2023-01-01",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1080668602",
+            "price": 150,
+            "name": "サイトウ U 093",
+            "date": "2023-01-01",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1903593983",
+            "price": 75,
+            "name": "PC サイトウ(09",
+            "date": "2023-01-01",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1289051137",
+            "price": 75,
+            "name": "PC サイトウ(09",
+            "date": "2023-01-01",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1953930498",
+            "price": 75,
+            "name": "PC サイトウ(09",
+            "date": "2023-01-01",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1386443501",
+            "price": 150,
+            "name": "サイトウ U 093",
+            "date": "2023-01-01",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18378",
+            "price": 200,
+            "name": "サイトウ(U){サポ",
+            "date": "2023-01-01",
+            "stock": 30
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14547",
+            "price": 80,
+            "name": "サイトウ093/10",
+            "date": "2023-01-01",
+            "stock": 79
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g093-100-S4-B/",
+            "price": 72,
+            "name": "【ポケカ】Ｕ◇サイト",
+            "date": "2023-01-01",
+            "stock": 2
+        },
+        {
+            "market": "magi",
+            "link": "/items/1294652778",
+            "price": 198,
+            "name": "【特価】サイトウ U",
             "date": "2022-12-31",
             "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1903593983",
+            "price": 75,
+            "name": "PC サイトウ(09",
+            "date": "2022-12-31",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1080668602",
+            "price": 150,
+            "name": "サイトウ U 093",
+            "date": "2022-12-31",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/120272120",
+            "price": 75,
+            "name": "PC サイトウ(09",
+            "date": "2022-12-31",
+            "stock": 2
+        },
+        {
+            "market": "magi",
+            "link": "/items/1403155250",
+            "price": 75,
+            "name": "PC サイトウ(09",
+            "date": "2022-12-31",
+            "stock": 4
         },
         {
             "market": "magi",
@@ -15,6 +183,22 @@
             "name": "PC サイトウ(09",
             "date": "2022-12-31",
             "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1289051137",
+            "price": 75,
+            "name": "PC サイトウ(09",
+            "date": "2022-12-31",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/538431831",
+            "price": 600,
+            "name": "サイトウ U 093",
+            "date": "2022-12-31",
+            "stock": 1
         },
         {
             "market": "magi",
@@ -34,51 +218,11 @@
         },
         {
             "market": "magi",
-            "link": "/items/1080668602",
-            "price": 150,
-            "name": "サイトウ U 093",
-            "date": "2022-12-31",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1903593983",
-            "price": 75,
-            "name": "PC サイトウ(09",
-            "date": "2022-12-31",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/1289051137",
-            "price": 75,
-            "name": "PC サイトウ(09",
-            "date": "2022-12-31",
-            "stock": 4
-        },
-        {
-            "market": "magi",
             "link": "/items/1363673527",
             "price": 150,
             "name": "サイトウ U 093",
             "date": "2022-12-31",
             "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1403155250",
-            "price": 75,
-            "name": "PC サイトウ(09",
-            "date": "2022-12-31",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/120272120",
-            "price": 75,
-            "name": "PC サイトウ(09",
-            "date": "2022-12-31",
-            "stock": 2
         },
         {
             "market": "magi",
@@ -93,14 +237,6 @@
             "link": "/items/1754349933",
             "price": 150,
             "name": "サイトウ U 093",
-            "date": "2022-12-31",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1294652778",
-            "price": 198,
-            "name": "【特価】サイトウ U",
             "date": "2022-12-31",
             "stock": 1
         },
@@ -146,87 +282,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/1363673527",
-            "price": 150,
-            "name": "サイトウ U 093",
-            "date": "2022-12-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1754349933",
-            "price": 150,
-            "name": "サイトウ U 093",
-            "date": "2022-12-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2033815309",
-            "price": 150,
-            "name": "サイトウ U 093",
-            "date": "2022-12-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1577613244",
-            "price": 150,
-            "name": "サイトウ U 093",
-            "date": "2022-12-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1386443501",
-            "price": 150,
-            "name": "サイトウ U 093",
-            "date": "2022-12-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1555921546",
-            "price": 100,
-            "name": "サイトウ U 093",
-            "date": "2022-12-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1953930498",
-            "price": 75,
-            "name": "PC サイトウ(09",
-            "date": "2022-12-30",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/538431831",
-            "price": 600,
-            "name": "サイトウ U 093",
-            "date": "2022-12-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1294652778",
-            "price": 198,
-            "name": "【特価】サイトウ U",
-            "date": "2022-12-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/120272120",
-            "price": 75,
-            "name": "PC サイトウ(09",
-            "date": "2022-12-30",
-            "stock": 2
-        },
-        {
-            "market": "magi",
-            "link": "/items/1403155250",
+            "link": "/items/1289051137",
             "price": 75,
             "name": "PC サイトウ(09",
             "date": "2022-12-30",
@@ -242,11 +298,91 @@
         },
         {
             "market": "magi",
-            "link": "/items/1289051137",
+            "link": "/items/1403155250",
             "price": 75,
             "name": "PC サイトウ(09",
             "date": "2022-12-30",
             "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/120272120",
+            "price": 75,
+            "name": "PC サイトウ(09",
+            "date": "2022-12-30",
+            "stock": 2
+        },
+        {
+            "market": "magi",
+            "link": "/items/1294652778",
+            "price": 198,
+            "name": "【特価】サイトウ U",
+            "date": "2022-12-30",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1953930498",
+            "price": 75,
+            "name": "PC サイトウ(09",
+            "date": "2022-12-30",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1555921546",
+            "price": 100,
+            "name": "サイトウ U 093",
+            "date": "2022-12-30",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1386443501",
+            "price": 150,
+            "name": "サイトウ U 093",
+            "date": "2022-12-30",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1577613244",
+            "price": 150,
+            "name": "サイトウ U 093",
+            "date": "2022-12-30",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2033815309",
+            "price": 150,
+            "name": "サイトウ U 093",
+            "date": "2022-12-30",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1754349933",
+            "price": 150,
+            "name": "サイトウ U 093",
+            "date": "2022-12-30",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1363673527",
+            "price": 150,
+            "name": "サイトウ U 093",
+            "date": "2022-12-30",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/538431831",
+            "price": 600,
+            "name": "サイトウ U 093",
+            "date": "2022-12-30",
+            "stock": 1
         },
         {
             "market": "hareruya2",
@@ -274,71 +410,15 @@
         },
         {
             "market": "magi",
-            "link": "/items/1386443501",
-            "price": 150,
-            "name": "サイトウ U 093",
+            "link": "/items/1294652778",
+            "price": 198,
+            "name": "【特価】サイトウ U",
             "date": "2022-12-29",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1080668602",
-            "price": 150,
-            "name": "サイトウ U 093",
-            "date": "2022-12-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2033815309",
-            "price": 150,
-            "name": "サイトウ U 093",
-            "date": "2022-12-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1577613244",
-            "price": 150,
-            "name": "サイトウ U 093",
-            "date": "2022-12-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1555921546",
-            "price": 100,
-            "name": "サイトウ U 093",
-            "date": "2022-12-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1754349933",
-            "price": 150,
-            "name": "サイトウ U 093",
-            "date": "2022-12-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1363673527",
-            "price": 150,
-            "name": "サイトウ U 093",
-            "date": "2022-12-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/538431831",
-            "price": 600,
-            "name": "サイトウ U 093",
-            "date": "2022-12-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1289051137",
+            "link": "/items/1903593983",
             "price": 75,
             "name": "PC サイトウ(09",
             "date": "2022-12-29",
@@ -346,7 +426,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/1403155250",
+            "link": "/items/1953930498",
             "price": 75,
             "name": "PC サイトウ(09",
             "date": "2022-12-29",
@@ -362,7 +442,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/1953930498",
+            "link": "/items/1403155250",
             "price": 75,
             "name": "PC サイトウ(09",
             "date": "2022-12-29",
@@ -370,19 +450,75 @@
         },
         {
             "market": "magi",
-            "link": "/items/1903593983",
-            "price": 75,
-            "name": "PC サイトウ(09",
-            "date": "2022-12-29",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/1294652778",
-            "price": 198,
-            "name": "【特価】サイトウ U",
+            "link": "/items/1080668602",
+            "price": 150,
+            "name": "サイトウ U 093",
             "date": "2022-12-29",
             "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/538431831",
+            "price": 600,
+            "name": "サイトウ U 093",
+            "date": "2022-12-29",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1363673527",
+            "price": 150,
+            "name": "サイトウ U 093",
+            "date": "2022-12-29",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1754349933",
+            "price": 150,
+            "name": "サイトウ U 093",
+            "date": "2022-12-29",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1555921546",
+            "price": 100,
+            "name": "サイトウ U 093",
+            "date": "2022-12-29",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1386443501",
+            "price": 150,
+            "name": "サイトウ U 093",
+            "date": "2022-12-29",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1577613244",
+            "price": 150,
+            "name": "サイトウ U 093",
+            "date": "2022-12-29",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2033815309",
+            "price": 150,
+            "name": "サイトウ U 093",
+            "date": "2022-12-29",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1289051137",
+            "price": 75,
+            "name": "PC サイトウ(09",
+            "date": "2022-12-29",
+            "stock": 4
         },
         {
             "market": "hareruya2",
@@ -418,22 +554,6 @@
         },
         {
             "market": "magi",
-            "link": "/items/1289051137",
-            "price": 75,
-            "name": "PC サイトウ(09",
-            "date": "2022-12-28",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/1555921546",
-            "price": 100,
-            "name": "サイトウ U 093",
-            "date": "2022-12-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/538431831",
             "price": 600,
             "name": "サイトウ U 093",
@@ -471,6 +591,14 @@
             "name": "PC サイトウ(09",
             "date": "2022-12-28",
             "stock": 2
+        },
+        {
+            "market": "magi",
+            "link": "/items/1555921546",
+            "price": 100,
+            "name": "サイトウ U 093",
+            "date": "2022-12-28",
+            "stock": 1
         },
         {
             "market": "magi",
@@ -519,6 +647,14 @@
             "name": "サイトウ U 093",
             "date": "2022-12-28",
             "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1289051137",
+            "price": 75,
+            "name": "PC サイトウ(09",
+            "date": "2022-12-28",
+            "stock": 4
         },
         {
             "market": "hareruya2",
@@ -546,6 +682,14 @@
         },
         {
             "market": "magi",
+            "link": "/items/1386443501",
+            "price": 150,
+            "name": "サイトウ U 093",
+            "date": "2022-12-27",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/1555921546",
             "price": 100,
             "name": "サイトウ U 093",
@@ -565,14 +709,6 @@
             "link": "/items/1294652778",
             "price": 198,
             "name": "【特価】サイトウ U",
-            "date": "2022-12-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1386443501",
-            "price": 150,
-            "name": "サイトウ U 093",
             "date": "2022-12-27",
             "stock": 1
         },
@@ -626,31 +762,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/1294652778",
-            "price": 198,
-            "name": "【特価】サイトウ U",
-            "date": "2022-12-26",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1555921546",
-            "price": 100,
-            "name": "サイトウ U 093",
-            "date": "2022-12-26",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/538431831",
-            "price": 600,
-            "name": "サイトウ U 093",
-            "date": "2022-12-26",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1577613244",
+            "link": "/items/2033815309",
             "price": 150,
             "name": "サイトウ U 093",
             "date": "2022-12-26",
@@ -658,7 +770,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/2033815309",
+            "link": "/items/1754349933",
             "price": 150,
             "name": "サイトウ U 093",
             "date": "2022-12-26",
@@ -674,8 +786,32 @@
         },
         {
             "market": "magi",
-            "link": "/items/1754349933",
+            "link": "/items/1294652778",
+            "price": 198,
+            "name": "【特価】サイトウ U",
+            "date": "2022-12-26",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1577613244",
             "price": 150,
+            "name": "サイトウ U 093",
+            "date": "2022-12-26",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/538431831",
+            "price": 600,
+            "name": "サイトウ U 093",
+            "date": "2022-12-26",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1555921546",
+            "price": 100,
             "name": "サイトウ U 093",
             "date": "2022-12-26",
             "stock": 1
@@ -730,14 +866,6 @@
         },
         {
             "market": "magi",
-            "link": "/items/1294652778",
-            "price": 198,
-            "name": "【特価】サイトウ U",
-            "date": "2022-12-25",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/1555921546",
             "price": 100,
             "name": "サイトウ U 093",
@@ -761,75 +889,11 @@
             "stock": 1
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18378",
-            "price": 200,
-            "name": "サイトウ(U){サポ",
-            "date": "2022-12-25",
-            "stock": 29
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14547",
-            "price": 80,
-            "name": "サイトウ093/10",
-            "date": "2022-12-25",
-            "stock": 90
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g093-100-S4-B/",
-            "price": 72,
-            "name": "【ポケカ】Ｕ◇サイト",
-            "date": "2022-12-25",
-            "stock": 2
-        },
-        {
-            "market": "magi",
-            "link": "/items/1577613244",
-            "price": 150,
-            "name": "サイトウ U 093",
-            "date": "2022-12-24",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1754349933",
-            "price": 150,
-            "name": "サイトウ U 093",
-            "date": "2022-12-24",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/538431831",
-            "price": 600,
-            "name": "サイトウ U 093",
-            "date": "2022-12-24",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2033815309",
-            "price": 150,
-            "name": "サイトウ U 093",
-            "date": "2022-12-24",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1386443501",
-            "price": 150,
-            "name": "サイトウ U 093",
-            "date": "2022-12-24",
-            "stock": 1
-        },
-        {
             "market": "magi",
             "link": "/items/1294652778",
             "price": 198,
             "name": "【特価】サイトウ U",
-            "date": "2022-12-24",
+            "date": "2022-12-25",
             "stock": 1
         },
         {
@@ -837,7 +901,7 @@
             "link": "https://www.hareruya2.com/product/18378",
             "price": 200,
             "name": "サイトウ(U){サポ",
-            "date": "2022-12-24",
+            "date": "2022-12-25",
             "stock": 29
         },
         {
@@ -845,7 +909,7 @@
             "link": "https://www.cardrush-pokemon.jp/product/14547",
             "price": 80,
             "name": "サイトウ093/10",
-            "date": "2022-12-24",
+            "date": "2022-12-25",
             "stock": 90
         },
         {
@@ -853,7 +917,7 @@
             "link": "/shop/g/g093-100-S4-B/",
             "price": 72,
             "name": "【ポケカ】Ｕ◇サイト",
-            "date": "2022-12-24",
+            "date": "2022-12-25",
             "stock": 2
         }
     ]

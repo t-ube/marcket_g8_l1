@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/17931",
             "price": 700,
             "name": "マルヤクデV(SR)",
+            "date": "2023-01-01",
+            "stock": 5
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30085",
+            "price": 580,
+            "name": "マルヤクデV072/",
+            "date": "2023-01-01",
+            "stock": 13
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/13173",
+            "price": 680,
+            "name": "マルヤクデV072/",
+            "date": "2023-01-01",
+            "stock": 19
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17931",
+            "price": 700,
+            "name": "マルヤクデV(SR)",
             "date": "2022-12-31",
             "stock": 5
         },
@@ -58,19 +82,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30085",
-            "price": 580,
-            "name": "マルヤクデV072/",
-            "date": "2022-12-29",
-            "stock": 13
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/13173",
             "price": 680,
             "name": "マルヤクデV072/",
             "date": "2022-12-29",
             "stock": 18
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30085",
+            "price": 580,
+            "name": "マルヤクデV072/",
+            "date": "2022-12-29",
+            "stock": 13
         },
         {
             "market": "hareruya2",
@@ -82,19 +106,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/13173",
-            "price": 680,
-            "name": "マルヤクデV072/",
-            "date": "2022-12-28",
-            "stock": 18
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30085",
             "price": 580,
             "name": "マルヤクデV072/",
             "date": "2022-12-28",
             "stock": 13
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/13173",
+            "price": 680,
+            "name": "マルヤクデV072/",
+            "date": "2022-12-28",
+            "stock": 18
         },
         {
             "market": "hareruya2",
@@ -103,14 +127,6 @@
             "name": "マルヤクデV(SR)",
             "date": "2022-12-27",
             "stock": 5
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30085",
-            "price": 580,
-            "name": "マルヤクデV072/",
-            "date": "2022-12-27",
-            "stock": 13
         },
         {
             "market": "cardrush",
@@ -121,12 +137,28 @@
             "stock": 16
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30085",
+            "price": 580,
+            "name": "マルヤクデV072/",
+            "date": "2022-12-27",
+            "stock": 13
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/17931",
             "price": 700,
             "name": "マルヤクデV(SR)",
             "date": "2022-12-26",
             "stock": 5
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30085",
+            "price": 580,
+            "name": "マルヤクデV072/",
+            "date": "2022-12-26",
+            "stock": 13
         },
         {
             "market": "cardrush",
@@ -137,28 +169,12 @@
             "stock": 16
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30085",
-            "price": 580,
-            "name": "マルヤクデV072/",
-            "date": "2022-12-26",
-            "stock": 13
-        },
-        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/17931",
             "price": 700,
             "name": "マルヤクデV(SR)",
             "date": "2022-12-25",
             "stock": 5
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30085",
-            "price": 580,
-            "name": "マルヤクデV072/",
-            "date": "2022-12-25",
-            "stock": 13
         },
         {
             "market": "cardrush",
@@ -169,27 +185,11 @@
             "stock": 14
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/17931",
-            "price": 700,
-            "name": "マルヤクデV(SR)",
-            "date": "2022-12-24",
-            "stock": 5
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/13173",
-            "price": 680,
-            "name": "マルヤクデV072/",
-            "date": "2022-12-24",
-            "stock": 14
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30085",
             "price": 580,
             "name": "マルヤクデV072/",
-            "date": "2022-12-24",
+            "date": "2022-12-25",
             "stock": 13
         }
     ]

@@ -2,11 +2,147 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/1572902875",
+            "price": 200,
+            "name": "ジメレオン 040/",
+            "date": "2023-01-01",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1319355777",
+            "price": 550,
+            "name": "ジメレオン 040/",
+            "date": "2023-01-01",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/1566304145",
             "price": 150,
             "name": "ジメレオン 040/",
-            "date": "2022-12-31",
+            "date": "2023-01-01",
             "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1624378890",
+            "price": 600,
+            "name": "ジメレオン 040/",
+            "date": "2023-01-01",
+            "stock": 2
+        },
+        {
+            "market": "magi",
+            "link": "/items/1046744414",
+            "price": 800,
+            "name": "ジメレオン 040/",
+            "date": "2023-01-01",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/187977938",
+            "price": 699,
+            "name": "ジメレオン 040/",
+            "date": "2023-01-01",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/792751775",
+            "price": 380,
+            "name": "ジメレオン 040/",
+            "date": "2023-01-01",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/623244726",
+            "price": 350,
+            "name": "ジメレオン 040/",
+            "date": "2023-01-01",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1996412923",
+            "price": 989,
+            "name": "ジメレオン 040/",
+            "date": "2023-01-01",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1625975594",
+            "price": 600,
+            "name": "ジメレオン 040/",
+            "date": "2023-01-01",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/577489797",
+            "price": 482,
+            "name": "ジメレオン 040/",
+            "date": "2023-01-01",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18446",
+            "price": 150,
+            "name": "ジメレオン(CP){",
+            "date": "2023-01-01",
+            "stock": 183
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18754",
+            "price": 150,
+            "name": "ジメレオン:ミラー(",
+            "date": "2023-01-01",
+            "stock": 57
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17207",
+            "price": 180,
+            "name": "ジメレオン040/1",
+            "date": "2023-01-01",
+            "stock": 10
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30549",
+            "price": 70,
+            "name": "ジメレオン040/1",
+            "date": "2023-01-01",
+            "stock": 10
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30678",
+            "price": 170,
+            "name": "ジメレオン040/1",
+            "date": "2023-01-01",
+            "stock": 10
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17023",
+            "price": 80,
+            "name": "ジメレオン040/1",
+            "date": "2023-01-01",
+            "stock": 152
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g040-190-S4A-B/",
+            "price": 110,
+            "name": "【ポケカ】Ｃ）通常仕",
+            "date": "2023-01-01",
+            "stock": 14
         },
         {
             "market": "magi",
@@ -34,40 +170,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/577489797",
-            "price": 482,
-            "name": "ジメレオン 040/",
-            "date": "2022-12-31",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1046744414",
-            "price": 800,
-            "name": "ジメレオン 040/",
-            "date": "2022-12-31",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1624378890",
-            "price": 600,
-            "name": "ジメレオン 040/",
-            "date": "2022-12-31",
-            "stock": 2
-        },
-        {
-            "market": "magi",
-            "link": "/items/187977938",
-            "price": 699,
-            "name": "ジメレオン 040/",
-            "date": "2022-12-31",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1319355777",
-            "price": 550,
+            "link": "/items/1996412923",
+            "price": 989,
             "name": "ジメレオン 040/",
             "date": "2022-12-31",
             "stock": 1
@@ -82,8 +186,48 @@
         },
         {
             "market": "magi",
-            "link": "/items/1996412923",
-            "price": 989,
+            "link": "/items/1319355777",
+            "price": 550,
+            "name": "ジメレオン 040/",
+            "date": "2022-12-31",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/187977938",
+            "price": 699,
+            "name": "ジメレオン 040/",
+            "date": "2022-12-31",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1566304145",
+            "price": 150,
+            "name": "ジメレオン 040/",
+            "date": "2022-12-31",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1624378890",
+            "price": 600,
+            "name": "ジメレオン 040/",
+            "date": "2022-12-31",
+            "stock": 2
+        },
+        {
+            "market": "magi",
+            "link": "/items/577489797",
+            "price": 482,
+            "name": "ジメレオン 040/",
+            "date": "2022-12-31",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1046744414",
+            "price": 800,
             "name": "ジメレオン 040/",
             "date": "2022-12-31",
             "stock": 1
@@ -106,11 +250,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30549",
-            "price": 70,
+            "link": "https://www.cardrush-pokemon.jp/product/30678",
+            "price": 170,
             "name": "ジメレオン040/1",
             "date": "2022-12-31",
-            "stock": 13
+            "stock": 10
         },
         {
             "market": "cardrush",
@@ -130,11 +274,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30678",
-            "price": 170,
+            "link": "https://www.cardrush-pokemon.jp/product/30549",
+            "price": 70,
             "name": "ジメレオン040/1",
             "date": "2022-12-31",
-            "stock": 10
+            "stock": 13
         },
         {
             "market": "torecolo",
@@ -143,6 +287,14 @@
             "name": "【ポケカ】Ｃ）通常仕",
             "date": "2022-12-31",
             "stock": 14
+        },
+        {
+            "market": "magi",
+            "link": "/items/1319355777",
+            "price": 550,
+            "name": "ジメレオン 040/",
+            "date": "2022-12-30",
+            "stock": 1
         },
         {
             "market": "magi",
@@ -188,14 +340,6 @@
             "market": "magi",
             "link": "/items/187977938",
             "price": 699,
-            "name": "ジメレオン 040/",
-            "date": "2022-12-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1319355777",
-            "price": 550,
             "name": "ジメレオン 040/",
             "date": "2022-12-30",
             "stock": 1
@@ -250,27 +394,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17023",
-            "price": 80,
-            "name": "ジメレオン040/1",
-            "date": "2022-12-30",
-            "stock": 164
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30549",
-            "price": 70,
-            "name": "ジメレオン040/1",
-            "date": "2022-12-30",
-            "stock": 13
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30678",
             "price": 170,
             "name": "ジメレオン040/1",
             "date": "2022-12-30",
             "stock": 10
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17023",
+            "price": 80,
+            "name": "ジメレオン040/1",
+            "date": "2022-12-30",
+            "stock": 164
         },
         {
             "market": "cardrush",
@@ -281,12 +417,44 @@
             "stock": 10
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30549",
+            "price": 70,
+            "name": "ジメレオン040/1",
+            "date": "2022-12-30",
+            "stock": 13
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g040-190-S4A-B/",
             "price": 110,
             "name": "【ポケカ】Ｃ）通常仕",
             "date": "2022-12-30",
             "stock": 14
+        },
+        {
+            "market": "magi",
+            "link": "/items/1572902875",
+            "price": 200,
+            "name": "ジメレオン 040/",
+            "date": "2022-12-29",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/623244726",
+            "price": 350,
+            "name": "ジメレオン 040/",
+            "date": "2022-12-29",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1319355777",
+            "price": 550,
+            "name": "ジメレオン 040/",
+            "date": "2022-12-29",
+            "stock": 1
         },
         {
             "market": "magi",
@@ -306,8 +474,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/1572902875",
-            "price": 200,
+            "link": "/items/792751775",
+            "price": 384,
             "name": "ジメレオン 040/",
             "date": "2022-12-29",
             "stock": 1
@@ -319,6 +487,22 @@
             "name": "ジメレオン 040/",
             "date": "2022-12-29",
             "stock": 2
+        },
+        {
+            "market": "magi",
+            "link": "/items/1625975594",
+            "price": 600,
+            "name": "ジメレオン 040/",
+            "date": "2022-12-29",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/187977938",
+            "price": 699,
+            "name": "ジメレオン 040/",
+            "date": "2022-12-29",
+            "stock": 1
         },
         {
             "market": "magi",
@@ -337,44 +521,12 @@
             "stock": 1
         },
         {
-            "market": "magi",
-            "link": "/items/1625975594",
-            "price": 600,
-            "name": "ジメレオン 040/",
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18446",
+            "price": 150,
+            "name": "ジメレオン(CP){",
             "date": "2022-12-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/623244726",
-            "price": 350,
-            "name": "ジメレオン 040/",
-            "date": "2022-12-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/792751775",
-            "price": 384,
-            "name": "ジメレオン 040/",
-            "date": "2022-12-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/187977938",
-            "price": 699,
-            "name": "ジメレオン 040/",
-            "date": "2022-12-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1319355777",
-            "price": 550,
-            "name": "ジメレオン 040/",
-            "date": "2022-12-29",
-            "stock": 1
+            "stock": 158
         },
         {
             "market": "hareruya2",
@@ -383,14 +535,6 @@
             "name": "ジメレオン:ミラー(",
             "date": "2022-12-29",
             "stock": 57
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18446",
-            "price": 150,
-            "name": "ジメレオン(CP){",
-            "date": "2022-12-29",
-            "stock": 158
         },
         {
             "market": "cardrush",
@@ -410,19 +554,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17023",
-            "price": 80,
-            "name": "ジメレオン040/1",
-            "date": "2022-12-29",
-            "stock": 170
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30678",
             "price": 170,
             "name": "ジメレオン040/1",
             "date": "2022-12-29",
             "stock": 10
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17023",
+            "price": 80,
+            "name": "ジメレオン040/1",
+            "date": "2022-12-29",
+            "stock": 170
         },
         {
             "market": "torecolo",
@@ -431,6 +575,14 @@
             "name": "【ポケカ】Ｃ）通常仕",
             "date": "2022-12-29",
             "stock": 14
+        },
+        {
+            "market": "magi",
+            "link": "/items/1996412923",
+            "price": 990,
+            "name": "ジメレオン 040/",
+            "date": "2022-12-28",
+            "stock": 1
         },
         {
             "market": "magi",
@@ -482,8 +634,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/1566304145",
-            "price": 150,
+            "link": "/items/1625975594",
+            "price": 600,
             "name": "ジメレオン 040/",
             "date": "2022-12-28",
             "stock": 1
@@ -506,16 +658,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/1625975594",
-            "price": 600,
-            "name": "ジメレオン 040/",
-            "date": "2022-12-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1996412923",
-            "price": 990,
+            "link": "/items/1566304145",
+            "price": 150,
             "name": "ジメレオン 040/",
             "date": "2022-12-28",
             "stock": 1
@@ -578,6 +722,22 @@
         },
         {
             "market": "magi",
+            "link": "/items/792751775",
+            "price": 384,
+            "name": "ジメレオン 040/",
+            "date": "2022-12-27",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1996412923",
+            "price": 990,
+            "name": "ジメレオン 040/",
+            "date": "2022-12-27",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/1572902875",
             "price": 200,
             "name": "ジメレオン 040/",
@@ -596,22 +756,6 @@
             "market": "magi",
             "link": "/items/1566304145",
             "price": 150,
-            "name": "ジメレオン 040/",
-            "date": "2022-12-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1996412923",
-            "price": 990,
-            "name": "ジメレオン 040/",
-            "date": "2022-12-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/792751775",
-            "price": 384,
             "name": "ジメレオン 040/",
             "date": "2022-12-27",
             "stock": 1
@@ -679,6 +823,14 @@
             "name": "ジメレオン:ミラー(",
             "date": "2022-12-27",
             "stock": 60
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30678",
+            "price": 170,
+            "name": "ジメレオン040/1",
+            "date": "2022-12-27",
+            "stock": 10
         },
         {
             "market": "cardrush",
@@ -698,14 +850,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30678",
-            "price": 170,
-            "name": "ジメレオン040/1",
-            "date": "2022-12-27",
-            "stock": 10
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30549",
             "price": 70,
             "name": "ジメレオン040/1",
@@ -719,6 +863,14 @@
             "name": "【ポケカ】Ｃ）通常仕",
             "date": "2022-12-27",
             "stock": 14
+        },
+        {
+            "market": "magi",
+            "link": "/items/1566304145",
+            "price": 150,
+            "name": "ジメレオン 040/",
+            "date": "2022-12-26",
+            "stock": 1
         },
         {
             "market": "magi",
@@ -751,14 +903,6 @@
             "name": "ジメレオン 040/",
             "date": "2022-12-26",
             "stock": 2
-        },
-        {
-            "market": "magi",
-            "link": "/items/1566304145",
-            "price": 150,
-            "name": "ジメレオン 040/",
-            "date": "2022-12-26",
-            "stock": 1
         },
         {
             "market": "magi",
@@ -826,6 +970,22 @@
         },
         {
             "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30678",
+            "price": 170,
+            "name": "ジメレオン040/1",
+            "date": "2022-12-26",
+            "stock": 10
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30549",
+            "price": 70,
+            "name": "ジメレオン040/1",
+            "date": "2022-12-26",
+            "stock": 13
+        },
+        {
+            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17207",
             "price": 180,
             "name": "ジメレオン040/1",
@@ -839,22 +999,6 @@
             "name": "ジメレオン040/1",
             "date": "2022-12-26",
             "stock": 169
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30549",
-            "price": 70,
-            "name": "ジメレオン040/1",
-            "date": "2022-12-26",
-            "stock": 13
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30678",
-            "price": 170,
-            "name": "ジメレオン040/1",
-            "date": "2022-12-26",
-            "stock": 10
         },
         {
             "market": "torecolo",
@@ -998,142 +1142,6 @@
             "price": 110,
             "name": "【ポケカ】Ｃ）通常仕",
             "date": "2022-12-25",
-            "stock": 14
-        },
-        {
-            "market": "magi",
-            "link": "/items/1572902875",
-            "price": 200,
-            "name": "ジメレオン 040/",
-            "date": "2022-12-24",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1625975594",
-            "price": 600,
-            "name": "ジメレオン 040/",
-            "date": "2022-12-24",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1046744414",
-            "price": 800,
-            "name": "ジメレオン 040/",
-            "date": "2022-12-24",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1996412923",
-            "price": 991,
-            "name": "ジメレオン 040/",
-            "date": "2022-12-24",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/187977938",
-            "price": 699,
-            "name": "ジメレオン 040/",
-            "date": "2022-12-24",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1319355777",
-            "price": 550,
-            "name": "ジメレオン 040/",
-            "date": "2022-12-24",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/792751775",
-            "price": 392,
-            "name": "ジメレオン 040/",
-            "date": "2022-12-24",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/623244726",
-            "price": 350,
-            "name": "ジメレオン 040/",
-            "date": "2022-12-24",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1624378890",
-            "price": 600,
-            "name": "ジメレオン 040/",
-            "date": "2022-12-24",
-            "stock": 2
-        },
-        {
-            "market": "magi",
-            "link": "/items/577489797",
-            "price": 497,
-            "name": "ジメレオン 040/",
-            "date": "2022-12-24",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18446",
-            "price": 80,
-            "name": "ジメレオン(CP){",
-            "date": "2022-12-24",
-            "stock": 179
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18754",
-            "price": 120,
-            "name": "ジメレオン:ミラー(",
-            "date": "2022-12-24",
-            "stock": 61
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30678",
-            "price": 170,
-            "name": "ジメレオン040/1",
-            "date": "2022-12-24",
-            "stock": 10
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30549",
-            "price": 70,
-            "name": "ジメレオン040/1",
-            "date": "2022-12-24",
-            "stock": 13
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17207",
-            "price": 180,
-            "name": "ジメレオン040/1",
-            "date": "2022-12-24",
-            "stock": 11
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17023",
-            "price": 80,
-            "name": "ジメレオン040/1",
-            "date": "2022-12-24",
-            "stock": 196
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g040-190-S4A-B/",
-            "price": 110,
-            "name": "【ポケカ】Ｃ）通常仕",
-            "date": "2022-12-24",
             "stock": 14
         }
     ]

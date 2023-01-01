@@ -1,8 +1,40 @@
 ﻿{
     "items": [
         {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17835",
+            "price": 100,
+            "name": "シロナ(D){サポー",
+            "date": "2023-01-01",
+            "stock": 6
+        },
+        {
             "market": "magi",
             "link": "/items/815825169",
+            "price": 25,
+            "name": "PC シロナ(017",
+            "date": "2023-01-01",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/222943358",
+            "price": 25,
+            "name": "PC シロナ(017",
+            "date": "2023-01-01",
+            "stock": 4
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g017-021-SC-R/",
+            "price": 88,
+            "name": "【ポケカ】ＳＳ◇シロ",
+            "date": "2023-01-01",
+            "stock": 2
+        },
+        {
+            "market": "magi",
+            "link": "/items/222943358",
             "price": 25,
             "name": "PC シロナ(017",
             "date": "2022-12-31",
@@ -10,7 +42,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/222943358",
+            "link": "/items/815825169",
             "price": 25,
             "name": "PC シロナ(017",
             "date": "2022-12-31",
@@ -66,7 +98,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/815825169",
+            "link": "/items/222943358",
             "price": 25,
             "name": "PC シロナ(017",
             "date": "2022-12-29",
@@ -74,7 +106,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/222943358",
+            "link": "/items/815825169",
             "price": 25,
             "name": "PC シロナ(017",
             "date": "2022-12-29",
@@ -174,22 +206,6 @@
             "price": 88,
             "name": "【ポケカ】ＳＳ◇シロ",
             "date": "2022-12-25",
-            "stock": 2
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/17835",
-            "price": 100,
-            "name": "シロナ(D){サポー",
-            "date": "2022-12-24",
-            "stock": 8
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g017-021-SC-R/",
-            "price": 88,
-            "name": "【ポケカ】ＳＳ◇シロ",
-            "date": "2022-12-24",
             "stock": 2
         }
     ]

@@ -5,6 +5,22 @@
             "link": "https://www.cardrush-pokemon.jp/product/17342",
             "price": 880,
             "name": "とりつかい193/1",
+            "date": "2023-01-01",
+            "stock": 16
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g193-190-S4A-B/",
+            "price": 880,
+            "name": "【ポケカ】ＳＲ◇とり",
+            "date": "2023-01-01",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17342",
+            "price": 880,
+            "name": "とりつかい193/1",
             "date": "2022-12-31",
             "stock": 16
         },
@@ -102,30 +118,6 @@
             "price": 880,
             "name": "【ポケカ】ＳＲ◇とり",
             "date": "2022-12-25",
-            "stock": 2
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18599",
-            "price": 1000,
-            "name": "とりつかい(SR){",
-            "date": "2022-12-24",
-            "stock": 15
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17342",
-            "price": 880,
-            "name": "とりつかい193/1",
-            "date": "2022-12-24",
-            "stock": 2
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g193-190-S4A-B/",
-            "price": 880,
-            "name": "【ポケカ】ＳＲ◇とり",
-            "date": "2022-12-24",
             "stock": 2
         }
     ]

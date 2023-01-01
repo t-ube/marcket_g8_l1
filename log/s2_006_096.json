@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/17709",
             "price": 50,
             "name": "アメタマ(C){草}",
+            "date": "2023-01-01",
+            "stock": 5
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/7435",
+            "price": 30,
+            "name": "アメタマ006/09",
+            "date": "2023-01-01",
+            "stock": 78
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g006-096-S2-B/",
+            "price": 9,
+            "name": "【ポケカ】Ｃ◇アメタ",
+            "date": "2023-01-01",
+            "stock": 6
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17709",
+            "price": 50,
+            "name": "アメタマ(C){草}",
             "date": "2022-12-31",
             "stock": 5
         },
@@ -166,30 +190,6 @@
             "price": 9,
             "name": "【ポケカ】Ｃ◇アメタ",
             "date": "2022-12-25",
-            "stock": 6
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/17709",
-            "price": 50,
-            "name": "アメタマ(C){草}",
-            "date": "2022-12-24",
-            "stock": 5
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7435",
-            "price": 30,
-            "name": "アメタマ006/09",
-            "date": "2022-12-24",
-            "stock": 78
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g006-096-S2-B/",
-            "price": 9,
-            "name": "【ポケカ】Ｃ◇アメタ",
-            "date": "2022-12-24",
             "stock": 6
         }
     ]
