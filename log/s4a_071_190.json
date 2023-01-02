@@ -5,6 +5,38 @@
             "link": "/items/2113186151",
             "price": 100,
             "name": "ゲンガー R 071",
+            "date": "2023-01-02",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18477",
+            "price": 100,
+            "name": "ゲンガー(CP){超",
+            "date": "2023-01-02",
+            "stock": 5
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30571",
+            "price": 70,
+            "name": "ゲンガー071/19",
+            "date": "2023-01-02",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17054",
+            "price": 80,
+            "name": "ゲンガー071/19",
+            "date": "2023-01-02",
+            "stock": 63
+        },
+        {
+            "market": "magi",
+            "link": "/items/2113186151",
+            "price": 100,
+            "name": "ゲンガー R 071",
             "date": "2023-01-01",
             "stock": 1
         },
@@ -50,19 +82,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30571",
-            "price": 70,
-            "name": "ゲンガー071/19",
-            "date": "2022-12-31",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17054",
             "price": 80,
             "name": "ゲンガー071/19",
             "date": "2022-12-31",
             "stock": 54
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30571",
+            "price": 70,
+            "name": "ゲンガー071/19",
+            "date": "2022-12-31",
+            "stock": 1
         },
         {
             "market": "magi",
@@ -114,19 +146,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17054",
-            "price": 80,
-            "name": "ゲンガー071/19",
-            "date": "2022-12-29",
-            "stock": 54
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30571",
             "price": 70,
             "name": "ゲンガー071/19",
             "date": "2022-12-29",
             "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17054",
+            "price": 80,
+            "name": "ゲンガー071/19",
+            "date": "2022-12-29",
+            "stock": 54
         },
         {
             "market": "magi",
@@ -143,14 +175,6 @@
             "name": "ゲンガー(CP){超",
             "date": "2022-12-28",
             "stock": 5
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30571",
-            "price": 70,
-            "name": "ゲンガー071/19",
-            "date": "2022-12-28",
-            "stock": 1
         },
         {
             "market": "cardrush",
@@ -161,6 +185,14 @@
             "stock": 50
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30571",
+            "price": 70,
+            "name": "ゲンガー071/19",
+            "date": "2022-12-28",
+            "stock": 1
+        },
+        {
             "market": "magi",
             "link": "/items/2113186151",
             "price": 100,
@@ -178,19 +210,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17054",
-            "price": 80,
-            "name": "ゲンガー071/19",
-            "date": "2022-12-27",
-            "stock": 50
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30571",
             "price": 70,
             "name": "ゲンガー071/19",
             "date": "2022-12-27",
             "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17054",
+            "price": 80,
+            "name": "ゲンガー071/19",
+            "date": "2022-12-27",
+            "stock": 50
         },
         {
             "market": "magi",
@@ -210,14 +242,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30571",
-            "price": 70,
-            "name": "ゲンガー071/19",
-            "date": "2022-12-26",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17054",
             "price": 80,
             "name": "ゲンガー071/19",
@@ -225,35 +249,11 @@
             "stock": 50
         },
         {
-            "market": "magi",
-            "link": "/items/2113186151",
-            "price": 100,
-            "name": "ゲンガー R 071",
-            "date": "2022-12-25",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18477",
-            "price": 100,
-            "name": "ゲンガー(CP){超",
-            "date": "2022-12-25",
-            "stock": 6
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17054",
-            "price": 80,
-            "name": "ゲンガー071/19",
-            "date": "2022-12-25",
-            "stock": 48
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30571",
             "price": 70,
             "name": "ゲンガー071/19",
-            "date": "2022-12-25",
+            "date": "2022-12-26",
             "stock": 2
         }
     ]

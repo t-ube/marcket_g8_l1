@@ -5,6 +5,30 @@
             "link": "/items/504230615",
             "price": 100,
             "name": "スバメ C 085/",
+            "date": "2023-01-02",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18370",
+            "price": 50,
+            "name": "スバメ(C){無}〈",
+            "date": "2023-01-02",
+            "stock": 25
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14539",
+            "price": 30,
+            "name": "スバメ085/100",
+            "date": "2023-01-02",
+            "stock": 33
+        },
+        {
+            "market": "magi",
+            "link": "/items/504230615",
+            "price": 100,
+            "name": "スバメ C 085/",
             "date": "2023-01-01",
             "stock": 1
         },
@@ -166,30 +190,6 @@
             "price": 30,
             "name": "スバメ085/100",
             "date": "2022-12-26",
-            "stock": 33
-        },
-        {
-            "market": "magi",
-            "link": "/items/504230615",
-            "price": 100,
-            "name": "スバメ C 085/",
-            "date": "2022-12-25",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18370",
-            "price": 50,
-            "name": "スバメ(C){無}〈",
-            "date": "2022-12-25",
-            "stock": 25
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14539",
-            "price": 30,
-            "name": "スバメ085/100",
-            "date": "2022-12-25",
             "stock": 33
         }
     ]

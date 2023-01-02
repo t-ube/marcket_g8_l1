@@ -5,8 +5,64 @@
             "link": "/items/1449654179",
             "price": 50,
             "name": "PC ポプラ(072",
-            "date": "2023-01-01",
+            "date": "2023-01-02",
             "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1608170830",
+            "price": 50,
+            "name": "PC ポプラ(072",
+            "date": "2023-01-02",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1714477854",
+            "price": 50,
+            "name": "PC ポプラ(072",
+            "date": "2023-01-02",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/161761461",
+            "price": 220,
+            "name": "ポプラ　S3a 07",
+            "date": "2023-01-02",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18263",
+            "price": 50,
+            "name": "ポプラ(U){サポー",
+            "date": "2023-01-02",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30233",
+            "price": 70,
+            "name": "ポプラ072/076",
+            "date": "2023-01-02",
+            "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14107",
+            "price": 80,
+            "name": "ポプラ072/076",
+            "date": "2023-01-02",
+            "stock": 50
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g072-076-S3A-B/",
+            "price": 44,
+            "name": "【ポケカ】Ｕ◇ポプラ",
+            "date": "2023-01-02",
+            "stock": 9
         },
         {
             "market": "magi",
@@ -18,7 +74,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/1714477854",
+            "link": "/items/1449654179",
             "price": 50,
             "name": "PC ポプラ(072",
             "date": "2023-01-01",
@@ -31,6 +87,14 @@
             "name": "ポプラ　S3a 07",
             "date": "2023-01-01",
             "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1714477854",
+            "price": 50,
+            "name": "PC ポプラ(072",
+            "date": "2023-01-01",
+            "stock": 4
         },
         {
             "market": "hareruya2",
@@ -66,6 +130,14 @@
         },
         {
             "market": "magi",
+            "link": "/items/1608170830",
+            "price": 50,
+            "name": "PC ポプラ(072",
+            "date": "2022-12-31",
+            "stock": 4
+        },
+        {
+            "market": "magi",
             "link": "/items/1714477854",
             "price": 50,
             "name": "PC ポプラ(072",
@@ -82,14 +154,6 @@
         },
         {
             "market": "magi",
-            "link": "/items/1608170830",
-            "price": 50,
-            "name": "PC ポプラ(072",
-            "date": "2022-12-31",
-            "stock": 4
-        },
-        {
-            "market": "magi",
             "link": "/items/161761461",
             "price": 220,
             "name": "ポプラ　S3a 07",
@@ -106,19 +170,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30233",
-            "price": 70,
-            "name": "ポプラ072/076",
-            "date": "2022-12-31",
-            "stock": 5
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/14107",
             "price": 80,
             "name": "ポプラ072/076",
             "date": "2022-12-31",
             "stock": 50
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30233",
+            "price": 70,
+            "name": "ポプラ072/076",
+            "date": "2022-12-31",
+            "stock": 5
         },
         {
             "market": "torecolo",
@@ -146,14 +210,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30233",
-            "price": 70,
-            "name": "ポプラ072/076",
-            "date": "2022-12-30",
-            "stock": 5
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/14107",
             "price": 80,
             "name": "ポプラ072/076",
@@ -161,6 +217,14 @@
             "stock": 50
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30233",
+            "price": 70,
+            "name": "ポプラ072/076",
+            "date": "2022-12-30",
+            "stock": 5
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g072-076-S3A-B/",
             "price": 44,
@@ -186,14 +250,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14107",
-            "price": 80,
-            "name": "ポプラ072/076",
-            "date": "2022-12-29",
-            "stock": 50
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30233",
             "price": 70,
             "name": "ポプラ072/076",
@@ -201,6 +257,14 @@
             "stock": 5
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14107",
+            "price": 80,
+            "name": "ポプラ072/076",
+            "date": "2022-12-29",
+            "stock": 50
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g072-076-S3A-B/",
             "price": 44,
@@ -226,19 +290,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30233",
-            "price": 70,
-            "name": "ポプラ072/076",
-            "date": "2022-12-28",
-            "stock": 5
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/14107",
             "price": 80,
             "name": "ポプラ072/076",
             "date": "2022-12-28",
             "stock": 50
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30233",
+            "price": 70,
+            "name": "ポプラ072/076",
+            "date": "2022-12-28",
+            "stock": 5
         },
         {
             "market": "torecolo",
@@ -266,19 +330,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30233",
-            "price": 70,
-            "name": "ポプラ072/076",
-            "date": "2022-12-27",
-            "stock": 5
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/14107",
             "price": 80,
             "name": "ポプラ072/076",
             "date": "2022-12-27",
             "stock": 50
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30233",
+            "price": 70,
+            "name": "ポプラ072/076",
+            "date": "2022-12-27",
+            "stock": 5
         },
         {
             "market": "torecolo",
@@ -306,14 +370,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14107",
-            "price": 80,
-            "name": "ポプラ072/076",
-            "date": "2022-12-26",
-            "stock": 50
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30233",
             "price": 70,
             "name": "ポプラ072/076",
@@ -321,43 +377,11 @@
             "stock": 5
         },
         {
-            "market": "torecolo",
-            "link": "/shop/g/g072-076-S3A-B/",
-            "price": 44,
-            "name": "【ポケカ】Ｕ◇ポプラ",
-            "date": "2022-12-26",
-            "stock": 9
-        },
-        {
-            "market": "magi",
-            "link": "/items/161761461",
-            "price": 220,
-            "name": "ポプラ　S3a 07",
-            "date": "2022-12-25",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18263",
-            "price": 50,
-            "name": "ポプラ(U){サポー",
-            "date": "2022-12-25",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30233",
-            "price": 70,
-            "name": "ポプラ072/076",
-            "date": "2022-12-25",
-            "stock": 5
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/14107",
             "price": 80,
             "name": "ポプラ072/076",
-            "date": "2022-12-25",
+            "date": "2022-12-26",
             "stock": 50
         },
         {
@@ -365,7 +389,7 @@
             "link": "/shop/g/g072-076-S3A-B/",
             "price": 44,
             "name": "【ポケカ】Ｕ◇ポプラ",
-            "date": "2022-12-25",
+            "date": "2022-12-26",
             "stock": 9
         }
     ]

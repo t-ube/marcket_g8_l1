@@ -5,7 +5,7 @@
             "link": "/items/1418201432",
             "price": 100,
             "name": "YU06 サシカマス",
-            "date": "2023-01-01",
+            "date": "2023-01-02",
             "stock": 1
         },
         {
@@ -13,6 +13,54 @@
             "link": "/items/204705860",
             "price": 270,
             "name": "サシカマス S 色違",
+            "date": "2023-01-02",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18636",
+            "price": 200,
+            "name": "サシカマス(S){水",
+            "date": "2023-01-02",
+            "stock": 34
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17379",
+            "price": 380,
+            "name": "サシカマス230/1",
+            "date": "2023-01-02",
+            "stock": 56
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30819",
+            "price": 330,
+            "name": "サシカマス230/1",
+            "date": "2023-01-02",
+            "stock": 10
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g230-190-S4A-B/",
+            "price": 275,
+            "name": "【ポケカ】Ｓ◇サシカ",
+            "date": "2023-01-02",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/204705860",
+            "price": 270,
+            "name": "サシカマス S 色違",
+            "date": "2023-01-01",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1418201432",
+            "price": 100,
+            "name": "YU06 サシカマス",
             "date": "2023-01-01",
             "stock": 1
         },
@@ -74,19 +122,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17379",
-            "price": 380,
-            "name": "サシカマス230/1",
-            "date": "2022-12-31",
-            "stock": 41
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30819",
             "price": 330,
             "name": "サシカマス230/1",
             "date": "2022-12-31",
             "stock": 10
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17379",
+            "price": 380,
+            "name": "サシカマス230/1",
+            "date": "2022-12-31",
+            "stock": 41
         },
         {
             "market": "torecolo",
@@ -98,17 +146,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/204705860",
-            "price": 270,
-            "name": "サシカマス S 色違",
+            "link": "/items/1418201432",
+            "price": 100,
+            "name": "YU06 サシカマス",
             "date": "2022-12-30",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1418201432",
-            "price": 100,
-            "name": "YU06 サシカマス",
+            "link": "/items/204705860",
+            "price": 270,
+            "name": "サシカマス S 色違",
             "date": "2022-12-30",
             "stock": 1
         },
@@ -119,14 +167,6 @@
             "name": "サシカマス(S){水",
             "date": "2022-12-30",
             "stock": 34
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30819",
-            "price": 330,
-            "name": "サシカマス230/1",
-            "date": "2022-12-30",
-            "stock": 10
         },
         {
             "market": "cardrush",
@@ -137,6 +177,14 @@
             "stock": 41
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30819",
+            "price": 330,
+            "name": "サシカマス230/1",
+            "date": "2022-12-30",
+            "stock": 10
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g230-190-S4A-B/",
             "price": 275,
@@ -170,14 +218,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17379",
-            "price": 380,
-            "name": "サシカマス230/1",
-            "date": "2022-12-29",
-            "stock": 39
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30819",
             "price": 330,
             "name": "サシカマス230/1",
@@ -185,6 +225,14 @@
             "stock": 10
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17379",
+            "price": 380,
+            "name": "サシカマス230/1",
+            "date": "2022-12-29",
+            "stock": 39
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g230-190-S4A-B/",
             "price": 275,
@@ -194,17 +242,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/1418201432",
-            "price": 100,
-            "name": "YU06 サシカマス",
+            "link": "/items/204705860",
+            "price": 270,
+            "name": "サシカマス S 色違",
             "date": "2022-12-28",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/204705860",
-            "price": 270,
-            "name": "サシカマス S 色違",
+            "link": "/items/1418201432",
+            "price": 100,
+            "name": "YU06 サシカマス",
             "date": "2022-12-28",
             "stock": 1
         },
@@ -218,19 +266,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30819",
-            "price": 330,
-            "name": "サシカマス230/1",
-            "date": "2022-12-28",
-            "stock": 10
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17379",
             "price": 380,
             "name": "サシカマス230/1",
             "date": "2022-12-28",
             "stock": 39
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30819",
+            "price": 330,
+            "name": "サシカマス230/1",
+            "date": "2022-12-28",
+            "stock": 10
         },
         {
             "market": "torecolo",
@@ -242,17 +290,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/204705860",
-            "price": 270,
-            "name": "サシカマス S 色違",
+            "link": "/items/1418201432",
+            "price": 100,
+            "name": "YU06 サシカマス",
             "date": "2022-12-27",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1418201432",
-            "price": 100,
-            "name": "YU06 サシカマス",
+            "link": "/items/204705860",
+            "price": 270,
+            "name": "サシカマス S 色違",
             "date": "2022-12-27",
             "stock": 1
         },
@@ -266,19 +314,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17379",
-            "price": 380,
-            "name": "サシカマス230/1",
-            "date": "2022-12-27",
-            "stock": 39
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30819",
             "price": 330,
             "name": "サシカマス230/1",
             "date": "2022-12-27",
             "stock": 10
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17379",
+            "price": 380,
+            "name": "サシカマス230/1",
+            "date": "2022-12-27",
+            "stock": 39
         },
         {
             "market": "torecolo",
@@ -290,17 +338,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/1418201432",
-            "price": 100,
-            "name": "YU06 サシカマス",
+            "link": "/items/204705860",
+            "price": 270,
+            "name": "サシカマス S 色違",
             "date": "2022-12-26",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/204705860",
-            "price": 270,
-            "name": "サシカマス S 色違",
+            "link": "/items/1418201432",
+            "price": 100,
+            "name": "YU06 サシカマス",
             "date": "2022-12-26",
             "stock": 1
         },
@@ -314,14 +362,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30819",
-            "price": 330,
-            "name": "サシカマス230/1",
-            "date": "2022-12-26",
-            "stock": 10
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17379",
             "price": 380,
             "name": "サシカマス230/1",
@@ -329,51 +369,11 @@
             "stock": 39
         },
         {
-            "market": "torecolo",
-            "link": "/shop/g/g230-190-S4A-B/",
-            "price": 275,
-            "name": "【ポケカ】Ｓ◇サシカ",
-            "date": "2022-12-26",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/204705860",
-            "price": 270,
-            "name": "サシカマス S 色違",
-            "date": "2022-12-25",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1418201432",
-            "price": 100,
-            "name": "YU06 サシカマス",
-            "date": "2022-12-25",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18636",
-            "price": 200,
-            "name": "サシカマス(S){水",
-            "date": "2022-12-25",
-            "stock": 34
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17379",
-            "price": 380,
-            "name": "サシカマス230/1",
-            "date": "2022-12-25",
-            "stock": 39
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30819",
             "price": 330,
             "name": "サシカマス230/1",
-            "date": "2022-12-25",
+            "date": "2022-12-26",
             "stock": 10
         },
         {
@@ -381,7 +381,7 @@
             "link": "/shop/g/g230-190-S4A-B/",
             "price": 275,
             "name": "【ポケカ】Ｓ◇サシカ",
-            "date": "2022-12-25",
+            "date": "2022-12-26",
             "stock": 4
         }
     ]

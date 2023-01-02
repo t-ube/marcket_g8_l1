@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/17915",
             "price": 50,
             "name": "オタチ(C){無}〈",
+            "date": "2023-01-02",
+            "stock": 10
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/13157",
+            "price": 30,
+            "name": "オタチ056/070",
+            "date": "2023-01-02",
+            "stock": 50
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g056-070-S2A-B/",
+            "price": 33,
+            "name": "【ポケカ】Ｃ◇オタチ",
+            "date": "2023-01-02",
+            "stock": 4
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17915",
+            "price": 50,
+            "name": "オタチ(C){無}〈",
             "date": "2023-01-01",
             "stock": 10
         },
@@ -166,30 +190,6 @@
             "price": 33,
             "name": "【ポケカ】Ｃ◇オタチ",
             "date": "2022-12-26",
-            "stock": 4
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/17915",
-            "price": 50,
-            "name": "オタチ(C){無}〈",
-            "date": "2022-12-25",
-            "stock": 10
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/13157",
-            "price": 30,
-            "name": "オタチ056/070",
-            "date": "2022-12-25",
-            "stock": 50
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g056-070-S2A-B/",
-            "price": 33,
-            "name": "【ポケカ】Ｃ◇オタチ",
-            "date": "2022-12-25",
             "stock": 4
         }
     ]

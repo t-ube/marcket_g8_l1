@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/17913",
             "price": 50,
             "name": "シュバルゴ(U){鋼",
+            "date": "2023-01-02",
+            "stock": 12
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/13155",
+            "price": 30,
+            "name": "シュバルゴ054/0",
+            "date": "2023-01-02",
+            "stock": 24
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g054-070-S2A-B/",
+            "price": 33,
+            "name": "【ポケカ】Ｕ◇シュバ",
+            "date": "2023-01-02",
+            "stock": 9
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17913",
+            "price": 50,
+            "name": "シュバルゴ(U){鋼",
             "date": "2023-01-01",
             "stock": 12
         },
@@ -166,30 +190,6 @@
             "price": 33,
             "name": "【ポケカ】Ｕ◇シュバ",
             "date": "2022-12-26",
-            "stock": 9
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/17913",
-            "price": 50,
-            "name": "シュバルゴ(U){鋼",
-            "date": "2022-12-25",
-            "stock": 12
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/13155",
-            "price": 30,
-            "name": "シュバルゴ054/0",
-            "date": "2022-12-25",
-            "stock": 25
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g054-070-S2A-B/",
-            "price": 33,
-            "name": "【ポケカ】Ｕ◇シュバ",
-            "date": "2022-12-25",
             "stock": 9
         }
     ]

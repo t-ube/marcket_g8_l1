@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/17807",
             "price": 700,
             "name": "ダイオウドウV(SR",
+            "date": "2023-01-02",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/29930",
+            "price": 680,
+            "name": "ダイオウドウV104",
+            "date": "2023-01-02",
+            "stock": 22
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/7550",
+            "price": 780,
+            "name": "ダイオウドウV104",
+            "date": "2023-01-02",
+            "stock": 48
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17807",
+            "price": 700,
+            "name": "ダイオウドウV(SR",
             "date": "2023-01-01",
             "stock": 2
         },
@@ -58,19 +82,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/29930",
-            "price": 680,
-            "name": "ダイオウドウV104",
-            "date": "2022-12-30",
-            "stock": 21
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/7550",
             "price": 780,
             "name": "ダイオウドウV104",
             "date": "2022-12-30",
             "stock": 48
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/29930",
+            "price": 680,
+            "name": "ダイオウドウV104",
+            "date": "2022-12-30",
+            "stock": 21
         },
         {
             "market": "hareruya2",
@@ -82,19 +106,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7550",
-            "price": 780,
-            "name": "ダイオウドウV104",
-            "date": "2022-12-29",
-            "stock": 48
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/29930",
             "price": 680,
             "name": "ダイオウドウV104",
             "date": "2022-12-29",
             "stock": 21
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/7550",
+            "price": 780,
+            "name": "ダイオウドウV104",
+            "date": "2022-12-29",
+            "stock": 48
         },
         {
             "market": "hareruya2",
@@ -106,19 +130,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/29930",
-            "price": 680,
-            "name": "ダイオウドウV104",
-            "date": "2022-12-28",
-            "stock": 21
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/7550",
             "price": 780,
             "name": "ダイオウドウV104",
             "date": "2022-12-28",
             "stock": 48
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/29930",
+            "price": 680,
+            "name": "ダイオウドウV104",
+            "date": "2022-12-28",
+            "stock": 21
         },
         {
             "market": "hareruya2",
@@ -127,6 +151,14 @@
             "name": "ダイオウドウV(SR",
             "date": "2022-12-27",
             "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/29930",
+            "price": 680,
+            "name": "ダイオウドウV104",
+            "date": "2022-12-27",
+            "stock": 21
         },
         {
             "market": "cardrush",
@@ -137,28 +169,12 @@
             "stock": 42
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/29930",
-            "price": 680,
-            "name": "ダイオウドウV104",
-            "date": "2022-12-27",
-            "stock": 21
-        },
-        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/17807",
             "price": 700,
             "name": "ダイオウドウV(SR",
             "date": "2022-12-26",
             "stock": 3
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/29930",
-            "price": 680,
-            "name": "ダイオウドウV104",
-            "date": "2022-12-26",
-            "stock": 21
         },
         {
             "market": "cardrush",
@@ -169,27 +185,11 @@
             "stock": 42
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/17807",
-            "price": 700,
-            "name": "ダイオウドウV(SR",
-            "date": "2022-12-25",
-            "stock": 3
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7550",
-            "price": 780,
-            "name": "ダイオウドウV104",
-            "date": "2022-12-25",
-            "stock": 41
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/29930",
             "price": 680,
             "name": "ダイオウドウV104",
-            "date": "2022-12-25",
+            "date": "2022-12-26",
             "stock": 21
         }
     ]

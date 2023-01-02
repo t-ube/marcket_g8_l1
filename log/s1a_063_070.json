@@ -5,6 +5,30 @@
             "link": "/items/2106907013",
             "price": 443,
             "name": "たっぷりバケツ U ",
+            "date": "2023-01-02",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17680",
+            "price": 100,
+            "name": "たっぷりバケツ(U)",
+            "date": "2023-01-02",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/7347",
+            "price": 120,
+            "name": "たっぷりバケツ063",
+            "date": "2023-01-02",
+            "stock": 14
+        },
+        {
+            "market": "magi",
+            "link": "/items/2106907013",
+            "price": 443,
+            "name": "たっぷりバケツ U ",
             "date": "2023-01-01",
             "stock": 1
         },
@@ -110,22 +134,6 @@
             "price": 100,
             "name": "たっぷりバケツ(U)",
             "date": "2022-12-26",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2106907013",
-            "price": 443,
-            "name": "たっぷりバケツ U ",
-            "date": "2022-12-25",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/17680",
-            "price": 100,
-            "name": "たっぷりバケツ(U)",
-            "date": "2022-12-25",
             "stock": 1
         }
     ]

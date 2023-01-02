@@ -5,6 +5,38 @@
             "link": "https://www.hareruya2.com/product/18635",
             "price": 200,
             "name": "ウッウ(S){水}〈",
+            "date": "2023-01-02",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30818",
+            "price": 330,
+            "name": "ウッウ229/190",
+            "date": "2023-01-02",
+            "stock": 5
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17378",
+            "price": 380,
+            "name": "ウッウ229/190",
+            "date": "2023-01-02",
+            "stock": 77
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g229-190-S4A-B/",
+            "price": 330,
+            "name": "【ポケカ】Ｓ◇ウッウ",
+            "date": "2023-01-02",
+            "stock": 9
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18635",
+            "price": 200,
+            "name": "ウッウ(S){水}〈",
             "date": "2023-01-01",
             "stock": 2
         },
@@ -74,14 +106,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30818",
-            "price": 330,
-            "name": "ウッウ229/190",
-            "date": "2022-12-30",
-            "stock": 5
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17378",
             "price": 380,
             "name": "ウッウ229/190",
@@ -89,6 +113,14 @@
             "stock": 52
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30818",
+            "price": 330,
+            "name": "ウッウ229/190",
+            "date": "2022-12-30",
+            "stock": 5
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g229-190-S4A-B/",
             "price": 330,
@@ -138,14 +170,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17378",
-            "price": 380,
-            "name": "ウッウ229/190",
-            "date": "2022-12-28",
-            "stock": 46
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30818",
             "price": 330,
             "name": "ウッウ229/190",
@@ -153,6 +177,14 @@
             "stock": 5
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17378",
+            "price": 380,
+            "name": "ウッウ229/190",
+            "date": "2022-12-28",
+            "stock": 46
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g229-190-S4A-B/",
             "price": 330,
@@ -170,19 +202,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30818",
-            "price": 330,
-            "name": "ウッウ229/190",
-            "date": "2022-12-27",
-            "stock": 3
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17378",
             "price": 380,
             "name": "ウッウ229/190",
             "date": "2022-12-27",
             "stock": 46
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30818",
+            "price": 330,
+            "name": "ウッウ229/190",
+            "date": "2022-12-27",
+            "stock": 3
         },
         {
             "market": "torecolo",
@@ -202,14 +234,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17378",
-            "price": 380,
-            "name": "ウッウ229/190",
-            "date": "2022-12-26",
-            "stock": 46
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30818",
             "price": 330,
             "name": "ウッウ229/190",
@@ -217,35 +241,11 @@
             "stock": 3
         },
         {
-            "market": "torecolo",
-            "link": "/shop/g/g229-190-S4A-B/",
-            "price": 330,
-            "name": "【ポケカ】Ｓ◇ウッウ",
-            "date": "2022-12-26",
-            "stock": 9
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18635",
-            "price": 200,
-            "name": "ウッウ(S){水}〈",
-            "date": "2022-12-25",
-            "stock": 13
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30818",
-            "price": 330,
-            "name": "ウッウ229/190",
-            "date": "2022-12-25",
-            "stock": 3
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17378",
             "price": 380,
             "name": "ウッウ229/190",
-            "date": "2022-12-25",
+            "date": "2022-12-26",
             "stock": 46
         },
         {
@@ -253,7 +253,7 @@
             "link": "/shop/g/g229-190-S4A-B/",
             "price": 330,
             "name": "【ポケカ】Ｓ◇ウッウ",
-            "date": "2022-12-25",
+            "date": "2022-12-26",
             "stock": 9
         }
     ]

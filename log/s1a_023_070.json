@@ -5,6 +5,38 @@
             "link": "/items/1203189332",
             "price": 400,
             "name": "インテレオンVMAX",
+            "date": "2023-01-02",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1042629217",
+            "price": 450,
+            "name": "【4枚】インテレオン",
+            "date": "2023-01-02",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17640",
+            "price": 200,
+            "name": "インテレオンVMAX",
+            "date": "2023-01-02",
+            "stock": 33
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/7307",
+            "price": 280,
+            "name": "インテレオンVMAX",
+            "date": "2023-01-02",
+            "stock": 70
+        },
+        {
+            "market": "magi",
+            "link": "/items/1203189332",
+            "price": 400,
+            "name": "インテレオンVMAX",
             "date": "2023-01-01",
             "stock": 1
         },
@@ -42,17 +74,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/1203189332",
-            "price": 400,
-            "name": "インテレオンVMAX",
+            "link": "/items/1042629217",
+            "price": 450,
+            "name": "【4枚】インテレオン",
             "date": "2022-12-31",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1042629217",
-            "price": 450,
-            "name": "【4枚】インテレオン",
+            "link": "/items/1203189332",
+            "price": 400,
+            "name": "インテレオンVMAX",
             "date": "2022-12-31",
             "stock": 1
         },
@@ -63,14 +95,6 @@
             "name": "インテレオンVMAX",
             "date": "2022-12-31",
             "stock": 33
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/29823",
-            "price": 250,
-            "name": "インテレオンVMAX",
-            "date": "2022-12-31",
-            "stock": 1
         },
         {
             "market": "cardrush",
@@ -81,11 +105,11 @@
             "stock": 34
         },
         {
-            "market": "magi",
-            "link": "/items/1042629217",
-            "price": 450,
-            "name": "【4枚】インテレオン",
-            "date": "2022-12-30",
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/29823",
+            "price": 250,
+            "name": "インテレオンVMAX",
+            "date": "2022-12-31",
             "stock": 1
         },
         {
@@ -97,12 +121,28 @@
             "stock": 1
         },
         {
+            "market": "magi",
+            "link": "/items/1042629217",
+            "price": 450,
+            "name": "【4枚】インテレオン",
+            "date": "2022-12-30",
+            "stock": 1
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/17640",
             "price": 200,
             "name": "インテレオンVMAX",
             "date": "2022-12-30",
             "stock": 33
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/29823",
+            "price": 250,
+            "name": "インテレオンVMAX",
+            "date": "2022-12-30",
+            "stock": 1
         },
         {
             "market": "cardrush",
@@ -111,14 +151,6 @@
             "name": "インテレオンVMAX",
             "date": "2022-12-30",
             "stock": 32
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/29823",
-            "price": 250,
-            "name": "インテレオンVMAX",
-            "date": "2022-12-30",
-            "stock": 1
         },
         {
             "market": "magi",
@@ -162,17 +194,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/1203189332",
-            "price": 400,
-            "name": "インテレオンVMAX",
+            "link": "/items/1042629217",
+            "price": 450,
+            "name": "【4枚】インテレオン",
             "date": "2022-12-28",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1042629217",
-            "price": 450,
-            "name": "【4枚】インテレオン",
+            "link": "/items/1203189332",
+            "price": 400,
+            "name": "インテレオンVMAX",
             "date": "2022-12-28",
             "stock": 1
         },
@@ -186,14 +218,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/29823",
-            "price": 250,
-            "name": "インテレオンVMAX",
-            "date": "2022-12-28",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/7307",
             "price": 280,
             "name": "インテレオンVMAX",
@@ -201,11 +225,11 @@
             "stock": 32
         },
         {
-            "market": "magi",
-            "link": "/items/1042629217",
-            "price": 450,
-            "name": "【4枚】インテレオン",
-            "date": "2022-12-27",
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/29823",
+            "price": 250,
+            "name": "インテレオンVMAX",
+            "date": "2022-12-28",
             "stock": 1
         },
         {
@@ -213,6 +237,14 @@
             "link": "/items/1203189332",
             "price": 400,
             "name": "インテレオンVMAX",
+            "date": "2022-12-27",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1042629217",
+            "price": 450,
+            "name": "【4枚】インテレオン",
             "date": "2022-12-27",
             "stock": 1
         },
@@ -226,14 +258,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7307",
-            "price": 280,
-            "name": "インテレオンVMAX",
-            "date": "2022-12-27",
-            "stock": 32
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/29823",
             "price": 250,
             "name": "インテレオンVMAX",
@@ -241,18 +265,26 @@
             "stock": 1
         },
         {
-            "market": "magi",
-            "link": "/items/1203189332",
-            "price": 400,
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/7307",
+            "price": 280,
             "name": "インテレオンVMAX",
-            "date": "2022-12-26",
-            "stock": 1
+            "date": "2022-12-27",
+            "stock": 32
         },
         {
             "market": "magi",
             "link": "/items/1042629217",
             "price": 450,
             "name": "【4枚】インテレオン",
+            "date": "2022-12-26",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1203189332",
+            "price": 400,
+            "name": "インテレオンVMAX",
             "date": "2022-12-26",
             "stock": 1
         },
@@ -266,14 +298,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/29823",
-            "price": 250,
-            "name": "インテレオンVMAX",
-            "date": "2022-12-26",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/7307",
             "price": 280,
             "name": "インテレオンVMAX",
@@ -281,43 +305,11 @@
             "stock": 32
         },
         {
-            "market": "magi",
-            "link": "/items/1042629217",
-            "price": 450,
-            "name": "【4枚】インテレオン",
-            "date": "2022-12-25",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1203189332",
-            "price": 400,
-            "name": "インテレオンVMAX",
-            "date": "2022-12-25",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/17640",
-            "price": 200,
-            "name": "インテレオンVMAX",
-            "date": "2022-12-25",
-            "stock": 34
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7307",
-            "price": 280,
-            "name": "インテレオンVMAX",
-            "date": "2022-12-25",
-            "stock": 32
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/29823",
             "price": 250,
             "name": "インテレオンVMAX",
-            "date": "2022-12-25",
+            "date": "2022-12-26",
             "stock": 1
         }
     ]

@@ -1,17 +1,73 @@
 ﻿{
     "items": [
         {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17923",
+            "price": 100,
+            "name": "そっくりベル(U){",
+            "date": "2023-01-02",
+            "stock": 85
+        },
+        {
             "market": "magi",
             "link": "/items/1885844879",
             "price": 200,
+            "name": "そっくりベル U 0",
+            "date": "2023-01-02",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1021818005",
+            "price": 100,
+            "name": "そっくりベル U 0",
+            "date": "2023-01-02",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1502426846",
+            "price": 400,
+            "name": "そっくりベル U 0",
+            "date": "2023-01-02",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/13165",
+            "price": 80,
+            "name": "そっくりベル064/",
+            "date": "2023-01-02",
+            "stock": 247
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30077",
+            "price": 70,
+            "name": "そっくりベル064/",
+            "date": "2023-01-02",
+            "stock": 17
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g064-070-S2A-B/",
+            "price": 33,
+            "name": "【ポケカ】Ｕ◇そっく",
+            "date": "2023-01-02",
+            "stock": 5
+        },
+        {
+            "market": "magi",
+            "link": "/items/1021818005",
+            "price": 270,
             "name": "そっくりベル U 0",
             "date": "2023-01-01",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1021818005",
-            "price": 270,
+            "link": "/items/1885844879",
+            "price": 200,
             "name": "そっくりベル U 0",
             "date": "2023-01-01",
             "stock": 1
@@ -58,14 +114,6 @@
         },
         {
             "market": "magi",
-            "link": "/items/1021818005",
-            "price": 270,
-            "name": "そっくりベル U 0",
-            "date": "2022-12-31",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/1885844879",
             "price": 200,
             "name": "そっくりベル U 0",
@@ -81,20 +129,20 @@
             "stock": 1
         },
         {
+            "market": "magi",
+            "link": "/items/1021818005",
+            "price": 270,
+            "name": "そっくりベル U 0",
+            "date": "2022-12-31",
+            "stock": 1
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/17923",
             "price": 100,
             "name": "そっくりベル(U){",
             "date": "2022-12-31",
             "stock": 83
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/13165",
-            "price": 80,
-            "name": "そっくりベル064/",
-            "date": "2022-12-31",
-            "stock": 201
         },
         {
             "market": "cardrush",
@@ -105,28 +153,20 @@
             "stock": 17
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/13165",
+            "price": 80,
+            "name": "そっくりベル064/",
+            "date": "2022-12-31",
+            "stock": 201
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g064-070-S2A-B/",
             "price": 33,
             "name": "【ポケカ】Ｕ◇そっく",
             "date": "2022-12-31",
             "stock": 5
-        },
-        {
-            "market": "magi",
-            "link": "/items/1885844879",
-            "price": 200,
-            "name": "そっくりベル U 0",
-            "date": "2022-12-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1502426846",
-            "price": 400,
-            "name": "そっくりベル U 0",
-            "date": "2022-12-30",
-            "stock": 1
         },
         {
             "market": "magi",
@@ -137,20 +177,28 @@
             "stock": 1
         },
         {
+            "market": "magi",
+            "link": "/items/1502426846",
+            "price": 400,
+            "name": "そっくりベル U 0",
+            "date": "2022-12-30",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1885844879",
+            "price": 200,
+            "name": "そっくりベル U 0",
+            "date": "2022-12-30",
+            "stock": 1
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/17923",
             "price": 100,
             "name": "そっくりベル(U){",
             "date": "2022-12-30",
             "stock": 83
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30077",
-            "price": 70,
-            "name": "そっくりベル064/",
-            "date": "2022-12-30",
-            "stock": 17
         },
         {
             "market": "cardrush",
@@ -161,28 +209,20 @@
             "stock": 201
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30077",
+            "price": 70,
+            "name": "そっくりベル064/",
+            "date": "2022-12-30",
+            "stock": 17
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g064-070-S2A-B/",
             "price": 33,
             "name": "【ポケカ】Ｕ◇そっく",
             "date": "2022-12-30",
             "stock": 5
-        },
-        {
-            "market": "magi",
-            "link": "/items/1021818005",
-            "price": 270,
-            "name": "そっくりベル U 0",
-            "date": "2022-12-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1502426846",
-            "price": 400,
-            "name": "そっくりベル U 0",
-            "date": "2022-12-29",
-            "stock": 1
         },
         {
             "market": "magi",
@@ -193,20 +233,28 @@
             "stock": 1
         },
         {
+            "market": "magi",
+            "link": "/items/1502426846",
+            "price": 400,
+            "name": "そっくりベル U 0",
+            "date": "2022-12-29",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1021818005",
+            "price": 270,
+            "name": "そっくりベル U 0",
+            "date": "2022-12-29",
+            "stock": 1
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/17923",
             "price": 100,
             "name": "そっくりベル(U){",
             "date": "2022-12-29",
             "stock": 83
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/13165",
-            "price": 80,
-            "name": "そっくりベル064/",
-            "date": "2022-12-29",
-            "stock": 201
         },
         {
             "market": "cardrush",
@@ -217,28 +265,20 @@
             "stock": 17
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/13165",
+            "price": 80,
+            "name": "そっくりベル064/",
+            "date": "2022-12-29",
+            "stock": 201
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g064-070-S2A-B/",
             "price": 33,
             "name": "【ポケカ】Ｕ◇そっく",
             "date": "2022-12-29",
             "stock": 5
-        },
-        {
-            "market": "magi",
-            "link": "/items/1885844879",
-            "price": 200,
-            "name": "そっくりベル U 0",
-            "date": "2022-12-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1502426846",
-            "price": 400,
-            "name": "そっくりベル U 0",
-            "date": "2022-12-28",
-            "stock": 1
         },
         {
             "market": "magi",
@@ -249,6 +289,22 @@
             "stock": 1
         },
         {
+            "market": "magi",
+            "link": "/items/1502426846",
+            "price": 400,
+            "name": "そっくりベル U 0",
+            "date": "2022-12-28",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1885844879",
+            "price": 200,
+            "name": "そっくりベル U 0",
+            "date": "2022-12-28",
+            "stock": 1
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/17923",
             "price": 100,
@@ -258,19 +314,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30077",
-            "price": 70,
-            "name": "そっくりベル064/",
-            "date": "2022-12-28",
-            "stock": 17
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/13165",
             "price": 80,
             "name": "そっくりベル064/",
             "date": "2022-12-28",
             "stock": 201
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30077",
+            "price": 70,
+            "name": "そっくりベル064/",
+            "date": "2022-12-28",
+            "stock": 17
         },
         {
             "market": "torecolo",
@@ -282,16 +338,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/1021818005",
-            "price": 270,
+            "link": "/items/1502426846",
+            "price": 400,
             "name": "そっくりベル U 0",
             "date": "2022-12-27",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1502426846",
-            "price": 400,
+            "link": "/items/1021818005",
+            "price": 270,
             "name": "そっくりベル U 0",
             "date": "2022-12-27",
             "stock": 1
@@ -338,8 +394,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/1502426846",
-            "price": 400,
+            "link": "/items/1885844879",
+            "price": 200,
             "name": "そっくりベル U 0",
             "date": "2022-12-26",
             "stock": 1
@@ -354,8 +410,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/1885844879",
-            "price": 200,
+            "link": "/items/1502426846",
+            "price": 400,
             "name": "そっくりベル U 0",
             "date": "2022-12-26",
             "stock": 1
@@ -370,14 +426,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/13165",
-            "price": 80,
-            "name": "そっくりベル064/",
-            "date": "2022-12-26",
-            "stock": 201
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30077",
             "price": 70,
             "name": "そっくりベル064/",
@@ -385,59 +433,11 @@
             "stock": 17
         },
         {
-            "market": "torecolo",
-            "link": "/shop/g/g064-070-S2A-B/",
-            "price": 33,
-            "name": "【ポケカ】Ｕ◇そっく",
-            "date": "2022-12-26",
-            "stock": 5
-        },
-        {
-            "market": "magi",
-            "link": "/items/1885844879",
-            "price": 200,
-            "name": "そっくりベル U 0",
-            "date": "2022-12-25",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1021818005",
-            "price": 270,
-            "name": "そっくりベル U 0",
-            "date": "2022-12-25",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1502426846",
-            "price": 400,
-            "name": "そっくりベル U 0",
-            "date": "2022-12-25",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/17923",
-            "price": 120,
-            "name": "そっくりベル(U){",
-            "date": "2022-12-25",
-            "stock": 83
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30077",
-            "price": 70,
-            "name": "そっくりベル064/",
-            "date": "2022-12-25",
-            "stock": 17
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/13165",
             "price": 80,
             "name": "そっくりベル064/",
-            "date": "2022-12-25",
+            "date": "2022-12-26",
             "stock": 201
         },
         {
@@ -445,7 +445,7 @@
             "link": "/shop/g/g064-070-S2A-B/",
             "price": 33,
             "name": "【ポケカ】Ｕ◇そっく",
-            "date": "2022-12-25",
+            "date": "2022-12-26",
             "stock": 5
         }
     ]

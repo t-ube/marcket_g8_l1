@@ -5,6 +5,30 @@
             "link": "/items/528671392",
             "price": 330,
             "name": "【2枚】ハッサムVM",
+            "date": "2023-01-02",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18011",
+            "price": 150,
+            "name": "ハッサムV(RR){",
+            "date": "2023-01-02",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/13305",
+            "price": 180,
+            "name": "ハッサムV066/1",
+            "date": "2023-01-02",
+            "stock": 36
+        },
+        {
+            "market": "magi",
+            "link": "/items/528671392",
+            "price": 330,
+            "name": "【2枚】ハッサムVM",
             "date": "2023-01-01",
             "stock": 1
         },
@@ -110,22 +134,6 @@
             "price": 180,
             "name": "ハッサムV066/1",
             "date": "2022-12-26",
-            "stock": 3
-        },
-        {
-            "market": "magi",
-            "link": "/items/528671392",
-            "price": 330,
-            "name": "【2枚】ハッサムVM",
-            "date": "2022-12-25",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/13305",
-            "price": 180,
-            "name": "ハッサムV066/1",
-            "date": "2022-12-25",
             "stock": 3
         }
     ]

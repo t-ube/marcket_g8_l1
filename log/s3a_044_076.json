@@ -5,6 +5,46 @@
             "link": "/items/900644882",
             "price": 350,
             "name": "ザマゼンタ A 04",
+            "date": "2023-01-02",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18235",
+            "price": 500,
+            "name": "ザマゼンタ(AR){",
+            "date": "2023-01-02",
+            "stock": 18
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14079",
+            "price": 480,
+            "name": "ザマゼンタ044/0",
+            "date": "2023-01-02",
+            "stock": 71
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30211",
+            "price": 380,
+            "name": "ザマゼンタ044/0",
+            "date": "2023-01-02",
+            "stock": 12
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g044-076-S3A-B/",
+            "price": 440,
+            "name": "【ポケカ】Ａ◇ザマゼ",
+            "date": "2023-01-02",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/900644882",
+            "price": 350,
+            "name": "ザマゼンタ A 04",
             "date": "2023-01-01",
             "stock": 1
         },
@@ -58,19 +98,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14079",
-            "price": 480,
-            "name": "ザマゼンタ044/0",
-            "date": "2022-12-31",
-            "stock": 29
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30211",
             "price": 380,
             "name": "ザマゼンタ044/0",
             "date": "2022-12-31",
             "stock": 12
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14079",
+            "price": 480,
+            "name": "ザマゼンタ044/0",
+            "date": "2022-12-31",
+            "stock": 29
         },
         {
             "market": "torecolo",
@@ -95,14 +135,6 @@
             "name": "ザマゼンタ(AR){",
             "date": "2022-12-30",
             "stock": 18
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30211",
-            "price": 380,
-            "name": "ザマゼンタ044/0",
-            "date": "2022-12-30",
-            "stock": 12
         },
         {
             "market": "cardrush",
@@ -113,6 +145,14 @@
             "stock": 30
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30211",
+            "price": 380,
+            "name": "ザマゼンタ044/0",
+            "date": "2022-12-30",
+            "stock": 12
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g044-076-S3A-B/",
             "price": 440,
@@ -178,19 +218,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14079",
-            "price": 480,
-            "name": "ザマゼンタ044/0",
-            "date": "2022-12-28",
-            "stock": 20
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30211",
             "price": 380,
             "name": "ザマゼンタ044/0",
             "date": "2022-12-28",
             "stock": 12
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14079",
+            "price": 480,
+            "name": "ザマゼンタ044/0",
+            "date": "2022-12-28",
+            "stock": 20
         },
         {
             "market": "torecolo",
@@ -258,14 +298,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30211",
-            "price": 380,
-            "name": "ザマゼンタ044/0",
-            "date": "2022-12-26",
-            "stock": 12
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/14079",
             "price": 480,
             "name": "ザマゼンタ044/0",
@@ -273,43 +305,11 @@
             "stock": 20
         },
         {
-            "market": "torecolo",
-            "link": "/shop/g/g044-076-S3A-B/",
-            "price": 440,
-            "name": "【ポケカ】Ａ◇ザマゼ",
-            "date": "2022-12-26",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/900644882",
-            "price": 400,
-            "name": "ザマゼンタ A 04",
-            "date": "2022-12-25",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18235",
-            "price": 500,
-            "name": "ザマゼンタ(AR){",
-            "date": "2022-12-25",
-            "stock": 18
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14079",
-            "price": 480,
-            "name": "ザマゼンタ044/0",
-            "date": "2022-12-25",
-            "stock": 21
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30211",
             "price": 380,
             "name": "ザマゼンタ044/0",
-            "date": "2022-12-25",
+            "date": "2022-12-26",
             "stock": 12
         },
         {
@@ -317,7 +317,7 @@
             "link": "/shop/g/g044-076-S3A-B/",
             "price": 440,
             "name": "【ポケカ】Ａ◇ザマゼ",
-            "date": "2022-12-25",
+            "date": "2022-12-26",
             "stock": 4
         }
     ]

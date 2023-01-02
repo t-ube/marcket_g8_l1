@@ -5,6 +5,22 @@
             "link": "https://www.cardrush-pokemon.jp/product/30909",
             "price": 580,
             "name": "クロバットVMAX3",
+            "date": "2023-01-02",
+            "stock": 30
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17469",
+            "price": 680,
+            "name": "クロバットVMAX3",
+            "date": "2023-01-02",
+            "stock": 68
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30909",
+            "price": 580,
+            "name": "クロバットVMAX3",
             "date": "2023-01-01",
             "stock": 29
         },
@@ -15,14 +31,6 @@
             "name": "クロバットVMAX3",
             "date": "2023-01-01",
             "stock": 70
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30909",
-            "price": 580,
-            "name": "クロバットVMAX3",
-            "date": "2022-12-31",
-            "stock": 29
         },
         {
             "market": "cardrush",
@@ -37,7 +45,7 @@
             "link": "https://www.cardrush-pokemon.jp/product/30909",
             "price": 580,
             "name": "クロバットVMAX3",
-            "date": "2022-12-30",
+            "date": "2022-12-31",
             "stock": 29
         },
         {
@@ -53,7 +61,7 @@
             "link": "https://www.cardrush-pokemon.jp/product/30909",
             "price": 580,
             "name": "クロバットVMAX3",
-            "date": "2022-12-29",
+            "date": "2022-12-30",
             "stock": 29
         },
         {
@@ -69,7 +77,7 @@
             "link": "https://www.cardrush-pokemon.jp/product/30909",
             "price": 580,
             "name": "クロバットVMAX3",
-            "date": "2022-12-28",
+            "date": "2022-12-29",
             "stock": 29
         },
         {
@@ -82,11 +90,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17469",
-            "price": 680,
+            "link": "https://www.cardrush-pokemon.jp/product/30909",
+            "price": 580,
             "name": "クロバットVMAX3",
-            "date": "2022-12-27",
-            "stock": 101
+            "date": "2022-12-28",
+            "stock": 29
         },
         {
             "market": "cardrush",
@@ -97,6 +105,14 @@
             "stock": 29
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17469",
+            "price": 680,
+            "name": "クロバットVMAX3",
+            "date": "2022-12-27",
+            "stock": 101
+        },
+        {
             "market": "magi",
             "link": "/items/531715214",
             "price": 400,
@@ -119,30 +135,6 @@
             "name": "クロバットVMAX3",
             "date": "2022-12-26",
             "stock": 101
-        },
-        {
-            "market": "magi",
-            "link": "/items/531715214",
-            "price": 400,
-            "name": "クロバットVMAX ",
-            "date": "2022-12-25",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17469",
-            "price": 680,
-            "name": "クロバットVMAX3",
-            "date": "2022-12-25",
-            "stock": 96
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30909",
-            "price": 580,
-            "name": "クロバットVMAX3",
-            "date": "2022-12-25",
-            "stock": 28
         }
     ]
 }

@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/17451",
             "price": 50,
             "name": "ゴースト(U){超}",
+            "date": "2023-01-02",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/6884",
+            "price": 50,
+            "name": "ゴースト024/06",
+            "date": "2023-01-02",
+            "stock": 13
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g024-060-S1W-B/",
+            "price": 44,
+            "name": "【ポケカ】Ｕ◇ゴース",
+            "date": "2023-01-02",
+            "stock": 4
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17451",
+            "price": 50,
+            "name": "ゴースト(U){超}",
             "date": "2023-01-01",
             "stock": 1
         },
@@ -166,30 +190,6 @@
             "price": 44,
             "name": "【ポケカ】Ｕ◇ゴース",
             "date": "2022-12-26",
-            "stock": 4
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/17451",
-            "price": 50,
-            "name": "ゴースト(U){超}",
-            "date": "2022-12-25",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/6884",
-            "price": 50,
-            "name": "ゴースト024/06",
-            "date": "2022-12-25",
-            "stock": 13
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g024-060-S1W-B/",
-            "price": 44,
-            "name": "【ポケカ】Ｕ◇ゴース",
-            "date": "2022-12-25",
             "stock": 4
         }
     ]

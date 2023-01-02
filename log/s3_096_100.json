@@ -5,6 +5,22 @@
             "link": "https://www.cardrush-pokemon.jp/product/13335",
             "price": 80,
             "name": "ローズ096/100",
+            "date": "2023-01-02",
+            "stock": 368
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g096-100-S3-B/",
+            "price": 77,
+            "name": "【ポケカ】Ｕ◇ローズ",
+            "date": "2023-01-02",
+            "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/13335",
+            "price": 80,
+            "name": "ローズ096/100",
             "date": "2023-01-01",
             "stock": 358
         },
@@ -118,30 +134,6 @@
             "price": 77,
             "name": "【ポケカ】Ｕ◇ローズ",
             "date": "2022-12-26",
-            "stock": 4
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18041",
-            "price": 50,
-            "name": "ローズ(U){サポー",
-            "date": "2022-12-25",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/13335",
-            "price": 80,
-            "name": "ローズ096/100",
-            "date": "2022-12-25",
-            "stock": 358
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g096-100-S3-B/",
-            "price": 77,
-            "name": "【ポケカ】Ｕ◇ローズ",
-            "date": "2022-12-25",
             "stock": 4
         }
     ]

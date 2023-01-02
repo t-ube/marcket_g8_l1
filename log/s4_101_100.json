@@ -5,6 +5,22 @@
             "link": "https://www.hareruya2.com/product/18386",
             "price": 800,
             "name": "イオルブV(SR){",
+            "date": "2023-01-02",
+            "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14589",
+            "price": 680,
+            "name": "イオルブV101/1",
+            "date": "2023-01-02",
+            "stock": 55
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18386",
+            "price": 800,
+            "name": "イオルブV(SR){",
             "date": "2023-01-01",
             "stock": 3
         },
@@ -110,22 +126,6 @@
             "price": 680,
             "name": "イオルブV101/1",
             "date": "2022-12-26",
-            "stock": 47
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18386",
-            "price": 800,
-            "name": "イオルブV(SR){",
-            "date": "2022-12-25",
-            "stock": 7
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14589",
-            "price": 680,
-            "name": "イオルブV101/1",
-            "date": "2022-12-25",
             "stock": 47
         }
     ]

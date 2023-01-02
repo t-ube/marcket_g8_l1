@@ -5,6 +5,30 @@
             "link": "/items/1668800775",
             "price": 250,
             "name": "ガラルネギガナイトV",
+            "date": "2023-01-02",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18350",
+            "price": 200,
+            "name": "ガラルネギガナイトV",
+            "date": "2023-01-02",
+            "stock": 61
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14519",
+            "price": 80,
+            "name": "ガラルネギガナイトV",
+            "date": "2023-01-02",
+            "stock": 218
+        },
+        {
+            "market": "magi",
+            "link": "/items/1668800775",
+            "price": 250,
+            "name": "ガラルネギガナイトV",
             "date": "2023-01-01",
             "stock": 1
         },
@@ -166,30 +190,6 @@
             "price": 80,
             "name": "ガラルネギガナイトV",
             "date": "2022-12-26",
-            "stock": 194
-        },
-        {
-            "market": "magi",
-            "link": "/items/1668800775",
-            "price": 250,
-            "name": "ガラルネギガナイトV",
-            "date": "2022-12-25",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18350",
-            "price": 200,
-            "name": "ガラルネギガナイトV",
-            "date": "2022-12-25",
-            "stock": 61
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14519",
-            "price": 80,
-            "name": "ガラルネギガナイトV",
-            "date": "2022-12-25",
             "stock": 194
         }
     ]

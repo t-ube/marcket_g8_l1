@@ -5,6 +5,14 @@
             "link": "https://www.cardrush-pokemon.jp/product/13167",
             "price": 880,
             "name": "ビッグパラソル066",
+            "date": "2023-01-02",
+            "stock": 20
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/13167",
+            "price": 880,
+            "name": "ビッグパラソル066",
             "date": "2022-12-28",
             "stock": 1
         },
@@ -31,22 +39,6 @@
             "name": "ビッグパラソル066",
             "date": "2022-12-26",
             "stock": 5
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30079",
-            "price": 830,
-            "name": "ビッグパラソル066",
-            "date": "2022-12-25",
-            "stock": 5
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/13167",
-            "price": 880,
-            "name": "ビッグパラソル066",
-            "date": "2022-12-25",
-            "stock": 9
         }
     ]
 }
