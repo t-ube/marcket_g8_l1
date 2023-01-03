@@ -2,11 +2,51 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/943107359",
+            "price": 350,
+            "name": "ネズ SR 194/",
+            "date": "2023-01-03",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/912107072",
             "price": 400,
             "name": "ネズ SR 194/",
-            "date": "2023-01-02",
+            "date": "2023-01-03",
             "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/806249675",
+            "price": 999,
+            "name": "ネズ SR 194/",
+            "date": "2023-01-03",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17343",
+            "price": 780,
+            "name": "ネズ194/190",
+            "date": "2023-01-03",
+            "stock": 112
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30784",
+            "price": 680,
+            "name": "ネズ194/190",
+            "date": "2023-01-03",
+            "stock": 23
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g194-190-S4A-B/",
+            "price": 660,
+            "name": "【ポケカ】ＳＲ◇ネズ",
+            "date": "2023-01-03",
+            "stock": 7
         },
         {
             "market": "magi",
@@ -20,6 +60,14 @@
             "market": "magi",
             "link": "/items/943107359",
             "price": 350,
+            "name": "ネズ SR 194/",
+            "date": "2023-01-02",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/912107072",
+            "price": 400,
             "name": "ネズ SR 194/",
             "date": "2023-01-02",
             "stock": 1
@@ -50,14 +98,6 @@
         },
         {
             "market": "magi",
-            "link": "/items/912107072",
-            "price": 400,
-            "name": "ネズ SR 194/",
-            "date": "2023-01-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/806249675",
             "price": 999,
             "name": "ネズ SR 194/",
@@ -73,12 +113,12 @@
             "stock": 1
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30784",
-            "price": 680,
-            "name": "ネズ194/190",
+            "market": "magi",
+            "link": "/items/912107072",
+            "price": 400,
+            "name": "ネズ SR 194/",
             "date": "2023-01-01",
-            "stock": 19
+            "stock": 1
         },
         {
             "market": "cardrush",
@@ -87,6 +127,14 @@
             "name": "ネズ194/190",
             "date": "2023-01-01",
             "stock": 96
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30784",
+            "price": 680,
+            "name": "ネズ194/190",
+            "date": "2023-01-01",
+            "stock": 19
         },
         {
             "market": "torecolo",
@@ -98,8 +146,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/943107359",
-            "price": 350,
+            "link": "/items/912107072",
+            "price": 400,
             "name": "ネズ SR 194/",
             "date": "2022-12-31",
             "stock": 1
@@ -114,19 +162,11 @@
         },
         {
             "market": "magi",
-            "link": "/items/912107072",
-            "price": 400,
+            "link": "/items/943107359",
+            "price": 350,
             "name": "ネズ SR 194/",
             "date": "2022-12-31",
             "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17343",
-            "price": 780,
-            "name": "ネズ194/190",
-            "date": "2022-12-31",
-            "stock": 96
         },
         {
             "market": "cardrush",
@@ -135,6 +175,14 @@
             "name": "ネズ194/190",
             "date": "2022-12-31",
             "stock": 19
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17343",
+            "price": 780,
+            "name": "ネズ194/190",
+            "date": "2022-12-31",
+            "stock": 96
         },
         {
             "market": "torecolo",
@@ -146,16 +194,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/912107072",
-            "price": 400,
+            "link": "/items/806249675",
+            "price": 999,
             "name": "ネズ SR 194/",
             "date": "2022-12-30",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/806249675",
-            "price": 999,
+            "link": "/items/912107072",
+            "price": 400,
             "name": "ネズ SR 194/",
             "date": "2022-12-30",
             "stock": 1
@@ -202,8 +250,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/806249675",
-            "price": 999,
+            "link": "/items/912107072",
+            "price": 400,
             "name": "ネズ SR 194/",
             "date": "2022-12-29",
             "stock": 1
@@ -218,8 +266,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/912107072",
-            "price": 400,
+            "link": "/items/806249675",
+            "price": 999,
             "name": "ネズ SR 194/",
             "date": "2022-12-29",
             "stock": 1
@@ -234,19 +282,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30784",
-            "price": 680,
-            "name": "ネズ194/190",
-            "date": "2022-12-29",
-            "stock": 19
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17343",
             "price": 780,
             "name": "ネズ194/190",
             "date": "2022-12-29",
             "stock": 105
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30784",
+            "price": 680,
+            "name": "ネズ194/190",
+            "date": "2022-12-29",
+            "stock": 19
         },
         {
             "market": "torecolo",
@@ -258,8 +306,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/806249675",
-            "price": 999,
+            "link": "/items/912107072",
+            "price": 400,
             "name": "ネズ SR 194/",
             "date": "2022-12-28",
             "stock": 1
@@ -274,8 +322,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/912107072",
-            "price": 400,
+            "link": "/items/806249675",
+            "price": 999,
             "name": "ネズ SR 194/",
             "date": "2022-12-28",
             "stock": 1
@@ -314,6 +362,14 @@
         },
         {
             "market": "magi",
+            "link": "/items/943107359",
+            "price": 350,
+            "name": "ネズ SR 194/",
+            "date": "2022-12-27",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/912107072",
             "price": 400,
             "name": "ネズ SR 194/",
@@ -324,14 +380,6 @@
             "market": "magi",
             "link": "/items/806249675",
             "price": 999,
-            "name": "ネズ SR 194/",
-            "date": "2022-12-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/943107359",
-            "price": 350,
             "name": "ネズ SR 194/",
             "date": "2022-12-27",
             "stock": 1
@@ -366,62 +414,6 @@
             "price": 660,
             "name": "【ポケカ】ＳＲ◇ネズ",
             "date": "2022-12-27",
-            "stock": 7
-        },
-        {
-            "market": "magi",
-            "link": "/items/806249675",
-            "price": 999,
-            "name": "ネズ SR 194/",
-            "date": "2022-12-26",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/912107072",
-            "price": 400,
-            "name": "ネズ SR 194/",
-            "date": "2022-12-26",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/943107359",
-            "price": 350,
-            "name": "ネズ SR 194/",
-            "date": "2022-12-26",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18600",
-            "price": 700,
-            "name": "ネズ(SR){サポー",
-            "date": "2022-12-26",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17343",
-            "price": 780,
-            "name": "ネズ194/190",
-            "date": "2022-12-26",
-            "stock": 97
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30784",
-            "price": 680,
-            "name": "ネズ194/190",
-            "date": "2022-12-26",
-            "stock": 18
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g194-190-S4A-B/",
-            "price": 660,
-            "name": "【ポケカ】ＳＲ◇ネズ",
-            "date": "2022-12-26",
             "stock": 7
         }
     ]

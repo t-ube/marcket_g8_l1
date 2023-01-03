@@ -1,6 +1,14 @@
 ﻿{
     "items": [
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/6979",
+            "price": 120,
+            "name": "マリィ059/060",
+            "date": "2023-01-03",
+            "stock": 40
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/17561",
             "price": 100,
@@ -95,14 +103,6 @@
             "name": "マリィ059/060",
             "date": "2022-12-27",
             "stock": 32
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/6979",
-            "price": 120,
-            "name": "マリィ059/060",
-            "date": "2022-12-26",
-            "stock": 41
         }
     ]
 }

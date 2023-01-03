@@ -5,6 +5,38 @@
             "link": "/items/1279423870",
             "price": 134,
             "name": "セキタンザン(R仕様",
+            "date": "2023-01-03",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18502",
+            "price": 100,
+            "name": "セキタンザン(CP)",
+            "date": "2023-01-03",
+            "stock": 84
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17079",
+            "price": 80,
+            "name": "セキタンザン096/",
+            "date": "2023-01-03",
+            "stock": 84
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g096-190-S4A-B/",
+            "price": 44,
+            "name": "【ポケカ】Ｒ◇セキタ",
+            "date": "2023-01-03",
+            "stock": 3
+        },
+        {
+            "market": "magi",
+            "link": "/items/1279423870",
+            "price": 134,
+            "name": "セキタンザン(R仕様",
             "date": "2023-01-02",
             "stock": 1
         },
@@ -222,38 +254,6 @@
             "price": 44,
             "name": "【ポケカ】Ｒ◇セキタ",
             "date": "2022-12-27",
-            "stock": 3
-        },
-        {
-            "market": "magi",
-            "link": "/items/1279423870",
-            "price": 134,
-            "name": "セキタンザン(R仕様",
-            "date": "2022-12-26",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18502",
-            "price": 100,
-            "name": "セキタンザン(CP)",
-            "date": "2022-12-26",
-            "stock": 84
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17079",
-            "price": 80,
-            "name": "セキタンザン096/",
-            "date": "2022-12-26",
-            "stock": 84
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g096-190-S4A-B/",
-            "price": 44,
-            "name": "【ポケカ】Ｒ◇セキタ",
-            "date": "2022-12-26",
             "stock": 3
         }
     ]

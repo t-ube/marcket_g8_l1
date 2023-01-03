@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/17458",
             "price": 50,
             "name": "ネンドール(U){闘",
+            "date": "2023-01-03",
+            "stock": 5
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/6891",
+            "price": 30,
+            "name": "ネンドール031/0",
+            "date": "2023-01-03",
+            "stock": 29
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g031-060-S1W-B/",
+            "price": 33,
+            "name": "【ポケカ】Ｕ◇ネンド",
+            "date": "2023-01-03",
+            "stock": 6
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17458",
+            "price": 50,
+            "name": "ネンドール(U){闘",
             "date": "2023-01-02",
             "stock": 5
         },
@@ -166,30 +190,6 @@
             "price": 33,
             "name": "【ポケカ】Ｕ◇ネンド",
             "date": "2022-12-27",
-            "stock": 6
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/17458",
-            "price": 50,
-            "name": "ネンドール(U){闘",
-            "date": "2022-12-26",
-            "stock": 5
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/6891",
-            "price": 30,
-            "name": "ネンドール031/0",
-            "date": "2022-12-26",
-            "stock": 29
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g031-060-S1W-B/",
-            "price": 33,
-            "name": "【ポケカ】Ｕ◇ネンド",
-            "date": "2022-12-26",
             "stock": 6
         }
     ]

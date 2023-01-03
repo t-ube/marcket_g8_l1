@@ -2,39 +2,87 @@
     "items": [
         {
             "market": "magi",
-            "link": "/items/327190638",
-            "price": 25,
-            "name": "PC ボールガイ(1",
-            "date": "2023-01-02",
-            "stock": 4
-        },
-        {
-            "market": "magi",
             "link": "/items/2016526264",
             "price": 25,
             "name": "PC ボールガイ(1",
-            "date": "2023-01-02",
+            "date": "2023-01-03",
             "stock": 4
         },
         {
             "market": "magi",
-            "link": "/items/244310146",
-            "price": 100,
-            "name": "ボールガイ 175/",
-            "date": "2023-01-02",
-            "stock": 1
+            "link": "/items/1407939049",
+            "price": 25,
+            "name": "PC ボールガイ(1",
+            "date": "2023-01-03",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1651550282",
+            "price": 25,
+            "name": "PC ボールガイ(1",
+            "date": "2023-01-03",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/327190638",
+            "price": 25,
+            "name": "PC ボールガイ(1",
+            "date": "2023-01-03",
+            "stock": 4
         },
         {
             "market": "magi",
             "link": "/items/186414644",
             "price": 100,
             "name": "ボールガイ 175/",
-            "date": "2023-01-02",
+            "date": "2023-01-03",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1651550282",
+            "link": "/items/244310146",
+            "price": 100,
+            "name": "ボールガイ 175/",
+            "date": "2023-01-03",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18581",
+            "price": 100,
+            "name": "ボールガイ(CP){",
+            "date": "2023-01-03",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17158",
+            "price": 80,
+            "name": "ボールガイ175/1",
+            "date": "2023-01-03",
+            "stock": 182
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17324",
+            "price": 120,
+            "name": "ボールガイ175/1",
+            "date": "2023-01-03",
+            "stock": 174
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g175-190-S4A-BM/",
+            "price": 77,
+            "name": "【ポケカ】Ｃ）ミラー",
+            "date": "2023-01-03",
+            "stock": 10
+        },
+        {
+            "market": "magi",
+            "link": "/items/2016526264",
             "price": 25,
             "name": "PC ボールガイ(1",
             "date": "2023-01-02",
@@ -47,6 +95,38 @@
             "name": "PC ボールガイ(1",
             "date": "2023-01-02",
             "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1651550282",
+            "price": 25,
+            "name": "PC ボールガイ(1",
+            "date": "2023-01-02",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/327190638",
+            "price": 25,
+            "name": "PC ボールガイ(1",
+            "date": "2023-01-02",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/186414644",
+            "price": 100,
+            "name": "ボールガイ 175/",
+            "date": "2023-01-02",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/244310146",
+            "price": 100,
+            "name": "ボールガイ 175/",
+            "date": "2023-01-02",
+            "stock": 1
         },
         {
             "market": "hareruya2",
@@ -242,19 +322,11 @@
         },
         {
             "market": "magi",
-            "link": "/items/327190638",
-            "price": 25,
-            "name": "PC ボールガイ(1",
+            "link": "/items/186414644",
+            "price": 100,
+            "name": "ボールガイ 175/",
             "date": "2022-12-30",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/1407939049",
-            "price": 25,
-            "name": "PC ボールガイ(1",
-            "date": "2022-12-30",
-            "stock": 4
+            "stock": 1
         },
         {
             "market": "magi",
@@ -266,15 +338,23 @@
         },
         {
             "market": "magi",
-            "link": "/items/186414644",
-            "price": 100,
-            "name": "ボールガイ 175/",
+            "link": "/items/327190638",
+            "price": 25,
+            "name": "PC ボールガイ(1",
             "date": "2022-12-30",
-            "stock": 1
+            "stock": 4
         },
         {
             "market": "magi",
             "link": "/items/1651550282",
+            "price": 25,
+            "name": "PC ボールガイ(1",
+            "date": "2022-12-30",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1407939049",
             "price": 25,
             "name": "PC ボールガイ(1",
             "date": "2022-12-30",
@@ -322,6 +402,14 @@
         },
         {
             "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17324",
+            "price": 120,
+            "name": "ボールガイ175/1",
+            "date": "2022-12-29",
+            "stock": 159
+        },
+        {
+            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17158",
             "price": 80,
             "name": "ボールガイ175/1",
@@ -329,14 +417,6 @@
             "stock": 87
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17324",
-            "price": 120,
-            "name": "ボールガイ175/1",
-            "date": "2022-12-29",
-            "stock": 159
-        },
-        {
             "market": "torecolo",
             "link": "/shop/g/g175-190-S4A-BM/",
             "price": 77,
@@ -346,14 +426,6 @@
         },
         {
             "market": "magi",
-            "link": "/items/244310146",
-            "price": 100,
-            "name": "ボールガイ 175/",
-            "date": "2022-12-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/186414644",
             "price": 100,
             "name": "ボールガイ 175/",
@@ -361,12 +433,12 @@
             "stock": 1
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17158",
-            "price": 80,
-            "name": "ボールガイ175/1",
+            "market": "magi",
+            "link": "/items/244310146",
+            "price": 100,
+            "name": "ボールガイ 175/",
             "date": "2022-12-28",
-            "stock": 109
+            "stock": 1
         },
         {
             "market": "cardrush",
@@ -375,6 +447,14 @@
             "name": "ボールガイ175/1",
             "date": "2022-12-28",
             "stock": 159
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17158",
+            "price": 80,
+            "name": "ボールガイ175/1",
+            "date": "2022-12-28",
+            "stock": 109
         },
         {
             "market": "torecolo",
@@ -386,14 +466,6 @@
         },
         {
             "market": "magi",
-            "link": "/items/244310146",
-            "price": 100,
-            "name": "ボールガイ 175/",
-            "date": "2022-12-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/186414644",
             "price": 100,
             "name": "ボールガイ 175/",
@@ -401,12 +473,12 @@
             "stock": 1
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17158",
-            "price": 80,
-            "name": "ボールガイ175/1",
+            "market": "magi",
+            "link": "/items/244310146",
+            "price": 100,
+            "name": "ボールガイ 175/",
             "date": "2022-12-27",
-            "stock": 109
+            "stock": 1
         },
         {
             "market": "cardrush",
@@ -417,51 +489,19 @@
             "stock": 159
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17158",
+            "price": 80,
+            "name": "ボールガイ175/1",
+            "date": "2022-12-27",
+            "stock": 109
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g175-190-S4A-BM/",
             "price": 77,
             "name": "【ポケカ】Ｃ）ミラー",
             "date": "2022-12-27",
-            "stock": 10
-        },
-        {
-            "market": "magi",
-            "link": "/items/186414644",
-            "price": 100,
-            "name": "ボールガイ 175/",
-            "date": "2022-12-26",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/244310146",
-            "price": 100,
-            "name": "ボールガイ 175/",
-            "date": "2022-12-26",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17158",
-            "price": 80,
-            "name": "ボールガイ175/1",
-            "date": "2022-12-26",
-            "stock": 109
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17324",
-            "price": 120,
-            "name": "ボールガイ175/1",
-            "date": "2022-12-26",
-            "stock": 159
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g175-190-S4A-BM/",
-            "price": 77,
-            "name": "【ポケカ】Ｃ）ミラー",
-            "date": "2022-12-26",
             "stock": 10
         }
     ]

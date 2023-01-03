@@ -5,13 +5,61 @@
             "link": "/items/1531334627",
             "price": 315,
             "name": "ガラルジグザグマ S",
-            "date": "2023-01-02",
+            "date": "2023-01-03",
             "stock": 1
         },
         {
             "market": "magi",
             "link": "/items/307499308",
             "price": 550,
+            "name": "ガラルジグザグマ S",
+            "date": "2023-01-03",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18683",
+            "price": 400,
+            "name": "ガラルジグザグマ(S",
+            "date": "2023-01-03",
+            "stock": 61
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17426",
+            "price": 420,
+            "name": "ガラルジグザグマ27",
+            "date": "2023-01-03",
+            "stock": 293
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30866",
+            "price": 370,
+            "name": "ガラルジグザグマ27",
+            "date": "2023-01-03",
+            "stock": 22
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g277-190-S4A-B/",
+            "price": 440,
+            "name": "【ポケカ】Ｓ◇ガラル",
+            "date": "2023-01-03",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/307499308",
+            "price": 550,
+            "name": "ガラルジグザグマ S",
+            "date": "2023-01-02",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1531334627",
+            "price": 315,
             "name": "ガラルジグザグマ S",
             "date": "2023-01-02",
             "stock": 1
@@ -74,19 +122,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17426",
-            "price": 420,
-            "name": "ガラルジグザグマ27",
-            "date": "2023-01-01",
-            "stock": 142
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30866",
             "price": 370,
             "name": "ガラルジグザグマ27",
             "date": "2023-01-01",
             "stock": 22
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17426",
+            "price": 420,
+            "name": "ガラルジグザグマ27",
+            "date": "2023-01-01",
+            "stock": 142
         },
         {
             "market": "torecolo",
@@ -98,16 +146,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/307499308",
-            "price": 550,
+            "link": "/items/1531334627",
+            "price": 315,
             "name": "ガラルジグザグマ S",
             "date": "2022-12-31",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1531334627",
-            "price": 315,
+            "link": "/items/307499308",
+            "price": 550,
             "name": "ガラルジグザグマ S",
             "date": "2022-12-31",
             "stock": 1
@@ -122,14 +170,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30866",
-            "price": 370,
-            "name": "ガラルジグザグマ27",
-            "date": "2022-12-31",
-            "stock": 22
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17426",
             "price": 420,
             "name": "ガラルジグザグマ27",
@@ -137,6 +177,14 @@
             "stock": 142
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30866",
+            "price": 370,
+            "name": "ガラルジグザグマ27",
+            "date": "2022-12-31",
+            "stock": 22
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g277-190-S4A-B/",
             "price": 440,
@@ -170,19 +218,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17426",
-            "price": 420,
-            "name": "ガラルジグザグマ27",
-            "date": "2022-12-30",
-            "stock": 141
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30866",
             "price": 370,
             "name": "ガラルジグザグマ27",
             "date": "2022-12-30",
             "stock": 22
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17426",
+            "price": 420,
+            "name": "ガラルジグザグマ27",
+            "date": "2022-12-30",
+            "stock": 141
         },
         {
             "market": "torecolo",
@@ -194,16 +242,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/1531334627",
-            "price": 350,
+            "link": "/items/307499308",
+            "price": 550,
             "name": "ガラルジグザグマ S",
             "date": "2022-12-29",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/307499308",
-            "price": 550,
+            "link": "/items/1531334627",
+            "price": 350,
             "name": "ガラルジグザグマ S",
             "date": "2022-12-29",
             "stock": 1
@@ -215,14 +263,6 @@
             "name": "ガラルジグザグマ(S",
             "date": "2022-12-29",
             "stock": 62
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30866",
-            "price": 370,
-            "name": "ガラルジグザグマ27",
-            "date": "2022-12-29",
-            "stock": 22
         },
         {
             "market": "cardrush",
@@ -233,6 +273,14 @@
             "stock": 141
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30866",
+            "price": 370,
+            "name": "ガラルジグザグマ27",
+            "date": "2022-12-29",
+            "stock": 22
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g277-190-S4A-B/",
             "price": 440,
@@ -242,16 +290,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/307499308",
-            "price": 550,
+            "link": "/items/1531334627",
+            "price": 350,
             "name": "ガラルジグザグマ S",
             "date": "2022-12-28",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1531334627",
-            "price": 350,
+            "link": "/items/307499308",
+            "price": 550,
             "name": "ガラルジグザグマ S",
             "date": "2022-12-28",
             "stock": 1
@@ -266,19 +314,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17426",
-            "price": 420,
-            "name": "ガラルジグザグマ27",
-            "date": "2022-12-28",
-            "stock": 133
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30866",
             "price": 370,
             "name": "ガラルジグザグマ27",
             "date": "2022-12-28",
             "stock": 22
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17426",
+            "price": 420,
+            "name": "ガラルジグザグマ27",
+            "date": "2022-12-28",
+            "stock": 133
         },
         {
             "market": "torecolo",
@@ -290,16 +338,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/1531334627",
-            "price": 350,
+            "link": "/items/307499308",
+            "price": 550,
             "name": "ガラルジグザグマ S",
             "date": "2022-12-27",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/307499308",
-            "price": 550,
+            "link": "/items/1531334627",
+            "price": 350,
             "name": "ガラルジグザグマ S",
             "date": "2022-12-27",
             "stock": 1
@@ -314,14 +362,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30866",
-            "price": 370,
-            "name": "ガラルジグザグマ27",
-            "date": "2022-12-27",
-            "stock": 22
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17426",
             "price": 420,
             "name": "ガラルジグザグマ27",
@@ -329,51 +369,11 @@
             "stock": 133
         },
         {
-            "market": "torecolo",
-            "link": "/shop/g/g277-190-S4A-B/",
-            "price": 440,
-            "name": "【ポケカ】Ｓ◇ガラル",
-            "date": "2022-12-27",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/307499308",
-            "price": 550,
-            "name": "ガラルジグザグマ S",
-            "date": "2022-12-26",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1531334627",
-            "price": 350,
-            "name": "ガラルジグザグマ S",
-            "date": "2022-12-26",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18683",
-            "price": 400,
-            "name": "ガラルジグザグマ(S",
-            "date": "2022-12-26",
-            "stock": 62
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17426",
-            "price": 420,
-            "name": "ガラルジグザグマ27",
-            "date": "2022-12-26",
-            "stock": 133
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30866",
             "price": 370,
             "name": "ガラルジグザグマ27",
-            "date": "2022-12-26",
+            "date": "2022-12-27",
             "stock": 22
         },
         {
@@ -381,7 +381,7 @@
             "link": "/shop/g/g277-190-S4A-B/",
             "price": 440,
             "name": "【ポケカ】Ｓ◇ガラル",
-            "date": "2022-12-26",
+            "date": "2022-12-27",
             "stock": 4
         }
     ]

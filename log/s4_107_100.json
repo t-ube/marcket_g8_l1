@@ -5,8 +5,64 @@
             "link": "/items/218162236",
             "price": 500,
             "name": "ドラピオンV SR ",
-            "date": "2023-01-02",
+            "date": "2023-01-03",
             "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1319370643",
+            "price": 900,
+            "name": "ドラピオンV(SR)",
+            "date": "2023-01-03",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18392",
+            "price": 800,
+            "name": "ドラピオンV(SR)",
+            "date": "2023-01-03",
+            "stock": 3
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/24302",
+            "price": 900,
+            "name": "ドラピオンV(SR)",
+            "date": "2023-01-03",
+            "stock": 5
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/36433",
+            "price": 680,
+            "name": "ドラピオンV107/",
+            "date": "2023-01-03",
+            "stock": 21
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/36374",
+            "price": 780,
+            "name": "ドラピオンV107/",
+            "date": "2023-01-03",
+            "stock": 113
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14595",
+            "price": 680,
+            "name": "ドラピオンV107/",
+            "date": "2023-01-03",
+            "stock": 34
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30421",
+            "price": 580,
+            "name": "ドラピオンV107/",
+            "date": "2023-01-03",
+            "stock": 6
         },
         {
             "market": "magi",
@@ -17,12 +73,12 @@
             "stock": 1
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18392",
-            "price": 800,
-            "name": "ドラピオンV(SR)",
+            "market": "magi",
+            "link": "/items/218162236",
+            "price": 500,
+            "name": "ドラピオンV SR ",
             "date": "2023-01-02",
-            "stock": 3
+            "stock": 1
         },
         {
             "market": "hareruya2",
@@ -33,20 +89,20 @@
             "stock": 5
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30421",
-            "price": 580,
-            "name": "ドラピオンV107/",
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18392",
+            "price": 800,
+            "name": "ドラピオンV(SR)",
             "date": "2023-01-02",
-            "stock": 4
+            "stock": 3
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14595",
+            "link": "https://www.cardrush-pokemon.jp/product/36433",
             "price": 680,
             "name": "ドラピオンV107/",
             "date": "2023-01-02",
-            "stock": 31
+            "stock": 20
         },
         {
             "market": "cardrush",
@@ -58,19 +114,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/36433",
+            "link": "https://www.cardrush-pokemon.jp/product/14595",
             "price": 680,
             "name": "ドラピオンV107/",
             "date": "2023-01-02",
-            "stock": 20
+            "stock": 31
         },
         {
-            "market": "magi",
-            "link": "/items/218162236",
-            "price": 500,
-            "name": "ドラピオンV SR ",
-            "date": "2023-01-01",
-            "stock": 1
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30421",
+            "price": 580,
+            "name": "ドラピオンV107/",
+            "date": "2023-01-02",
+            "stock": 4
         },
         {
             "market": "magi",
@@ -81,12 +137,12 @@
             "stock": 1
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18392",
-            "price": 800,
-            "name": "ドラピオンV(SR)",
+            "market": "magi",
+            "link": "/items/218162236",
+            "price": 500,
+            "name": "ドラピオンV SR ",
             "date": "2023-01-01",
-            "stock": 3
+            "stock": 1
         },
         {
             "market": "hareruya2",
@@ -97,20 +153,20 @@
             "stock": 5
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30421",
-            "price": 580,
-            "name": "ドラピオンV107/",
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18392",
+            "price": 800,
+            "name": "ドラピオンV(SR)",
             "date": "2023-01-01",
-            "stock": 4
+            "stock": 3
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14595",
+            "link": "https://www.cardrush-pokemon.jp/product/36433",
             "price": 680,
             "name": "ドラピオンV107/",
             "date": "2023-01-01",
-            "stock": 29
+            "stock": 20
         },
         {
             "market": "cardrush",
@@ -122,11 +178,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/36433",
+            "link": "https://www.cardrush-pokemon.jp/product/30421",
+            "price": 580,
+            "name": "ドラピオンV107/",
+            "date": "2023-01-01",
+            "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14595",
             "price": 680,
             "name": "ドラピオンV107/",
             "date": "2023-01-01",
-            "stock": 20
+            "stock": 29
         },
         {
             "market": "magi",
@@ -138,14 +202,6 @@
         },
         {
             "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18392",
-            "price": 800,
-            "name": "ドラピオンV(SR)",
-            "date": "2022-12-31",
-            "stock": 3
-        },
-        {
-            "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/24302",
             "price": 900,
             "name": "ドラピオンV(SR)",
@@ -153,12 +209,12 @@
             "stock": 5
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/36433",
-            "price": 680,
-            "name": "ドラピオンV107/",
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18392",
+            "price": 800,
+            "name": "ドラピオンV(SR)",
             "date": "2022-12-31",
-            "stock": 20
+            "stock": 3
         },
         {
             "market": "cardrush",
@@ -170,6 +226,22 @@
         },
         {
             "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/36433",
+            "price": 680,
+            "name": "ドラピオンV107/",
+            "date": "2022-12-31",
+            "stock": 20
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30421",
+            "price": 580,
+            "name": "ドラピオンV107/",
+            "date": "2022-12-31",
+            "stock": 4
+        },
+        {
+            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/36374",
             "price": 780,
             "name": "ドラピオンV107/",
@@ -177,28 +249,12 @@
             "stock": 118
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30421",
-            "price": 580,
-            "name": "ドラピオンV107/",
-            "date": "2022-12-31",
-            "stock": 4
-        },
-        {
             "market": "magi",
             "link": "/items/218162236",
             "price": 500,
             "name": "ドラピオンV SR ",
             "date": "2022-12-30",
             "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/24302",
-            "price": 900,
-            "name": "ドラピオンV(SR)",
-            "date": "2022-12-30",
-            "stock": 6
         },
         {
             "market": "hareruya2",
@@ -209,20 +265,20 @@
             "stock": 3
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/36433",
-            "price": 680,
-            "name": "ドラピオンV107/",
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/24302",
+            "price": 900,
+            "name": "ドラピオンV(SR)",
             "date": "2022-12-30",
-            "stock": 20
+            "stock": 6
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/36374",
-            "price": 780,
+            "link": "https://www.cardrush-pokemon.jp/product/30421",
+            "price": 580,
             "name": "ドラピオンV107/",
             "date": "2022-12-30",
-            "stock": 140
+            "stock": 4
         },
         {
             "market": "cardrush",
@@ -234,11 +290,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30421",
-            "price": 580,
+            "link": "https://www.cardrush-pokemon.jp/product/36374",
+            "price": 780,
             "name": "ドラピオンV107/",
             "date": "2022-12-30",
-            "stock": 4
+            "stock": 140
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/36433",
+            "price": 680,
+            "name": "ドラピオンV107/",
+            "date": "2022-12-30",
+            "stock": 20
         },
         {
             "market": "magi",
@@ -250,14 +314,6 @@
         },
         {
             "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18392",
-            "price": 800,
-            "name": "ドラピオンV(SR)",
-            "date": "2022-12-29",
-            "stock": 3
-        },
-        {
-            "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/24302",
             "price": 900,
             "name": "ドラピオンV(SR)",
@@ -265,12 +321,12 @@
             "stock": 6
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/36374",
-            "price": 780,
-            "name": "ドラピオンV107/",
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18392",
+            "price": 800,
+            "name": "ドラピオンV(SR)",
             "date": "2022-12-29",
-            "stock": 140
+            "stock": 3
         },
         {
             "market": "cardrush",
@@ -279,6 +335,14 @@
             "name": "ドラピオンV107/",
             "date": "2022-12-29",
             "stock": 20
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/36374",
+            "price": 780,
+            "name": "ドラピオンV107/",
+            "date": "2022-12-29",
+            "stock": 140
         },
         {
             "market": "cardrush",
@@ -306,19 +370,19 @@
         },
         {
             "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18392",
-            "price": 800,
-            "name": "ドラピオンV(SR)",
-            "date": "2022-12-28",
-            "stock": 3
-        },
-        {
-            "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/24302",
             "price": 900,
             "name": "ドラピオンV(SR)",
             "date": "2022-12-28",
             "stock": 6
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18392",
+            "price": 800,
+            "name": "ドラピオンV(SR)",
+            "date": "2022-12-28",
+            "stock": 3
         },
         {
             "market": "cardrush",
@@ -378,27 +442,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30421",
-            "price": 580,
-            "name": "ドラピオンV107/",
-            "date": "2022-12-27",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/36374",
             "price": 780,
             "name": "ドラピオンV107/",
             "date": "2022-12-27",
             "stock": 136
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14595",
-            "price": 680,
-            "name": "ドラピオンV107/",
-            "date": "2022-12-27",
-            "stock": 28
         },
         {
             "market": "cardrush",
@@ -409,60 +457,20 @@
             "stock": 20
         },
         {
-            "market": "magi",
-            "link": "/items/218162236",
-            "price": 500,
-            "name": "ドラピオンV SR ",
-            "date": "2022-12-26",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18392",
-            "price": 800,
-            "name": "ドラピオンV(SR)",
-            "date": "2022-12-26",
-            "stock": 4
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/24302",
-            "price": 900,
-            "name": "ドラピオンV(SR)",
-            "date": "2022-12-26",
-            "stock": 6
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/14595",
             "price": 680,
             "name": "ドラピオンV107/",
-            "date": "2022-12-26",
+            "date": "2022-12-27",
             "stock": 28
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/36433",
-            "price": 680,
-            "name": "ドラピオンV107/",
-            "date": "2022-12-26",
-            "stock": 19
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30421",
             "price": 580,
             "name": "ドラピオンV107/",
-            "date": "2022-12-26",
+            "date": "2022-12-27",
             "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/36374",
-            "price": 780,
-            "name": "ドラピオンV107/",
-            "date": "2022-12-26",
-            "stock": 136
         }
     ]
 }

@@ -2,16 +2,80 @@
     "items": [
         {
             "market": "magi",
-            "link": "/items/1992147352",
-            "price": 162,
+            "link": "/items/1782541139",
+            "price": 120,
             "name": "タフネスマント 17",
-            "date": "2023-01-02",
+            "date": "2023-01-03",
             "stock": 1
         },
         {
             "market": "magi",
             "link": "/items/344079008",
             "price": 100,
+            "name": "タフネスマント 17",
+            "date": "2023-01-03",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1992147352",
+            "price": 162,
+            "name": "タフネスマント 17",
+            "date": "2023-01-03",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18839",
+            "price": 50,
+            "name": "タフネスマント:ミラ",
+            "date": "2023-01-03",
+            "stock": 17
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18576",
+            "price": 50,
+            "name": "タフネスマント(CP",
+            "date": "2023-01-03",
+            "stock": 150
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17319",
+            "price": 120,
+            "name": "タフネスマント170",
+            "date": "2023-01-03",
+            "stock": 262
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17153",
+            "price": 80,
+            "name": "タフネスマント170",
+            "date": "2023-01-03",
+            "stock": 73
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g170-190-S4A-B/",
+            "price": 77,
+            "name": "【ポケカ】Ｃ）通常仕",
+            "date": "2023-01-03",
+            "stock": 9
+        },
+        {
+            "market": "magi",
+            "link": "/items/344079008",
+            "price": 100,
+            "name": "タフネスマント 17",
+            "date": "2023-01-02",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1992147352",
+            "price": 162,
             "name": "タフネスマント 17",
             "date": "2023-01-02",
             "stock": 1
@@ -39,14 +103,6 @@
             "name": "タフネスマント(CP",
             "date": "2023-01-02",
             "stock": 150
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17319",
-            "price": 120,
-            "name": "タフネスマント170",
-            "date": "2023-01-02",
-            "stock": 262
         },
         {
             "market": "cardrush",
@@ -57,12 +113,12 @@
             "stock": 73
         },
         {
-            "market": "torecolo",
-            "link": "/shop/g/g170-190-S4A-BM/",
-            "price": 110,
-            "name": "【ポケカ】Ｃ）ミラー",
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17319",
+            "price": 120,
+            "name": "タフネスマント170",
             "date": "2023-01-02",
-            "stock": 2
+            "stock": 262
         },
         {
             "market": "torecolo",
@@ -73,9 +129,17 @@
             "stock": 9
         },
         {
+            "market": "torecolo",
+            "link": "/shop/g/g170-190-S4A-BM/",
+            "price": 110,
+            "name": "【ポケカ】Ｃ）ミラー",
+            "date": "2023-01-02",
+            "stock": 2
+        },
+        {
             "market": "magi",
-            "link": "/items/344079008",
-            "price": 100,
+            "link": "/items/1992147352",
+            "price": 162,
             "name": "タフネスマント 17",
             "date": "2023-01-01",
             "stock": 1
@@ -90,19 +154,11 @@
         },
         {
             "market": "magi",
-            "link": "/items/1992147352",
-            "price": 162,
+            "link": "/items/344079008",
+            "price": 100,
             "name": "タフネスマント 17",
             "date": "2023-01-01",
             "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18576",
-            "price": 50,
-            "name": "タフネスマント(CP",
-            "date": "2023-01-01",
-            "stock": 150
         },
         {
             "market": "hareruya2",
@@ -111,6 +167,14 @@
             "name": "タフネスマント:ミラ",
             "date": "2023-01-01",
             "stock": 17
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18576",
+            "price": 50,
+            "name": "タフネスマント(CP",
+            "date": "2023-01-01",
+            "stock": 150
         },
         {
             "market": "cardrush",
@@ -130,6 +194,14 @@
         },
         {
             "market": "torecolo",
+            "link": "/shop/g/g170-190-S4A-B/",
+            "price": 77,
+            "name": "【ポケカ】Ｃ）通常仕",
+            "date": "2023-01-01",
+            "stock": 9
+        },
+        {
+            "market": "torecolo",
             "link": "/shop/g/g170-190-S4A-BM/",
             "price": 110,
             "name": "【ポケカ】Ｃ）ミラー",
@@ -137,12 +209,20 @@
             "stock": 2
         },
         {
-            "market": "torecolo",
-            "link": "/shop/g/g170-190-S4A-B/",
-            "price": 77,
-            "name": "【ポケカ】Ｃ）通常仕",
-            "date": "2023-01-01",
-            "stock": 9
+            "market": "magi",
+            "link": "/items/1782541139",
+            "price": 120,
+            "name": "タフネスマント 17",
+            "date": "2022-12-31",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/344079008",
+            "price": 100,
+            "name": "タフネスマント 17",
+            "date": "2022-12-31",
+            "stock": 1
         },
         {
             "market": "magi",
@@ -153,22 +233,6 @@
             "stock": 1
         },
         {
-            "market": "magi",
-            "link": "/items/1782541139",
-            "price": 120,
-            "name": "タフネスマント 17",
-            "date": "2022-12-31",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/344079008",
-            "price": 100,
-            "name": "タフネスマント 17",
-            "date": "2022-12-31",
-            "stock": 1
-        },
-        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/18576",
             "price": 50,
@@ -218,16 +282,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/1992147352",
-            "price": 164,
+            "link": "/items/1782541139",
+            "price": 120,
             "name": "タフネスマント 17",
             "date": "2022-12-30",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1782541139",
-            "price": 120,
+            "link": "/items/1992147352",
+            "price": 164,
             "name": "タフネスマント 17",
             "date": "2022-12-30",
             "stock": 1
@@ -282,16 +346,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/1782541139",
-            "price": 120,
+            "link": "/items/1992147352",
+            "price": 164,
             "name": "タフネスマント 17",
             "date": "2022-12-29",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1992147352",
-            "price": 164,
+            "link": "/items/1782541139",
+            "price": 120,
             "name": "タフネスマント 17",
             "date": "2022-12-29",
             "stock": 1
@@ -362,19 +426,19 @@
         },
         {
             "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18576",
-            "price": 50,
-            "name": "タフネスマント(CP",
-            "date": "2022-12-28",
-            "stock": 156
-        },
-        {
-            "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/18839",
             "price": 50,
             "name": "タフネスマント:ミラ",
             "date": "2022-12-28",
             "stock": 20
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18576",
+            "price": 50,
+            "name": "タフネスマント(CP",
+            "date": "2022-12-28",
+            "stock": 156
         },
         {
             "market": "cardrush",
@@ -386,19 +450,19 @@
         },
         {
             "market": "torecolo",
-            "link": "/shop/g/g170-190-S4A-B/",
-            "price": 77,
-            "name": "【ポケカ】Ｃ）通常仕",
-            "date": "2022-12-28",
-            "stock": 9
-        },
-        {
-            "market": "torecolo",
             "link": "/shop/g/g170-190-S4A-BM/",
             "price": 110,
             "name": "【ポケカ】Ｃ）ミラー",
             "date": "2022-12-28",
             "stock": 2
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g170-190-S4A-B/",
+            "price": 77,
+            "name": "【ポケカ】Ｃ）通常仕",
+            "date": "2022-12-28",
+            "stock": 9
         },
         {
             "market": "magi",
@@ -462,78 +526,6 @@
             "price": 77,
             "name": "【ポケカ】Ｃ）通常仕",
             "date": "2022-12-27",
-            "stock": 9
-        },
-        {
-            "market": "magi",
-            "link": "/items/344079008",
-            "price": 100,
-            "name": "タフネスマント 17",
-            "date": "2022-12-26",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1782541139",
-            "price": 120,
-            "name": "タフネスマント 17",
-            "date": "2022-12-26",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1992147352",
-            "price": 166,
-            "name": "タフネスマント 17",
-            "date": "2022-12-26",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18839",
-            "price": 50,
-            "name": "タフネスマント:ミラ",
-            "date": "2022-12-26",
-            "stock": 20
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18576",
-            "price": 50,
-            "name": "タフネスマント(CP",
-            "date": "2022-12-26",
-            "stock": 159
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30763",
-            "price": 110,
-            "name": "タフネスマント170",
-            "date": "2022-12-26",
-            "stock": 5
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17319",
-            "price": 120,
-            "name": "タフネスマント170",
-            "date": "2022-12-26",
-            "stock": 259
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g170-190-S4A-BM/",
-            "price": 110,
-            "name": "【ポケカ】Ｃ）ミラー",
-            "date": "2022-12-26",
-            "stock": 2
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g170-190-S4A-B/",
-            "price": 77,
-            "name": "【ポケカ】Ｃ）通常仕",
-            "date": "2022-12-26",
             "stock": 9
         }
     ]

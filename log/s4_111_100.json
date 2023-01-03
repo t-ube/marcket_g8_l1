@@ -5,8 +5,104 @@
             "link": "/items/1343502497",
             "price": 19800,
             "name": "ルリナ SR 111",
-            "date": "2023-01-02",
+            "date": "2023-01-03",
             "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1254430655",
+            "price": 38000,
+            "name": "ルリナ SR 111",
+            "date": "2023-01-03",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/734285279",
+            "price": 10479,
+            "name": "〔状態B〕ルリナ【S",
+            "date": "2023-01-03",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1338757024",
+            "price": 17640,
+            "name": "ルリナ【SR】{11",
+            "date": "2023-01-03",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1347299532",
+            "price": 18500,
+            "name": "ルリナ SR 111",
+            "date": "2023-01-03",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/88659137",
+            "price": 14070,
+            "name": "〔状態A-〕ルリナ【",
+            "date": "2023-01-03",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1140568929",
+            "price": 29800,
+            "name": "ポケカ【美品】ルリナ",
+            "date": "2023-01-03",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/480247188",
+            "price": 9000,
+            "name": "【PSA5】ルリナ　",
+            "date": "2023-01-03",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2137499433",
+            "price": 18000,
+            "name": "ルリナ SR 111",
+            "date": "2023-01-03",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18396",
+            "price": 16000,
+            "name": "ルリナ(SR){サポ",
+            "date": "2023-01-03",
+            "stock": 7
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/15062",
+            "price": 9980,
+            "name": "ルリナ111/100",
+            "date": "2023-01-03",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30425",
+            "price": 13400,
+            "name": "ルリナ111/100",
+            "date": "2023-01-03",
+            "stock": 12
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14599",
+            "price": 16800,
+            "name": "ルリナ111/100",
+            "date": "2023-01-03",
+            "stock": 5
         },
         {
             "market": "magi",
@@ -26,33 +122,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/480247188",
-            "price": 9000,
-            "name": "【PSA5】ルリナ　",
-            "date": "2023-01-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1140568929",
-            "price": 29800,
-            "name": "ポケカ【美品】ルリナ",
-            "date": "2023-01-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/88659137",
-            "price": 14070,
-            "name": "〔状態A-〕ルリナ【",
-            "date": "2023-01-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1347299532",
-            "price": 18500,
-            "name": "ルリナ SR 111",
+            "link": "/items/734285279",
+            "price": 10479,
+            "name": "〔状態B〕ルリナ【S",
             "date": "2023-01-02",
             "stock": 1
         },
@@ -66,9 +138,41 @@
         },
         {
             "market": "magi",
-            "link": "/items/734285279",
-            "price": 10479,
-            "name": "〔状態B〕ルリナ【S",
+            "link": "/items/1347299532",
+            "price": 18500,
+            "name": "ルリナ SR 111",
+            "date": "2023-01-02",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1343502497",
+            "price": 19800,
+            "name": "ルリナ SR 111",
+            "date": "2023-01-02",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1140568929",
+            "price": 29800,
+            "name": "ポケカ【美品】ルリナ",
+            "date": "2023-01-02",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/480247188",
+            "price": 9000,
+            "name": "【PSA5】ルリナ　",
+            "date": "2023-01-02",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/88659137",
+            "price": 14070,
+            "name": "〔状態A-〕ルリナ【",
             "date": "2023-01-02",
             "stock": 1
         },
@@ -79,6 +183,14 @@
             "name": "ルリナ(SR){サポ",
             "date": "2023-01-02",
             "stock": 7
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/15062",
+            "price": 9980,
+            "name": "ルリナ111/100",
+            "date": "2023-01-02",
+            "stock": 2
         },
         {
             "market": "cardrush",
@@ -97,65 +209,17 @@
             "stock": 11
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/15062",
-            "price": 9980,
-            "name": "ルリナ111/100",
-            "date": "2023-01-02",
-            "stock": 2
+            "market": "magi",
+            "link": "/items/734285279",
+            "price": 10479,
+            "name": "〔状態B〕ルリナ【S",
+            "date": "2023-01-01",
+            "stock": 1
         },
         {
             "market": "magi",
             "link": "/items/1254430655",
             "price": 38000,
-            "name": "ルリナ SR 111",
-            "date": "2023-01-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2137499433",
-            "price": 18000,
-            "name": "ルリナ SR 111",
-            "date": "2023-01-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/480247188",
-            "price": 9000,
-            "name": "【PSA5】ルリナ　",
-            "date": "2023-01-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1343502497",
-            "price": 19800,
-            "name": "ルリナ SR 111",
-            "date": "2023-01-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1338757024",
-            "price": 17640,
-            "name": "ルリナ【SR】{11",
-            "date": "2023-01-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/88659137",
-            "price": 14070,
-            "name": "〔状態A-〕ルリナ【",
-            "date": "2023-01-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1347299532",
-            "price": 18500,
             "name": "ルリナ SR 111",
             "date": "2023-01-01",
             "stock": 1
@@ -170,9 +234,49 @@
         },
         {
             "market": "magi",
-            "link": "/items/734285279",
-            "price": 10479,
-            "name": "〔状態B〕ルリナ【S",
+            "link": "/items/1347299532",
+            "price": 18500,
+            "name": "ルリナ SR 111",
+            "date": "2023-01-01",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/88659137",
+            "price": 14070,
+            "name": "〔状態A-〕ルリナ【",
+            "date": "2023-01-01",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1338757024",
+            "price": 17640,
+            "name": "ルリナ【SR】{11",
+            "date": "2023-01-01",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1343502497",
+            "price": 19800,
+            "name": "ルリナ SR 111",
+            "date": "2023-01-01",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/480247188",
+            "price": 9000,
+            "name": "【PSA5】ルリナ　",
+            "date": "2023-01-01",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2137499433",
+            "price": 18000,
+            "name": "ルリナ SR 111",
             "date": "2023-01-01",
             "stock": 1
         },
@@ -186,11 +290,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/15062",
-            "price": 9980,
+            "link": "https://www.cardrush-pokemon.jp/product/14599",
+            "price": 16800,
             "name": "ルリナ111/100",
             "date": "2023-01-01",
-            "stock": 2
+            "stock": 11
         },
         {
             "market": "cardrush",
@@ -202,27 +306,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14599",
-            "price": 16800,
+            "link": "https://www.cardrush-pokemon.jp/product/15062",
+            "price": 9980,
             "name": "ルリナ111/100",
             "date": "2023-01-01",
-            "stock": 11
-        },
-        {
-            "market": "magi",
-            "link": "/items/1254430655",
-            "price": 38000,
-            "name": "ルリナ SR 111",
-            "date": "2022-12-31",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1338757024",
-            "price": 17640,
-            "name": "ルリナ【SR】{11",
-            "date": "2022-12-31",
-            "stock": 1
+            "stock": 2
         },
         {
             "market": "magi",
@@ -245,6 +333,14 @@
             "link": "/items/2137499433",
             "price": 18000,
             "name": "ルリナ SR 111",
+            "date": "2022-12-31",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1338757024",
+            "price": 17640,
+            "name": "ルリナ【SR】{11",
             "date": "2022-12-31",
             "stock": 1
         },
@@ -276,6 +372,14 @@
             "market": "magi",
             "link": "/items/1347299532",
             "price": 18500,
+            "name": "ルリナ SR 111",
+            "date": "2022-12-31",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1254430655",
+            "price": 38000,
             "name": "ルリナ SR 111",
             "date": "2022-12-31",
             "stock": 1
@@ -402,32 +506,24 @@
         },
         {
             "market": "magi",
-            "link": "/items/2048809333",
-            "price": 10479,
-            "name": "〔状態B〕ルリナ【S",
+            "link": "/items/88659137",
+            "price": 14070,
+            "name": "〔状態A-〕ルリナ【",
             "date": "2022-12-29",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1338757024",
-            "price": 17640,
-            "name": "ルリナ【SR】{11",
+            "link": "/items/1140568929",
+            "price": 29800,
+            "name": "ポケカ【美品】ルリナ",
             "date": "2022-12-29",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/480247188",
-            "price": 9000,
-            "name": "【PSA5】ルリナ　",
-            "date": "2022-12-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1347299532",
-            "price": 18500,
+            "link": "/items/1254430655",
+            "price": 38000,
             "name": "ルリナ SR 111",
             "date": "2022-12-29",
             "stock": 1
@@ -442,33 +538,41 @@
         },
         {
             "market": "magi",
+            "link": "/items/1347299532",
+            "price": 18500,
+            "name": "ルリナ SR 111",
+            "date": "2022-12-29",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/480247188",
+            "price": 9000,
+            "name": "【PSA5】ルリナ　",
+            "date": "2022-12-29",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1338757024",
+            "price": 17640,
+            "name": "ルリナ【SR】{11",
+            "date": "2022-12-29",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2048809333",
+            "price": 10479,
+            "name": "〔状態B〕ルリナ【S",
+            "date": "2022-12-29",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/2137499433",
             "price": 18000,
             "name": "ルリナ SR 111",
-            "date": "2022-12-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1254430655",
-            "price": 38000,
-            "name": "ルリナ SR 111",
-            "date": "2022-12-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1140568929",
-            "price": 29800,
-            "name": "ポケカ【美品】ルリナ",
-            "date": "2022-12-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/88659137",
-            "price": 14070,
-            "name": "〔状態A-〕ルリナ【",
             "date": "2022-12-29",
             "stock": 1
         },
@@ -479,6 +583,14 @@
             "name": "ルリナ(SR){サポ",
             "date": "2022-12-29",
             "stock": 6
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30425",
+            "price": 13400,
+            "name": "ルリナ111/100",
+            "date": "2022-12-29",
+            "stock": 17
         },
         {
             "market": "cardrush",
@@ -490,19 +602,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30425",
-            "price": 13400,
-            "name": "ルリナ111/100",
-            "date": "2022-12-29",
-            "stock": 17
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/15062",
             "price": 9980,
             "name": "ルリナ111/100",
             "date": "2022-12-29",
             "stock": 2
+        },
+        {
+            "market": "magi",
+            "link": "/items/2137499433",
+            "price": 18000,
+            "name": "ルリナ SR 111",
+            "date": "2022-12-28",
+            "stock": 1
         },
         {
             "market": "magi",
@@ -532,14 +644,6 @@
             "market": "magi",
             "link": "/items/1254430655",
             "price": 38000,
-            "name": "ルリナ SR 111",
-            "date": "2022-12-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2137499433",
-            "price": 18000,
             "name": "ルリナ SR 111",
             "date": "2022-12-28",
             "stock": 1
@@ -594,14 +698,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30425",
-            "price": 13400,
-            "name": "ルリナ111/100",
-            "date": "2022-12-28",
-            "stock": 17
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/15062",
             "price": 9980,
             "name": "ルリナ111/100",
@@ -609,10 +705,18 @@
             "stock": 2
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30425",
+            "price": 13400,
+            "name": "ルリナ111/100",
+            "date": "2022-12-28",
+            "stock": 17
+        },
+        {
             "market": "magi",
-            "link": "/items/1140568929",
-            "price": 29800,
-            "name": "ポケカ【美品】ルリナ",
+            "link": "/items/2137499433",
+            "price": 18000,
+            "name": "ルリナ SR 111",
             "date": "2022-12-27",
             "stock": 1
         },
@@ -650,14 +754,6 @@
         },
         {
             "market": "magi",
-            "link": "/items/2137499433",
-            "price": 18000,
-            "name": "ルリナ SR 111",
-            "date": "2022-12-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/1347299532",
             "price": 18500,
             "name": "ルリナ SR 111",
@@ -669,6 +765,14 @@
             "link": "/items/88659137",
             "price": 14070,
             "name": "〔状態A-〕ルリナ【",
+            "date": "2022-12-27",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1140568929",
+            "price": 29800,
+            "name": "ポケカ【美品】ルリナ",
             "date": "2022-12-27",
             "stock": 1
         },
@@ -695,110 +799,6 @@
             "name": "ルリナ111/100",
             "date": "2022-12-27",
             "stock": 27
-        },
-        {
-            "market": "magi",
-            "link": "/items/2048809333",
-            "price": 10479,
-            "name": "〔状態B〕ルリナ【S",
-            "date": "2022-12-26",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1140568929",
-            "price": 29800,
-            "name": "ポケカ【美品】ルリナ",
-            "date": "2022-12-26",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2137499433",
-            "price": 18000,
-            "name": "ルリナ SR 111",
-            "date": "2022-12-26",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/480247188",
-            "price": 9000,
-            "name": "【PSA5】ルリナ　",
-            "date": "2022-12-26",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1347299532",
-            "price": 18500,
-            "name": "ルリナ SR 111",
-            "date": "2022-12-26",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1254430655",
-            "price": 38000,
-            "name": "ルリナ SR 111",
-            "date": "2022-12-26",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1343502497",
-            "price": 19800,
-            "name": "ルリナ SR 111",
-            "date": "2022-12-26",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/751561430",
-            "price": 17640,
-            "name": "ルリナ【SR】{11",
-            "date": "2022-12-26",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/88659137",
-            "price": 14070,
-            "name": "〔状態A-〕ルリナ【",
-            "date": "2022-12-26",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18396",
-            "price": 17000,
-            "name": "ルリナ(SR){サポ",
-            "date": "2022-12-26",
-            "stock": 7
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14599",
-            "price": 16800,
-            "name": "ルリナ111/100",
-            "date": "2022-12-26",
-            "stock": 7
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/15062",
-            "price": 9980,
-            "name": "ルリナ111/100",
-            "date": "2022-12-26",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30425",
-            "price": 13400,
-            "name": "ルリナ111/100",
-            "date": "2022-12-26",
-            "stock": 29
         }
     ]
 }

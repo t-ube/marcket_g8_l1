@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/17474",
             "price": 100,
             "name": "チラーミィ(C){無",
+            "date": "2023-01-03",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/6907",
+            "price": 80,
+            "name": "チラーミィ047/0",
+            "date": "2023-01-03",
+            "stock": 141
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g047-060-S1W-B/",
+            "price": 28,
+            "name": "【ポケカ】Ｃ◇チラー",
+            "date": "2023-01-03",
+            "stock": 11
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17474",
+            "price": 100,
+            "name": "チラーミィ(C){無",
             "date": "2023-01-02",
             "stock": 2
         },
@@ -166,30 +190,6 @@
             "price": 28,
             "name": "【ポケカ】Ｃ◇チラー",
             "date": "2022-12-27",
-            "stock": 11
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/17474",
-            "price": 100,
-            "name": "チラーミィ(C){無",
-            "date": "2022-12-26",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/6907",
-            "price": 80,
-            "name": "チラーミィ047/0",
-            "date": "2022-12-26",
-            "stock": 139
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g047-060-S1W-B/",
-            "price": 28,
-            "name": "【ポケカ】Ｃ◇チラー",
-            "date": "2022-12-26",
             "stock": 11
         }
     ]

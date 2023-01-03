@@ -5,6 +5,22 @@
             "link": "https://www.hareruya2.com/product/18020",
             "price": 50,
             "name": "ノコッチ(C){無}",
+            "date": "2023-01-03",
+            "stock": 2
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g075-100-S3-B/",
+            "price": 13,
+            "name": "【ポケカ】Ｃ◇ノコッ",
+            "date": "2023-01-03",
+            "stock": 15
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18020",
+            "price": 50,
+            "name": "ノコッチ(C){無}",
             "date": "2023-01-02",
             "stock": 2
         },
@@ -110,22 +126,6 @@
             "price": 13,
             "name": "【ポケカ】Ｃ◇ノコッ",
             "date": "2022-12-27",
-            "stock": 15
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18020",
-            "price": 50,
-            "name": "ノコッチ(C){無}",
-            "date": "2022-12-26",
-            "stock": 2
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g075-100-S3-B/",
-            "price": 13,
-            "name": "【ポケカ】Ｃ◇ノコッ",
-            "date": "2022-12-26",
             "stock": 15
         }
     ]

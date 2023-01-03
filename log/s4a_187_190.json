@@ -2,10 +2,90 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/1448890091",
+            "price": 100,
+            "name": "ポケモンカード　オー",
+            "date": "2023-01-03",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/899174006",
             "price": 150,
             "name": "オーロラエネルギー ",
-            "date": "2023-01-02",
+            "date": "2023-01-03",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/14466912",
+            "price": 25,
+            "name": "PC オーロラエネル",
+            "date": "2023-01-03",
+            "stock": 4
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18853",
+            "price": 200,
+            "name": "オーロラエネルギー:",
+            "date": "2023-01-03",
+            "stock": 18
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18593",
+            "price": 100,
+            "name": "オーロラエネルギー(",
+            "date": "2023-01-03",
+            "stock": 53
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30777",
+            "price": 150,
+            "name": "オーロラエネルギー1",
+            "date": "2023-01-03",
+            "stock": 8
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17170",
+            "price": 80,
+            "name": "オーロラエネルギー1",
+            "date": "2023-01-03",
+            "stock": 108
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17336",
+            "price": 180,
+            "name": "オーロラエネルギー1",
+            "date": "2023-01-03",
+            "stock": 40
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30653",
+            "price": 70,
+            "name": "オーロラエネルギー1",
+            "date": "2023-01-03",
+            "stock": 21
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g187-190-S4A-B/",
+            "price": 88,
+            "name": "【ポケカ】Ｃ）通常仕",
+            "date": "2023-01-03",
+            "stock": 8
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g187-190-S4A-BM/",
+            "price": 88,
+            "name": "【ポケカ】Ｃ）ミラー",
+            "date": "2023-01-03",
             "stock": 1
         },
         {
@@ -15,6 +95,14 @@
             "name": "PC オーロラエネル",
             "date": "2023-01-02",
             "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/899174006",
+            "price": 150,
+            "name": "オーロラエネルギー ",
+            "date": "2023-01-02",
+            "stock": 1
         },
         {
             "market": "magi",
@@ -42,19 +130,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17336",
-            "price": 180,
+            "link": "https://www.cardrush-pokemon.jp/product/30653",
+            "price": 70,
             "name": "オーロラエネルギー1",
             "date": "2023-01-02",
-            "stock": 24
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17170",
-            "price": 80,
-            "name": "オーロラエネルギー1",
-            "date": "2023-01-02",
-            "stock": 108
+            "stock": 21
         },
         {
             "market": "cardrush",
@@ -66,11 +146,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30653",
-            "price": 70,
+            "link": "https://www.cardrush-pokemon.jp/product/17170",
+            "price": 80,
             "name": "オーロラエネルギー1",
             "date": "2023-01-02",
-            "stock": 21
+            "stock": 108
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17336",
+            "price": 180,
+            "name": "オーロラエネルギー1",
+            "date": "2023-01-02",
+            "stock": 24
         },
         {
             "market": "torecolo",
@@ -130,6 +218,14 @@
         },
         {
             "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17336",
+            "price": 180,
+            "name": "オーロラエネルギー1",
+            "date": "2023-01-01",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17170",
             "price": 80,
             "name": "オーロラエネルギー1",
@@ -151,14 +247,6 @@
             "name": "オーロラエネルギー1",
             "date": "2023-01-01",
             "stock": 21
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17336",
-            "price": 180,
-            "name": "オーロラエネルギー1",
-            "date": "2023-01-01",
-            "stock": 1
         },
         {
             "market": "torecolo",
@@ -274,19 +362,19 @@
         },
         {
             "market": "magi",
-            "link": "/items/1448890091",
-            "price": 100,
-            "name": "ポケモンカード　オー",
-            "date": "2022-12-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/14466912",
             "price": 25,
             "name": "PC オーロラエネル",
             "date": "2022-12-30",
             "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1448890091",
+            "price": 100,
+            "name": "ポケモンカード　オー",
+            "date": "2022-12-30",
+            "stock": 1
         },
         {
             "market": "hareruya2",
@@ -442,19 +530,19 @@
         },
         {
             "market": "magi",
-            "link": "/items/899174006",
-            "price": 150,
-            "name": "オーロラエネルギー ",
-            "date": "2022-12-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/14466912",
             "price": 25,
             "name": "PC オーロラエネル",
             "date": "2022-12-28",
             "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/899174006",
+            "price": 150,
+            "name": "オーロラエネルギー ",
+            "date": "2022-12-28",
+            "stock": 1
         },
         {
             "market": "magi",
@@ -551,14 +639,6 @@
             "name": "オーロラエネルギー ",
             "date": "2022-12-27",
             "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18853",
-            "price": 200,
-            "name": "オーロラエネルギー:",
-            "date": "2022-12-27",
-            "stock": 15
         },
         {
             "market": "hareruya2",
@@ -569,12 +649,12 @@
             "stock": 77
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17170",
-            "price": 80,
-            "name": "オーロラエネルギー1",
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18853",
+            "price": 200,
+            "name": "オーロラエネルギー:",
             "date": "2022-12-27",
-            "stock": 120
+            "stock": 15
         },
         {
             "market": "cardrush",
@@ -586,6 +666,14 @@
         },
         {
             "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17170",
+            "price": 80,
+            "name": "オーロラエネルギー1",
+            "date": "2022-12-27",
+            "stock": 120
+        },
+        {
+            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30653",
             "price": 70,
             "name": "オーロラエネルギー1",
@@ -615,94 +703,6 @@
             "name": "【ポケカ】Ｃ）通常仕",
             "date": "2022-12-27",
             "stock": 8
-        },
-        {
-            "market": "magi",
-            "link": "/items/1448890091",
-            "price": 100,
-            "name": "ポケモンカード　オー",
-            "date": "2022-12-26",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/899174006",
-            "price": 150,
-            "name": "オーロラエネルギー ",
-            "date": "2022-12-26",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/14466912",
-            "price": 25,
-            "name": "PC オーロラエネル",
-            "date": "2022-12-26",
-            "stock": 4
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18853",
-            "price": 200,
-            "name": "オーロラエネルギー:",
-            "date": "2022-12-26",
-            "stock": 15
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18593",
-            "price": 80,
-            "name": "オーロラエネルギー(",
-            "date": "2022-12-26",
-            "stock": 77
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17170",
-            "price": 80,
-            "name": "オーロラエネルギー1",
-            "date": "2022-12-26",
-            "stock": 120
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30777",
-            "price": 150,
-            "name": "オーロラエネルギー1",
-            "date": "2022-12-26",
-            "stock": 7
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17336",
-            "price": 180,
-            "name": "オーロラエネルギー1",
-            "date": "2022-12-26",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30653",
-            "price": 70,
-            "name": "オーロラエネルギー1",
-            "date": "2022-12-26",
-            "stock": 25
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g187-190-S4A-B/",
-            "price": 88,
-            "name": "【ポケカ】Ｃ）通常仕",
-            "date": "2022-12-26",
-            "stock": 8
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g187-190-S4A-BM/",
-            "price": 88,
-            "name": "【ポケカ】Ｃ）ミラー",
-            "date": "2022-12-26",
-            "stock": 5
         }
     ]
 }

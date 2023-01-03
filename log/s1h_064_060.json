@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/17566",
             "price": 900,
             "name": "ヤミラミV(SR){",
+            "date": "2023-01-03",
+            "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/29771",
+            "price": 580,
+            "name": "ヤミラミV064/0",
+            "date": "2023-01-03",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/7036",
+            "price": 680,
+            "name": "ヤミラミV064/0",
+            "date": "2023-01-03",
+            "stock": 68
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17566",
+            "price": 900,
+            "name": "ヤミラミV(SR){",
             "date": "2023-01-02",
             "stock": 4
         },
@@ -150,22 +174,6 @@
             "price": 680,
             "name": "ヤミラミV064/0",
             "date": "2022-12-27",
-            "stock": 54
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/17566",
-            "price": 900,
-            "name": "ヤミラミV(SR){",
-            "date": "2022-12-26",
-            "stock": 4
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7036",
-            "price": 680,
-            "name": "ヤミラミV064/0",
-            "date": "2022-12-26",
             "stock": 54
         }
     ]

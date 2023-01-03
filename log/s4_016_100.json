@@ -5,6 +5,30 @@
             "link": "/items/1132513175",
             "price": 100,
             "name": "【100円セール】フ",
+            "date": "2023-01-03",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18301",
+            "price": 200,
+            "name": "ファイアローV(RR",
+            "date": "2023-01-03",
+            "stock": 65
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14470",
+            "price": 80,
+            "name": "ファイアローV016",
+            "date": "2023-01-03",
+            "stock": 184
+        },
+        {
+            "market": "magi",
+            "link": "/items/1132513175",
+            "price": 100,
+            "name": "【100円セール】フ",
             "date": "2023-01-02",
             "stock": 1
         },
@@ -166,30 +190,6 @@
             "price": 80,
             "name": "ファイアローV016",
             "date": "2022-12-27",
-            "stock": 114
-        },
-        {
-            "market": "magi",
-            "link": "/items/745716366",
-            "price": 125,
-            "name": "【特価】ファイアロー",
-            "date": "2022-12-26",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18301",
-            "price": 200,
-            "name": "ファイアローV(RR",
-            "date": "2022-12-26",
-            "stock": 65
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14470",
-            "price": 80,
-            "name": "ファイアローV016",
-            "date": "2022-12-26",
             "stock": 114
         }
     ]

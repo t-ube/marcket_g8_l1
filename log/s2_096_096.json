@@ -1,6 +1,22 @@
 ﻿{
     "items": [
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/7524",
+            "price": 120,
+            "name": "キャプチャーエネルギ",
+            "date": "2023-01-03",
+            "stock": 8
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g096-096-S2-B/",
+            "price": 165,
+            "name": "【ポケカ】Ｕ◇キャプ",
+            "date": "2023-01-03",
+            "stock": 1
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/17799",
             "price": 150,
@@ -94,14 +110,6 @@
             "price": 165,
             "name": "【ポケカ】Ｕ◇キャプ",
             "date": "2022-12-27",
-            "stock": 1
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g096-096-S2-B/",
-            "price": 165,
-            "name": "【ポケカ】Ｕ◇キャプ",
-            "date": "2022-12-26",
             "stock": 1
         }
     ]
