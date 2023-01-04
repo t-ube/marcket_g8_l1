@@ -5,6 +5,38 @@
             "link": "/items/1309941506",
             "price": 799,
             "name": "ワタシラガV SSR",
+            "date": "2023-01-04",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18712",
+            "price": 700,
+            "name": "ワタシラガV(SSR",
+            "date": "2023-01-04",
+            "stock": 5
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30895",
+            "price": 580,
+            "name": "ワタシラガV306/",
+            "date": "2023-01-04",
+            "stock": 54
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17455",
+            "price": 680,
+            "name": "ワタシラガV306/",
+            "date": "2023-01-04",
+            "stock": 100
+        },
+        {
+            "market": "magi",
+            "link": "/items/1309941506",
+            "price": 799,
+            "name": "ワタシラガV SSR",
             "date": "2023-01-03",
             "stock": 1
         },
@@ -50,19 +82,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30895",
-            "price": 580,
-            "name": "ワタシラガV306/",
-            "date": "2023-01-02",
-            "stock": 46
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17455",
             "price": 680,
             "name": "ワタシラガV306/",
             "date": "2023-01-02",
             "stock": 81
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30895",
+            "price": 580,
+            "name": "ワタシラガV306/",
+            "date": "2023-01-02",
+            "stock": 46
         },
         {
             "market": "magi",
@@ -111,6 +143,14 @@
             "name": "ワタシラガV(SSR",
             "date": "2022-12-31",
             "stock": 5
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30895",
+            "price": 580,
+            "name": "ワタシラガV306/",
+            "date": "2022-12-31",
+            "stock": 44
         },
         {
             "market": "cardrush",
@@ -121,14 +161,6 @@
             "stock": 89
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30895",
-            "price": 580,
-            "name": "ワタシラガV306/",
-            "date": "2022-12-31",
-            "stock": 44
-        },
-        {
             "market": "magi",
             "link": "/items/1309941506",
             "price": 799,
@@ -146,19 +178,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30895",
-            "price": 580,
-            "name": "ワタシラガV306/",
-            "date": "2022-12-30",
-            "stock": 44
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17455",
             "price": 680,
             "name": "ワタシラガV306/",
             "date": "2022-12-30",
             "stock": 110
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30895",
+            "price": 580,
+            "name": "ワタシラガV306/",
+            "date": "2022-12-30",
+            "stock": 44
         },
         {
             "market": "magi",
@@ -210,42 +242,10 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17455",
-            "price": 680,
-            "name": "ワタシラガV306/",
-            "date": "2022-12-28",
-            "stock": 110
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30895",
             "price": 580,
             "name": "ワタシラガV306/",
             "date": "2022-12-28",
-            "stock": 44
-        },
-        {
-            "market": "magi",
-            "link": "/items/1309941506",
-            "price": 799,
-            "name": "ワタシラガV SSR",
-            "date": "2022-12-27",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18712",
-            "price": 700,
-            "name": "ワタシラガV(SSR",
-            "date": "2022-12-27",
-            "stock": 5
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30895",
-            "price": 580,
-            "name": "ワタシラガV306/",
-            "date": "2022-12-27",
             "stock": 44
         },
         {
@@ -253,8 +253,8 @@
             "link": "https://www.cardrush-pokemon.jp/product/17455",
             "price": 680,
             "name": "ワタシラガV306/",
-            "date": "2022-12-27",
-            "stock": 106
+            "date": "2022-12-28",
+            "stock": 110
         }
     ]
 }

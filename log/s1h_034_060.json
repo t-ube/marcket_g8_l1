@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/17536",
             "price": 50,
             "name": "ガラルマッスグマ(U",
+            "date": "2023-01-04",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/6954",
+            "price": 30,
+            "name": "ガラルマッスグマ03",
+            "date": "2023-01-04",
+            "stock": 23
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g034-060-S1H-B/",
+            "price": 2,
+            "name": "【ポケカ】Ｕ◇ガラル",
+            "date": "2023-01-04",
+            "stock": 9
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17536",
+            "price": 50,
+            "name": "ガラルマッスグマ(U",
             "date": "2023-01-03",
             "stock": 2
         },
@@ -166,30 +190,6 @@
             "price": 2,
             "name": "【ポケカ】Ｕ◇ガラル",
             "date": "2022-12-28",
-            "stock": 9
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/17536",
-            "price": 50,
-            "name": "ガラルマッスグマ(U",
-            "date": "2022-12-27",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/6954",
-            "price": 30,
-            "name": "ガラルマッスグマ03",
-            "date": "2022-12-27",
-            "stock": 23
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g034-060-S1H-B/",
-            "price": 2,
-            "name": "【ポケカ】Ｕ◇ガラル",
-            "date": "2022-12-27",
             "stock": 9
         }
     ]

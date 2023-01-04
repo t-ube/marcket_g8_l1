@@ -5,6 +5,22 @@
             "link": "https://www.cardrush-pokemon.jp/product/14251",
             "price": 80,
             "name": "ポケギア3.0096",
+            "date": "2023-01-04",
+            "stock": 126
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30293",
+            "price": 70,
+            "name": "ポケギア3.0096",
+            "date": "2023-01-04",
+            "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14251",
+            "price": 80,
+            "name": "ポケギア3.0096",
             "date": "2023-01-03",
             "stock": 126
         },
@@ -54,14 +70,6 @@
             "price": 80,
             "name": "ポケギア3.0096",
             "date": "2022-12-28",
-            "stock": 126
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14251",
-            "price": 80,
-            "name": "ポケギア3.0096",
-            "date": "2022-12-27",
             "stock": 126
         }
     ]

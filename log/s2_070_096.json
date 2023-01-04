@@ -5,6 +5,54 @@
             "link": "/items/624464121",
             "price": 300,
             "name": "【特価】カラマネロV",
+            "date": "2023-01-04",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1461946313",
+            "price": 99,
+            "name": "カラマネロV RR ",
+            "date": "2023-01-04",
+            "stock": 3
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17773",
+            "price": 100,
+            "name": "カラマネロV(RR)",
+            "date": "2023-01-04",
+            "stock": 97
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/20545",
+            "price": 50,
+            "name": "カラマネロV070/",
+            "date": "2023-01-04",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/29905",
+            "price": 70,
+            "name": "カラマネロV070/",
+            "date": "2023-01-04",
+            "stock": 5
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/7498",
+            "price": 80,
+            "name": "カラマネロV070/",
+            "date": "2023-01-04",
+            "stock": 182
+        },
+        {
+            "market": "magi",
+            "link": "/items/624464121",
+            "price": 300,
+            "name": "【特価】カラマネロV",
             "date": "2023-01-03",
             "stock": 1
         },
@@ -50,19 +98,19 @@
         },
         {
             "market": "magi",
-            "link": "/items/624464121",
-            "price": 300,
-            "name": "【特価】カラマネロV",
-            "date": "2023-01-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/1461946313",
             "price": 99,
             "name": "カラマネロV RR ",
             "date": "2023-01-02",
             "stock": 3
+        },
+        {
+            "market": "magi",
+            "link": "/items/624464121",
+            "price": 300,
+            "name": "【特価】カラマネロV",
+            "date": "2023-01-02",
+            "stock": 1
         },
         {
             "market": "hareruya2",
@@ -71,22 +119,6 @@
             "name": "カラマネロV(RR)",
             "date": "2023-01-02",
             "stock": 95
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/20545",
-            "price": 50,
-            "name": "カラマネロV070/",
-            "date": "2023-01-02",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/29905",
-            "price": 70,
-            "name": "カラマネロV070/",
-            "date": "2023-01-02",
-            "stock": 5
         },
         {
             "market": "cardrush",
@@ -97,12 +129,20 @@
             "stock": 184
         },
         {
-            "market": "magi",
-            "link": "/items/1461946313",
-            "price": 99,
-            "name": "カラマネロV RR ",
-            "date": "2023-01-01",
-            "stock": 3
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/29905",
+            "price": 70,
+            "name": "カラマネロV070/",
+            "date": "2023-01-02",
+            "stock": 5
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/20545",
+            "price": 50,
+            "name": "カラマネロV070/",
+            "date": "2023-01-02",
+            "stock": 1
         },
         {
             "market": "magi",
@@ -111,6 +151,14 @@
             "name": "【特価】カラマネロV",
             "date": "2023-01-01",
             "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1461946313",
+            "price": 99,
+            "name": "カラマネロV RR ",
+            "date": "2023-01-01",
+            "stock": 3
         },
         {
             "market": "hareruya2",
@@ -170,22 +218,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7498",
-            "price": 80,
-            "name": "カラマネロV070/",
-            "date": "2022-12-31",
-            "stock": 130
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/29905",
-            "price": 70,
-            "name": "カラマネロV070/",
-            "date": "2022-12-31",
-            "stock": 5
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/20545",
             "price": 50,
             "name": "カラマネロV070/",
@@ -193,12 +225,20 @@
             "stock": 1
         },
         {
-            "market": "magi",
-            "link": "/items/624464121",
-            "price": 300,
-            "name": "【特価】カラマネロV",
-            "date": "2022-12-30",
-            "stock": 1
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/29905",
+            "price": 70,
+            "name": "カラマネロV070/",
+            "date": "2022-12-31",
+            "stock": 5
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/7498",
+            "price": 80,
+            "name": "カラマネロV070/",
+            "date": "2022-12-31",
+            "stock": 130
         },
         {
             "market": "magi",
@@ -207,6 +247,14 @@
             "name": "カラマネロV RR ",
             "date": "2022-12-30",
             "stock": 3
+        },
+        {
+            "market": "magi",
+            "link": "/items/624464121",
+            "price": 300,
+            "name": "【特価】カラマネロV",
+            "date": "2022-12-30",
+            "stock": 1
         },
         {
             "market": "hareruya2",
@@ -218,11 +266,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/20545",
-            "price": 50,
+            "link": "https://www.cardrush-pokemon.jp/product/7498",
+            "price": 80,
             "name": "カラマネロV070/",
             "date": "2022-12-30",
-            "stock": 1
+            "stock": 130
         },
         {
             "market": "cardrush",
@@ -234,19 +282,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7498",
-            "price": 80,
+            "link": "https://www.cardrush-pokemon.jp/product/20545",
+            "price": 50,
             "name": "カラマネロV070/",
             "date": "2022-12-30",
-            "stock": 130
-        },
-        {
-            "market": "magi",
-            "link": "/items/1461946313",
-            "price": 99,
-            "name": "カラマネロV RR ",
-            "date": "2022-12-29",
-            "stock": 3
+            "stock": 1
         },
         {
             "market": "magi",
@@ -255,6 +295,14 @@
             "name": "【特価】カラマネロV",
             "date": "2022-12-29",
             "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1461946313",
+            "price": 99,
+            "name": "カラマネロV RR ",
+            "date": "2022-12-29",
+            "stock": 3
         },
         {
             "market": "hareruya2",
@@ -290,19 +338,19 @@
         },
         {
             "market": "magi",
-            "link": "/items/624464121",
-            "price": 300,
-            "name": "【特価】カラマネロV",
-            "date": "2022-12-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/1461946313",
             "price": 99,
             "name": "カラマネロV RR ",
             "date": "2022-12-28",
             "stock": 3
+        },
+        {
+            "market": "magi",
+            "link": "/items/624464121",
+            "price": 300,
+            "name": "【特価】カラマネロV",
+            "date": "2022-12-28",
+            "stock": 1
         },
         {
             "market": "hareruya2",
@@ -334,54 +382,6 @@
             "price": 50,
             "name": "カラマネロV070/",
             "date": "2022-12-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1461946313",
-            "price": 99,
-            "name": "カラマネロV RR ",
-            "date": "2022-12-27",
-            "stock": 3
-        },
-        {
-            "market": "magi",
-            "link": "/items/624464121",
-            "price": 300,
-            "name": "【特価】カラマネロV",
-            "date": "2022-12-27",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/17773",
-            "price": 100,
-            "name": "カラマネロV(RR)",
-            "date": "2022-12-27",
-            "stock": 95
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7498",
-            "price": 80,
-            "name": "カラマネロV070/",
-            "date": "2022-12-27",
-            "stock": 130
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/29905",
-            "price": 70,
-            "name": "カラマネロV070/",
-            "date": "2022-12-27",
-            "stock": 5
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/20545",
-            "price": 50,
-            "name": "カラマネロV070/",
-            "date": "2022-12-27",
             "stock": 1
         }
     ]

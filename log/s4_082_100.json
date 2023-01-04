@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/18367",
             "price": 50,
             "name": "ジュラルドン(R){",
+            "date": "2023-01-04",
+            "stock": 37
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14536",
+            "price": 80,
+            "name": "ジュラルドン082/",
+            "date": "2023-01-04",
+            "stock": 96
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g082-100-S4-B/",
+            "price": 77,
+            "name": "【ポケカ】Ｒ◇ジュラ",
+            "date": "2023-01-04",
+            "stock": 8
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18367",
+            "price": 50,
+            "name": "ジュラルドン(R){",
             "date": "2023-01-03",
             "stock": 37
         },
@@ -166,30 +190,6 @@
             "price": 77,
             "name": "【ポケカ】Ｒ◇ジュラ",
             "date": "2022-12-28",
-            "stock": 8
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18367",
-            "price": 50,
-            "name": "ジュラルドン(R){",
-            "date": "2022-12-27",
-            "stock": 37
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14536",
-            "price": 80,
-            "name": "ジュラルドン082/",
-            "date": "2022-12-27",
-            "stock": 96
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g082-100-S4-B/",
-            "price": 77,
-            "name": "【ポケカ】Ｒ◇ジュラ",
-            "date": "2022-12-27",
             "stock": 8
         }
     ]

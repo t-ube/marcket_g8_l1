@@ -5,6 +5,22 @@
             "link": "/items/1061416329",
             "price": 280,
             "name": "アロマ草エネルギー ",
+            "date": "2023-01-04",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14109",
+            "price": 80,
+            "name": "アロマ草エネルギー0",
+            "date": "2023-01-04",
+            "stock": 58
+        },
+        {
+            "market": "magi",
+            "link": "/items/1061416329",
+            "price": 280,
+            "name": "アロマ草エネルギー ",
             "date": "2023-01-03",
             "stock": 1
         },
@@ -110,22 +126,6 @@
             "price": 80,
             "name": "アロマ草エネルギー0",
             "date": "2022-12-28",
-            "stock": 61
-        },
-        {
-            "market": "magi",
-            "link": "/items/1061416329",
-            "price": 280,
-            "name": "アロマ草エネルギー ",
-            "date": "2022-12-27",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14109",
-            "price": 80,
-            "name": "アロマ草エネルギー0",
-            "date": "2022-12-27",
             "stock": 61
         }
     ]

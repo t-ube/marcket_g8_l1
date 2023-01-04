@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/17676",
             "price": 50,
             "name": "ホルビー(C){無}",
+            "date": "2023-01-04",
+            "stock": 14
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/7343",
+            "price": 30,
+            "name": "ホルビー059/07",
+            "date": "2023-01-04",
+            "stock": 52
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g059-070-S1A-B/",
+            "price": 33,
+            "name": "【ポケカ】Ｃ◇ホルビ",
+            "date": "2023-01-04",
+            "stock": 3
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17676",
+            "price": 50,
+            "name": "ホルビー(C){無}",
             "date": "2023-01-03",
             "stock": 14
         },
@@ -166,30 +190,6 @@
             "price": 33,
             "name": "【ポケカ】Ｃ◇ホルビ",
             "date": "2022-12-28",
-            "stock": 3
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/17676",
-            "price": 50,
-            "name": "ホルビー(C){無}",
-            "date": "2022-12-27",
-            "stock": 14
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7343",
-            "price": 30,
-            "name": "ホルビー059/07",
-            "date": "2022-12-27",
-            "stock": 52
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g059-070-S1A-B/",
-            "price": 33,
-            "name": "【ポケカ】Ｃ◇ホルビ",
-            "date": "2022-12-27",
             "stock": 3
         }
     ]

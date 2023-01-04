@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/18180",
             "price": 250,
             "name": "メリープ(D){雷}",
+            "date": "2023-01-04",
+            "stock": 9
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30273",
+            "price": 150,
+            "name": "メリープ030/12",
+            "date": "2023-01-04",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14185",
+            "price": 180,
+            "name": "メリープ030/12",
+            "date": "2023-01-04",
+            "stock": 62
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18180",
+            "price": 250,
+            "name": "メリープ(D){雷}",
             "date": "2023-01-03",
             "stock": 9
         },
@@ -82,14 +106,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30273",
-            "price": 150,
-            "name": "メリープ030/12",
-            "date": "2022-12-31",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/14185",
             "price": 180,
             "name": "メリープ030/12",
@@ -97,6 +113,14 @@
             "stock": 34
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30273",
+            "price": 150,
+            "name": "メリープ030/12",
+            "date": "2022-12-31",
+            "stock": 2
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/18180",
             "price": 250,
@@ -130,19 +154,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14185",
-            "price": 180,
-            "name": "メリープ030/12",
-            "date": "2022-12-29",
-            "stock": 34
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30273",
             "price": 150,
             "name": "メリープ030/12",
             "date": "2022-12-29",
             "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14185",
+            "price": 180,
+            "name": "メリープ030/12",
+            "date": "2022-12-29",
+            "stock": 34
         },
         {
             "market": "hareruya2",
@@ -154,14 +178,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30273",
-            "price": 150,
-            "name": "メリープ030/12",
-            "date": "2022-12-28",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/14185",
             "price": 180,
             "name": "メリープ030/12",
@@ -169,27 +185,11 @@
             "stock": 34
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18180",
-            "price": 250,
-            "name": "メリープ(D){雷}",
-            "date": "2022-12-27",
-            "stock": 9
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14185",
-            "price": 180,
-            "name": "メリープ030/12",
-            "date": "2022-12-27",
-            "stock": 34
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30273",
             "price": 150,
             "name": "メリープ030/12",
-            "date": "2022-12-27",
+            "date": "2022-12-28",
             "stock": 2
         }
     ]

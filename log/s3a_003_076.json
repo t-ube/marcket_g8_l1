@@ -5,6 +5,54 @@
             "link": "/items/559976430",
             "price": 100,
             "name": "スピアー　U　003",
+            "date": "2023-01-04",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1007709283",
+            "price": 280,
+            "name": "スピアー U 003",
+            "date": "2023-01-04",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18194",
+            "price": 250,
+            "name": "スピアー(U){草}",
+            "date": "2023-01-04",
+            "stock": 18
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30188",
+            "price": 70,
+            "name": "スピアー003/07",
+            "date": "2023-01-04",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14038",
+            "price": 80,
+            "name": "スピアー003/07",
+            "date": "2023-01-04",
+            "stock": 105
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g003-076-S3A-B/",
+            "price": 22,
+            "name": "【ポケカ】Ｕ◇スピア",
+            "date": "2023-01-04",
+            "stock": 25
+        },
+        {
+            "market": "magi",
+            "link": "/items/559976430",
+            "price": 100,
+            "name": "スピアー　U　003",
             "date": "2023-01-03",
             "stock": 4
         },
@@ -50,19 +98,19 @@
         },
         {
             "market": "magi",
-            "link": "/items/559976430",
-            "price": 100,
-            "name": "スピアー　U　003",
-            "date": "2023-01-02",
-            "stock": 4
-        },
-        {
-            "market": "magi",
             "link": "/items/1007709283",
             "price": 280,
             "name": "スピアー U 003",
             "date": "2023-01-02",
             "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/559976430",
+            "price": 100,
+            "name": "スピアー　U　003",
+            "date": "2023-01-02",
+            "stock": 4
         },
         {
             "market": "hareruya2",
@@ -74,19 +122,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30188",
-            "price": 70,
-            "name": "スピアー003/07",
-            "date": "2023-01-02",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/14038",
             "price": 80,
             "name": "スピアー003/07",
             "date": "2023-01-02",
             "stock": 105
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30188",
+            "price": 70,
+            "name": "スピアー003/07",
+            "date": "2023-01-02",
+            "stock": 2
         },
         {
             "market": "torecolo",
@@ -98,19 +146,19 @@
         },
         {
             "market": "magi",
-            "link": "/items/1007709283",
-            "price": 280,
-            "name": "スピアー U 003",
-            "date": "2023-01-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/559976430",
             "price": 100,
             "name": "スピアー　U　003",
             "date": "2023-01-01",
             "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1007709283",
+            "price": 280,
+            "name": "スピアー U 003",
+            "date": "2023-01-01",
+            "stock": 1
         },
         {
             "market": "hareruya2",
@@ -170,14 +218,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14038",
-            "price": 80,
-            "name": "スピアー003/07",
-            "date": "2022-12-31",
-            "stock": 105
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30188",
             "price": 70,
             "name": "スピアー003/07",
@@ -185,6 +225,14 @@
             "stock": 2
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14038",
+            "price": 80,
+            "name": "スピアー003/07",
+            "date": "2022-12-31",
+            "stock": 105
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g003-076-S3A-B/",
             "price": 22,
@@ -194,19 +242,19 @@
         },
         {
             "market": "magi",
-            "link": "/items/559976430",
-            "price": 100,
-            "name": "スピアー　U　003",
-            "date": "2022-12-30",
-            "stock": 4
-        },
-        {
-            "market": "magi",
             "link": "/items/1007709283",
             "price": 280,
             "name": "スピアー U 003",
             "date": "2022-12-30",
             "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/559976430",
+            "price": 100,
+            "name": "スピアー　U　003",
+            "date": "2022-12-30",
+            "stock": 4
         },
         {
             "market": "hareruya2",
@@ -218,19 +266,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30188",
-            "price": 70,
-            "name": "スピアー003/07",
-            "date": "2022-12-30",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/14038",
             "price": 80,
             "name": "スピアー003/07",
             "date": "2022-12-30",
             "stock": 105
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30188",
+            "price": 70,
+            "name": "スピアー003/07",
+            "date": "2022-12-30",
+            "stock": 2
         },
         {
             "market": "torecolo",
@@ -290,19 +338,19 @@
         },
         {
             "market": "magi",
-            "link": "/items/1007709283",
-            "price": 280,
-            "name": "スピアー U 003",
-            "date": "2022-12-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/559976430",
             "price": 100,
             "name": "スピアー　U　003",
             "date": "2022-12-28",
             "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1007709283",
+            "price": 280,
+            "name": "スピアー U 003",
+            "date": "2022-12-28",
+            "stock": 1
         },
         {
             "market": "hareruya2",
@@ -334,54 +382,6 @@
             "price": 22,
             "name": "【ポケカ】Ｕ◇スピア",
             "date": "2022-12-28",
-            "stock": 25
-        },
-        {
-            "market": "magi",
-            "link": "/items/559976430",
-            "price": 100,
-            "name": "スピアー　U　003",
-            "date": "2022-12-27",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/1007709283",
-            "price": 280,
-            "name": "スピアー U 003",
-            "date": "2022-12-27",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18194",
-            "price": 250,
-            "name": "スピアー(U){草}",
-            "date": "2022-12-27",
-            "stock": 18
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14038",
-            "price": 80,
-            "name": "スピアー003/07",
-            "date": "2022-12-27",
-            "stock": 105
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30188",
-            "price": 70,
-            "name": "スピアー003/07",
-            "date": "2022-12-27",
-            "stock": 2
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g003-076-S3A-B/",
-            "price": 22,
-            "name": "【ポケカ】Ｕ◇スピア",
-            "date": "2022-12-27",
             "stock": 25
         }
     ]

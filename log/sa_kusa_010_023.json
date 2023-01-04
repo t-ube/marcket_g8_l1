@@ -2,11 +2,19 @@
     "items": [
         {
             "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/29568",
+            "price": 250,
+            "name": "カビゴン010/02",
+            "date": "2023-01-04",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/6709",
             "price": 280,
             "name": "カビゴン010/02",
-            "date": "2023-01-03",
-            "stock": 18
+            "date": "2023-01-04",
+            "stock": 17
         },
         {
             "market": "cardrush",
@@ -18,6 +26,14 @@
         },
         {
             "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/6709",
+            "price": 280,
+            "name": "カビゴン010/02",
+            "date": "2023-01-03",
+            "stock": 18
+        },
+        {
+            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/29568",
             "price": 250,
             "name": "カビゴン010/02",
@@ -26,11 +42,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/6709",
-            "price": 280,
+            "link": "https://www.cardrush-pokemon.jp/product/29568",
+            "price": 250,
             "name": "カビゴン010/02",
             "date": "2023-01-02",
-            "stock": 18
+            "stock": 2
         },
         {
             "market": "cardrush",
@@ -42,11 +58,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/29568",
-            "price": 250,
+            "link": "https://www.cardrush-pokemon.jp/product/6709",
+            "price": 280,
             "name": "カビゴン010/02",
             "date": "2023-01-02",
-            "stock": 2
+            "stock": 18
         },
         {
             "market": "cardrush",
@@ -86,14 +102,6 @@
             "price": 150,
             "name": "カビゴン010/02",
             "date": "2022-12-28",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/29568",
-            "price": 150,
-            "name": "カビゴン010/02",
-            "date": "2022-12-27",
             "stock": 2
         }
     ]

@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/17776",
             "price": 50,
             "name": "ダイノーズ(U){鋼",
+            "date": "2023-01-04",
+            "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/7483",
+            "price": 30,
+            "name": "ダイノーズ073/0",
+            "date": "2023-01-04",
+            "stock": 86
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g073-096-S2-B/",
+            "price": 33,
+            "name": "【ポケカ】Ｕ◇ダイノ",
+            "date": "2023-01-04",
+            "stock": 16
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17776",
+            "price": 50,
+            "name": "ダイノーズ(U){鋼",
             "date": "2023-01-03",
             "stock": 3
         },
@@ -166,30 +190,6 @@
             "price": 33,
             "name": "【ポケカ】Ｕ◇ダイノ",
             "date": "2022-12-28",
-            "stock": 16
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/17776",
-            "price": 50,
-            "name": "ダイノーズ(U){鋼",
-            "date": "2022-12-27",
-            "stock": 3
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7483",
-            "price": 30,
-            "name": "ダイノーズ073/0",
-            "date": "2022-12-27",
-            "stock": 86
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g073-096-S2-B/",
-            "price": 33,
-            "name": "【ポケカ】Ｕ◇ダイノ",
-            "date": "2022-12-27",
             "stock": 16
         }
     ]

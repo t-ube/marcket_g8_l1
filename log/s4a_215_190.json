@@ -5,6 +5,38 @@
             "link": "https://www.hareruya2.com/product/18621",
             "price": 150,
             "name": "ラビフット(S){炎",
+            "date": "2023-01-04",
+            "stock": 16
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30804",
+            "price": 330,
+            "name": "ラビフット215/1",
+            "date": "2023-01-04",
+            "stock": 9
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17364",
+            "price": 380,
+            "name": "ラビフット215/1",
+            "date": "2023-01-04",
+            "stock": 45
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g215-190-S4A-B/",
+            "price": 275,
+            "name": "【ポケカ】Ｓ◇ラビフ",
+            "date": "2023-01-04",
+            "stock": 10
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18621",
+            "price": 150,
+            "name": "ラビフット(S){炎",
             "date": "2023-01-03",
             "stock": 16
         },
@@ -42,14 +74,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30804",
-            "price": 330,
-            "name": "ラビフット215/1",
-            "date": "2023-01-02",
-            "stock": 9
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17364",
             "price": 380,
             "name": "ラビフット215/1",
@@ -57,6 +81,14 @@
             "stock": 45
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30804",
+            "price": 330,
+            "name": "ラビフット215/1",
+            "date": "2023-01-02",
+            "stock": 9
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g215-190-S4A-B/",
             "price": 275,
@@ -106,19 +138,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17364",
-            "price": 380,
-            "name": "ラビフット215/1",
-            "date": "2022-12-31",
-            "stock": 36
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30804",
             "price": 330,
             "name": "ラビフット215/1",
             "date": "2022-12-31",
             "stock": 9
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17364",
+            "price": 380,
+            "name": "ラビフット215/1",
+            "date": "2022-12-31",
+            "stock": 36
         },
         {
             "market": "torecolo",
@@ -135,14 +167,6 @@
             "name": "ラビフット(S){炎",
             "date": "2022-12-30",
             "stock": 18
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30804",
-            "price": 330,
-            "name": "ラビフット215/1",
-            "date": "2022-12-30",
-            "stock": 9
         },
         {
             "market": "cardrush",
@@ -153,6 +177,14 @@
             "stock": 36
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30804",
+            "price": 330,
+            "name": "ラビフット215/1",
+            "date": "2022-12-30",
+            "stock": 9
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g215-190-S4A-B/",
             "price": 275,
@@ -202,14 +234,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17364",
-            "price": 380,
-            "name": "ラビフット215/1",
-            "date": "2022-12-28",
-            "stock": 35
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30804",
             "price": 330,
             "name": "ラビフット215/1",
@@ -217,35 +241,11 @@
             "stock": 9
         },
         {
-            "market": "torecolo",
-            "link": "/shop/g/g215-190-S4A-B/",
-            "price": 275,
-            "name": "【ポケカ】Ｓ◇ラビフ",
-            "date": "2022-12-28",
-            "stock": 10
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18621",
-            "price": 150,
-            "name": "ラビフット(S){炎",
-            "date": "2022-12-27",
-            "stock": 18
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30804",
-            "price": 330,
-            "name": "ラビフット215/1",
-            "date": "2022-12-27",
-            "stock": 9
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17364",
             "price": 380,
             "name": "ラビフット215/1",
-            "date": "2022-12-27",
+            "date": "2022-12-28",
             "stock": 35
         },
         {
@@ -253,7 +253,7 @@
             "link": "/shop/g/g215-190-S4A-B/",
             "price": 275,
             "name": "【ポケカ】Ｓ◇ラビフ",
-            "date": "2022-12-27",
+            "date": "2022-12-28",
             "stock": 10
         }
     ]

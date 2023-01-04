@@ -2,9 +2,97 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/72335585",
+            "price": 36540,
+            "name": "ピカチュウVMAX(",
+            "date": "2023-01-04",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/861899393",
+            "price": 29190,
+            "name": "ピカチュウVMAX【",
+            "date": "2023-01-04",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1307236077",
+            "price": 28800,
+            "name": "ピカチュウVMAX ",
+            "date": "2023-01-04",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1774861263",
+            "price": 65940,
+            "name": "〔PSA10鑑定済〕",
+            "date": "2023-01-04",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/1752047020",
             "price": 21840,
             "name": "〔状態A-〕ピカチュ",
+            "date": "2023-01-04",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18399",
+            "price": 30000,
+            "name": "ピカチュウVMAX(",
+            "date": "2023-01-04",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/33688",
+            "price": 62800,
+            "name": "ピカチュウVMAX1",
+            "date": "2023-01-04",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23869",
+            "price": 34800,
+            "name": "ピカチュウVMAX1",
+            "date": "2023-01-04",
+            "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14602",
+            "price": 27800,
+            "name": "ピカチュウVMAX1",
+            "date": "2023-01-04",
+            "stock": 11
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/21782",
+            "price": 20800,
+            "name": "ピカチュウVMAX1",
+            "date": "2023-01-04",
+            "stock": 12
+        },
+        {
+            "market": "magi",
+            "link": "/items/1752047020",
+            "price": 21840,
+            "name": "〔状態A-〕ピカチュ",
+            "date": "2023-01-03",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/861899393",
+            "price": 29190,
+            "name": "ピカチュウVMAX【",
             "date": "2023-01-03",
             "stock": 1
         },
@@ -33,14 +121,6 @@
             "stock": 1
         },
         {
-            "market": "magi",
-            "link": "/items/861899393",
-            "price": 29190,
-            "name": "ピカチュウVMAX【",
-            "date": "2023-01-03",
-            "stock": 1
-        },
-        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/18399",
             "price": 30000,
@@ -55,6 +135,22 @@
             "name": "ピカチュウVMAX1",
             "date": "2023-01-03",
             "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23869",
+            "price": 34800,
+            "name": "ピカチュウVMAX1",
+            "date": "2023-01-03",
+            "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14602",
+            "price": 27800,
+            "name": "ピカチュウVMAX1",
+            "date": "2023-01-03",
+            "stock": 11
         },
         {
             "market": "cardrush",
@@ -65,34 +161,18 @@
             "stock": 12
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14602",
-            "price": 27800,
-            "name": "ピカチュウVMAX1",
-            "date": "2023-01-03",
-            "stock": 11
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23869",
-            "price": 34800,
-            "name": "ピカチュウVMAX1",
-            "date": "2023-01-03",
-            "stock": 4
-        },
-        {
             "market": "magi",
-            "link": "/items/1774861263",
-            "price": 65940,
-            "name": "〔PSA10鑑定済〕",
+            "link": "/items/1752047020",
+            "price": 21840,
+            "name": "〔状態A-〕ピカチュ",
             "date": "2023-01-02",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1752047020",
-            "price": 21840,
-            "name": "〔状態A-〕ピカチュ",
+            "link": "/items/1307236077",
+            "price": 28800,
+            "name": "ピカチュウVMAX ",
             "date": "2023-01-02",
             "stock": 1
         },
@@ -106,17 +186,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/72335585",
-            "price": 36540,
-            "name": "ピカチュウVMAX(",
+            "link": "/items/1774861263",
+            "price": 65940,
+            "name": "〔PSA10鑑定済〕",
             "date": "2023-01-02",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1307236077",
-            "price": 28800,
-            "name": "ピカチュウVMAX ",
+            "link": "/items/72335585",
+            "price": 36540,
+            "name": "ピカチュウVMAX(",
             "date": "2023-01-02",
             "stock": 1
         },
@@ -127,6 +207,30 @@
             "name": "ピカチュウVMAX(",
             "date": "2023-01-02",
             "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/33688",
+            "price": 62800,
+            "name": "ピカチュウVMAX1",
+            "date": "2023-01-02",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23869",
+            "price": 34800,
+            "name": "ピカチュウVMAX1",
+            "date": "2023-01-02",
+            "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14602",
+            "price": 27800,
+            "name": "ピカチュウVMAX1",
+            "date": "2023-01-02",
+            "stock": 11
         },
         {
             "market": "cardrush",
@@ -137,42 +241,10 @@
             "stock": 12
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14602",
-            "price": 27800,
-            "name": "ピカチュウVMAX1",
-            "date": "2023-01-02",
-            "stock": 11
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23869",
-            "price": 34800,
-            "name": "ピカチュウVMAX1",
-            "date": "2023-01-02",
-            "stock": 4
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/33688",
-            "price": 62800,
-            "name": "ピカチュウVMAX1",
-            "date": "2023-01-02",
-            "stock": 1
-        },
-        {
             "market": "magi",
-            "link": "/items/1752047020",
-            "price": 21840,
-            "name": "〔状態A-〕ピカチュ",
-            "date": "2023-01-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/861899393",
-            "price": 29190,
-            "name": "ピカチュウVMAX【",
+            "link": "/items/1774861263",
+            "price": 65940,
+            "name": "〔PSA10鑑定済〕",
             "date": "2023-01-01",
             "stock": 1
         },
@@ -186,9 +258,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/1774861263",
-            "price": 65940,
-            "name": "〔PSA10鑑定済〕",
+            "link": "/items/861899393",
+            "price": 29190,
+            "name": "ピカチュウVMAX【",
             "date": "2023-01-01",
             "stock": 1
         },
@@ -197,6 +269,14 @@
             "link": "/items/72335585",
             "price": 36540,
             "name": "ピカチュウVMAX(",
+            "date": "2023-01-01",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1752047020",
+            "price": 21840,
+            "name": "〔状態A-〕ピカチュ",
             "date": "2023-01-01",
             "stock": 1
         },
@@ -250,9 +330,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/1774861263",
-            "price": 65940,
-            "name": "〔PSA10鑑定済〕",
+            "link": "/items/861899393",
+            "price": 29190,
+            "name": "ピカチュウVMAX【",
             "date": "2022-12-31",
             "stock": 1
         },
@@ -274,9 +354,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/861899393",
-            "price": 29190,
-            "name": "ピカチュウVMAX【",
+            "link": "/items/1774861263",
+            "price": 65940,
+            "name": "〔PSA10鑑定済〕",
             "date": "2022-12-31",
             "stock": 1
         },
@@ -290,11 +370,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/21782",
-            "price": 20800,
+            "link": "https://www.cardrush-pokemon.jp/product/33688",
+            "price": 62800,
             "name": "ピカチュウVMAX1",
             "date": "2022-12-31",
-            "stock": 11
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/23869",
+            "price": 34800,
+            "name": "ピカチュウVMAX1",
+            "date": "2022-12-31",
+            "stock": 4
         },
         {
             "market": "cardrush",
@@ -306,41 +394,17 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23869",
-            "price": 34800,
+            "link": "https://www.cardrush-pokemon.jp/product/21782",
+            "price": 20800,
             "name": "ピカチュウVMAX1",
             "date": "2022-12-31",
-            "stock": 4
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/33688",
-            "price": 62800,
-            "name": "ピカチュウVMAX1",
-            "date": "2022-12-31",
-            "stock": 1
+            "stock": 11
         },
         {
             "market": "magi",
-            "link": "/items/72335585",
-            "price": 36540,
-            "name": "ピカチュウVMAX(",
-            "date": "2022-12-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/861899393",
-            "price": 29190,
-            "name": "ピカチュウVMAX【",
-            "date": "2022-12-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1774861263",
-            "price": 65940,
-            "name": "〔PSA10鑑定済〕",
+            "link": "/items/1752047020",
+            "price": 21840,
+            "name": "〔状態A-〕ピカチュ",
             "date": "2022-12-30",
             "stock": 1
         },
@@ -354,9 +418,25 @@
         },
         {
             "market": "magi",
-            "link": "/items/1752047020",
-            "price": 21840,
-            "name": "〔状態A-〕ピカチュ",
+            "link": "/items/861899393",
+            "price": 29190,
+            "name": "ピカチュウVMAX【",
+            "date": "2022-12-30",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/72335585",
+            "price": 36540,
+            "name": "ピカチュウVMAX(",
+            "date": "2022-12-30",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1774861263",
+            "price": 65940,
+            "name": "〔PSA10鑑定済〕",
             "date": "2022-12-30",
             "stock": 1
         },
@@ -370,11 +450,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/33688",
-            "price": 62800,
+            "link": "https://www.cardrush-pokemon.jp/product/14602",
+            "price": 27800,
             "name": "ピカチュウVMAX1",
             "date": "2022-12-30",
-            "stock": 1
+            "stock": 12
         },
         {
             "market": "cardrush",
@@ -386,11 +466,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14602",
-            "price": 27800,
+            "link": "https://www.cardrush-pokemon.jp/product/33688",
+            "price": 62800,
             "name": "ピカチュウVMAX1",
             "date": "2022-12-30",
-            "stock": 12
+            "stock": 1
         },
         {
             "market": "cardrush",
@@ -399,6 +479,14 @@
             "name": "ピカチュウVMAX1",
             "date": "2022-12-30",
             "stock": 11
+        },
+        {
+            "market": "magi",
+            "link": "/items/861899393",
+            "price": 29190,
+            "name": "ピカチュウVMAX【",
+            "date": "2022-12-29",
+            "stock": 1
         },
         {
             "market": "magi",
@@ -429,14 +517,6 @@
             "link": "/items/1774861263",
             "price": 65940,
             "name": "〔PSA10鑑定済〕",
-            "date": "2022-12-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/861899393",
-            "price": 29190,
-            "name": "ピカチュウVMAX【",
             "date": "2022-12-29",
             "stock": 1
         },
@@ -450,6 +530,14 @@
         },
         {
             "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/21782",
+            "price": 20800,
+            "name": "ピカチュウVMAX1",
+            "date": "2022-12-29",
+            "stock": 11
+        },
+        {
+            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/23869",
             "price": 34800,
             "name": "ピカチュウVMAX1",
@@ -466,14 +554,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/21782",
-            "price": 20800,
-            "name": "ピカチュウVMAX1",
-            "date": "2022-12-29",
-            "stock": 11
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/33688",
             "price": 62800,
             "name": "ピカチュウVMAX1",
@@ -482,9 +562,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/1307236077",
-            "price": 28800,
-            "name": "ピカチュウVMAX ",
+            "link": "/items/1774861263",
+            "price": 65940,
+            "name": "〔PSA10鑑定済〕",
             "date": "2022-12-28",
             "stock": 1
         },
@@ -514,9 +594,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/1774861263",
-            "price": 65940,
-            "name": "〔PSA10鑑定済〕",
+            "link": "/items/1307236077",
+            "price": 28800,
+            "name": "ピカチュウVMAX ",
             "date": "2022-12-28",
             "stock": 1
         },
@@ -558,86 +638,6 @@
             "price": 62800,
             "name": "ピカチュウVMAX1",
             "date": "2022-12-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1307236077",
-            "price": 28800,
-            "name": "ピカチュウVMAX ",
-            "date": "2022-12-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/861899393",
-            "price": 31290,
-            "name": "ピカチュウVMAX【",
-            "date": "2022-12-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/72335585",
-            "price": 41790,
-            "name": "ピカチュウVMAX(",
-            "date": "2022-12-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1774861263",
-            "price": 65940,
-            "name": "〔PSA10鑑定済〕",
-            "date": "2022-12-27",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/658006231",
-            "price": 26040,
-            "name": "〔状態A-〕ピカチュ",
-            "date": "2022-12-27",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18399",
-            "price": 30000,
-            "name": "ピカチュウVMAX(",
-            "date": "2022-12-27",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/23869",
-            "price": 39800,
-            "name": "ピカチュウVMAX1",
-            "date": "2022-12-27",
-            "stock": 4
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14602",
-            "price": 29800,
-            "name": "ピカチュウVMAX1",
-            "date": "2022-12-27",
-            "stock": 12
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/21782",
-            "price": 24800,
-            "name": "ピカチュウVMAX1",
-            "date": "2022-12-27",
-            "stock": 10
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/33688",
-            "price": 62800,
-            "name": "ピカチュウVMAX1",
-            "date": "2022-12-27",
             "stock": 1
         }
     ]
