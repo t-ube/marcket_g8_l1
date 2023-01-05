@@ -5,6 +5,22 @@
             "link": "https://www.hareruya2.com/product/17195",
             "price": 200,
             "name": "レジロックV(D){",
+            "date": "2023-01-05",
+            "stock": 16
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/6786",
+            "price": 80,
+            "name": "レジロックV005/",
+            "date": "2023-01-05",
+            "stock": 182
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17195",
+            "price": 200,
+            "name": "レジロックV(D){",
             "date": "2023-01-04",
             "stock": 16
         },
@@ -110,22 +126,6 @@
             "price": 80,
             "name": "レジロックV005/",
             "date": "2022-12-29",
-            "stock": 185
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/17195",
-            "price": 200,
-            "name": "レジロックV(D){",
-            "date": "2022-12-28",
-            "stock": 15
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/6786",
-            "price": 80,
-            "name": "レジロックV005/",
-            "date": "2022-12-28",
             "stock": 185
         }
     ]

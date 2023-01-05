@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/18108",
             "price": 50,
             "name": "カムカメ(D){水}",
+            "date": "2023-01-05",
+            "stock": 20
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14180",
+            "price": 30,
+            "name": "カムカメ025/12",
+            "date": "2023-01-05",
+            "stock": 9
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g025-127-SD-B/",
+            "price": 33,
+            "name": "【ポケカ】ＳＳ◇カム",
+            "date": "2023-01-05",
+            "stock": 14
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18108",
+            "price": 50,
+            "name": "カムカメ(D){水}",
             "date": "2023-01-04",
             "stock": 20
         },
@@ -166,30 +190,6 @@
             "price": 33,
             "name": "【ポケカ】ＳＳ◇カム",
             "date": "2022-12-29",
-            "stock": 14
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18108",
-            "price": 50,
-            "name": "カムカメ(D){水}",
-            "date": "2022-12-28",
-            "stock": 20
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14180",
-            "price": 30,
-            "name": "カムカメ025/12",
-            "date": "2022-12-28",
-            "stock": 9
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g025-127-SD-B/",
-            "price": 33,
-            "name": "【ポケカ】ＳＳ◇カム",
-            "date": "2022-12-28",
             "stock": 14
         }
     ]

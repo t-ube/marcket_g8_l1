@@ -1,6 +1,30 @@
 ﻿{
     "items": [
         {
+            "market": "magi",
+            "link": "/items/879327967",
+            "price": 1200,
+            "name": "【割引あり】ワタシラ",
+            "date": "2023-01-05",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/29923",
+            "price": 680,
+            "name": "ワタシラガV097/",
+            "date": "2023-01-05",
+            "stock": 18
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/7543",
+            "price": 780,
+            "name": "ワタシラガV097/",
+            "date": "2023-01-05",
+            "stock": 50
+        },
+        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/29923",
             "price": 680,
@@ -18,14 +42,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/29923",
-            "price": 680,
-            "name": "ワタシラガV097/",
-            "date": "2023-01-03",
-            "stock": 18
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/7543",
             "price": 780,
             "name": "ワタシラガV097/",
@@ -34,11 +50,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7543",
-            "price": 780,
+            "link": "https://www.cardrush-pokemon.jp/product/29923",
+            "price": 680,
             "name": "ワタシラガV097/",
-            "date": "2023-01-02",
-            "stock": 45
+            "date": "2023-01-03",
+            "stock": 18
         },
         {
             "market": "cardrush",
@@ -50,11 +66,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/29923",
-            "price": 680,
+            "link": "https://www.cardrush-pokemon.jp/product/7543",
+            "price": 780,
             "name": "ワタシラガV097/",
-            "date": "2023-01-01",
-            "stock": 15
+            "date": "2023-01-02",
+            "stock": 45
         },
         {
             "market": "cardrush",
@@ -66,27 +82,27 @@
         },
         {
             "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/29923",
+            "price": 680,
+            "name": "ワタシラガV097/",
+            "date": "2023-01-01",
+            "stock": 15
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/29923",
+            "price": 680,
+            "name": "ワタシラガV097/",
+            "date": "2022-12-31",
+            "stock": 15
+        },
+        {
+            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/7543",
             "price": 780,
             "name": "ワタシラガV097/",
             "date": "2022-12-31",
             "stock": 45
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/29923",
-            "price": 680,
-            "name": "ワタシラガV097/",
-            "date": "2022-12-31",
-            "stock": 15
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/29923",
-            "price": 680,
-            "name": "ワタシラガV097/",
-            "date": "2022-12-30",
-            "stock": 15
         },
         {
             "market": "cardrush",
@@ -95,6 +111,14 @@
             "name": "ワタシラガV097/",
             "date": "2022-12-30",
             "stock": 44
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/29923",
+            "price": 680,
+            "name": "ワタシラガV097/",
+            "date": "2022-12-30",
+            "stock": 15
         },
         {
             "market": "cardrush",
@@ -110,22 +134,6 @@
             "price": 680,
             "name": "ワタシラガV097/",
             "date": "2022-12-29",
-            "stock": 15
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7543",
-            "price": 780,
-            "name": "ワタシラガV097/",
-            "date": "2022-12-28",
-            "stock": 44
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/29923",
-            "price": 680,
-            "name": "ワタシラガV097/",
-            "date": "2022-12-28",
             "stock": 15
         }
     ]

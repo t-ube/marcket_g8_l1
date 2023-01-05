@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/18332",
             "price": 50,
             "name": "コロモリ(C){超}",
+            "date": "2023-01-05",
+            "stock": 7
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14501",
+            "price": 30,
+            "name": "コロモリ047/10",
+            "date": "2023-01-05",
+            "stock": 8
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g047-100-S4-B/",
+            "price": 33,
+            "name": "【ポケカ】Ｃ◇コロモ",
+            "date": "2023-01-05",
+            "stock": 15
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18332",
+            "price": 50,
+            "name": "コロモリ(C){超}",
             "date": "2023-01-04",
             "stock": 7
         },
@@ -190,38 +214,6 @@
             "price": 33,
             "name": "【ポケカ】Ｃ◇コロモ",
             "date": "2022-12-29",
-            "stock": 15
-        },
-        {
-            "market": "magi",
-            "link": "/items/1025179480",
-            "price": 100,
-            "name": "コロモリ C 047",
-            "date": "2022-12-28",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18332",
-            "price": 50,
-            "name": "コロモリ(C){超}",
-            "date": "2022-12-28",
-            "stock": 7
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14501",
-            "price": 30,
-            "name": "コロモリ047/10",
-            "date": "2022-12-28",
-            "stock": 8
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g047-100-S4-B/",
-            "price": 33,
-            "name": "【ポケカ】Ｃ◇コロモ",
-            "date": "2022-12-28",
             "stock": 15
         }
     ]

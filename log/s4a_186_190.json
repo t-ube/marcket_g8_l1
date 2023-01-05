@@ -5,13 +5,69 @@
             "link": "/items/1462814986",
             "price": 300,
             "name": "ハイド悪エネルギー ",
-            "date": "2023-01-04",
+            "date": "2023-01-05",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1015557438",
+            "price": 100,
+            "name": "【100円セール】ハ",
+            "date": "2023-01-05",
             "stock": 1
         },
         {
             "market": "magi",
             "link": "/items/1450758235",
             "price": 200,
+            "name": "ハイド悪エネルギー ",
+            "date": "2023-01-05",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18852",
+            "price": 200,
+            "name": "ハイド悪エネルギー:",
+            "date": "2023-01-05",
+            "stock": 28
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18592",
+            "price": 100,
+            "name": "ハイド悪エネルギー(",
+            "date": "2023-01-05",
+            "stock": 291
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17169",
+            "price": 80,
+            "name": "ハイド悪エネルギー1",
+            "date": "2023-01-05",
+            "stock": 25
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17335",
+            "price": 80,
+            "name": "ハイド悪エネルギー1",
+            "date": "2023-01-05",
+            "stock": 60
+        },
+        {
+            "market": "magi",
+            "link": "/items/1450758235",
+            "price": 200,
+            "name": "ハイド悪エネルギー ",
+            "date": "2023-01-04",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1462814986",
+            "price": 300,
             "name": "ハイド悪エネルギー ",
             "date": "2023-01-04",
             "stock": 1
@@ -39,14 +95,6 @@
             "name": "ハイド悪エネルギー:",
             "date": "2023-01-04",
             "stock": 28
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17169",
-            "price": 80,
-            "name": "ハイド悪エネルギー1",
-            "date": "2023-01-04",
-            "stock": 25
         },
         {
             "market": "cardrush",
@@ -57,6 +105,14 @@
             "stock": 60
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17169",
+            "price": 80,
+            "name": "ハイド悪エネルギー1",
+            "date": "2023-01-04",
+            "stock": 25
+        },
+        {
             "market": "magi",
             "link": "/items/1015557438",
             "price": 100,
@@ -138,19 +194,19 @@
         },
         {
             "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18852",
-            "price": 200,
-            "name": "ハイド悪エネルギー:",
-            "date": "2023-01-02",
-            "stock": 28
-        },
-        {
-            "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/18592",
             "price": 100,
             "name": "ハイド悪エネルギー(",
             "date": "2023-01-02",
             "stock": 295
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18852",
+            "price": 200,
+            "name": "ハイド悪エネルギー:",
+            "date": "2023-01-02",
+            "stock": 28
         },
         {
             "market": "cardrush",
@@ -191,14 +247,6 @@
             "name": "ハイド悪エネルギー ",
             "date": "2023-01-01",
             "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18852",
-            "price": 200,
-            "name": "ハイド悪エネルギー:",
-            "date": "2023-01-01",
-            "stock": 28
         },
         {
             "market": "hareruya2",
@@ -207,6 +255,14 @@
             "name": "ハイド悪エネルギー(",
             "date": "2023-01-01",
             "stock": 297
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18852",
+            "price": 200,
+            "name": "ハイド悪エネルギー:",
+            "date": "2023-01-01",
+            "stock": 28
         },
         {
             "market": "cardrush",
@@ -226,6 +282,14 @@
         },
         {
             "market": "magi",
+            "link": "/items/1450758235",
+            "price": 200,
+            "name": "ハイド悪エネルギー ",
+            "date": "2022-12-31",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/1015557438",
             "price": 100,
             "name": "【100円セール】ハ",
@@ -236,14 +300,6 @@
             "market": "magi",
             "link": "/items/1462814986",
             "price": 300,
-            "name": "ハイド悪エネルギー ",
-            "date": "2022-12-31",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1450758235",
-            "price": 200,
             "name": "ハイド悪エネルギー ",
             "date": "2022-12-31",
             "stock": 1
@@ -338,8 +394,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/1450758235",
-            "price": 200,
+            "link": "/items/1462814986",
+            "price": 300,
             "name": "ハイド悪エネルギー ",
             "date": "2022-12-29",
             "stock": 1
@@ -354,19 +410,11 @@
         },
         {
             "market": "magi",
-            "link": "/items/1462814986",
-            "price": 300,
+            "link": "/items/1450758235",
+            "price": 200,
             "name": "ハイド悪エネルギー ",
             "date": "2022-12-29",
             "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18592",
-            "price": 100,
-            "name": "ハイド悪エネルギー(",
-            "date": "2022-12-29",
-            "stock": 290
         },
         {
             "market": "hareruya2",
@@ -377,67 +425,19 @@
             "stock": 29
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17335",
-            "price": 80,
-            "name": "ハイド悪エネルギー1",
-            "date": "2022-12-29",
-            "stock": 47
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17169",
-            "price": 80,
-            "name": "ハイド悪エネルギー1",
-            "date": "2022-12-29",
-            "stock": 11
-        },
-        {
-            "market": "magi",
-            "link": "/items/1462814986",
-            "price": 300,
-            "name": "ハイド悪エネルギー ",
-            "date": "2022-12-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1015557438",
-            "price": 100,
-            "name": "【100円セール】ハ",
-            "date": "2022-12-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1450758235",
-            "price": 200,
-            "name": "ハイド悪エネルギー ",
-            "date": "2022-12-28",
-            "stock": 1
-        },
-        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/18592",
             "price": 100,
             "name": "ハイド悪エネルギー(",
-            "date": "2022-12-28",
-            "stock": 289
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18852",
-            "price": 200,
-            "name": "ハイド悪エネルギー:",
-            "date": "2022-12-28",
-            "stock": 28
+            "date": "2022-12-29",
+            "stock": 290
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17169",
             "price": 80,
             "name": "ハイド悪エネルギー1",
-            "date": "2022-12-28",
+            "date": "2022-12-29",
             "stock": 11
         },
         {
@@ -445,7 +445,7 @@
             "link": "https://www.cardrush-pokemon.jp/product/17335",
             "price": 80,
             "name": "ハイド悪エネルギー1",
-            "date": "2022-12-28",
+            "date": "2022-12-29",
             "stock": 47
         }
     ]

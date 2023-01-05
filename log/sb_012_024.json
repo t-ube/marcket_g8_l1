@@ -1,6 +1,14 @@
 ﻿{
     "items": [
         {
+            "market": "torecolo",
+            "link": "/shop/g/g012-024-SB-B/",
+            "price": 165,
+            "name": "【ポケカ】ＳＳ◇いれ",
+            "date": "2023-01-05",
+            "stock": 3
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/17598",
             "price": 100,
@@ -110,22 +118,6 @@
             "price": 165,
             "name": "【ポケカ】ＳＳ◇いれ",
             "date": "2022-12-29",
-            "stock": 3
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/17598",
-            "price": 100,
-            "name": "いれかえフロート(D",
-            "date": "2022-12-28",
-            "stock": 2
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g012-024-SB-B/",
-            "price": 165,
-            "name": "【ポケカ】ＳＳ◇いれ",
-            "date": "2022-12-28",
             "stock": 3
         }
     ]

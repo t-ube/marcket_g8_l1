@@ -5,6 +5,22 @@
             "link": "https://www.hareruya2.com/product/17981",
             "price": 50,
             "name": "プクリン(U){超}",
+            "date": "2023-01-05",
+            "stock": 4
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g036-100-S3-B/",
+            "price": 33,
+            "name": "【ポケカ】Ｕ◇プクリ",
+            "date": "2023-01-05",
+            "stock": 7
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17981",
+            "price": 50,
+            "name": "プクリン(U){超}",
             "date": "2023-01-04",
             "stock": 4
         },
@@ -110,22 +126,6 @@
             "price": 33,
             "name": "【ポケカ】Ｕ◇プクリ",
             "date": "2022-12-29",
-            "stock": 7
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/17981",
-            "price": 50,
-            "name": "プクリン(U){超}",
-            "date": "2022-12-28",
-            "stock": 5
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g036-100-S3-B/",
-            "price": 33,
-            "name": "【ポケカ】Ｕ◇プクリ",
-            "date": "2022-12-28",
             "stock": 7
         }
     ]

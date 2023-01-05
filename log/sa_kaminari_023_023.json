@@ -5,7 +5,7 @@
             "link": "/items/2127675775",
             "price": 240,
             "name": "マリィ TD 023",
-            "date": "2023-01-04",
+            "date": "2023-01-05",
             "stock": 1
         },
         {
@@ -13,8 +13,32 @@
             "link": "https://www.cardrush-pokemon.jp/product/29581",
             "price": 70,
             "name": "マリィ023/023",
-            "date": "2023-01-04",
+            "date": "2023-01-05",
             "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/6722",
+            "price": 80,
+            "name": "マリィ023/023",
+            "date": "2023-01-05",
+            "stock": 90
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/6626",
+            "price": 680,
+            "name": "マリィ023/023",
+            "date": "2023-01-05",
+            "stock": 5
+        },
+        {
+            "market": "magi",
+            "link": "/items/2127675775",
+            "price": 240,
+            "name": "マリィ TD 023",
+            "date": "2023-01-04",
+            "stock": 1
         },
         {
             "market": "cardrush",
@@ -31,6 +55,14 @@
             "name": "マリィ023/023",
             "date": "2023-01-04",
             "stock": 9
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/29581",
+            "price": 70,
+            "name": "マリィ023/023",
+            "date": "2023-01-04",
+            "stock": 4
         },
         {
             "market": "magi",
@@ -206,22 +238,6 @@
             "price": 80,
             "name": "マリィ023/023",
             "date": "2022-12-29",
-            "stock": 40
-        },
-        {
-            "market": "magi",
-            "link": "/items/2127675775",
-            "price": 240,
-            "name": "マリィ TD 023",
-            "date": "2022-12-28",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/6722",
-            "price": 80,
-            "name": "マリィ023/023",
-            "date": "2022-12-28",
             "stock": 40
         }
     ]

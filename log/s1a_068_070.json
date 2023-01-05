@@ -5,6 +5,14 @@
             "link": "https://www.cardrush-pokemon.jp/product/7352",
             "price": 80,
             "name": "ターフスタジアム06",
+            "date": "2023-01-05",
+            "stock": 230
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/7352",
+            "price": 80,
+            "name": "ターフスタジアム06",
             "date": "2023-01-04",
             "stock": 230
         },
@@ -55,14 +63,6 @@
             "name": "ターフスタジアム06",
             "date": "2022-12-29",
             "stock": 225
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7352",
-            "price": 80,
-            "name": "ターフスタジアム06",
-            "date": "2022-12-28",
-            "stock": 227
         }
     ]
 }

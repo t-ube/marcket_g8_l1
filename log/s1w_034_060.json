@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/17461",
             "price": 150,
             "name": "イシヘンジンV(RR",
+            "date": "2023-01-05",
+            "stock": 91
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/29679",
+            "price": 70,
+            "name": "イシヘンジンV034",
+            "date": "2023-01-05",
+            "stock": 7
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/6894",
+            "price": 80,
+            "name": "イシヘンジンV034",
+            "date": "2023-01-05",
+            "stock": 204
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17461",
+            "price": 150,
+            "name": "イシヘンジンV(RR",
             "date": "2023-01-04",
             "stock": 91
         },
@@ -58,19 +82,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/29679",
-            "price": 70,
-            "name": "イシヘンジンV034",
-            "date": "2023-01-02",
-            "stock": 7
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/6894",
             "price": 80,
             "name": "イシヘンジンV034",
             "date": "2023-01-02",
             "stock": 207
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/29679",
+            "price": 70,
+            "name": "イシヘンジンV034",
+            "date": "2023-01-02",
+            "stock": 7
         },
         {
             "market": "hareruya2",
@@ -130,19 +154,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/6894",
-            "price": 80,
-            "name": "イシヘンジンV034",
-            "date": "2022-12-30",
-            "stock": 185
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/29679",
             "price": 70,
             "name": "イシヘンジンV034",
             "date": "2022-12-30",
             "stock": 7
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/6894",
+            "price": 80,
+            "name": "イシヘンジンV034",
+            "date": "2022-12-30",
+            "stock": 185
         },
         {
             "market": "hareruya2",
@@ -154,14 +178,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/29679",
-            "price": 70,
-            "name": "イシヘンジンV034",
-            "date": "2022-12-29",
-            "stock": 7
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/6894",
             "price": 80,
             "name": "イシヘンジンV034",
@@ -169,27 +185,11 @@
             "stock": 185
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/17461",
-            "price": 150,
-            "name": "イシヘンジンV(RR",
-            "date": "2022-12-28",
-            "stock": 89
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/6894",
-            "price": 80,
-            "name": "イシヘンジンV034",
-            "date": "2022-12-28",
-            "stock": 188
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/29679",
             "price": 70,
             "name": "イシヘンジンV034",
-            "date": "2022-12-28",
+            "date": "2022-12-29",
             "stock": 7
         }
     ]

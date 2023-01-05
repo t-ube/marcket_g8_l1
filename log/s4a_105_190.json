@@ -2,24 +2,64 @@
     "items": [
         {
             "market": "magi",
-            "link": "/items/1355281978",
-            "price": 99,
+            "link": "/items/1441417795",
+            "price": 180,
             "name": "ガラルマタドガス(R",
-            "date": "2023-01-04",
+            "date": "2023-01-05",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1162902678",
+            "price": 100,
+            "name": "ガラルマタドガス(R",
+            "date": "2023-01-05",
             "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1818454359",
+            "price": 780,
+            "name": "ガラルマタドガス(R",
+            "date": "2023-01-05",
+            "stock": 1
         },
         {
             "market": "magi",
             "link": "/items/1289364018",
             "price": 100,
             "name": "ガラルマタドガス(R",
-            "date": "2023-01-04",
+            "date": "2023-01-05",
             "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1355281978",
+            "price": 99,
+            "name": "ガラルマタドガス(R",
+            "date": "2023-01-05",
+            "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17088",
+            "price": 80,
+            "name": "ガラルマタドガス10",
+            "date": "2023-01-05",
+            "stock": 282
         },
         {
             "market": "magi",
             "link": "/items/1818454359",
             "price": 780,
+            "name": "ガラルマタドガス(R",
+            "date": "2023-01-04",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/320459919",
+            "price": 300,
             "name": "ガラルマタドガス(R",
             "date": "2023-01-04",
             "stock": 1
@@ -34,8 +74,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/320459919",
-            "price": 300,
+            "link": "/items/1355281978",
+            "price": 99,
+            "name": "ガラルマタドガス(R",
+            "date": "2023-01-04",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1289364018",
+            "price": 100,
             "name": "ガラルマタドガス(R",
             "date": "2023-01-04",
             "stock": 1
@@ -58,24 +106,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/1289364018",
+            "link": "/items/320459919",
+            "price": 300,
+            "name": "ガラルマタドガス(R",
+            "date": "2023-01-03",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1162902678",
             "price": 100,
-            "name": "ガラルマタドガス(R",
-            "date": "2023-01-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1441417795",
-            "price": 180,
-            "name": "ガラルマタドガス(R",
-            "date": "2023-01-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1355281978",
-            "price": 99,
             "name": "ガラルマタドガス(R",
             "date": "2023-01-03",
             "stock": 4
@@ -90,16 +130,24 @@
         },
         {
             "market": "magi",
-            "link": "/items/1162902678",
-            "price": 100,
+            "link": "/items/1355281978",
+            "price": 99,
             "name": "ガラルマタドガス(R",
             "date": "2023-01-03",
             "stock": 4
         },
         {
             "market": "magi",
-            "link": "/items/320459919",
-            "price": 300,
+            "link": "/items/1441417795",
+            "price": 180,
+            "name": "ガラルマタドガス(R",
+            "date": "2023-01-03",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1289364018",
+            "price": 100,
             "name": "ガラルマタドガス(R",
             "date": "2023-01-03",
             "stock": 1
@@ -114,16 +162,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/1162902678",
-            "price": 100,
+            "link": "/items/1355281978",
+            "price": 99,
             "name": "ガラルマタドガス(R",
             "date": "2023-01-02",
             "stock": 4
         },
         {
             "market": "magi",
-            "link": "/items/1355281978",
-            "price": 99,
+            "link": "/items/1162902678",
+            "price": 100,
             "name": "ガラルマタドガス(R",
             "date": "2023-01-02",
             "stock": 4
@@ -186,8 +234,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/1289364018",
+            "link": "/items/1162902678",
             "price": 100,
+            "name": "ガラルマタドガス(R",
+            "date": "2023-01-01",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/320459919",
+            "price": 300,
             "name": "ガラルマタドガス(R",
             "date": "2023-01-01",
             "stock": 1
@@ -202,19 +258,11 @@
         },
         {
             "market": "magi",
-            "link": "/items/320459919",
-            "price": 300,
-            "name": "ガラルマタドガス(R",
-            "date": "2023-01-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1162902678",
+            "link": "/items/1289364018",
             "price": 100,
             "name": "ガラルマタドガス(R",
             "date": "2023-01-01",
-            "stock": 4
+            "stock": 1
         },
         {
             "market": "cardrush",
@@ -226,40 +274,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/1162902678",
-            "price": 100,
-            "name": "ガラルマタドガス(R",
-            "date": "2022-12-31",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/1441417795",
-            "price": 180,
-            "name": "ガラルマタドガス(R",
-            "date": "2022-12-31",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1289364018",
-            "price": 100,
-            "name": "ガラルマタドガス(R",
-            "date": "2022-12-31",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1355281978",
-            "price": 99,
-            "name": "ガラルマタドガス(R",
-            "date": "2022-12-31",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/1818454359",
-            "price": 780,
+            "link": "/items/320459919",
+            "price": 300,
             "name": "ガラルマタドガス(R",
             "date": "2022-12-31",
             "stock": 1
@@ -274,11 +290,43 @@
         },
         {
             "market": "magi",
-            "link": "/items/320459919",
-            "price": 300,
+            "link": "/items/1818454359",
+            "price": 780,
             "name": "ガラルマタドガス(R",
             "date": "2022-12-31",
             "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1355281978",
+            "price": 99,
+            "name": "ガラルマタドガス(R",
+            "date": "2022-12-31",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1289364018",
+            "price": 100,
+            "name": "ガラルマタドガス(R",
+            "date": "2022-12-31",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1441417795",
+            "price": 180,
+            "name": "ガラルマタドガス(R",
+            "date": "2022-12-31",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1162902678",
+            "price": 100,
+            "name": "ガラルマタドガス(R",
+            "date": "2022-12-31",
+            "stock": 4
         },
         {
             "market": "cardrush",
@@ -290,6 +338,14 @@
         },
         {
             "market": "magi",
+            "link": "/items/1818454359",
+            "price": 780,
+            "name": "ガラルマタドガス(R",
+            "date": "2022-12-30",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/1355281978",
             "price": 99,
             "name": "ガラルマタドガス(R",
@@ -316,14 +372,6 @@
             "market": "magi",
             "link": "/items/2140886820",
             "price": 180,
-            "name": "ガラルマタドガス(R",
-            "date": "2022-12-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1818454359",
-            "price": 780,
             "name": "ガラルマタドガス(R",
             "date": "2022-12-30",
             "stock": 1
@@ -354,6 +402,14 @@
         },
         {
             "market": "magi",
+            "link": "/items/1289364018",
+            "price": 100,
+            "name": "ガラルマタドガス(R",
+            "date": "2022-12-29",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/1355281978",
             "price": 99,
             "name": "ガラルマタドガス(R",
@@ -362,15 +418,23 @@
         },
         {
             "market": "magi",
-            "link": "/items/1441417795",
-            "price": 180,
+            "link": "/items/1818454359",
+            "price": 780,
             "name": "ガラルマタドガス(R",
             "date": "2022-12-29",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/473281626",
+            "link": "/items/1162902678",
+            "price": 100,
+            "name": "ガラルマタドガス(R",
+            "date": "2022-12-29",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/2140886820",
             "price": 180,
             "name": "ガラルマタドガス(R",
             "date": "2022-12-29",
@@ -386,15 +450,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/1289364018",
-            "price": 100,
-            "name": "ガラルマタドガス(R",
-            "date": "2022-12-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2140886820",
+            "link": "/items/473281626",
             "price": 180,
             "name": "ガラルマタドガス(R",
             "date": "2022-12-29",
@@ -402,16 +458,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/1162902678",
-            "price": 100,
-            "name": "ガラルマタドガス(R",
-            "date": "2022-12-29",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/1818454359",
-            "price": 780,
+            "link": "/items/1441417795",
+            "price": 180,
             "name": "ガラルマタドガス(R",
             "date": "2022-12-29",
             "stock": 1
@@ -423,78 +471,6 @@
             "name": "ガラルマタドガス10",
             "date": "2022-12-29",
             "stock": 209
-        },
-        {
-            "market": "magi",
-            "link": "/items/1162902678",
-            "price": 100,
-            "name": "ガラルマタドガス(R",
-            "date": "2022-12-28",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/320459919",
-            "price": 300,
-            "name": "ガラルマタドガス(R",
-            "date": "2022-12-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1441417795",
-            "price": 180,
-            "name": "ガラルマタドガス(R",
-            "date": "2022-12-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2140886820",
-            "price": 180,
-            "name": "ガラルマタドガス(R",
-            "date": "2022-12-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1818454359",
-            "price": 780,
-            "name": "ガラルマタドガス(R",
-            "date": "2022-12-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1289364018",
-            "price": 100,
-            "name": "ガラルマタドガス(R",
-            "date": "2022-12-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1355281978",
-            "price": 99,
-            "name": "ガラルマタドガス(R",
-            "date": "2022-12-28",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/473281626",
-            "price": 180,
-            "name": "ガラルマタドガス(R",
-            "date": "2022-12-28",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17088",
-            "price": 80,
-            "name": "ガラルマタドガス10",
-            "date": "2022-12-28",
-            "stock": 214
         }
     ]
 }

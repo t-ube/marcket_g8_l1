@@ -2,16 +2,72 @@
     "items": [
         {
             "market": "magi",
-            "link": "/items/92108150",
-            "price": 800,
+            "link": "/items/135593914",
+            "price": 2780,
             "name": "クワガノンV RR ",
-            "date": "2023-01-04",
+            "date": "2023-01-05",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1337693051",
+            "price": 1280,
+            "name": "クワガノンV RR ",
+            "date": "2023-01-05",
             "stock": 1
         },
         {
             "market": "magi",
             "link": "/items/2025553751",
             "price": 1000,
+            "name": "クワガノンV RR ",
+            "date": "2023-01-05",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/92108150",
+            "price": 770,
+            "name": "クワガノンV RR ",
+            "date": "2023-01-05",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/295085136",
+            "price": 1000,
+            "name": "クワガノンV RR ",
+            "date": "2023-01-05",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/13126",
+            "price": 2280,
+            "name": "クワガノンV025/",
+            "date": "2023-01-05",
+            "stock": 166
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/24672",
+            "price": 2150,
+            "name": "クワガノンV025/",
+            "date": "2023-01-05",
+            "stock": 54
+        },
+        {
+            "market": "magi",
+            "link": "/items/2025553751",
+            "price": 1000,
+            "name": "クワガノンV RR ",
+            "date": "2023-01-04",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/92108150",
+            "price": 800,
             "name": "クワガノンV RR ",
             "date": "2023-01-04",
             "stock": 1
@@ -34,6 +90,14 @@
         },
         {
             "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/13126",
+            "price": 2280,
+            "name": "クワガノンV025/",
+            "date": "2023-01-04",
+            "stock": 162
+        },
+        {
+            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/24672",
             "price": 2150,
             "name": "クワガノンV025/",
@@ -41,12 +105,12 @@
             "stock": 54
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/13126",
-            "price": 2280,
-            "name": "クワガノンV025/",
-            "date": "2023-01-04",
-            "stock": 162
+            "market": "magi",
+            "link": "/items/2025553751",
+            "price": 1000,
+            "name": "クワガノンV RR ",
+            "date": "2023-01-03",
+            "stock": 1
         },
         {
             "market": "magi",
@@ -68,14 +132,6 @@
             "market": "magi",
             "link": "/items/92108150",
             "price": 840,
-            "name": "クワガノンV RR ",
-            "date": "2023-01-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2025553751",
-            "price": 1000,
             "name": "クワガノンV RR ",
             "date": "2023-01-03",
             "stock": 1
@@ -106,8 +162,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/92108150",
-            "price": 860,
+            "link": "/items/2025553751",
+            "price": 1000,
             "name": "クワガノンV RR ",
             "date": "2023-01-02",
             "stock": 1
@@ -122,11 +178,19 @@
         },
         {
             "market": "magi",
-            "link": "/items/2025553751",
-            "price": 1000,
+            "link": "/items/92108150",
+            "price": 860,
             "name": "クワガノンV RR ",
             "date": "2023-01-02",
             "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/24672",
+            "price": 2150,
+            "name": "クワガノンV025/",
+            "date": "2023-01-02",
+            "stock": 47
         },
         {
             "market": "cardrush",
@@ -137,12 +201,12 @@
             "stock": 134
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/24672",
-            "price": 2150,
-            "name": "クワガノンV025/",
-            "date": "2023-01-02",
-            "stock": 47
+            "market": "magi",
+            "link": "/items/135593914",
+            "price": 2780,
+            "name": "クワガノンV RR ",
+            "date": "2023-01-01",
+            "stock": 1
         },
         {
             "market": "magi",
@@ -154,8 +218,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/135593914",
-            "price": 2780,
+            "link": "/items/1337693051",
+            "price": 1280,
             "name": "クワガノンV RR ",
             "date": "2023-01-01",
             "stock": 1
@@ -164,14 +228,6 @@
             "market": "magi",
             "link": "/items/2025553751",
             "price": 1000,
-            "name": "クワガノンV RR ",
-            "date": "2023-01-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1337693051",
-            "price": 1280,
             "name": "クワガノンV RR ",
             "date": "2023-01-01",
             "stock": 1
@@ -194,16 +250,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/1337693051",
-            "price": 1280,
+            "link": "/items/92108150",
+            "price": 920,
             "name": "クワガノンV RR ",
             "date": "2022-12-31",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/135593914",
-            "price": 2780,
+            "link": "/items/1337693051",
+            "price": 1280,
             "name": "クワガノンV RR ",
             "date": "2022-12-31",
             "stock": 1
@@ -218,19 +274,11 @@
         },
         {
             "market": "magi",
-            "link": "/items/92108150",
-            "price": 920,
+            "link": "/items/135593914",
+            "price": 2780,
             "name": "クワガノンV RR ",
             "date": "2022-12-31",
             "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/13126",
-            "price": 2280,
-            "name": "クワガノンV025/",
-            "date": "2022-12-31",
-            "stock": 102
         },
         {
             "market": "cardrush",
@@ -241,6 +289,22 @@
             "stock": 47
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/13126",
+            "price": 2280,
+            "name": "クワガノンV025/",
+            "date": "2022-12-31",
+            "stock": 102
+        },
+        {
+            "market": "magi",
+            "link": "/items/92108150",
+            "price": 920,
+            "name": "クワガノンV RR ",
+            "date": "2022-12-30",
+            "stock": 1
+        },
+        {
             "market": "magi",
             "link": "/items/1337693051",
             "price": 1280,
@@ -263,22 +327,6 @@
             "name": "クワガノンV RR ",
             "date": "2022-12-30",
             "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/92108150",
-            "price": 920,
-            "name": "クワガノンV RR ",
-            "date": "2022-12-30",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/24672",
-            "price": 2150,
-            "name": "クワガノンV025/",
-            "date": "2022-12-30",
-            "stock": 47
         },
         {
             "market": "cardrush",
@@ -289,20 +337,12 @@
             "stock": 102
         },
         {
-            "market": "magi",
-            "link": "/items/1337693051",
-            "price": 1280,
-            "name": "クワガノンV RR ",
-            "date": "2022-12-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/92108150",
-            "price": 920,
-            "name": "クワガノンV RR ",
-            "date": "2022-12-29",
-            "stock": 1
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/24672",
+            "price": 2150,
+            "name": "クワガノンV025/",
+            "date": "2022-12-30",
+            "stock": 47
         },
         {
             "market": "magi",
@@ -319,6 +359,30 @@
             "name": "クワガノンV RR ",
             "date": "2022-12-29",
             "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/92108150",
+            "price": 920,
+            "name": "クワガノンV RR ",
+            "date": "2022-12-29",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1337693051",
+            "price": 1280,
+            "name": "クワガノンV RR ",
+            "date": "2022-12-29",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/24672",
+            "price": 2150,
+            "name": "クワガノンV025/",
+            "date": "2022-12-29",
+            "stock": 47
         },
         {
             "market": "cardrush",
@@ -327,62 +391,6 @@
             "name": "クワガノンV025/",
             "date": "2022-12-29",
             "stock": 82
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/24672",
-            "price": 2150,
-            "name": "クワガノンV025/",
-            "date": "2022-12-29",
-            "stock": 47
-        },
-        {
-            "market": "magi",
-            "link": "/items/135593914",
-            "price": 2780,
-            "name": "クワガノンV RR ",
-            "date": "2022-12-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2025553751",
-            "price": 1000,
-            "name": "クワガノンV RR ",
-            "date": "2022-12-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1337693051",
-            "price": 1280,
-            "name": "クワガノンV RR ",
-            "date": "2022-12-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/92108150",
-            "price": 920,
-            "name": "クワガノンV RR ",
-            "date": "2022-12-28",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/24672",
-            "price": 2150,
-            "name": "クワガノンV025/",
-            "date": "2022-12-28",
-            "stock": 48
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/13126",
-            "price": 2280,
-            "name": "クワガノンV025/",
-            "date": "2022-12-28",
-            "stock": 57
         }
     ]
 }

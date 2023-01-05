@@ -5,6 +5,14 @@
             "link": "https://www.cardrush-pokemon.jp/product/14179",
             "price": 180,
             "name": "ホエルオーV024/",
+            "date": "2023-01-05",
+            "stock": 69
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14179",
+            "price": 180,
+            "name": "ホエルオーV024/",
             "date": "2023-01-04",
             "stock": 69
         },
@@ -50,14 +58,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30271",
-            "price": 150,
-            "name": "ホエルオーV024/",
-            "date": "2022-12-29",
-            "stock": 4
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/14179",
             "price": 180,
             "name": "ホエルオーV024/",
@@ -69,16 +69,8 @@
             "link": "https://www.cardrush-pokemon.jp/product/30271",
             "price": 150,
             "name": "ホエルオーV024/",
-            "date": "2022-12-28",
+            "date": "2022-12-29",
             "stock": 4
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14179",
-            "price": 180,
-            "name": "ホエルオーV024/",
-            "date": "2022-12-28",
-            "stock": 43
         }
     ]
 }

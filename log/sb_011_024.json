@@ -2,6 +2,22 @@
     "items": [
         {
             "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/7003",
+            "price": 80,
+            "name": "マリィ011/024",
+            "date": "2023-01-05",
+            "stock": 11
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/29738",
+            "price": 70,
+            "name": "マリィ011/024",
+            "date": "2023-01-05",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/29738",
             "price": 70,
             "name": "マリィ011/024",
@@ -63,14 +79,6 @@
             "name": "マリィ011/024",
             "date": "2022-12-29",
             "stock": 7
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7003",
-            "price": 80,
-            "name": "マリィ011/024",
-            "date": "2022-12-28",
-            "stock": 11
         }
     ]
 }

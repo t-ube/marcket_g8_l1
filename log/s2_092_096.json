@@ -5,6 +5,14 @@
             "link": "https://www.cardrush-pokemon.jp/product/7520",
             "price": 180,
             "name": "ボスの指令サカキ09",
+            "date": "2023-01-05",
+            "stock": 22
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/7520",
+            "price": 180,
+            "name": "ボスの指令サカキ09",
             "date": "2023-01-04",
             "stock": 24
         },
@@ -18,14 +26,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/29917",
-            "price": 170,
-            "name": "ボスの指令サカキ09",
-            "date": "2023-01-02",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/7520",
             "price": 180,
             "name": "ボスの指令サカキ09",
@@ -37,7 +37,7 @@
             "link": "https://www.cardrush-pokemon.jp/product/29917",
             "price": 170,
             "name": "ボスの指令サカキ09",
-            "date": "2023-01-01",
+            "date": "2023-01-02",
             "stock": 2
         },
         {
@@ -50,11 +50,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7520",
-            "price": 180,
+            "link": "https://www.cardrush-pokemon.jp/product/29917",
+            "price": 170,
             "name": "ボスの指令サカキ09",
-            "date": "2022-12-31",
-            "stock": 3
+            "date": "2023-01-01",
+            "stock": 2
         },
         {
             "market": "cardrush",
@@ -69,7 +69,7 @@
             "link": "https://www.cardrush-pokemon.jp/product/7520",
             "price": 180,
             "name": "ボスの指令サカキ09",
-            "date": "2022-12-30",
+            "date": "2022-12-31",
             "stock": 3
         },
         {
@@ -79,6 +79,14 @@
             "name": "ボスの指令サカキ09",
             "date": "2022-12-30",
             "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/7520",
+            "price": 180,
+            "name": "ボスの指令サカキ09",
+            "date": "2022-12-30",
+            "stock": 3
         },
         {
             "market": "cardrush",
@@ -86,14 +94,6 @@
             "price": 170,
             "name": "ボスの指令サカキ09",
             "date": "2022-12-29",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/29917",
-            "price": 170,
-            "name": "ボスの指令サカキ09",
-            "date": "2022-12-28",
             "stock": 2
         }
     ]

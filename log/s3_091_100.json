@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/18036",
             "price": 50,
             "name": "めずらしい化石(C)",
+            "date": "2023-01-05",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30148",
+            "price": 70,
+            "name": "めずらしい化石091",
+            "date": "2023-01-05",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/13330",
+            "price": 80,
+            "name": "めずらしい化石091",
+            "date": "2023-01-05",
+            "stock": 316
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18036",
+            "price": 50,
+            "name": "めずらしい化石(C)",
             "date": "2023-01-04",
             "stock": 2
         },
@@ -206,38 +230,6 @@
             "price": 77,
             "name": "【ポケカ】Ｃ◇めずら",
             "date": "2022-12-29",
-            "stock": 2
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18036",
-            "price": 50,
-            "name": "めずらしい化石(C)",
-            "date": "2022-12-28",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30148",
-            "price": 70,
-            "name": "めずらしい化石091",
-            "date": "2022-12-28",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/13330",
-            "price": 80,
-            "name": "めずらしい化石091",
-            "date": "2022-12-28",
-            "stock": 297
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g091-100-S3-B/",
-            "price": 77,
-            "name": "【ポケカ】Ｃ◇めずら",
-            "date": "2022-12-28",
             "stock": 2
         }
     ]

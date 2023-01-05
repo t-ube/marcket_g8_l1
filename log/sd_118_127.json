@@ -1,6 +1,14 @@
 ﻿{
     "items": [
         {
+            "market": "torecolo",
+            "link": "/shop/g/g118-127-SD-B/",
+            "price": 110,
+            "name": "【ポケカ】ＳＳ◇マサ",
+            "date": "2023-01-05",
+            "stock": 3
+        },
+        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30315",
             "price": 110,
@@ -118,14 +126,6 @@
             "price": 110,
             "name": "【ポケカ】ＳＳ◇マサ",
             "date": "2022-12-29",
-            "stock": 3
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g118-127-SD-B/",
-            "price": 110,
-            "name": "【ポケカ】ＳＳ◇マサ",
-            "date": "2022-12-28",
             "stock": 3
         }
     ]

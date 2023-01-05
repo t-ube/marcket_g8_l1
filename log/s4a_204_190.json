@@ -5,13 +5,69 @@
             "link": "/items/706799424",
             "price": 100,
             "name": "バチンキー S 20",
-            "date": "2023-01-04",
+            "date": "2023-01-05",
             "stock": 1
         },
         {
             "market": "magi",
             "link": "/items/450908894",
             "price": 550,
+            "name": "バチンキー S 20",
+            "date": "2023-01-05",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1109594588",
+            "price": 100,
+            "name": "YU06 バチンキー",
+            "date": "2023-01-05",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18610",
+            "price": 200,
+            "name": "バチンキー(S){草",
+            "date": "2023-01-05",
+            "stock": 91
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17353",
+            "price": 380,
+            "name": "バチンキー204/1",
+            "date": "2023-01-05",
+            "stock": 90
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30793",
+            "price": 330,
+            "name": "バチンキー204/1",
+            "date": "2023-01-05",
+            "stock": 8
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g204-190-S4A-B/",
+            "price": 330,
+            "name": "【ポケカ】Ｓ◇バチン",
+            "date": "2023-01-05",
+            "stock": 10
+        },
+        {
+            "market": "magi",
+            "link": "/items/450908894",
+            "price": 550,
+            "name": "バチンキー S 20",
+            "date": "2023-01-04",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/706799424",
+            "price": 100,
             "name": "バチンキー S 20",
             "date": "2023-01-04",
             "stock": 1
@@ -66,17 +122,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/706799424",
+            "link": "/items/1109594588",
             "price": 100,
-            "name": "バチンキー S 20",
+            "name": "YU06 バチンキー",
             "date": "2023-01-03",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1109594588",
+            "link": "/items/706799424",
             "price": 100,
-            "name": "YU06 バチンキー",
+            "name": "バチンキー S 20",
             "date": "2023-01-03",
             "stock": 1
         },
@@ -87,6 +143,14 @@
             "name": "バチンキー(S){草",
             "date": "2023-01-03",
             "stock": 90
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30793",
+            "price": 330,
+            "name": "バチンキー204/1",
+            "date": "2023-01-03",
+            "stock": 8
         },
         {
             "market": "cardrush",
@@ -97,14 +161,6 @@
             "stock": 88
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30793",
-            "price": 330,
-            "name": "バチンキー204/1",
-            "date": "2023-01-03",
-            "stock": 8
-        },
-        {
             "market": "torecolo",
             "link": "/shop/g/g204-190-S4A-B/",
             "price": 330,
@@ -114,8 +170,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/450908894",
-            "price": 550,
+            "link": "/items/706799424",
+            "price": 100,
             "name": "バチンキー S 20",
             "date": "2023-01-02",
             "stock": 1
@@ -130,8 +186,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/706799424",
-            "price": 100,
+            "link": "/items/450908894",
+            "price": 550,
             "name": "バチンキー S 20",
             "date": "2023-01-02",
             "stock": 1
@@ -178,17 +234,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/1109594588",
-            "price": 100,
-            "name": "YU06 バチンキー",
+            "link": "/items/450908894",
+            "price": 550,
+            "name": "バチンキー S 20",
             "date": "2023-01-01",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/450908894",
-            "price": 550,
-            "name": "バチンキー S 20",
+            "link": "/items/1109594588",
+            "price": 100,
+            "name": "YU06 バチンキー",
             "date": "2023-01-01",
             "stock": 1
         },
@@ -202,19 +258,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30793",
-            "price": 330,
-            "name": "バチンキー204/1",
-            "date": "2023-01-01",
-            "stock": 8
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17353",
             "price": 380,
             "name": "バチンキー204/1",
             "date": "2023-01-01",
             "stock": 84
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30793",
+            "price": 330,
+            "name": "バチンキー204/1",
+            "date": "2023-01-01",
+            "stock": 8
         },
         {
             "market": "torecolo",
@@ -226,9 +282,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/706799424",
+            "link": "/items/1109594588",
             "price": 100,
-            "name": "バチンキー S 20",
+            "name": "YU06 バチンキー",
             "date": "2022-12-31",
             "stock": 1
         },
@@ -242,9 +298,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/1109594588",
+            "link": "/items/706799424",
             "price": 100,
-            "name": "YU06 バチンキー",
+            "name": "バチンキー S 20",
             "date": "2022-12-31",
             "stock": 1
         },
@@ -258,19 +314,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17353",
-            "price": 380,
-            "name": "バチンキー204/1",
-            "date": "2022-12-31",
-            "stock": 84
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30793",
             "price": 330,
             "name": "バチンキー204/1",
             "date": "2022-12-31",
             "stock": 8
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17353",
+            "price": 380,
+            "name": "バチンキー204/1",
+            "date": "2022-12-31",
+            "stock": 84
         },
         {
             "market": "torecolo",
@@ -279,6 +335,14 @@
             "name": "【ポケカ】Ｓ◇バチン",
             "date": "2022-12-31",
             "stock": 10
+        },
+        {
+            "market": "magi",
+            "link": "/items/450908894",
+            "price": 550,
+            "name": "バチンキー S 20",
+            "date": "2022-12-30",
+            "stock": 1
         },
         {
             "market": "magi",
@@ -293,14 +357,6 @@
             "link": "/items/1109594588",
             "price": 100,
             "name": "YU06 バチンキー",
-            "date": "2022-12-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/450908894",
-            "price": 550,
-            "name": "バチンキー S 20",
             "date": "2022-12-30",
             "stock": 1
         },
@@ -338,17 +394,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/450908894",
-            "price": 550,
-            "name": "バチンキー S 20",
-            "date": "2022-12-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/706799424",
+            "link": "/items/1109594588",
             "price": 100,
-            "name": "バチンキー S 20",
+            "name": "YU06 バチンキー",
             "date": "2022-12-29",
             "stock": 1
         },
@@ -362,9 +410,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/1109594588",
+            "link": "/items/450908894",
+            "price": 550,
+            "name": "バチンキー S 20",
+            "date": "2022-12-29",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/706799424",
             "price": 100,
-            "name": "YU06 バチンキー",
+            "name": "バチンキー S 20",
             "date": "2022-12-29",
             "stock": 1
         },
@@ -375,14 +431,6 @@
             "name": "バチンキー(S){草",
             "date": "2022-12-29",
             "stock": 90
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30793",
-            "price": 330,
-            "name": "バチンキー204/1",
-            "date": "2022-12-29",
-            "stock": 8
         },
         {
             "market": "cardrush",
@@ -393,67 +441,11 @@
             "stock": 83
         },
         {
-            "market": "torecolo",
-            "link": "/shop/g/g204-190-S4A-B/",
-            "price": 330,
-            "name": "【ポケカ】Ｓ◇バチン",
-            "date": "2022-12-29",
-            "stock": 9
-        },
-        {
-            "market": "magi",
-            "link": "/items/1109594588",
-            "price": 100,
-            "name": "YU06 バチンキー",
-            "date": "2022-12-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/849199485",
-            "price": 920,
-            "name": "サルノリ S 203",
-            "date": "2022-12-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/450908894",
-            "price": 550,
-            "name": "バチンキー S 20",
-            "date": "2022-12-28",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/706799424",
-            "price": 100,
-            "name": "バチンキー S 20",
-            "date": "2022-12-28",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18610",
-            "price": 200,
-            "name": "バチンキー(S){草",
-            "date": "2022-12-28",
-            "stock": 90
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17353",
-            "price": 380,
-            "name": "バチンキー204/1",
-            "date": "2022-12-28",
-            "stock": 82
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30793",
             "price": 330,
             "name": "バチンキー204/1",
-            "date": "2022-12-28",
+            "date": "2022-12-29",
             "stock": 8
         },
         {
@@ -461,7 +453,7 @@
             "link": "/shop/g/g204-190-S4A-B/",
             "price": 330,
             "name": "【ポケカ】Ｓ◇バチン",
-            "date": "2022-12-28",
+            "date": "2022-12-29",
             "stock": 9
         }
     ]
