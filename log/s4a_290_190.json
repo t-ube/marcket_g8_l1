@@ -5,7 +5,7 @@
             "link": "/items/11854549",
             "price": 520,
             "name": "【値下げ2枚】ゾウド",
-            "date": "2023-01-05",
+            "date": "2023-01-06",
             "stock": 1
         },
         {
@@ -13,6 +13,70 @@
             "link": "/items/1709361282",
             "price": 150,
             "name": "ダイオウドウ S 2",
+            "date": "2023-01-06",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1092864079",
+            "price": 150,
+            "name": "ダイオウドウ S 2",
+            "date": "2023-01-06",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18696",
+            "price": 200,
+            "name": "ダイオウドウ(S){",
+            "date": "2023-01-06",
+            "stock": 30
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17439",
+            "price": 380,
+            "name": "ダイオウドウ290/",
+            "date": "2023-01-06",
+            "stock": 68
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30879",
+            "price": 330,
+            "name": "ダイオウドウ290/",
+            "date": "2023-01-06",
+            "stock": 13
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17599",
+            "price": 180,
+            "name": "ダイオウドウ290/",
+            "date": "2023-01-06",
+            "stock": 3
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g290-190-S4A-B/",
+            "price": 275,
+            "name": "【ポケカ】Ｓ◇ダイオ",
+            "date": "2023-01-06",
+            "stock": 14
+        },
+        {
+            "market": "magi",
+            "link": "/items/1709361282",
+            "price": 150,
+            "name": "ダイオウドウ S 2",
+            "date": "2023-01-05",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/11854549",
+            "price": 520,
+            "name": "【値下げ2枚】ゾウド",
             "date": "2023-01-05",
             "stock": 1
         },
@@ -66,7 +130,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/1709361282",
+            "link": "/items/1092864079",
             "price": 150,
             "name": "ダイオウドウ S 2",
             "date": "2023-01-04",
@@ -82,7 +146,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/1092864079",
+            "link": "/items/1709361282",
             "price": 150,
             "name": "ダイオウドウ S 2",
             "date": "2023-01-04",
@@ -95,6 +159,22 @@
             "name": "ダイオウドウ(S){",
             "date": "2023-01-04",
             "stock": 30
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17599",
+            "price": 180,
+            "name": "ダイオウドウ290/",
+            "date": "2023-01-04",
+            "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30879",
+            "price": 330,
+            "name": "ダイオウドウ290/",
+            "date": "2023-01-04",
+            "stock": 13
         },
         {
             "market": "cardrush",
@@ -105,22 +185,6 @@
             "stock": 68
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30879",
-            "price": 330,
-            "name": "ダイオウドウ290/",
-            "date": "2023-01-04",
-            "stock": 13
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17599",
-            "price": 180,
-            "name": "ダイオウドウ290/",
-            "date": "2023-01-04",
-            "stock": 3
-        },
-        {
             "market": "torecolo",
             "link": "/shop/g/g290-190-S4A-B/",
             "price": 275,
@@ -130,7 +194,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/1092864079",
+            "link": "/items/1709361282",
             "price": 150,
             "name": "ダイオウドウ S 2",
             "date": "2023-01-03",
@@ -146,7 +210,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/1709361282",
+            "link": "/items/1092864079",
             "price": 150,
             "name": "ダイオウドウ S 2",
             "date": "2023-01-03",
@@ -202,17 +266,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/11854549",
-            "price": 520,
-            "name": "【値下げ2枚】ゾウド",
+            "link": "/items/1092864079",
+            "price": 150,
+            "name": "ダイオウドウ S 2",
             "date": "2023-01-02",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1092864079",
-            "price": 150,
-            "name": "ダイオウドウ S 2",
+            "link": "/items/11854549",
+            "price": 520,
+            "name": "【値下げ2枚】ゾウド",
             "date": "2023-01-02",
             "stock": 1
         },
@@ -223,22 +287,6 @@
             "name": "ダイオウドウ(S){",
             "date": "2023-01-02",
             "stock": 30
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17599",
-            "price": 180,
-            "name": "ダイオウドウ290/",
-            "date": "2023-01-02",
-            "stock": 3
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30879",
-            "price": 330,
-            "name": "ダイオウドウ290/",
-            "date": "2023-01-02",
-            "stock": 13
         },
         {
             "market": "cardrush",
@@ -249,6 +297,22 @@
             "stock": 68
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30879",
+            "price": 330,
+            "name": "ダイオウドウ290/",
+            "date": "2023-01-02",
+            "stock": 13
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17599",
+            "price": 180,
+            "name": "ダイオウドウ290/",
+            "date": "2023-01-02",
+            "stock": 3
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g290-190-S4A-B/",
             "price": 275,
@@ -258,9 +322,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/1709361282",
-            "price": 150,
-            "name": "ダイオウドウ S 2",
+            "link": "/items/11854549",
+            "price": 520,
+            "name": "【値下げ2枚】ゾウド",
             "date": "2023-01-01",
             "stock": 1
         },
@@ -274,9 +338,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/11854549",
-            "price": 520,
-            "name": "【値下げ2枚】ゾウド",
+            "link": "/items/1709361282",
+            "price": 150,
+            "name": "ダイオウドウ S 2",
             "date": "2023-01-01",
             "stock": 1
         },
@@ -290,11 +354,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17439",
-            "price": 380,
+            "link": "https://www.cardrush-pokemon.jp/product/17599",
+            "price": 180,
             "name": "ダイオウドウ290/",
             "date": "2023-01-01",
-            "stock": 48
+            "stock": 3
         },
         {
             "market": "cardrush",
@@ -306,11 +370,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17599",
-            "price": 180,
+            "link": "https://www.cardrush-pokemon.jp/product/17439",
+            "price": 380,
             "name": "ダイオウドウ290/",
             "date": "2023-01-01",
-            "stock": 3
+            "stock": 48
         },
         {
             "market": "torecolo",
@@ -386,6 +450,14 @@
         },
         {
             "market": "magi",
+            "link": "/items/1709361282",
+            "price": 150,
+            "name": "ダイオウドウ S 2",
+            "date": "2022-12-30",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/11854549",
             "price": 520,
             "name": "【値下げ2枚】ゾウド",
@@ -395,14 +467,6 @@
         {
             "market": "magi",
             "link": "/items/1092864079",
-            "price": 150,
-            "name": "ダイオウドウ S 2",
-            "date": "2022-12-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1709361282",
             "price": 150,
             "name": "ダイオウドウ S 2",
             "date": "2022-12-30",
@@ -446,70 +510,6 @@
             "price": 275,
             "name": "【ポケカ】Ｓ◇ダイオ",
             "date": "2022-12-30",
-            "stock": 14
-        },
-        {
-            "market": "magi",
-            "link": "/items/1709361282",
-            "price": 150,
-            "name": "ダイオウドウ S 2",
-            "date": "2022-12-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/11854549",
-            "price": 520,
-            "name": "【値下げ2枚】ゾウド",
-            "date": "2022-12-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1092864079",
-            "price": 150,
-            "name": "ダイオウドウ S 2",
-            "date": "2022-12-29",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18696",
-            "price": 200,
-            "name": "ダイオウドウ(S){",
-            "date": "2022-12-29",
-            "stock": 30
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17599",
-            "price": 180,
-            "name": "ダイオウドウ290/",
-            "date": "2022-12-29",
-            "stock": 3
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30879",
-            "price": 330,
-            "name": "ダイオウドウ290/",
-            "date": "2022-12-29",
-            "stock": 13
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17439",
-            "price": 380,
-            "name": "ダイオウドウ290/",
-            "date": "2022-12-29",
-            "stock": 48
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g290-190-S4A-B/",
-            "price": 275,
-            "name": "【ポケカ】Ｓ◇ダイオ",
-            "date": "2022-12-29",
             "stock": 14
         }
     ]

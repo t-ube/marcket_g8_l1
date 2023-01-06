@@ -5,6 +5,38 @@
             "link": "https://www.hareruya2.com/product/18676",
             "price": 150,
             "name": "サダイジャ(S){闘",
+            "date": "2023-01-06",
+            "stock": 29
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30859",
+            "price": 330,
+            "name": "サダイジャ270/1",
+            "date": "2023-01-06",
+            "stock": 5
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17419",
+            "price": 380,
+            "name": "サダイジャ270/1",
+            "date": "2023-01-06",
+            "stock": 54
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g270-190-S4A-B/",
+            "price": 275,
+            "name": "【ポケカ】Ｓ◇サダイ",
+            "date": "2023-01-06",
+            "stock": 10
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18676",
+            "price": 150,
+            "name": "サダイジャ(S){闘",
             "date": "2023-01-05",
             "stock": 29
         },
@@ -42,19 +74,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30859",
-            "price": 330,
-            "name": "サダイジャ270/1",
-            "date": "2023-01-04",
-            "stock": 5
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17419",
             "price": 380,
             "name": "サダイジャ270/1",
             "date": "2023-01-04",
             "stock": 54
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30859",
+            "price": 330,
+            "name": "サダイジャ270/1",
+            "date": "2023-01-04",
+            "stock": 5
         },
         {
             "market": "torecolo",
@@ -106,19 +138,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17419",
-            "price": 380,
-            "name": "サダイジャ270/1",
-            "date": "2023-01-02",
-            "stock": 54
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30859",
             "price": 330,
             "name": "サダイジャ270/1",
             "date": "2023-01-02",
             "stock": 5
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17419",
+            "price": 380,
+            "name": "サダイジャ270/1",
+            "date": "2023-01-02",
+            "stock": 54
         },
         {
             "market": "torecolo",
@@ -138,19 +170,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30859",
-            "price": 330,
-            "name": "サダイジャ270/1",
-            "date": "2023-01-01",
-            "stock": 5
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17419",
             "price": 380,
             "name": "サダイジャ270/1",
             "date": "2023-01-01",
             "stock": 48
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30859",
+            "price": 330,
+            "name": "サダイジャ270/1",
+            "date": "2023-01-01",
+            "stock": 5
         },
         {
             "market": "torecolo",
@@ -202,14 +234,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17419",
-            "price": 380,
-            "name": "サダイジャ270/1",
-            "date": "2022-12-30",
-            "stock": 48
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30859",
             "price": 330,
             "name": "サダイジャ270/1",
@@ -217,35 +241,11 @@
             "stock": 5
         },
         {
-            "market": "torecolo",
-            "link": "/shop/g/g270-190-S4A-B/",
-            "price": 275,
-            "name": "【ポケカ】Ｓ◇サダイ",
-            "date": "2022-12-30",
-            "stock": 10
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18676",
-            "price": 150,
-            "name": "サダイジャ(S){闘",
-            "date": "2022-12-29",
-            "stock": 29
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30859",
-            "price": 330,
-            "name": "サダイジャ270/1",
-            "date": "2022-12-29",
-            "stock": 5
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17419",
             "price": 380,
             "name": "サダイジャ270/1",
-            "date": "2022-12-29",
+            "date": "2022-12-30",
             "stock": 48
         },
         {
@@ -253,7 +253,7 @@
             "link": "/shop/g/g270-190-S4A-B/",
             "price": 275,
             "name": "【ポケカ】Ｓ◇サダイ",
-            "date": "2022-12-29",
+            "date": "2022-12-30",
             "stock": 10
         }
     ]

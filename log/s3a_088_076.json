@@ -5,6 +5,38 @@
             "link": "/items/1988920728",
             "price": 999,
             "name": "トゲキッスVMAX ",
+            "date": "2023-01-06",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/15026",
+            "price": 680,
+            "name": "トゲキッスVMAX0",
+            "date": "2023-01-06",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30255",
+            "price": 830,
+            "name": "トゲキッスVMAX0",
+            "date": "2023-01-06",
+            "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14144",
+            "price": 980,
+            "name": "トゲキッスVMAX0",
+            "date": "2023-01-06",
+            "stock": 5
+        },
+        {
+            "market": "magi",
+            "link": "/items/1988920728",
+            "price": 999,
+            "name": "トゲキッスVMAX ",
             "date": "2023-01-05",
             "stock": 1
         },
@@ -42,11 +74,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/15026",
-            "price": 680,
+            "link": "https://www.cardrush-pokemon.jp/product/14144",
+            "price": 980,
             "name": "トゲキッスVMAX0",
             "date": "2023-01-04",
-            "stock": 1
+            "stock": 5
         },
         {
             "market": "cardrush",
@@ -58,11 +90,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14144",
-            "price": 980,
+            "link": "https://www.cardrush-pokemon.jp/product/15026",
+            "price": 680,
             "name": "トゲキッスVMAX0",
             "date": "2023-01-04",
-            "stock": 5
+            "stock": 1
         },
         {
             "market": "magi",
@@ -82,14 +114,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30255",
-            "price": 830,
-            "name": "トゲキッスVMAX0",
-            "date": "2023-01-03",
-            "stock": 3
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/15026",
             "price": 680,
             "name": "トゲキッスVMAX0",
@@ -97,6 +121,14 @@
             "stock": 1
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30255",
+            "price": 830,
+            "name": "トゲキッスVMAX0",
+            "date": "2023-01-03",
+            "stock": 3
+        },
+        {
             "market": "magi",
             "link": "/items/1988920728",
             "price": 999,
@@ -114,14 +146,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/15026",
-            "price": 680,
-            "name": "トゲキッスVMAX0",
-            "date": "2023-01-02",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30255",
             "price": 830,
             "name": "トゲキッスVMAX0",
@@ -129,10 +153,34 @@
             "stock": 3
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/15026",
+            "price": 680,
+            "name": "トゲキッスVMAX0",
+            "date": "2023-01-02",
+            "stock": 1
+        },
+        {
             "market": "magi",
             "link": "/items/1988920728",
             "price": 999,
             "name": "トゲキッスVMAX ",
+            "date": "2023-01-01",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30255",
+            "price": 830,
+            "name": "トゲキッスVMAX0",
+            "date": "2023-01-01",
+            "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/15026",
+            "price": 680,
+            "name": "トゲキッスVMAX0",
             "date": "2023-01-01",
             "stock": 1
         },
@@ -145,22 +193,6 @@
             "stock": 1
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/15026",
-            "price": 680,
-            "name": "トゲキッスVMAX0",
-            "date": "2023-01-01",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30255",
-            "price": 830,
-            "name": "トゲキッスVMAX0",
-            "date": "2023-01-01",
-            "stock": 3
-        },
-        {
             "market": "magi",
             "link": "/items/1988920728",
             "price": 999,
@@ -178,19 +210,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/15026",
-            "price": 680,
-            "name": "トゲキッスVMAX0",
-            "date": "2022-12-31",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30255",
             "price": 830,
             "name": "トゲキッスVMAX0",
             "date": "2022-12-31",
             "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/15026",
+            "price": 680,
+            "name": "トゲキッスVMAX0",
+            "date": "2022-12-31",
+            "stock": 1
         },
         {
             "market": "magi",
@@ -202,14 +234,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/15026",
-            "price": 680,
-            "name": "トゲキッスVMAX0",
-            "date": "2022-12-30",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30255",
             "price": 830,
             "name": "トゲキッスVMAX0",
@@ -217,28 +241,12 @@
             "stock": 3
         },
         {
-            "market": "magi",
-            "link": "/items/1988920728",
-            "price": 999,
-            "name": "トゲキッスVMAX ",
-            "date": "2022-12-29",
-            "stock": 1
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/15026",
             "price": 680,
             "name": "トゲキッスVMAX0",
-            "date": "2022-12-29",
+            "date": "2022-12-30",
             "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30255",
-            "price": 830,
-            "name": "トゲキッスVMAX0",
-            "date": "2022-12-29",
-            "stock": 3
         }
     ]
 }

@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/17952",
             "price": 50,
             "name": "フクスロー(C){草",
+            "date": "2023-01-06",
+            "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/13247",
+            "price": 50,
+            "name": "フクスロー007/1",
+            "date": "2023-01-06",
+            "stock": 173
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g007-100-S3-B/",
+            "price": 33,
+            "name": "【ポケカ】Ｃ◇フクス",
+            "date": "2023-01-06",
+            "stock": 14
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17952",
+            "price": 50,
+            "name": "フクスロー(C){草",
             "date": "2023-01-05",
             "stock": 4
         },
@@ -166,30 +190,6 @@
             "price": 33,
             "name": "【ポケカ】Ｃ◇フクス",
             "date": "2022-12-30",
-            "stock": 14
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/17952",
-            "price": 50,
-            "name": "フクスロー(C){草",
-            "date": "2022-12-29",
-            "stock": 4
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/13247",
-            "price": 50,
-            "name": "フクスロー007/1",
-            "date": "2022-12-29",
-            "stock": 169
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g007-100-S3-B/",
-            "price": 33,
-            "name": "【ポケカ】Ｃ◇フクス",
-            "date": "2022-12-29",
             "stock": 14
         }
     ]

@@ -5,7 +5,7 @@
             "link": "/items/1872431756",
             "price": 380,
             "name": "【値下げ2枚】モルペ",
-            "date": "2023-01-05",
+            "date": "2023-01-06",
             "stock": 1
         },
         {
@@ -13,6 +13,54 @@
             "link": "/items/1568705374",
             "price": 470,
             "name": "【値下げ4枚】モルペ",
+            "date": "2023-01-06",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1067217369",
+            "price": 420,
+            "name": "【4枚】モルペコVM",
+            "date": "2023-01-06",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/259400252",
+            "price": 1665,
+            "name": "モルペコVMAX R",
+            "date": "2023-01-06",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17522",
+            "price": 150,
+            "name": "モルペコVMAX(R",
+            "date": "2023-01-06",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/6940",
+            "price": 220,
+            "name": "モルペコVMAX02",
+            "date": "2023-01-06",
+            "stock": 8
+        },
+        {
+            "market": "magi",
+            "link": "/items/1568705374",
+            "price": 470,
+            "name": "【値下げ4枚】モルペ",
+            "date": "2023-01-05",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1872431756",
+            "price": 380,
+            "name": "【値下げ2枚】モルペ",
             "date": "2023-01-05",
             "stock": 1
         },
@@ -50,6 +98,14 @@
         },
         {
             "market": "magi",
+            "link": "/items/1067217369",
+            "price": 420,
+            "name": "【4枚】モルペコVM",
+            "date": "2023-01-04",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/1568705374",
             "price": 470,
             "name": "【値下げ4枚】モルペ",
@@ -61,14 +117,6 @@
             "link": "/items/1872431756",
             "price": 380,
             "name": "【値下げ2枚】モルペ",
-            "date": "2023-01-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1067217369",
-            "price": 420,
-            "name": "【4枚】モルペコVM",
             "date": "2023-01-04",
             "stock": 1
         },
@@ -98,17 +146,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/259400252",
-            "price": 1665,
-            "name": "モルペコVMAX R",
-            "date": "2023-01-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1568705374",
-            "price": 470,
-            "name": "【値下げ4枚】モルペ",
+            "link": "/items/1067217369",
+            "price": 420,
+            "name": "【4枚】モルペコVM",
             "date": "2023-01-03",
             "stock": 1
         },
@@ -122,9 +162,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/1067217369",
-            "price": 420,
-            "name": "【4枚】モルペコVM",
+            "link": "/items/1568705374",
+            "price": 470,
+            "name": "【値下げ4枚】モルペ",
+            "date": "2023-01-03",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/259400252",
+            "price": 1665,
+            "name": "モルペコVMAX R",
             "date": "2023-01-03",
             "stock": 1
         },
@@ -146,9 +194,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/1067217369",
-            "price": 420,
-            "name": "【4枚】モルペコVM",
+            "link": "/items/259400252",
+            "price": 1665,
+            "name": "モルペコVMAX R",
             "date": "2023-01-02",
             "stock": 1
         },
@@ -170,9 +218,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/259400252",
-            "price": 1665,
-            "name": "モルペコVMAX R",
+            "link": "/items/1067217369",
+            "price": 420,
+            "name": "【4枚】モルペコVM",
             "date": "2023-01-02",
             "stock": 1
         },
@@ -186,17 +234,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/1568705374",
-            "price": 470,
-            "name": "【値下げ4枚】モルペ",
-            "date": "2023-01-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/259400252",
-            "price": 1665,
-            "name": "モルペコVMAX R",
+            "link": "/items/1872431756",
+            "price": 380,
+            "name": "【値下げ2枚】モルペ",
             "date": "2023-01-01",
             "stock": 1
         },
@@ -210,9 +250,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/1872431756",
-            "price": 380,
-            "name": "【値下げ2枚】モルペ",
+            "link": "/items/259400252",
+            "price": 1665,
+            "name": "モルペコVMAX R",
+            "date": "2023-01-01",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1568705374",
+            "price": 470,
+            "name": "【値下げ4枚】モルペ",
             "date": "2023-01-01",
             "stock": 1
         },
@@ -226,9 +274,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/259400252",
-            "price": 1665,
-            "name": "モルペコVMAX R",
+            "link": "/items/1568705374",
+            "price": 470,
+            "name": "【値下げ4枚】モルペ",
+            "date": "2022-12-31",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1067217369",
+            "price": 420,
+            "name": "【4枚】モルペコVM",
             "date": "2022-12-31",
             "stock": 1
         },
@@ -242,17 +298,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/1568705374",
-            "price": 470,
-            "name": "【値下げ4枚】モルペ",
-            "date": "2022-12-31",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1067217369",
-            "price": 420,
-            "name": "【4枚】モルペコVM",
+            "link": "/items/259400252",
+            "price": 1665,
+            "name": "モルペコVMAX R",
             "date": "2022-12-31",
             "stock": 1
         },
@@ -266,17 +314,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/1872431756",
-            "price": 380,
-            "name": "【値下げ2枚】モルペ",
-            "date": "2022-12-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1568705374",
-            "price": 470,
-            "name": "【値下げ4枚】モルペ",
+            "link": "/items/1067217369",
+            "price": 420,
+            "name": "【4枚】モルペコVM",
             "date": "2022-12-30",
             "stock": 1
         },
@@ -290,50 +330,10 @@
         },
         {
             "market": "magi",
-            "link": "/items/1067217369",
-            "price": 420,
-            "name": "【4枚】モルペコVM",
-            "date": "2022-12-30",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/17522",
-            "price": 150,
-            "name": "モルペコVMAX(R",
-            "date": "2022-12-30",
-            "stock": 4
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/6940",
-            "price": 180,
-            "name": "モルペコVMAX02",
-            "date": "2022-12-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/1568705374",
             "price": 470,
             "name": "【値下げ4枚】モルペ",
-            "date": "2022-12-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1067217369",
-            "price": 420,
-            "name": "【4枚】モルペコVM",
-            "date": "2022-12-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/259400252",
-            "price": 1665,
-            "name": "モルペコVMAX R",
-            "date": "2022-12-29",
+            "date": "2022-12-30",
             "stock": 1
         },
         {
@@ -341,7 +341,7 @@
             "link": "/items/1872431756",
             "price": 380,
             "name": "【値下げ2枚】モルペ",
-            "date": "2022-12-29",
+            "date": "2022-12-30",
             "stock": 1
         },
         {
@@ -349,7 +349,7 @@
             "link": "https://www.hareruya2.com/product/17522",
             "price": 150,
             "name": "モルペコVMAX(R",
-            "date": "2022-12-29",
+            "date": "2022-12-30",
             "stock": 4
         },
         {
@@ -357,7 +357,7 @@
             "link": "https://www.cardrush-pokemon.jp/product/6940",
             "price": 180,
             "name": "モルペコVMAX02",
-            "date": "2022-12-29",
+            "date": "2022-12-30",
             "stock": 1
         }
     ]

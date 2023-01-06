@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/18281",
             "price": 1400,
             "name": "オニオン(HR){サ",
+            "date": "2023-01-06",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30262",
+            "price": 1090,
+            "name": "オニオン090/07",
+            "date": "2023-01-06",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14151",
+            "price": 1280,
+            "name": "オニオン090/07",
+            "date": "2023-01-06",
+            "stock": 14
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18281",
+            "price": 1400,
+            "name": "オニオン(HR){サ",
             "date": "2023-01-05",
             "stock": 1
         },
@@ -34,19 +58,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30262",
-            "price": 1090,
-            "name": "オニオン090/07",
-            "date": "2023-01-04",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/14151",
             "price": 1280,
             "name": "オニオン090/07",
             "date": "2023-01-04",
             "stock": 12
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30262",
+            "price": 1090,
+            "name": "オニオン090/07",
+            "date": "2023-01-04",
+            "stock": 1
         },
         {
             "market": "hareruya2",
@@ -58,19 +82,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14151",
-            "price": 1280,
-            "name": "オニオン090/07",
-            "date": "2023-01-03",
-            "stock": 12
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30262",
             "price": 1090,
             "name": "オニオン090/07",
             "date": "2023-01-03",
             "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14151",
+            "price": 1280,
+            "name": "オニオン090/07",
+            "date": "2023-01-03",
+            "stock": 12
         },
         {
             "market": "hareruya2",
@@ -134,22 +158,6 @@
             "price": 1280,
             "name": "オニオン090/07",
             "date": "2022-12-30",
-            "stock": 12
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18281",
-            "price": 1400,
-            "name": "オニオン(HR){サ",
-            "date": "2022-12-29",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14151",
-            "price": 1280,
-            "name": "オニオン090/07",
-            "date": "2022-12-29",
             "stock": 12
         }
     ]

@@ -5,6 +5,30 @@
             "link": "/items/15848770",
             "price": 100,
             "name": "【100円セール】ボ",
+            "date": "2023-01-06",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18025",
+            "price": 100,
+            "name": "ボーマンダV(RR)",
+            "date": "2023-01-06",
+            "stock": 24
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/13319",
+            "price": 80,
+            "name": "ボーマンダV080/",
+            "date": "2023-01-06",
+            "stock": 86
+        },
+        {
+            "market": "magi",
+            "link": "/items/15848770",
+            "price": 100,
+            "name": "【100円セール】ボ",
             "date": "2023-01-05",
             "stock": 1
         },
@@ -158,22 +182,6 @@
             "price": 80,
             "name": "ボーマンダV080/",
             "date": "2022-12-30",
-            "stock": 70
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18025",
-            "price": 100,
-            "name": "ボーマンダV(RR)",
-            "date": "2022-12-29",
-            "stock": 26
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/13319",
-            "price": 80,
-            "name": "ボーマンダV080/",
-            "date": "2022-12-29",
             "stock": 70
         }
     ]

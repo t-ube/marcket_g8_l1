@@ -5,6 +5,46 @@
             "link": "/items/1793505973",
             "price": 50,
             "name": "PC ソニア(065",
+            "date": "2023-01-06",
+            "stock": 4
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17682",
+            "price": 200,
+            "name": "ソニア(U){サポー",
+            "date": "2023-01-06",
+            "stock": 25
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/29841",
+            "price": 110,
+            "name": "ソニア065/070",
+            "date": "2023-01-06",
+            "stock": 9
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/7349",
+            "price": 120,
+            "name": "ソニア065/070",
+            "date": "2023-01-06",
+            "stock": 62
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g065-070-S1A-B/",
+            "price": 110,
+            "name": "【ポケカ】Ｕ◇ソニア",
+            "date": "2023-01-06",
+            "stock": 2
+        },
+        {
+            "market": "magi",
+            "link": "/items/1793505973",
+            "price": 50,
+            "name": "PC ソニア(065",
             "date": "2023-01-05",
             "stock": 4
         },
@@ -222,38 +262,6 @@
             "price": 110,
             "name": "【ポケカ】Ｕ◇ソニア",
             "date": "2022-12-30",
-            "stock": 2
-        },
-        {
-            "market": "magi",
-            "link": "/items/1793505973",
-            "price": 50,
-            "name": "PC ソニア(065",
-            "date": "2022-12-29",
-            "stock": 4
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/17682",
-            "price": 200,
-            "name": "ソニア(U){サポー",
-            "date": "2022-12-29",
-            "stock": 25
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7349",
-            "price": 120,
-            "name": "ソニア065/070",
-            "date": "2022-12-29",
-            "stock": 20
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g065-070-S1A-B/",
-            "price": 110,
-            "name": "【ポケカ】Ｕ◇ソニア",
-            "date": "2022-12-29",
             "stock": 2
         }
     ]

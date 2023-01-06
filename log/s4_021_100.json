@@ -5,6 +5,38 @@
             "link": "/items/561822374",
             "price": 204,
             "name": "フタチマル C 02",
+            "date": "2023-01-06",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18306",
+            "price": 50,
+            "name": "フタチマル(C){水",
+            "date": "2023-01-06",
+            "stock": 8
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14475",
+            "price": 50,
+            "name": "フタチマル021/1",
+            "date": "2023-01-06",
+            "stock": 29
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g021-100-S4-B/",
+            "price": 44,
+            "name": "【ポケカ】Ｃ◇フタチ",
+            "date": "2023-01-06",
+            "stock": 11
+        },
+        {
+            "market": "magi",
+            "link": "/items/561822374",
+            "price": 204,
+            "name": "フタチマル C 02",
             "date": "2023-01-05",
             "stock": 1
         },
@@ -222,38 +254,6 @@
             "price": 44,
             "name": "【ポケカ】Ｃ◇フタチ",
             "date": "2022-12-30",
-            "stock": 11
-        },
-        {
-            "market": "magi",
-            "link": "/items/561822374",
-            "price": 204,
-            "name": "フタチマル C 02",
-            "date": "2022-12-29",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18306",
-            "price": 50,
-            "name": "フタチマル(C){水",
-            "date": "2022-12-29",
-            "stock": 8
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14475",
-            "price": 50,
-            "name": "フタチマル021/1",
-            "date": "2022-12-29",
-            "stock": 26
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g021-100-S4-B/",
-            "price": 44,
-            "name": "【ポケカ】Ｃ◇フタチ",
-            "date": "2022-12-29",
             "stock": 11
         }
     ]

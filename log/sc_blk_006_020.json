@@ -5,6 +5,22 @@
             "link": "https://www.hareruya2.com/product/17845",
             "price": 100,
             "name": "オーロンゲV(D){",
+            "date": "2023-01-06",
+            "stock": 21
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/7826",
+            "price": 80,
+            "name": "オーロンゲV006/",
+            "date": "2023-01-06",
+            "stock": 130
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17845",
+            "price": 100,
+            "name": "オーロンゲV(D){",
             "date": "2023-01-05",
             "stock": 21
         },
@@ -111,22 +127,6 @@
             "name": "オーロンゲV006/",
             "date": "2022-12-30",
             "stock": 102
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/17845",
-            "price": 100,
-            "name": "オーロンゲV(D){",
-            "date": "2022-12-29",
-            "stock": 21
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7826",
-            "price": 80,
-            "name": "オーロンゲV006/",
-            "date": "2022-12-29",
-            "stock": 100
         }
     ]
 }

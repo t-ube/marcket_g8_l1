@@ -5,6 +5,38 @@
             "link": "https://www.hareruya2.com/product/18054",
             "price": 2300,
             "name": "ネズ(SR){サポー",
+            "date": "2023-01-06",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30171",
+            "price": 1880,
+            "name": "ネズ109/100",
+            "date": "2023-01-06",
+            "stock": 10
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/13923",
+            "price": 2180,
+            "name": "ネズ109/100",
+            "date": "2023-01-06",
+            "stock": 26
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g109-100-S3-B/",
+            "price": 2200,
+            "name": "【ポケカ】ＳＲ◇ネズ",
+            "date": "2023-01-06",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18054",
+            "price": 2300,
+            "name": "ネズ(SR){サポー",
             "date": "2023-01-05",
             "stock": 1
         },
@@ -74,14 +106,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30171",
-            "price": 1880,
-            "name": "ネズ109/100",
-            "date": "2023-01-03",
-            "stock": 10
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/13923",
             "price": 2180,
             "name": "ネズ109/100",
@@ -89,6 +113,14 @@
             "stock": 18
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30171",
+            "price": 1880,
+            "name": "ネズ109/100",
+            "date": "2023-01-03",
+            "stock": 10
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g109-100-S3-B/",
             "price": 2200,
@@ -138,19 +170,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/13923",
-            "price": 2180,
-            "name": "ネズ109/100",
-            "date": "2023-01-01",
-            "stock": 16
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30171",
             "price": 1880,
             "name": "ネズ109/100",
             "date": "2023-01-01",
             "stock": 7
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/13923",
+            "price": 2180,
+            "name": "ネズ109/100",
+            "date": "2023-01-01",
+            "stock": 16
         },
         {
             "market": "torecolo",
@@ -167,14 +199,6 @@
             "name": "ネズ(SR){サポー",
             "date": "2022-12-31",
             "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30171",
-            "price": 1880,
-            "name": "ネズ109/100",
-            "date": "2022-12-31",
-            "stock": 7
         },
         {
             "market": "cardrush",
@@ -185,6 +209,14 @@
             "stock": 16
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30171",
+            "price": 1880,
+            "name": "ネズ109/100",
+            "date": "2022-12-31",
+            "stock": 7
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g109-100-S3-B/",
             "price": 2200,
@@ -202,14 +234,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/13923",
-            "price": 2180,
-            "name": "ネズ109/100",
-            "date": "2022-12-30",
-            "stock": 15
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30171",
             "price": 1880,
             "name": "ネズ109/100",
@@ -217,35 +241,11 @@
             "stock": 7
         },
         {
-            "market": "torecolo",
-            "link": "/shop/g/g109-100-S3-B/",
-            "price": 2200,
-            "name": "【ポケカ】ＳＲ◇ネズ",
-            "date": "2022-12-30",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18054",
-            "price": 2300,
-            "name": "ネズ(SR){サポー",
-            "date": "2022-12-29",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30171",
-            "price": 1880,
-            "name": "ネズ109/100",
-            "date": "2022-12-29",
-            "stock": 7
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/13923",
             "price": 2180,
             "name": "ネズ109/100",
-            "date": "2022-12-29",
+            "date": "2022-12-30",
             "stock": 15
         },
         {
@@ -253,7 +253,7 @@
             "link": "/shop/g/g109-100-S3-B/",
             "price": 2200,
             "name": "【ポケカ】ＳＲ◇ネズ",
-            "date": "2022-12-29",
+            "date": "2022-12-30",
             "stock": 1
         }
     ]

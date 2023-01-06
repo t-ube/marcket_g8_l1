@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/17465",
             "price": 50,
             "name": "クスネ(C){悪}〈",
+            "date": "2023-01-06",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/6898",
+            "price": 50,
+            "name": "クスネ038/060",
+            "date": "2023-01-06",
+            "stock": 23
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g038-060-S1W-B/",
+            "price": 33,
+            "name": "【ポケカ】Ｃ◇クスネ",
+            "date": "2023-01-06",
+            "stock": 17
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17465",
+            "price": 50,
+            "name": "クスネ(C){悪}〈",
             "date": "2023-01-05",
             "stock": 2
         },
@@ -166,30 +190,6 @@
             "price": 33,
             "name": "【ポケカ】Ｃ◇クスネ",
             "date": "2022-12-30",
-            "stock": 17
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/17465",
-            "price": 50,
-            "name": "クスネ(C){悪}〈",
-            "date": "2022-12-29",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/6898",
-            "price": 50,
-            "name": "クスネ038/060",
-            "date": "2022-12-29",
-            "stock": 23
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g038-060-S1W-B/",
-            "price": 33,
-            "name": "【ポケカ】Ｃ◇クスネ",
-            "date": "2022-12-29",
             "stock": 17
         }
     ]

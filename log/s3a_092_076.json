@@ -2,11 +2,43 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/885989643",
+            "price": 1700,
+            "name": "ヤレユータン　092",
+            "date": "2023-01-06",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/847044941",
             "price": 1250,
             "name": "ヤレユータン UR ",
-            "date": "2023-01-05",
+            "date": "2023-01-06",
             "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1025886834",
+            "price": 1700,
+            "name": "ヤレユータン　092",
+            "date": "2023-01-06",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30266",
+            "price": 1680,
+            "name": "ヤレユータン092/",
+            "date": "2023-01-06",
+            "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14155",
+            "price": 1980,
+            "name": "ヤレユータン092/",
+            "date": "2023-01-06",
+            "stock": 23
         },
         {
             "market": "magi",
@@ -25,12 +57,12 @@
             "stock": 1
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14155",
-            "price": 1980,
-            "name": "ヤレユータン092/",
+            "market": "magi",
+            "link": "/items/847044941",
+            "price": 1250,
+            "name": "ヤレユータン UR ",
             "date": "2023-01-05",
-            "stock": 23
+            "stock": 1
         },
         {
             "market": "cardrush",
@@ -39,6 +71,14 @@
             "name": "ヤレユータン092/",
             "date": "2023-01-05",
             "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14155",
+            "price": 1980,
+            "name": "ヤレユータン092/",
+            "date": "2023-01-05",
+            "stock": 23
         },
         {
             "market": "magi",
@@ -82,17 +122,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/885989643",
-            "price": 1700,
-            "name": "ヤレユータン　092",
+            "link": "/items/847044941",
+            "price": 1250,
+            "name": "ヤレユータン UR ",
             "date": "2023-01-03",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/847044941",
-            "price": 1250,
-            "name": "ヤレユータン UR ",
+            "link": "/items/885989643",
+            "price": 1700,
+            "name": "ヤレユータン　092",
             "date": "2023-01-03",
             "stock": 1
         },
@@ -122,14 +162,6 @@
         },
         {
             "market": "magi",
-            "link": "/items/885989643",
-            "price": 1700,
-            "name": "ヤレユータン　092",
-            "date": "2023-01-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/847044941",
             "price": 1250,
             "name": "ヤレユータン UR ",
@@ -145,10 +177,10 @@
             "stock": 1
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30266",
-            "price": 1680,
-            "name": "ヤレユータン092/",
+            "market": "magi",
+            "link": "/items/885989643",
+            "price": 1700,
+            "name": "ヤレユータン　092",
             "date": "2023-01-02",
             "stock": 1
         },
@@ -159,6 +191,14 @@
             "name": "ヤレユータン092/",
             "date": "2023-01-02",
             "stock": 19
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30266",
+            "price": 1680,
+            "name": "ヤレユータン092/",
+            "date": "2023-01-02",
+            "stock": 1
         },
         {
             "market": "magi",
@@ -178,19 +218,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14155",
-            "price": 1980,
-            "name": "ヤレユータン092/",
-            "date": "2023-01-01",
-            "stock": 19
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30266",
             "price": 1680,
             "name": "ヤレユータン092/",
             "date": "2023-01-01",
             "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14155",
+            "price": 1980,
+            "name": "ヤレユータン092/",
+            "date": "2023-01-01",
+            "stock": 19
         },
         {
             "market": "magi",
@@ -226,14 +266,6 @@
         },
         {
             "market": "magi",
-            "link": "/items/885989643",
-            "price": 1700,
-            "name": "ヤレユータン　092",
-            "date": "2022-12-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/1025886834",
             "price": 1700,
             "name": "ヤレユータン　092",
@@ -241,10 +273,10 @@
             "stock": 1
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30266",
-            "price": 1680,
-            "name": "ヤレユータン092/",
+            "market": "magi",
+            "link": "/items/885989643",
+            "price": 1700,
+            "name": "ヤレユータン　092",
             "date": "2022-12-30",
             "stock": 1
         },
@@ -257,35 +289,11 @@
             "stock": 17
         },
         {
-            "market": "magi",
-            "link": "/items/885989643",
-            "price": 1700,
-            "name": "ヤレユータン　092",
-            "date": "2022-12-29",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1025886834",
-            "price": 1700,
-            "name": "ヤレユータン　092",
-            "date": "2022-12-29",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14155",
-            "price": 1980,
-            "name": "ヤレユータン092/",
-            "date": "2022-12-29",
-            "stock": 17
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30266",
             "price": 1680,
             "name": "ヤレユータン092/",
-            "date": "2022-12-29",
+            "date": "2022-12-30",
             "stock": 1
         }
     ]

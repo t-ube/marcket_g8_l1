@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/17863",
             "price": 50,
             "name": "チョボマキ(C){草",
+            "date": "2023-01-06",
+            "stock": 19
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/13105",
+            "price": 30,
+            "name": "チョボマキ004/0",
+            "date": "2023-01-06",
+            "stock": 79
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g004-070-S2A-B/",
+            "price": 33,
+            "name": "【ポケカ】Ｃ◇チョボ",
+            "date": "2023-01-06",
+            "stock": 20
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17863",
+            "price": 50,
+            "name": "チョボマキ(C){草",
             "date": "2023-01-05",
             "stock": 19
         },
@@ -166,30 +190,6 @@
             "price": 33,
             "name": "【ポケカ】Ｃ◇チョボ",
             "date": "2022-12-30",
-            "stock": 20
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/17863",
-            "price": 50,
-            "name": "チョボマキ(C){草",
-            "date": "2022-12-29",
-            "stock": 19
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/13105",
-            "price": 30,
-            "name": "チョボマキ004/0",
-            "date": "2022-12-29",
-            "stock": 80
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g004-070-S2A-B/",
-            "price": 33,
-            "name": "【ポケカ】Ｃ◇チョボ",
-            "date": "2022-12-29",
             "stock": 20
         }
     ]

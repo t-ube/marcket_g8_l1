@@ -5,6 +5,22 @@
             "link": "https://www.hareruya2.com/product/18036",
             "price": 50,
             "name": "めずらしい化石(C)",
+            "date": "2023-01-06",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/13330",
+            "price": 80,
+            "name": "めずらしい化石091",
+            "date": "2023-01-06",
+            "stock": 316
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18036",
+            "price": 50,
+            "name": "めずらしい化石(C)",
             "date": "2023-01-05",
             "stock": 2
         },
@@ -82,14 +98,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30148",
-            "price": 70,
-            "name": "めずらしい化石091",
-            "date": "2023-01-02",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/13330",
             "price": 80,
             "name": "めずらしい化石091",
@@ -97,6 +105,14 @@
             "stock": 316
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30148",
+            "price": 70,
+            "name": "めずらしい化石091",
+            "date": "2023-01-02",
+            "stock": 2
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g091-100-S3-B/",
             "price": 77,
@@ -178,14 +194,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30148",
-            "price": 70,
-            "name": "めずらしい化石091",
-            "date": "2022-12-30",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/13330",
             "price": 80,
             "name": "めずらしい化石091",
@@ -193,43 +201,19 @@
             "stock": 297
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30148",
+            "price": 70,
+            "name": "めずらしい化石091",
+            "date": "2022-12-30",
+            "stock": 2
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g091-100-S3-B/",
             "price": 77,
             "name": "【ポケカ】Ｃ◇めずら",
             "date": "2022-12-30",
-            "stock": 2
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18036",
-            "price": 50,
-            "name": "めずらしい化石(C)",
-            "date": "2022-12-29",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30148",
-            "price": 70,
-            "name": "めずらしい化石091",
-            "date": "2022-12-29",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/13330",
-            "price": 80,
-            "name": "めずらしい化石091",
-            "date": "2022-12-29",
-            "stock": 297
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g091-100-S3-B/",
-            "price": 77,
-            "name": "【ポケカ】Ｃ◇めずら",
-            "date": "2022-12-29",
             "stock": 2
         }
     ]

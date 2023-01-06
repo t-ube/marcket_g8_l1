@@ -5,6 +5,30 @@
             "link": "https://www.cardrush-pokemon.jp/product/30263",
             "price": 580,
             "name": "ポプラ091/076",
+            "date": "2023-01-06",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14152",
+            "price": 680,
+            "name": "ポプラ091/076",
+            "date": "2023-01-06",
+            "stock": 8
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g091-076-S3A-B/",
+            "price": 880,
+            "name": "【ポケカ】ＨＲ◇ポプ",
+            "date": "2023-01-06",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30263",
+            "price": 580,
+            "name": "ポプラ091/076",
             "date": "2023-01-05",
             "stock": 2
         },
@@ -50,14 +74,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14152",
-            "price": 680,
-            "name": "ポプラ091/076",
-            "date": "2023-01-03",
-            "stock": 9
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30263",
             "price": 580,
             "name": "ポプラ091/076",
@@ -65,6 +81,14 @@
             "stock": 1
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14152",
+            "price": 680,
+            "name": "ポプラ091/076",
+            "date": "2023-01-03",
+            "stock": 9
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g091-076-S3A-B/",
             "price": 880,
@@ -134,22 +158,6 @@
             "price": 880,
             "name": "【ポケカ】ＨＲ◇ポプ",
             "date": "2022-12-30",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14152",
-            "price": 680,
-            "name": "ポプラ091/076",
-            "date": "2022-12-29",
-            "stock": 6
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g091-076-S3A-B/",
-            "price": 880,
-            "name": "【ポケカ】ＨＲ◇ポプ",
-            "date": "2022-12-29",
             "stock": 1
         }
     ]

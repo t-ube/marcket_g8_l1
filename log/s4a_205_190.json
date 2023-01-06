@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/18611",
             "price": 500,
             "name": "ゴリランダー(S){",
+            "date": "2023-01-06",
+            "stock": 5
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17354",
+            "price": 480,
+            "name": "ゴリランダー205/",
+            "date": "2023-01-06",
+            "stock": 45
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g205-190-S4A-B/",
+            "price": 330,
+            "name": "【ポケカ】Ｓ◇ゴリラ",
+            "date": "2023-01-06",
+            "stock": 4
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18611",
+            "price": 500,
+            "name": "ゴリランダー(S){",
             "date": "2023-01-05",
             "stock": 5
         },
@@ -154,14 +178,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17354",
-            "price": 480,
-            "name": "ゴリランダー205/",
-            "date": "2022-12-30",
-            "stock": 37
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30794",
             "price": 380,
             "name": "ゴリランダー205/",
@@ -169,43 +185,19 @@
             "stock": 2
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17354",
+            "price": 480,
+            "name": "ゴリランダー205/",
+            "date": "2022-12-30",
+            "stock": 37
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g205-190-S4A-B/",
             "price": 330,
             "name": "【ポケカ】Ｓ◇ゴリラ",
             "date": "2022-12-30",
-            "stock": 4
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18611",
-            "price": 500,
-            "name": "ゴリランダー(S){",
-            "date": "2022-12-29",
-            "stock": 5
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17354",
-            "price": 480,
-            "name": "ゴリランダー205/",
-            "date": "2022-12-29",
-            "stock": 37
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30794",
-            "price": 380,
-            "name": "ゴリランダー205/",
-            "date": "2022-12-29",
-            "stock": 2
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g205-190-S4A-B/",
-            "price": 330,
-            "name": "【ポケカ】Ｓ◇ゴリラ",
-            "date": "2022-12-29",
             "stock": 4
         }
     ]

@@ -5,6 +5,38 @@
             "link": "https://www.hareruya2.com/product/18658",
             "price": 300,
             "name": "ポットデス(S){超",
+            "date": "2023-01-06",
+            "stock": 58
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30841",
+            "price": 330,
+            "name": "ポットデス252/1",
+            "date": "2023-01-06",
+            "stock": 5
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17401",
+            "price": 380,
+            "name": "ポットデス252/1",
+            "date": "2023-01-06",
+            "stock": 71
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g252-190-S4A-B/",
+            "price": 275,
+            "name": "【ポケカ】Ｓ◇ポット",
+            "date": "2023-01-06",
+            "stock": 8
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18658",
+            "price": 300,
+            "name": "ポットデス(S){超",
             "date": "2023-01-05",
             "stock": 58
         },
@@ -42,19 +74,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30841",
-            "price": 330,
-            "name": "ポットデス252/1",
-            "date": "2023-01-04",
-            "stock": 5
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17401",
             "price": 380,
             "name": "ポットデス252/1",
             "date": "2023-01-04",
             "stock": 71
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30841",
+            "price": 330,
+            "name": "ポットデス252/1",
+            "date": "2023-01-04",
+            "stock": 5
         },
         {
             "market": "torecolo",
@@ -106,19 +138,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17401",
-            "price": 380,
-            "name": "ポットデス252/1",
-            "date": "2023-01-02",
-            "stock": 71
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30841",
             "price": 330,
             "name": "ポットデス252/1",
             "date": "2023-01-02",
             "stock": 5
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17401",
+            "price": 380,
+            "name": "ポットデス252/1",
+            "date": "2023-01-02",
+            "stock": 71
         },
         {
             "market": "torecolo",
@@ -135,14 +167,6 @@
             "name": "ポットデス(S){超",
             "date": "2023-01-01",
             "stock": 56
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30841",
-            "price": 330,
-            "name": "ポットデス252/1",
-            "date": "2023-01-01",
-            "stock": 5
         },
         {
             "market": "cardrush",
@@ -153,6 +177,14 @@
             "stock": 54
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30841",
+            "price": 330,
+            "name": "ポットデス252/1",
+            "date": "2023-01-01",
+            "stock": 5
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g252-190-S4A-B/",
             "price": 275,
@@ -202,14 +234,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17401",
-            "price": 380,
-            "name": "ポットデス252/1",
-            "date": "2022-12-30",
-            "stock": 53
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30841",
             "price": 330,
             "name": "ポットデス252/1",
@@ -217,35 +241,11 @@
             "stock": 5
         },
         {
-            "market": "torecolo",
-            "link": "/shop/g/g252-190-S4A-B/",
-            "price": 275,
-            "name": "【ポケカ】Ｓ◇ポット",
-            "date": "2022-12-30",
-            "stock": 7
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18658",
-            "price": 300,
-            "name": "ポットデス(S){超",
-            "date": "2022-12-29",
-            "stock": 56
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30841",
-            "price": 330,
-            "name": "ポットデス252/1",
-            "date": "2022-12-29",
-            "stock": 5
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17401",
             "price": 380,
             "name": "ポットデス252/1",
-            "date": "2022-12-29",
+            "date": "2022-12-30",
             "stock": 53
         },
         {
@@ -253,7 +253,7 @@
             "link": "/shop/g/g252-190-S4A-B/",
             "price": 275,
             "name": "【ポケカ】Ｓ◇ポット",
-            "date": "2022-12-29",
+            "date": "2022-12-30",
             "stock": 7
         }
     ]
