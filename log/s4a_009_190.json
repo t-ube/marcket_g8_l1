@@ -5,6 +5,22 @@
             "link": "https://www.hareruya2.com/product/18415",
             "price": 100,
             "name": "ゴリランダーV(RR",
+            "date": "2023-01-07",
+            "stock": 100
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/16992",
+            "price": 80,
+            "name": "ゴリランダーV009",
+            "date": "2023-01-07",
+            "stock": 605
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18415",
+            "price": 100,
+            "name": "ゴリランダーV(RR",
             "date": "2023-01-06",
             "stock": 100
         },
@@ -110,22 +126,6 @@
             "price": 80,
             "name": "ゴリランダーV009",
             "date": "2022-12-31",
-            "stock": 606
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18415",
-            "price": 100,
-            "name": "ゴリランダーV(RR",
-            "date": "2022-12-30",
-            "stock": 100
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/16992",
-            "price": 80,
-            "name": "ゴリランダーV009",
-            "date": "2022-12-30",
             "stock": 606
         }
     ]

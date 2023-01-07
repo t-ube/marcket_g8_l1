@@ -5,6 +5,30 @@
             "link": "/items/2022406344",
             "price": 100,
             "name": "とりつかい U 09",
+            "date": "2023-01-07",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/466867050",
+            "price": 25,
+            "name": "PC とりつかい(0",
+            "date": "2023-01-07",
+            "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/13333",
+            "price": 80,
+            "name": "とりつかい094/1",
+            "date": "2023-01-07",
+            "stock": 20
+        },
+        {
+            "market": "magi",
+            "link": "/items/2022406344",
+            "price": 100,
+            "name": "とりつかい U 09",
             "date": "2023-01-06",
             "stock": 1
         },
@@ -74,19 +98,19 @@
         },
         {
             "market": "magi",
-            "link": "/items/466867050",
-            "price": 25,
-            "name": "PC とりつかい(0",
-            "date": "2023-01-03",
-            "stock": 4
-        },
-        {
-            "market": "magi",
             "link": "/items/2022406344",
             "price": 100,
             "name": "とりつかい U 09",
             "date": "2023-01-03",
             "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/466867050",
+            "price": 25,
+            "name": "PC とりつかい(0",
+            "date": "2023-01-03",
+            "stock": 4
         },
         {
             "market": "cardrush",
@@ -119,6 +143,14 @@
             "name": "とりつかい094/1",
             "date": "2023-01-02",
             "stock": 20
+        },
+        {
+            "market": "magi",
+            "link": "/items/466867050",
+            "price": 25,
+            "name": "PC とりつかい(0",
+            "date": "2023-01-01",
+            "stock": 4
         },
         {
             "market": "magi",
@@ -127,14 +159,6 @@
             "name": "とりつかい U 09",
             "date": "2023-01-01",
             "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/466867050",
-            "price": 25,
-            "name": "PC とりつかい(0",
-            "date": "2023-01-01",
-            "stock": 4
         },
         {
             "market": "cardrush",
@@ -166,30 +190,6 @@
             "price": 80,
             "name": "とりつかい094/1",
             "date": "2022-12-31",
-            "stock": 9
-        },
-        {
-            "market": "magi",
-            "link": "/items/466867050",
-            "price": 25,
-            "name": "PC とりつかい(0",
-            "date": "2022-12-30",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/2022406344",
-            "price": 100,
-            "name": "とりつかい U 09",
-            "date": "2022-12-30",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/13333",
-            "price": 80,
-            "name": "とりつかい094/1",
-            "date": "2022-12-30",
             "stock": 9
         }
     ]

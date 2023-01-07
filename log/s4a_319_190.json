@@ -2,17 +2,57 @@
     "items": [
         {
             "market": "magi",
-            "link": "/items/808213204",
-            "price": 550,
-            "name": "【割引あり】タイレー",
-            "date": "2023-01-06",
+            "link": "/items/2000038630",
+            "price": 500,
+            "name": "タイレーツV SSR",
+            "date": "2023-01-07",
             "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1464677327",
+            "price": 500,
+            "name": "タイレーツV SSR",
+            "date": "2023-01-07",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18725",
+            "price": 700,
+            "name": "タイレーツV(SSR",
+            "date": "2023-01-07",
+            "stock": 5
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17468",
+            "price": 680,
+            "name": "タイレーツV319/",
+            "date": "2023-01-07",
+            "stock": 111
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30908",
+            "price": 580,
+            "name": "タイレーツV319/",
+            "date": "2023-01-07",
+            "stock": 53
         },
         {
             "market": "magi",
             "link": "/items/2000038630",
             "price": 500,
             "name": "タイレーツV SSR",
+            "date": "2023-01-06",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/808213204",
+            "price": 550,
+            "name": "【割引あり】タイレー",
             "date": "2023-01-06",
             "stock": 1
         },
@@ -82,14 +122,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17468",
-            "price": 680,
-            "name": "タイレーツV319/",
-            "date": "2023-01-05",
-            "stock": 110
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30908",
             "price": 580,
             "name": "タイレーツV319/",
@@ -97,8 +129,16 @@
             "stock": 44
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17468",
+            "price": 680,
+            "name": "タイレーツV319/",
+            "date": "2023-01-05",
+            "stock": 110
+        },
+        {
             "market": "magi",
-            "link": "/items/2000038630",
+            "link": "/items/1464677327",
             "price": 500,
             "name": "タイレーツV SSR",
             "date": "2023-01-04",
@@ -106,7 +146,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/1464677327",
+            "link": "/items/2000038630",
             "price": 500,
             "name": "タイレーツV SSR",
             "date": "2023-01-04",
@@ -178,7 +218,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/2000038630",
+            "link": "/items/1464677327",
             "price": 500,
             "name": "タイレーツV SSR",
             "date": "2023-01-02",
@@ -186,7 +226,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/1464677327",
+            "link": "/items/2000038630",
             "price": 500,
             "name": "タイレーツV SSR",
             "date": "2023-01-02",
@@ -199,6 +239,14 @@
             "name": "タイレーツV(SSR",
             "date": "2023-01-02",
             "stock": 5
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30908",
+            "price": 580,
+            "name": "タイレーツV319/",
+            "date": "2023-01-02",
+            "stock": 43
         },
         {
             "market": "cardrush",
@@ -209,16 +257,8 @@
             "stock": 79
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30908",
-            "price": 580,
-            "name": "タイレーツV319/",
-            "date": "2023-01-02",
-            "stock": 43
-        },
-        {
             "market": "magi",
-            "link": "/items/2000038630",
+            "link": "/items/1464677327",
             "price": 500,
             "name": "タイレーツV SSR",
             "date": "2023-01-01",
@@ -226,7 +266,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/1464677327",
+            "link": "/items/2000038630",
             "price": 500,
             "name": "タイレーツV SSR",
             "date": "2023-01-01",
@@ -239,14 +279,6 @@
             "name": "タイレーツV(SSR",
             "date": "2023-01-01",
             "stock": 5
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30908",
-            "price": 580,
-            "name": "タイレーツV319/",
-            "date": "2023-01-01",
-            "stock": 43
         },
         {
             "market": "cardrush",
@@ -257,8 +289,16 @@
             "stock": 79
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30908",
+            "price": 580,
+            "name": "タイレーツV319/",
+            "date": "2023-01-01",
+            "stock": 43
+        },
+        {
             "market": "magi",
-            "link": "/items/1464677327",
+            "link": "/items/2000038630",
             "price": 500,
             "name": "タイレーツV SSR",
             "date": "2022-12-31",
@@ -266,7 +306,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/2000038630",
+            "link": "/items/1464677327",
             "price": 500,
             "name": "タイレーツV SSR",
             "date": "2022-12-31",
@@ -279,14 +319,6 @@
             "name": "タイレーツV(SSR",
             "date": "2022-12-31",
             "stock": 5
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30908",
-            "price": 580,
-            "name": "タイレーツV319/",
-            "date": "2022-12-31",
-            "stock": 43
         },
         {
             "market": "cardrush",
@@ -297,43 +329,11 @@
             "stock": 84
         },
         {
-            "market": "magi",
-            "link": "/items/2000038630",
-            "price": 500,
-            "name": "タイレーツV SSR",
-            "date": "2022-12-30",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1464677327",
-            "price": 500,
-            "name": "タイレーツV SSR",
-            "date": "2022-12-30",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18725",
-            "price": 700,
-            "name": "タイレーツV(SSR",
-            "date": "2022-12-30",
-            "stock": 5
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17468",
-            "price": 680,
-            "name": "タイレーツV319/",
-            "date": "2022-12-30",
-            "stock": 105
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30908",
             "price": 580,
             "name": "タイレーツV319/",
-            "date": "2022-12-30",
+            "date": "2022-12-31",
             "stock": 43
         }
     ]

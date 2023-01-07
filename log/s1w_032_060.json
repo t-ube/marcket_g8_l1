@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/17459",
             "price": 50,
             "name": "タタッコ(C){闘}",
+            "date": "2023-01-07",
+            "stock": 23
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/6892",
+            "price": 30,
+            "name": "タタッコ032/06",
+            "date": "2023-01-07",
+            "stock": 11
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g032-060-S1W-B/",
+            "price": 33,
+            "name": "【ポケカ】Ｃ◇タタッ",
+            "date": "2023-01-07",
+            "stock": 3
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17459",
+            "price": 50,
+            "name": "タタッコ(C){闘}",
             "date": "2023-01-06",
             "stock": 23
         },
@@ -166,30 +190,6 @@
             "price": 33,
             "name": "【ポケカ】Ｃ◇タタッ",
             "date": "2022-12-31",
-            "stock": 3
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/17459",
-            "price": 50,
-            "name": "タタッコ(C){闘}",
-            "date": "2022-12-30",
-            "stock": 23
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/6892",
-            "price": 30,
-            "name": "タタッコ032/06",
-            "date": "2022-12-30",
-            "stock": 11
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g032-060-S1W-B/",
-            "price": 33,
-            "name": "【ポケカ】Ｃ◇タタッ",
-            "date": "2022-12-30",
             "stock": 3
         }
     ]

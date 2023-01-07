@@ -5,6 +5,38 @@
             "link": "/items/667546148",
             "price": 25,
             "name": "PC バチンウニ(0",
+            "date": "2023-01-07",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/810041321",
+            "price": 25,
+            "name": "PC バチンウニ(0",
+            "date": "2023-01-07",
+            "stock": 4
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18187",
+            "price": 50,
+            "name": "バチンウニ(D){雷",
+            "date": "2023-01-07",
+            "stock": 7
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g037-127-SD-B/",
+            "price": 24,
+            "name": "【ポケカ】ＳＳ◇バチ",
+            "date": "2023-01-07",
+            "stock": 14
+        },
+        {
+            "market": "magi",
+            "link": "/items/667546148",
+            "price": 25,
+            "name": "PC バチンウニ(0",
             "date": "2023-01-06",
             "stock": 4
         },
@@ -66,7 +98,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/667546148",
+            "link": "/items/810041321",
             "price": 25,
             "name": "PC バチンウニ(0",
             "date": "2023-01-04",
@@ -74,7 +106,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/810041321",
+            "link": "/items/667546148",
             "price": 25,
             "name": "PC バチンウニ(0",
             "date": "2023-01-04",
@@ -95,14 +127,6 @@
             "name": "【ポケカ】ＳＳ◇バチ",
             "date": "2023-01-04",
             "stock": 14
-        },
-        {
-            "market": "magi",
-            "link": "/items/810041321",
-            "price": 25,
-            "name": "PC バチンウニ(0",
-            "date": "2023-01-03",
-            "stock": 4
         },
         {
             "market": "magi",
@@ -113,6 +137,14 @@
             "stock": 4
         },
         {
+            "market": "magi",
+            "link": "/items/810041321",
+            "price": 25,
+            "name": "PC バチンウニ(0",
+            "date": "2023-01-03",
+            "stock": 4
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/18187",
             "price": 50,
@@ -130,7 +162,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/667546148",
+            "link": "/items/810041321",
             "price": 25,
             "name": "PC バチンウニ(0",
             "date": "2023-01-02",
@@ -138,7 +170,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/810041321",
+            "link": "/items/667546148",
             "price": 25,
             "name": "PC バチンウニ(0",
             "date": "2023-01-02",
@@ -162,7 +194,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/810041321",
+            "link": "/items/667546148",
             "price": 25,
             "name": "PC バチンウニ(0",
             "date": "2023-01-01",
@@ -170,7 +202,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/667546148",
+            "link": "/items/810041321",
             "price": 25,
             "name": "PC バチンウニ(0",
             "date": "2023-01-01",
@@ -194,7 +226,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/667546148",
+            "link": "/items/810041321",
             "price": 25,
             "name": "PC バチンウニ(0",
             "date": "2022-12-31",
@@ -202,7 +234,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/810041321",
+            "link": "/items/667546148",
             "price": 25,
             "name": "PC バチンウニ(0",
             "date": "2022-12-31",
@@ -222,38 +254,6 @@
             "price": 24,
             "name": "【ポケカ】ＳＳ◇バチ",
             "date": "2022-12-31",
-            "stock": 14
-        },
-        {
-            "market": "magi",
-            "link": "/items/810041321",
-            "price": 25,
-            "name": "PC バチンウニ(0",
-            "date": "2022-12-30",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/667546148",
-            "price": 25,
-            "name": "PC バチンウニ(0",
-            "date": "2022-12-30",
-            "stock": 4
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18187",
-            "price": 50,
-            "name": "バチンウニ(D){雷",
-            "date": "2022-12-30",
-            "stock": 7
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g037-127-SD-B/",
-            "price": 24,
-            "name": "【ポケカ】ＳＳ◇バチ",
-            "date": "2022-12-30",
             "stock": 14
         }
     ]

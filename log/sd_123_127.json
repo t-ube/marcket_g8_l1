@@ -1,6 +1,38 @@
 ﻿{
     "items": [
         {
+            "market": "magi",
+            "link": "/items/732144221",
+            "price": 30,
+            "name": "PC レッドの挑戦(",
+            "date": "2023-01-07",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1642902870",
+            "price": 30,
+            "name": "PC レッドの挑戦(",
+            "date": "2023-01-07",
+            "stock": 4
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18191",
+            "price": 150,
+            "name": "レッドの挑戦(D){",
+            "date": "2023-01-07",
+            "stock": 17
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g123-127-SD-B/",
+            "price": 77,
+            "name": "【ポケカ】ＳＳ◇レッ",
+            "date": "2023-01-07",
+            "stock": 4
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/18191",
             "price": 150,
@@ -110,22 +142,6 @@
             "price": 77,
             "name": "【ポケカ】ＳＳ◇レッ",
             "date": "2022-12-31",
-            "stock": 4
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18191",
-            "price": 150,
-            "name": "レッドの挑戦(D){",
-            "date": "2022-12-30",
-            "stock": 17
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g123-127-SD-B/",
-            "price": 77,
-            "name": "【ポケカ】ＳＳ◇レッ",
-            "date": "2022-12-30",
             "stock": 4
         }
     ]

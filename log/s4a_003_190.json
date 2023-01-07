@@ -5,6 +5,38 @@
             "link": "/items/1410801008",
             "price": 120,
             "name": "ポケモンカード ジュ",
+            "date": "2023-01-07",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18409",
+            "price": 50,
+            "name": "ジュナイパー(CP)",
+            "date": "2023-01-07",
+            "stock": 51
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/16986",
+            "price": 80,
+            "name": "ジュナイパー003/",
+            "date": "2023-01-07",
+            "stock": 498
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g003-190-S4A-B/",
+            "price": 66,
+            "name": "【ポケカ】Ｒ◇ジュナ",
+            "date": "2023-01-07",
+            "stock": 10
+        },
+        {
+            "market": "magi",
+            "link": "/items/1410801008",
+            "price": 120,
+            "name": "ポケモンカード ジュ",
             "date": "2023-01-06",
             "stock": 1
         },
@@ -222,38 +254,6 @@
             "price": 66,
             "name": "【ポケカ】Ｒ◇ジュナ",
             "date": "2022-12-31",
-            "stock": 10
-        },
-        {
-            "market": "magi",
-            "link": "/items/1410801008",
-            "price": 120,
-            "name": "ポケモンカード ジュ",
-            "date": "2022-12-30",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18409",
-            "price": 50,
-            "name": "ジュナイパー(CP)",
-            "date": "2022-12-30",
-            "stock": 51
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/16986",
-            "price": 80,
-            "name": "ジュナイパー003/",
-            "date": "2022-12-30",
-            "stock": 498
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g003-190-S4A-B/",
-            "price": 66,
-            "name": "【ポケカ】Ｒ◇ジュナ",
-            "date": "2022-12-30",
             "stock": 10
         }
     ]

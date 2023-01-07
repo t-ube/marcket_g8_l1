@@ -5,6 +5,30 @@
             "link": "https://www.cardrush-pokemon.jp/product/13281",
             "price": 80,
             "name": "ミミッキュ042/1",
+            "date": "2023-01-07",
+            "stock": 40
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30123",
+            "price": 70,
+            "name": "ミミッキュ042/1",
+            "date": "2023-01-07",
+            "stock": 2
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g042-100-S3-B/",
+            "price": 33,
+            "name": "【ポケカ】Ｕ◇ミミッ",
+            "date": "2023-01-07",
+            "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/13281",
+            "price": 80,
+            "name": "ミミッキュ042/1",
             "date": "2023-01-06",
             "stock": 40
         },
@@ -74,19 +98,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/13281",
-            "price": 80,
-            "name": "ミミッキュ042/1",
-            "date": "2023-01-03",
-            "stock": 40
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30123",
             "price": 70,
             "name": "ミミッキュ042/1",
             "date": "2023-01-03",
             "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/13281",
+            "price": 80,
+            "name": "ミミッキュ042/1",
+            "date": "2023-01-03",
+            "stock": 40
         },
         {
             "market": "torecolo",
@@ -122,19 +146,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30123",
-            "price": 70,
-            "name": "ミミッキュ042/1",
-            "date": "2023-01-01",
-            "stock": 3
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/13281",
             "price": 80,
             "name": "ミミッキュ042/1",
             "date": "2023-01-01",
             "stock": 33
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30123",
+            "price": 70,
+            "name": "ミミッキュ042/1",
+            "date": "2023-01-01",
+            "stock": 3
         },
         {
             "market": "torecolo",
@@ -146,14 +170,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/13281",
-            "price": 80,
-            "name": "ミミッキュ042/1",
-            "date": "2022-12-31",
-            "stock": 33
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30123",
             "price": 70,
             "name": "ミミッキュ042/1",
@@ -161,27 +177,11 @@
             "stock": 3
         },
         {
-            "market": "torecolo",
-            "link": "/shop/g/g042-100-S3-B/",
-            "price": 33,
-            "name": "【ポケカ】Ｕ◇ミミッ",
-            "date": "2022-12-31",
-            "stock": 4
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30123",
-            "price": 70,
-            "name": "ミミッキュ042/1",
-            "date": "2022-12-30",
-            "stock": 3
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/13281",
             "price": 80,
             "name": "ミミッキュ042/1",
-            "date": "2022-12-30",
+            "date": "2022-12-31",
             "stock": 33
         },
         {
@@ -189,7 +189,7 @@
             "link": "/shop/g/g042-100-S3-B/",
             "price": 33,
             "name": "【ポケカ】Ｕ◇ミミッ",
-            "date": "2022-12-30",
+            "date": "2022-12-31",
             "stock": 4
         }
     ]

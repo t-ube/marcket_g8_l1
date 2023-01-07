@@ -5,6 +5,22 @@
             "link": "https://www.cardrush-pokemon.jp/product/7497",
             "price": 30,
             "name": "マメパト079/09",
+            "date": "2023-01-07",
+            "stock": 70
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g079-096-S2-B/",
+            "price": 33,
+            "name": "【ポケカ】Ｃ◇マメパ",
+            "date": "2023-01-07",
+            "stock": 9
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/7497",
+            "price": 30,
+            "name": "マメパト079/09",
             "date": "2023-01-06",
             "stock": 70
         },
@@ -110,22 +126,6 @@
             "price": 33,
             "name": "【ポケカ】Ｃ◇マメパ",
             "date": "2022-12-31",
-            "stock": 9
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7497",
-            "price": 30,
-            "name": "マメパト079/09",
-            "date": "2022-12-30",
-            "stock": 70
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g079-096-S2-B/",
-            "price": 33,
-            "name": "【ポケカ】Ｃ◇マメパ",
-            "date": "2022-12-30",
             "stock": 9
         }
     ]
