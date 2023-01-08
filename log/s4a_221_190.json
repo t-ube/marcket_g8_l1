@@ -5,13 +5,85 @@
             "link": "/items/899906125",
             "price": 1050,
             "name": "スイクン S 221",
-            "date": "2023-01-07",
+            "date": "2023-01-08",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1942571990",
+            "price": 1500,
+            "name": "ポケモンカード スイ",
+            "date": "2023-01-08",
             "stock": 1
         },
         {
             "market": "magi",
             "link": "/items/195323318",
             "price": 687,
+            "name": "スイクン S 221",
+            "date": "2023-01-08",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1762076466",
+            "price": 650,
+            "name": "スイクン S 221",
+            "date": "2023-01-08",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18627",
+            "price": 1300,
+            "name": "スイクン(S){水}",
+            "date": "2023-01-08",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17370",
+            "price": 1280,
+            "name": "スイクン221/19",
+            "date": "2023-01-08",
+            "stock": 141
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30810",
+            "price": 1090,
+            "name": "スイクン221/19",
+            "date": "2023-01-08",
+            "stock": 13
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17670",
+            "price": 880,
+            "name": "スイクン221/19",
+            "date": "2023-01-08",
+            "stock": 8
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g221-190-S4A-B/",
+            "price": 1320,
+            "name": "【ポケカ】Ｓ◇スイク",
+            "date": "2023-01-08",
+            "stock": 5
+        },
+        {
+            "market": "magi",
+            "link": "/items/195323318",
+            "price": 687,
+            "name": "スイクン S 221",
+            "date": "2023-01-07",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/899906125",
+            "price": 1050,
             "name": "スイクン S 221",
             "date": "2023-01-07",
             "stock": 1
@@ -34,11 +106,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17670",
-            "price": 880,
+            "link": "https://www.cardrush-pokemon.jp/product/17370",
+            "price": 1280,
             "name": "スイクン221/19",
             "date": "2023-01-07",
-            "stock": 8
+            "stock": 139
         },
         {
             "market": "cardrush",
@@ -50,11 +122,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17370",
-            "price": 1280,
+            "link": "https://www.cardrush-pokemon.jp/product/17670",
+            "price": 880,
             "name": "スイクン221/19",
             "date": "2023-01-07",
-            "stock": 139
+            "stock": 8
         },
         {
             "market": "torecolo",
@@ -66,8 +138,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/899906125",
-            "price": 1050,
+            "link": "/items/195323318",
+            "price": 687,
             "name": "スイクン S 221",
             "date": "2023-01-06",
             "stock": 1
@@ -82,8 +154,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/195323318",
-            "price": 687,
+            "link": "/items/899906125",
+            "price": 1050,
             "name": "スイクン S 221",
             "date": "2023-01-06",
             "stock": 1
@@ -106,19 +178,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30810",
-            "price": 1090,
-            "name": "スイクン221/19",
-            "date": "2023-01-06",
-            "stock": 11
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17370",
             "price": 1280,
             "name": "スイクン221/19",
             "date": "2023-01-06",
             "stock": 138
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30810",
+            "price": 1090,
+            "name": "スイクン221/19",
+            "date": "2023-01-06",
+            "stock": 11
         },
         {
             "market": "torecolo",
@@ -130,17 +202,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/899906125",
-            "price": 1050,
+            "link": "/items/195323318",
+            "price": 694,
             "name": "スイクン S 221",
-            "date": "2023-01-05",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1942571990",
-            "price": 1500,
-            "name": "ポケモンカード スイ",
             "date": "2023-01-05",
             "stock": 1
         },
@@ -154,9 +218,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/195323318",
-            "price": 694,
+            "link": "/items/899906125",
+            "price": 1050,
             "name": "スイクン S 221",
+            "date": "2023-01-05",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1942571990",
+            "price": 1500,
+            "name": "ポケモンカード スイ",
             "date": "2023-01-05",
             "stock": 1
         },
@@ -218,14 +290,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30810",
-            "price": 1090,
-            "name": "スイクン221/19",
-            "date": "2023-01-04",
-            "stock": 12
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17670",
             "price": 880,
             "name": "スイクン221/19",
@@ -241,6 +305,14 @@
             "stock": 137
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30810",
+            "price": 1090,
+            "name": "スイクン221/19",
+            "date": "2023-01-04",
+            "stock": 12
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g221-190-S4A-B/",
             "price": 1320,
@@ -250,9 +322,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/1942571990",
-            "price": 1500,
-            "name": "ポケモンカード スイ",
+            "link": "/items/195323318",
+            "price": 694,
+            "name": "スイクン S 221",
             "date": "2023-01-03",
             "stock": 1
         },
@@ -266,19 +338,19 @@
         },
         {
             "market": "magi",
-            "link": "/items/195323318",
-            "price": 694,
-            "name": "スイクン S 221",
+            "link": "/items/1942571990",
+            "price": 1500,
+            "name": "ポケモンカード スイ",
             "date": "2023-01-03",
             "stock": 1
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30810",
-            "price": 1090,
+            "link": "https://www.cardrush-pokemon.jp/product/17670",
+            "price": 880,
             "name": "スイクン221/19",
             "date": "2023-01-03",
-            "stock": 12
+            "stock": 8
         },
         {
             "market": "cardrush",
@@ -290,11 +362,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17670",
-            "price": 880,
+            "link": "https://www.cardrush-pokemon.jp/product/30810",
+            "price": 1090,
             "name": "スイクン221/19",
             "date": "2023-01-03",
-            "stock": 8
+            "stock": 12
         },
         {
             "market": "torecolo",
@@ -306,17 +378,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/1942571990",
-            "price": 1500,
-            "name": "ポケモンカード スイ",
+            "link": "/items/899906125",
+            "price": 1050,
+            "name": "スイクン S 221",
             "date": "2023-01-02",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/899906125",
-            "price": 1050,
-            "name": "スイクン S 221",
+            "link": "/items/1942571990",
+            "price": 1500,
+            "name": "ポケモンカード スイ",
             "date": "2023-01-02",
             "stock": 1
         },
@@ -362,9 +434,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/1942571990",
-            "price": 1500,
-            "name": "ポケモンカード スイ",
+            "link": "/items/899906125",
+            "price": 1050,
+            "name": "スイクン S 221",
             "date": "2023-01-01",
             "stock": 1
         },
@@ -378,27 +450,11 @@
         },
         {
             "market": "magi",
-            "link": "/items/899906125",
-            "price": 1050,
-            "name": "スイクン S 221",
+            "link": "/items/1942571990",
+            "price": 1500,
+            "name": "ポケモンカード スイ",
             "date": "2023-01-01",
             "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30810",
-            "price": 1090,
-            "name": "スイクン221/19",
-            "date": "2023-01-01",
-            "stock": 12
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17670",
-            "price": 880,
-            "name": "スイクン221/19",
-            "date": "2023-01-01",
-            "stock": 8
         },
         {
             "market": "cardrush",
@@ -409,67 +465,27 @@
             "stock": 85
         },
         {
-            "market": "torecolo",
-            "link": "/shop/g/g221-190-S4A-B/",
-            "price": 1320,
-            "name": "【ポケカ】Ｓ◇スイク",
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17670",
+            "price": 880,
+            "name": "スイクン221/19",
             "date": "2023-01-01",
-            "stock": 6
-        },
-        {
-            "market": "magi",
-            "link": "/items/195323318",
-            "price": 694,
-            "name": "スイクン S 221",
-            "date": "2022-12-31",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/899906125",
-            "price": 1050,
-            "name": "スイクン S 221",
-            "date": "2022-12-31",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1942571990",
-            "price": 1500,
-            "name": "ポケモンカード スイ",
-            "date": "2022-12-31",
-            "stock": 1
+            "stock": 8
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30810",
             "price": 1090,
             "name": "スイクン221/19",
-            "date": "2022-12-31",
+            "date": "2023-01-01",
             "stock": 12
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17370",
-            "price": 1280,
-            "name": "スイクン221/19",
-            "date": "2022-12-31",
-            "stock": 74
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17670",
-            "price": 880,
-            "name": "スイクン221/19",
-            "date": "2022-12-31",
-            "stock": 8
         },
         {
             "market": "torecolo",
             "link": "/shop/g/g221-190-S4A-B/",
             "price": 1320,
             "name": "【ポケカ】Ｓ◇スイク",
-            "date": "2022-12-31",
+            "date": "2023-01-01",
             "stock": 6
         }
     ]

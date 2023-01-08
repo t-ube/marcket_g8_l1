@@ -5,6 +5,30 @@
             "link": "/items/1387503641",
             "price": 850,
             "name": "ムゲンダイナVMAX",
+            "date": "2023-01-08",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30917",
+            "price": 730,
+            "name": "ムゲンダイナVMAX",
+            "date": "2023-01-08",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17477",
+            "price": 880,
+            "name": "ムゲンダイナVMAX",
+            "date": "2023-01-08",
+            "stock": 46
+        },
+        {
+            "market": "magi",
+            "link": "/items/1387503641",
+            "price": 850,
+            "name": "ムゲンダイナVMAX",
             "date": "2023-01-07",
             "stock": 1
         },
@@ -82,14 +106,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30917",
-            "price": 730,
-            "name": "ムゲンダイナVMAX",
-            "date": "2023-01-04",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17477",
             "price": 880,
             "name": "ムゲンダイナVMAX",
@@ -97,9 +113,25 @@
             "stock": 16
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30917",
+            "price": 730,
+            "name": "ムゲンダイナVMAX",
+            "date": "2023-01-04",
+            "stock": 1
+        },
+        {
             "market": "magi",
             "link": "/items/1387503641",
             "price": 850,
+            "name": "ムゲンダイナVMAX",
+            "date": "2023-01-03",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30917",
+            "price": 730,
             "name": "ムゲンダイナVMAX",
             "date": "2023-01-03",
             "stock": 1
@@ -113,14 +145,6 @@
             "stock": 9
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30917",
-            "price": 730,
-            "name": "ムゲンダイナVMAX",
-            "date": "2023-01-03",
-            "stock": 1
-        },
-        {
             "market": "magi",
             "link": "/items/1387503641",
             "price": 850,
@@ -130,6 +154,14 @@
         },
         {
             "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17477",
+            "price": 880,
+            "name": "ムゲンダイナVMAX",
+            "date": "2023-01-02",
+            "stock": 5
+        },
+        {
+            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30917",
             "price": 730,
             "name": "ムゲンダイナVMAX",
@@ -141,24 +173,8 @@
             "link": "https://www.cardrush-pokemon.jp/product/17477",
             "price": 880,
             "name": "ムゲンダイナVMAX",
-            "date": "2023-01-02",
-            "stock": 5
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17477",
-            "price": 880,
-            "name": "ムゲンダイナVMAX",
             "date": "2023-01-01",
             "stock": 5
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17477",
-            "price": 880,
-            "name": "ムゲンダイナVMAX",
-            "date": "2022-12-31",
-            "stock": 7
         }
     ]
 }

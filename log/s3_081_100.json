@@ -5,6 +5,38 @@
             "link": "/items/1159233802",
             "price": 315,
             "name": "【特価】ボーマンダV",
+            "date": "2023-01-08",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/910553452",
+            "price": 250,
+            "name": "ボーマンダVMAX ",
+            "date": "2023-01-08",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18026",
+            "price": 200,
+            "name": "ボーマンダVMAX(",
+            "date": "2023-01-08",
+            "stock": 26
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/13320",
+            "price": 180,
+            "name": "ボーマンダVMAX0",
+            "date": "2023-01-08",
+            "stock": 39
+        },
+        {
+            "market": "magi",
+            "link": "/items/1159233802",
+            "price": 315,
+            "name": "【特価】ボーマンダV",
             "date": "2023-01-07",
             "stock": 1
         },
@@ -66,17 +98,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/1159233802",
-            "price": 315,
-            "name": "【特価】ボーマンダV",
+            "link": "/items/910553452",
+            "price": 250,
+            "name": "ボーマンダVMAX ",
             "date": "2023-01-05",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/910553452",
-            "price": 250,
-            "name": "ボーマンダVMAX ",
+            "link": "/items/1159233802",
+            "price": 315,
+            "name": "【特価】ボーマンダV",
             "date": "2023-01-05",
             "stock": 1
         },
@@ -98,17 +130,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/910553452",
-            "price": 250,
-            "name": "ボーマンダVMAX ",
+            "link": "/items/1159233802",
+            "price": 318,
+            "name": "【特価】ボーマンダV",
             "date": "2023-01-04",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1159233802",
-            "price": 318,
-            "name": "【特価】ボーマンダV",
+            "link": "/items/910553452",
+            "price": 250,
+            "name": "ボーマンダVMAX ",
             "date": "2023-01-04",
             "stock": 1
         },
@@ -162,17 +194,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/1159233802",
-            "price": 318,
-            "name": "【特価】ボーマンダV",
+            "link": "/items/910553452",
+            "price": 250,
+            "name": "ボーマンダVMAX ",
             "date": "2023-01-02",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/910553452",
-            "price": 250,
-            "name": "ボーマンダVMAX ",
+            "link": "/items/1159233802",
+            "price": 318,
+            "name": "【特価】ボーマンダV",
             "date": "2023-01-02",
             "stock": 1
         },
@@ -194,17 +226,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/910553452",
-            "price": 250,
-            "name": "ボーマンダVMAX ",
+            "link": "/items/1159233802",
+            "price": 318,
+            "name": "【特価】ボーマンダV",
             "date": "2023-01-01",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1159233802",
-            "price": 318,
-            "name": "【特価】ボーマンダV",
+            "link": "/items/910553452",
+            "price": 250,
+            "name": "ボーマンダVMAX ",
             "date": "2023-01-01",
             "stock": 1
         },
@@ -223,38 +255,6 @@
             "name": "ボーマンダVMAX0",
             "date": "2023-01-01",
             "stock": 9
-        },
-        {
-            "market": "magi",
-            "link": "/items/1159233802",
-            "price": 318,
-            "name": "【特価】ボーマンダV",
-            "date": "2022-12-31",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/910553452",
-            "price": 250,
-            "name": "ボーマンダVMAX ",
-            "date": "2022-12-31",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18026",
-            "price": 200,
-            "name": "ボーマンダVMAX(",
-            "date": "2022-12-31",
-            "stock": 26
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/13320",
-            "price": 180,
-            "name": "ボーマンダVMAX0",
-            "date": "2022-12-31",
-            "stock": 12
         }
     ]
 }

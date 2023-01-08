@@ -5,8 +5,64 @@
             "link": "/items/480197106",
             "price": 300,
             "name": "ルリナ U 096/",
-            "date": "2023-01-07",
+            "date": "2023-01-08",
             "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/236715727",
+            "price": 25,
+            "name": "PC ルリナ(096",
+            "date": "2023-01-08",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/462388823",
+            "price": 25,
+            "name": "PC ルリナ(096",
+            "date": "2023-01-08",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1079138790",
+            "price": 25,
+            "name": "PC ルリナ(096",
+            "date": "2023-01-08",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1586207569",
+            "price": 25,
+            "name": "PC ルリナ(096",
+            "date": "2023-01-08",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/590407080",
+            "price": 25,
+            "name": "PC ルリナ(096",
+            "date": "2023-01-08",
+            "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14550",
+            "price": 80,
+            "name": "ルリナ096/100",
+            "date": "2023-01-08",
+            "stock": 306
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g096-100-S4-B/",
+            "price": 77,
+            "name": "【ポケカ】Ｕ◇ルリナ",
+            "date": "2023-01-08",
+            "stock": 7
         },
         {
             "market": "magi",
@@ -18,11 +74,11 @@
         },
         {
             "market": "magi",
-            "link": "/items/462388823",
-            "price": 25,
-            "name": "PC ルリナ(096",
+            "link": "/items/480197106",
+            "price": 300,
+            "name": "ルリナ U 096/",
             "date": "2023-01-07",
-            "stock": 4
+            "stock": 1
         },
         {
             "market": "magi",
@@ -49,6 +105,14 @@
             "stock": 4
         },
         {
+            "market": "magi",
+            "link": "/items/462388823",
+            "price": 25,
+            "name": "PC ルリナ(096",
+            "date": "2023-01-07",
+            "stock": 4
+        },
+        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/14550",
             "price": 80,
@@ -202,19 +266,19 @@
         },
         {
             "market": "magi",
-            "link": "/items/480197106",
-            "price": 300,
-            "name": "ルリナ U 096/",
-            "date": "2023-01-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/1276757068",
             "price": 25,
             "name": "ルリナ U 096/",
             "date": "2023-01-01",
             "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/480197106",
+            "price": 300,
+            "name": "ルリナ U 096/",
+            "date": "2023-01-01",
+            "stock": 1
         },
         {
             "market": "cardrush",
@@ -230,38 +294,6 @@
             "price": 77,
             "name": "【ポケカ】Ｕ◇ルリナ",
             "date": "2023-01-01",
-            "stock": 7
-        },
-        {
-            "market": "magi",
-            "link": "/items/480197106",
-            "price": 300,
-            "name": "ルリナ U 096/",
-            "date": "2022-12-31",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1276757068",
-            "price": 25,
-            "name": "ルリナ U 096/",
-            "date": "2022-12-31",
-            "stock": 4
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14550",
-            "price": 80,
-            "name": "ルリナ096/100",
-            "date": "2022-12-31",
-            "stock": 285
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g096-100-S4-B/",
-            "price": 77,
-            "name": "【ポケカ】Ｕ◇ルリナ",
-            "date": "2022-12-31",
             "stock": 7
         }
     ]

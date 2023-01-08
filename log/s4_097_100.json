@@ -2,11 +2,131 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/49933851",
+            "price": 50,
+            "name": "PC キルクス温泉(",
+            "date": "2023-01-08",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1879367057",
+            "price": 50,
+            "name": "PC キルクス温泉(",
+            "date": "2023-01-08",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1052414722",
+            "price": 480,
+            "name": "キルクス温泉 U 0",
+            "date": "2023-01-08",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/1819302973",
             "price": 100,
             "name": "キルクス温泉 U 0",
-            "date": "2023-01-07",
+            "date": "2023-01-08",
             "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1554465128",
+            "price": 50,
+            "name": "PC キルクス温泉(",
+            "date": "2023-01-08",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/873628666",
+            "price": 50,
+            "name": "PC キルクス温泉(",
+            "date": "2023-01-08",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/877058351",
+            "price": 50,
+            "name": "PC キルクス温泉(",
+            "date": "2023-01-08",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1449316220",
+            "price": 50,
+            "name": "PC キルクス温泉(",
+            "date": "2023-01-08",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/423389995",
+            "price": 50,
+            "name": "PC キルクス温泉(",
+            "date": "2023-01-08",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1114947449",
+            "price": 50,
+            "name": "PC キルクス温泉(",
+            "date": "2023-01-08",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/708935283",
+            "price": 50,
+            "name": "PC キルクス温泉(",
+            "date": "2023-01-08",
+            "stock": 2
+        },
+        {
+            "market": "magi",
+            "link": "/items/1706717615",
+            "price": 134,
+            "name": "キルクス温泉 U 0",
+            "date": "2023-01-08",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18382",
+            "price": 150,
+            "name": "キルクス温泉(U){",
+            "date": "2023-01-08",
+            "stock": 122
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30390",
+            "price": 70,
+            "name": "キルクス温泉097/",
+            "date": "2023-01-08",
+            "stock": 21
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14551",
+            "price": 80,
+            "name": "キルクス温泉097/",
+            "date": "2023-01-08",
+            "stock": 371
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g097-100-S4-B/",
+            "price": 66,
+            "name": "【ポケカ】Ｕ◇キルク",
+            "date": "2023-01-08",
+            "stock": 14
         },
         {
             "market": "magi",
@@ -20,6 +140,14 @@
             "market": "magi",
             "link": "/items/1706717615",
             "price": 134,
+            "name": "キルクス温泉 U 0",
+            "date": "2023-01-07",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1819302973",
+            "price": 100,
             "name": "キルクス温泉 U 0",
             "date": "2023-01-07",
             "stock": 1
@@ -58,8 +186,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/1052414722",
-            "price": 480,
+            "link": "/items/1706717615",
+            "price": 134,
             "name": "キルクス温泉 U 0",
             "date": "2023-01-06",
             "stock": 1
@@ -74,8 +202,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/1706717615",
-            "price": 134,
+            "link": "/items/1052414722",
+            "price": 480,
             "name": "キルクス温泉 U 0",
             "date": "2023-01-06",
             "stock": 1
@@ -202,14 +330,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30390",
-            "price": 70,
-            "name": "キルクス温泉097/",
-            "date": "2023-01-04",
-            "stock": 18
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/14551",
             "price": 80,
             "name": "キルクス温泉097/",
@@ -217,6 +337,14 @@
             "stock": 372
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30390",
+            "price": 70,
+            "name": "キルクス温泉097/",
+            "date": "2023-01-04",
+            "stock": 18
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g097-100-S4-B/",
             "price": 66,
@@ -234,14 +362,6 @@
         },
         {
             "market": "magi",
-            "link": "/items/1052414722",
-            "price": 480,
-            "name": "キルクス温泉 U 0",
-            "date": "2023-01-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/798353106",
             "price": 110,
             "name": "キルクス温泉 U 0",
@@ -252,6 +372,14 @@
             "market": "magi",
             "link": "/items/1819302973",
             "price": 100,
+            "name": "キルクス温泉 U 0",
+            "date": "2023-01-03",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1052414722",
+            "price": 480,
             "name": "キルクス温泉 U 0",
             "date": "2023-01-03",
             "stock": 1
@@ -266,19 +394,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14551",
-            "price": 80,
-            "name": "キルクス温泉097/",
-            "date": "2023-01-03",
-            "stock": 374
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30390",
             "price": 70,
             "name": "キルクス温泉097/",
             "date": "2023-01-03",
             "stock": 18
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14551",
+            "price": 80,
+            "name": "キルクス温泉097/",
+            "date": "2023-01-03",
+            "stock": 374
         },
         {
             "market": "torecolo",
@@ -290,16 +418,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/1706717615",
-            "price": 136,
-            "name": "キルクス温泉 U 0",
-            "date": "2023-01-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1052414722",
-            "price": 480,
+            "link": "/items/798353106",
+            "price": 110,
             "name": "キルクス温泉 U 0",
             "date": "2023-01-02",
             "stock": 1
@@ -314,8 +434,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/798353106",
-            "price": 110,
+            "link": "/items/1052414722",
+            "price": 480,
+            "name": "キルクス温泉 U 0",
+            "date": "2023-01-02",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1706717615",
+            "price": 136,
             "name": "キルクス温泉 U 0",
             "date": "2023-01-02",
             "stock": 1
@@ -362,8 +490,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/1819302973",
-            "price": 100,
+            "link": "/items/1052414722",
+            "price": 480,
             "name": "キルクス温泉 U 0",
             "date": "2023-01-01",
             "stock": 1
@@ -378,8 +506,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/1052414722",
-            "price": 480,
+            "link": "/items/1819302973",
+            "price": 100,
             "name": "キルクス温泉 U 0",
             "date": "2023-01-01",
             "stock": 1
@@ -414,70 +542,6 @@
             "price": 66,
             "name": "【ポケカ】Ｕ◇キルク",
             "date": "2023-01-01",
-            "stock": 14
-        },
-        {
-            "market": "magi",
-            "link": "/items/1706717615",
-            "price": 136,
-            "name": "キルクス温泉 U 0",
-            "date": "2022-12-31",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1052414722",
-            "price": 480,
-            "name": "キルクス温泉 U 0",
-            "date": "2022-12-31",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/798353106",
-            "price": 110,
-            "name": "キルクス温泉 U 0",
-            "date": "2022-12-31",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1819302973",
-            "price": 200,
-            "name": "キルクス温泉 U 0",
-            "date": "2022-12-31",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18382",
-            "price": 150,
-            "name": "キルクス温泉(U){",
-            "date": "2022-12-31",
-            "stock": 119
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30390",
-            "price": 70,
-            "name": "キルクス温泉097/",
-            "date": "2022-12-31",
-            "stock": 19
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14551",
-            "price": 80,
-            "name": "キルクス温泉097/",
-            "date": "2022-12-31",
-            "stock": 267
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g097-100-S4-B/",
-            "price": 66,
-            "name": "【ポケカ】Ｕ◇キルク",
-            "date": "2022-12-31",
             "stock": 14
         }
     ]

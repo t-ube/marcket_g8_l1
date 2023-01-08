@@ -5,6 +5,22 @@
             "link": "https://www.hareruya2.com/product/17914",
             "price": 300,
             "name": "ガラルマッギョV(R",
+            "date": "2023-01-08",
+            "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/13156",
+            "price": 280,
+            "name": "ガラルマッギョV05",
+            "date": "2023-01-08",
+            "stock": 57
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17914",
+            "price": 300,
+            "name": "ガラルマッギョV(R",
             "date": "2023-01-07",
             "stock": 4
         },
@@ -102,14 +118,6 @@
             "price": 280,
             "name": "ガラルマッギョV05",
             "date": "2023-01-01",
-            "stock": 31
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/13156",
-            "price": 280,
-            "name": "ガラルマッギョV05",
-            "date": "2022-12-31",
             "stock": 31
         }
     ]

@@ -5,6 +5,14 @@
             "link": "https://www.cardrush-pokemon.jp/product/29751",
             "price": 170,
             "name": "トリプル加速エネルギ",
+            "date": "2023-01-08",
+            "stock": 6
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/29751",
+            "price": 170,
+            "name": "トリプル加速エネルギ",
             "date": "2023-01-07",
             "stock": 6
         },
@@ -34,14 +42,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/29751",
-            "price": 170,
-            "name": "トリプル加速エネルギ",
-            "date": "2023-01-03",
-            "stock": 6
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/7016",
             "price": 180,
             "name": "トリプル加速エネルギ",
@@ -53,7 +53,7 @@
             "link": "https://www.cardrush-pokemon.jp/product/29751",
             "price": 170,
             "name": "トリプル加速エネルギ",
-            "date": "2023-01-02",
+            "date": "2023-01-03",
             "stock": 6
         },
         {
@@ -66,11 +66,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7016",
-            "price": 180,
+            "link": "https://www.cardrush-pokemon.jp/product/29751",
+            "price": 170,
             "name": "トリプル加速エネルギ",
-            "date": "2023-01-01",
-            "stock": 1
+            "date": "2023-01-02",
+            "stock": 6
         },
         {
             "market": "cardrush",
@@ -82,18 +82,10 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/29751",
-            "price": 170,
-            "name": "トリプル加速エネルギ",
-            "date": "2022-12-31",
-            "stock": 6
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/7016",
             "price": 180,
             "name": "トリプル加速エネルギ",
-            "date": "2022-12-31",
+            "date": "2023-01-01",
             "stock": 1
         }
     ]

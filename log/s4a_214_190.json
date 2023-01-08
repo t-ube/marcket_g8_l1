@@ -5,6 +5,30 @@
             "link": "/items/171245767",
             "price": 400,
             "name": "ヒバニー S 214",
+            "date": "2023-01-08",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17363",
+            "price": 380,
+            "name": "ヒバニー214/19",
+            "date": "2023-01-08",
+            "stock": 63
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30803",
+            "price": 330,
+            "name": "ヒバニー214/19",
+            "date": "2023-01-08",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/171245767",
+            "price": 400,
+            "name": "ヒバニー S 214",
             "date": "2023-01-07",
             "stock": 1
         },
@@ -90,19 +114,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17363",
-            "price": 380,
-            "name": "ヒバニー214/19",
-            "date": "2023-01-03",
-            "stock": 60
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30803",
             "price": 330,
             "name": "ヒバニー214/19",
             "date": "2023-01-03",
             "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17363",
+            "price": 380,
+            "name": "ヒバニー214/19",
+            "date": "2023-01-03",
+            "stock": 60
         },
         {
             "market": "magi",
@@ -135,14 +159,6 @@
             "name": "ヒバニー S 214",
             "date": "2023-01-01",
             "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30803",
-            "price": 330,
-            "name": "ヒバニー214/19",
-            "date": "2023-01-01",
-            "stock": 2
         },
         {
             "market": "cardrush",
@@ -153,27 +169,11 @@
             "stock": 34
         },
         {
-            "market": "magi",
-            "link": "/items/171245767",
-            "price": 400,
-            "name": "ヒバニー S 214",
-            "date": "2022-12-31",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17363",
-            "price": 380,
-            "name": "ヒバニー214/19",
-            "date": "2022-12-31",
-            "stock": 34
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30803",
             "price": 330,
             "name": "ヒバニー214/19",
-            "date": "2022-12-31",
+            "date": "2023-01-01",
             "stock": 2
         }
     ]

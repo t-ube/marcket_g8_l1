@@ -2,6 +2,110 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/2094617351",
+            "price": 13020,
+            "name": "〔状態A-〕リザード",
+            "date": "2023-01-08",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/985990687",
+            "price": 2799,
+            "name": "リザードンVMAX ",
+            "date": "2023-01-08",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/279505532",
+            "price": 3444,
+            "name": "リザードンVMAX(",
+            "date": "2023-01-08",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2039856530",
+            "price": 3444,
+            "name": "リザードンVMAX(",
+            "date": "2023-01-08",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1435479190",
+            "price": 9429,
+            "name": "〔状態B〕リザードン",
+            "date": "2023-01-08",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/486510811",
+            "price": 1500,
+            "name": "リザードンVMAX ",
+            "date": "2023-01-08",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17820",
+            "price": 3300,
+            "name": "リザードンVMAX(",
+            "date": "2023-01-08",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/7801",
+            "price": 3280,
+            "name": "リザードンVMAX0",
+            "date": "2023-01-08",
+            "stock": 78
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17811",
+            "price": 3280,
+            "name": "リザードンVMAX0",
+            "date": "2023-01-08",
+            "stock": 28
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30011",
+            "price": 2780,
+            "name": "リザードンVMAX0",
+            "date": "2023-01-08",
+            "stock": 14
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/21168",
+            "price": 8980,
+            "name": "リザードンVMAX0",
+            "date": "2023-01-08",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/32084",
+            "price": 12400,
+            "name": "リザードンVMAX0",
+            "date": "2023-01-08",
+            "stock": 2
+        },
+        {
+            "market": "magi",
+            "link": "/items/279505532",
+            "price": 3444,
+            "name": "リザードンVMAX(",
+            "date": "2023-01-07",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/985990687",
             "price": 2799,
             "name": "リザードンVMAX ",
@@ -10,9 +114,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/279505532",
-            "price": 3444,
-            "name": "リザードンVMAX(",
+            "link": "/items/1435479190",
+            "price": 9429,
+            "name": "〔状態B〕リザードン",
             "date": "2023-01-07",
             "stock": 1
         },
@@ -33,10 +137,10 @@
             "stock": 1
         },
         {
-            "market": "magi",
-            "link": "/items/1435479190",
-            "price": 9429,
-            "name": "〔状態B〕リザードン",
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18903",
+            "price": 3300,
+            "name": "リザードンVMAX:",
             "date": "2023-01-07",
             "stock": 1
         },
@@ -49,20 +153,12 @@
             "stock": 1
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18903",
-            "price": 3300,
-            "name": "リザードンVMAX:",
-            "date": "2023-01-07",
-            "stock": 1
-        },
-        {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/21168",
-            "price": 8980,
+            "link": "https://www.cardrush-pokemon.jp/product/7801",
+            "price": 3280,
             "name": "リザードンVMAX0",
             "date": "2023-01-07",
-            "stock": 1
+            "stock": 81
         },
         {
             "market": "cardrush",
@@ -82,6 +178,14 @@
         },
         {
             "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/21168",
+            "price": 8980,
+            "name": "リザードンVMAX0",
+            "date": "2023-01-07",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17811",
             "price": 3280,
             "name": "リザードンVMAX0",
@@ -89,12 +193,12 @@
             "stock": 28
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7801",
-            "price": 3280,
-            "name": "リザードンVMAX0",
-            "date": "2023-01-07",
-            "stock": 81
+            "market": "magi",
+            "link": "/items/1435479190",
+            "price": 9429,
+            "name": "〔状態B〕リザードン",
+            "date": "2023-01-06",
+            "stock": 1
         },
         {
             "market": "magi",
@@ -109,14 +213,6 @@
             "link": "/items/279505532",
             "price": 3444,
             "name": "リザードンVMAX(",
-            "date": "2023-01-06",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1435479190",
-            "price": 9429,
-            "name": "〔状態B〕リザードン",
             "date": "2023-01-06",
             "stock": 1
         },
@@ -138,6 +234,22 @@
         },
         {
             "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17811",
+            "price": 3280,
+            "name": "リザードンVMAX0",
+            "date": "2023-01-06",
+            "stock": 28
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/7801",
+            "price": 3280,
+            "name": "リザードンVMAX0",
+            "date": "2023-01-06",
+            "stock": 81
+        },
+        {
+            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/21168",
             "price": 8980,
             "name": "リザードンVMAX0",
@@ -161,26 +273,10 @@
             "stock": 14
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17811",
-            "price": 3280,
-            "name": "リザードンVMAX0",
-            "date": "2023-01-06",
-            "stock": 28
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7801",
-            "price": 3280,
-            "name": "リザードンVMAX0",
-            "date": "2023-01-06",
-            "stock": 81
-        },
-        {
             "market": "magi",
-            "link": "/items/2094617351",
-            "price": 13020,
-            "name": "〔状態A-〕リザード",
+            "link": "/items/279505532",
+            "price": 3444,
+            "name": "リザードンVMAX(",
             "date": "2023-01-05",
             "stock": 1
         },
@@ -194,14 +290,6 @@
         },
         {
             "market": "magi",
-            "link": "/items/985990687",
-            "price": 2799,
-            "name": "リザードンVMAX ",
-            "date": "2023-01-05",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/2039856530",
             "price": 3444,
             "name": "リザードンVMAX(",
@@ -210,9 +298,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/279505532",
-            "price": 3444,
-            "name": "リザードンVMAX(",
+            "link": "/items/985990687",
+            "price": 2799,
+            "name": "リザードンVMAX ",
+            "date": "2023-01-05",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2094617351",
+            "price": 13020,
+            "name": "〔状態A-〕リザード",
             "date": "2023-01-05",
             "stock": 1
         },
@@ -258,17 +354,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/279505532",
-            "price": 3444,
-            "name": "リザードンVMAX(",
+            "link": "/items/985990687",
+            "price": 2799,
+            "name": "リザードンVMAX ",
             "date": "2023-01-04",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/985990687",
-            "price": 2799,
-            "name": "リザードンVMAX ",
+            "link": "/items/279505532",
+            "price": 3444,
+            "name": "リザードンVMAX(",
             "date": "2023-01-04",
             "stock": 1
         },
@@ -303,6 +399,38 @@
             "name": "リザードンVMAX:",
             "date": "2023-01-04",
             "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17811",
+            "price": 3280,
+            "name": "リザードンVMAX0",
+            "date": "2023-01-04",
+            "stock": 28
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/7801",
+            "price": 3280,
+            "name": "リザードンVMAX0",
+            "date": "2023-01-04",
+            "stock": 80
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/21168",
+            "price": 8980,
+            "name": "リザードンVMAX0",
+            "date": "2023-01-04",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30011",
+            "price": 2780,
+            "name": "リザードンVMAX0",
+            "date": "2023-01-04",
+            "stock": 8
         },
         {
             "market": "cardrush",
@@ -313,42 +441,26 @@
             "stock": 3
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17811",
-            "price": 3280,
-            "name": "リザードンVMAX0",
-            "date": "2023-01-04",
-            "stock": 28
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/21168",
-            "price": 8980,
-            "name": "リザードンVMAX0",
-            "date": "2023-01-04",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7801",
-            "price": 3280,
-            "name": "リザードンVMAX0",
-            "date": "2023-01-04",
-            "stock": 80
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30011",
-            "price": 2780,
-            "name": "リザードンVMAX0",
-            "date": "2023-01-04",
-            "stock": 8
-        },
-        {
             "market": "magi",
             "link": "/items/2094617351",
             "price": 13020,
             "name": "〔状態A-〕リザード",
+            "date": "2023-01-03",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2039856530",
+            "price": 3444,
+            "name": "リザードンVMAX(",
+            "date": "2023-01-03",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1435479190",
+            "price": 9429,
+            "name": "〔状態B〕リザードン",
             "date": "2023-01-03",
             "stock": 1
         },
@@ -369,36 +481,12 @@
             "stock": 1
         },
         {
-            "market": "magi",
-            "link": "/items/1435479190",
-            "price": 9429,
-            "name": "〔状態B〕リザードン",
-            "date": "2023-01-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2039856530",
-            "price": 3444,
-            "name": "リザードンVMAX(",
-            "date": "2023-01-03",
-            "stock": 1
-        },
-        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/18903",
             "price": 3300,
             "name": "リザードンVMAX:",
             "date": "2023-01-03",
             "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7801",
-            "price": 3280,
-            "name": "リザードンVMAX0",
-            "date": "2023-01-03",
-            "stock": 80
         },
         {
             "market": "cardrush",
@@ -415,6 +503,14 @@
             "name": "リザードンVMAX0",
             "date": "2023-01-03",
             "stock": 28
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/7801",
+            "price": 3280,
+            "name": "リザードンVMAX0",
+            "date": "2023-01-03",
+            "stock": 80
         },
         {
             "market": "cardrush",
@@ -522,9 +618,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/1435479190",
-            "price": 9429,
-            "name": "〔状態B〕リザードン",
+            "link": "/items/985990687",
+            "price": 2799,
+            "name": "リザードンVMAX ",
             "date": "2023-01-01",
             "stock": 1
         },
@@ -546,17 +642,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/985990687",
-            "price": 2799,
-            "name": "リザードンVMAX ",
+            "link": "/items/2094617351",
+            "price": 13020,
+            "name": "〔状態A-〕リザード",
             "date": "2023-01-01",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/2094617351",
-            "price": 13020,
-            "name": "〔状態A-〕リザード",
+            "link": "/items/1435479190",
+            "price": 9429,
+            "name": "〔状態B〕リザードン",
             "date": "2023-01-01",
             "stock": 1
         },
@@ -607,102 +703,6 @@
             "name": "リザードンVMAX0",
             "date": "2023-01-01",
             "stock": 76
-        },
-        {
-            "market": "magi",
-            "link": "/items/2094617351",
-            "price": 13020,
-            "name": "〔状態A-〕リザード",
-            "date": "2022-12-31",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/985990687",
-            "price": 2799,
-            "name": "リザードンVMAX ",
-            "date": "2022-12-31",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/279505532",
-            "price": 3444,
-            "name": "リザードンVMAX(",
-            "date": "2022-12-31",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1435479190",
-            "price": 9429,
-            "name": "〔状態B〕リザードン",
-            "date": "2022-12-31",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2039856530",
-            "price": 3444,
-            "name": "リザードンVMAX(",
-            "date": "2022-12-31",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/20897",
-            "price": 15000,
-            "name": "リザードンVMAX※",
-            "date": "2022-12-31",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18903",
-            "price": 3300,
-            "name": "リザードンVMAX:",
-            "date": "2022-12-31",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/21168",
-            "price": 8980,
-            "name": "リザードンVMAX0",
-            "date": "2022-12-31",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7801",
-            "price": 3280,
-            "name": "リザードンVMAX0",
-            "date": "2022-12-31",
-            "stock": 74
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17811",
-            "price": 3280,
-            "name": "リザードンVMAX0",
-            "date": "2022-12-31",
-            "stock": 24
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/32084",
-            "price": 12400,
-            "name": "リザードンVMAX0",
-            "date": "2022-12-31",
-            "stock": 3
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30011",
-            "price": 2780,
-            "name": "リザードンVMAX0",
-            "date": "2022-12-31",
-            "stock": 8
         }
     ]
 }

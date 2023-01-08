@@ -1,6 +1,22 @@
 ﻿{
     "items": [
         {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17637",
+            "price": 50,
+            "name": "コイキング(C){水",
+            "date": "2023-01-08",
+            "stock": 2
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g020-070-S1A-B/",
+            "price": 33,
+            "name": "【ポケカ】Ｃ◇コイキ",
+            "date": "2023-01-08",
+            "stock": 4
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g020-070-S1A-B/",
             "price": 33,
@@ -54,14 +70,6 @@
             "price": 33,
             "name": "【ポケカ】Ｃ◇コイキ",
             "date": "2023-01-01",
-            "stock": 4
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g020-070-S1A-B/",
-            "price": 33,
-            "name": "【ポケカ】Ｃ◇コイキ",
-            "date": "2022-12-31",
             "stock": 4
         }
     ]

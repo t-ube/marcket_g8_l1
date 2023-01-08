@@ -5,6 +5,38 @@
             "link": "/items/1223532949",
             "price": 30,
             "name": "PC ダンペイ(11",
+            "date": "2023-01-08",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/622867507",
+            "price": 30,
+            "name": "PC ダンペイ(11",
+            "date": "2023-01-08",
+            "stock": 4
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18159",
+            "price": 50,
+            "name": "ダンペイ(D){サポ",
+            "date": "2023-01-08",
+            "stock": 3
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g111-127-SD-B/",
+            "price": 110,
+            "name": "【ポケカ】ＳＳ◇ダン",
+            "date": "2023-01-08",
+            "stock": 2
+        },
+        {
+            "market": "magi",
+            "link": "/items/1223532949",
+            "price": 30,
+            "name": "PC ダンペイ(11",
             "date": "2023-01-07",
             "stock": 4
         },
@@ -66,7 +98,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/1223532949",
+            "link": "/items/622867507",
             "price": 30,
             "name": "PC ダンペイ(11",
             "date": "2023-01-05",
@@ -74,7 +106,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/622867507",
+            "link": "/items/1223532949",
             "price": 30,
             "name": "PC ダンペイ(11",
             "date": "2023-01-05",
@@ -95,14 +127,6 @@
             "name": "【ポケカ】ＳＳ◇ダン",
             "date": "2023-01-05",
             "stock": 2
-        },
-        {
-            "market": "magi",
-            "link": "/items/622867507",
-            "price": 30,
-            "name": "PC ダンペイ(11",
-            "date": "2023-01-04",
-            "stock": 4
         },
         {
             "market": "magi",
@@ -113,6 +137,14 @@
             "stock": 4
         },
         {
+            "market": "magi",
+            "link": "/items/622867507",
+            "price": 30,
+            "name": "PC ダンペイ(11",
+            "date": "2023-01-04",
+            "stock": 4
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/18159",
             "price": 50,
@@ -130,7 +162,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/1223532949",
+            "link": "/items/622867507",
             "price": 30,
             "name": "PC ダンペイ(11",
             "date": "2023-01-03",
@@ -138,7 +170,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/622867507",
+            "link": "/items/1223532949",
             "price": 30,
             "name": "PC ダンペイ(11",
             "date": "2023-01-03",
@@ -162,7 +194,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/622867507",
+            "link": "/items/1223532949",
             "price": 30,
             "name": "PC ダンペイ(11",
             "date": "2023-01-02",
@@ -170,7 +202,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/1223532949",
+            "link": "/items/622867507",
             "price": 30,
             "name": "PC ダンペイ(11",
             "date": "2023-01-02",
@@ -194,7 +226,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/1223532949",
+            "link": "/items/622867507",
             "price": 30,
             "name": "PC ダンペイ(11",
             "date": "2023-01-01",
@@ -202,7 +234,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/622867507",
+            "link": "/items/1223532949",
             "price": 30,
             "name": "PC ダンペイ(11",
             "date": "2023-01-01",
@@ -222,38 +254,6 @@
             "price": 110,
             "name": "【ポケカ】ＳＳ◇ダン",
             "date": "2023-01-01",
-            "stock": 2
-        },
-        {
-            "market": "magi",
-            "link": "/items/622867507",
-            "price": 30,
-            "name": "PC ダンペイ(11",
-            "date": "2022-12-31",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/1223532949",
-            "price": 30,
-            "name": "PC ダンペイ(11",
-            "date": "2022-12-31",
-            "stock": 4
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18159",
-            "price": 50,
-            "name": "ダンペイ(D){サポ",
-            "date": "2022-12-31",
-            "stock": 3
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g111-127-SD-B/",
-            "price": 110,
-            "name": "【ポケカ】ＳＳ◇ダン",
-            "date": "2022-12-31",
             "stock": 2
         }
     ]

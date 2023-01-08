@@ -2,16 +2,120 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/541375727",
+            "price": 160,
+            "name": "チラチーノ(キラ) ",
+            "date": "2023-01-08",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1523315074",
+            "price": 300,
+            "name": "チラチーノ 143/",
+            "date": "2023-01-08",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/880572193",
+            "price": 600,
+            "name": "チラチーノ 143/",
+            "date": "2023-01-08",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/702207322",
+            "price": 230,
+            "name": "チラチーノ 143/",
+            "date": "2023-01-08",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/494656598",
+            "price": 400,
+            "name": "チラチーノ 143/",
+            "date": "2023-01-08",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/540034668",
+            "price": 148,
+            "name": "【特価】チラチーノ ",
+            "date": "2023-01-08",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/329511625",
             "price": 100,
             "name": "チラチーノ(CP){",
-            "date": "2023-01-07",
+            "date": "2023-01-08",
             "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18549",
+            "price": 100,
+            "name": "チラチーノ(CP){",
+            "date": "2023-01-08",
+            "stock": 167
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18815",
+            "price": 150,
+            "name": "チラチーノ:ミラー(",
+            "date": "2023-01-08",
+            "stock": 42
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30739",
+            "price": 110,
+            "name": "チラチーノ143/1",
+            "date": "2023-01-08",
+            "stock": 32
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30616",
+            "price": 110,
+            "name": "チラチーノ143/1",
+            "date": "2023-01-08",
+            "stock": 18
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17126",
+            "price": 120,
+            "name": "チラチーノ143/1",
+            "date": "2023-01-08",
+            "stock": 442
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17294",
+            "price": 120,
+            "name": "チラチーノ143/1",
+            "date": "2023-01-08",
+            "stock": 195
         },
         {
             "market": "magi",
             "link": "/items/700993556",
             "price": 250,
+            "name": "チラチーノ 143/",
+            "date": "2023-01-07",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1523315074",
+            "price": 300,
             "name": "チラチーノ 143/",
             "date": "2023-01-07",
             "stock": 1
@@ -26,17 +130,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/1523315074",
-            "price": 300,
+            "link": "/items/702207322",
+            "price": 230,
             "name": "チラチーノ 143/",
             "date": "2023-01-07",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/880572193",
-            "price": 600,
-            "name": "チラチーノ 143/",
+            "link": "/items/329511625",
+            "price": 100,
+            "name": "チラチーノ(CP){",
             "date": "2023-01-07",
             "stock": 1
         },
@@ -50,9 +154,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/702207322",
-            "price": 230,
-            "name": "チラチーノ 143/",
+            "link": "/items/428181588",
+            "price": 333,
+            "name": "【絵違い】やりくりチ",
             "date": "2023-01-07",
             "stock": 1
         },
@@ -66,11 +170,19 @@
         },
         {
             "market": "magi",
-            "link": "/items/428181588",
-            "price": 333,
-            "name": "【絵違い】やりくりチ",
+            "link": "/items/880572193",
+            "price": 600,
+            "name": "チラチーノ 143/",
             "date": "2023-01-07",
             "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18549",
+            "price": 100,
+            "name": "チラチーノ(CP){",
+            "date": "2023-01-07",
+            "stock": 166
         },
         {
             "market": "hareruya2",
@@ -81,12 +193,20 @@
             "stock": 42
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18549",
-            "price": 100,
-            "name": "チラチーノ(CP){",
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30739",
+            "price": 110,
+            "name": "チラチーノ143/1",
             "date": "2023-01-07",
-            "stock": 166
+            "stock": 32
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17294",
+            "price": 120,
+            "name": "チラチーノ143/1",
+            "date": "2023-01-07",
+            "stock": 195
         },
         {
             "market": "cardrush",
@@ -105,20 +225,12 @@
             "stock": 446
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17294",
-            "price": 120,
-            "name": "チラチーノ143/1",
-            "date": "2023-01-07",
-            "stock": 195
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30739",
-            "price": 110,
-            "name": "チラチーノ143/1",
-            "date": "2023-01-07",
-            "stock": 32
+            "market": "magi",
+            "link": "/items/329511625",
+            "price": 100,
+            "name": "チラチーノ(CP){",
+            "date": "2023-01-06",
+            "stock": 1
         },
         {
             "market": "magi",
@@ -130,32 +242,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/541375727",
-            "price": 160,
-            "name": "チラチーノ(キラ) ",
+            "link": "/items/540034668",
+            "price": 148,
+            "name": "【特価】チラチーノ ",
             "date": "2023-01-06",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/880572193",
-            "price": 600,
-            "name": "チラチーノ 143/",
-            "date": "2023-01-06",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1523315074",
-            "price": 300,
-            "name": "チラチーノ 143/",
-            "date": "2023-01-06",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/702207322",
-            "price": 230,
+            "link": "/items/700993556",
+            "price": 250,
             "name": "チラチーノ 143/",
             "date": "2023-01-06",
             "stock": 1
@@ -170,25 +266,33 @@
         },
         {
             "market": "magi",
-            "link": "/items/329511625",
-            "price": 100,
-            "name": "チラチーノ(CP){",
-            "date": "2023-01-06",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/700993556",
-            "price": 250,
+            "link": "/items/702207322",
+            "price": 230,
             "name": "チラチーノ 143/",
             "date": "2023-01-06",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/540034668",
-            "price": 148,
-            "name": "【特価】チラチーノ ",
+            "link": "/items/1523315074",
+            "price": 300,
+            "name": "チラチーノ 143/",
+            "date": "2023-01-06",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/880572193",
+            "price": 600,
+            "name": "チラチーノ 143/",
+            "date": "2023-01-06",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/541375727",
+            "price": 160,
+            "name": "チラチーノ(キラ) ",
             "date": "2023-01-06",
             "stock": 1
         },
@@ -210,27 +314,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17294",
-            "price": 120,
-            "name": "チラチーノ143/1",
-            "date": "2023-01-06",
-            "stock": 195
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17126",
-            "price": 120,
-            "name": "チラチーノ143/1",
-            "date": "2023-01-06",
-            "stock": 449
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30739",
             "price": 110,
             "name": "チラチーノ143/1",
             "date": "2023-01-06",
             "stock": 32
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17294",
+            "price": 120,
+            "name": "チラチーノ143/1",
+            "date": "2023-01-06",
+            "stock": 195
         },
         {
             "market": "cardrush",
@@ -241,28 +337,12 @@
             "stock": 18
         },
         {
-            "market": "magi",
-            "link": "/items/702207322",
-            "price": 230,
-            "name": "チラチーノ 143/",
-            "date": "2023-01-05",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/540034668",
-            "price": 148,
-            "name": "【特価】チラチーノ ",
-            "date": "2023-01-05",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/880572193",
-            "price": 600,
-            "name": "チラチーノ 143/",
-            "date": "2023-01-05",
-            "stock": 1
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17126",
+            "price": 120,
+            "name": "チラチーノ143/1",
+            "date": "2023-01-06",
+            "stock": 449
         },
         {
             "market": "magi",
@@ -274,8 +354,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/494656598",
-            "price": 400,
+            "link": "/items/541375727",
+            "price": 160,
+            "name": "チラチーノ(キラ) ",
+            "date": "2023-01-05",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1523315074",
+            "price": 300,
             "name": "チラチーノ 143/",
             "date": "2023-01-05",
             "stock": 1
@@ -290,17 +378,33 @@
         },
         {
             "market": "magi",
-            "link": "/items/1523315074",
-            "price": 300,
+            "link": "/items/494656598",
+            "price": 400,
             "name": "チラチーノ 143/",
             "date": "2023-01-05",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/541375727",
-            "price": 160,
-            "name": "チラチーノ(キラ) ",
+            "link": "/items/880572193",
+            "price": 600,
+            "name": "チラチーノ 143/",
+            "date": "2023-01-05",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/540034668",
+            "price": 148,
+            "name": "【特価】チラチーノ ",
+            "date": "2023-01-05",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/702207322",
+            "price": 230,
+            "name": "チラチーノ 143/",
             "date": "2023-01-05",
             "stock": 1
         },
@@ -362,6 +466,14 @@
         },
         {
             "market": "magi",
+            "link": "/items/428181588",
+            "price": 333,
+            "name": "【絵違い】やりくりチ",
+            "date": "2023-01-04",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/880572193",
             "price": 600,
             "name": "チラチーノ 143/",
@@ -386,9 +498,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/700993556",
-            "price": 250,
-            "name": "チラチーノ 143/",
+            "link": "/items/540034668",
+            "price": 148,
+            "name": "【特価】チラチーノ ",
             "date": "2023-01-04",
             "stock": 1
         },
@@ -410,17 +522,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/540034668",
-            "price": 148,
-            "name": "【特価】チラチーノ ",
-            "date": "2023-01-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/428181588",
-            "price": 333,
-            "name": "【絵違い】やりくりチ",
+            "link": "/items/700993556",
+            "price": 250,
+            "name": "チラチーノ 143/",
             "date": "2023-01-04",
             "stock": 1
         },
@@ -474,9 +578,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/880572193",
-            "price": 600,
-            "name": "チラチーノ 143/",
+            "link": "/items/428181588",
+            "price": 333,
+            "name": "【絵違い】やりくりチ",
             "date": "2023-01-03",
             "stock": 1
         },
@@ -490,16 +594,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/428181588",
-            "price": 333,
-            "name": "【絵違い】やりくりチ",
-            "date": "2023-01-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/494656598",
-            "price": 400,
+            "link": "/items/880572193",
+            "price": 600,
             "name": "チラチーノ 143/",
             "date": "2023-01-03",
             "stock": 1
@@ -508,6 +604,14 @@
             "market": "magi",
             "link": "/items/702207322",
             "price": 230,
+            "name": "チラチーノ 143/",
+            "date": "2023-01-03",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/494656598",
+            "price": 400,
             "name": "チラチーノ 143/",
             "date": "2023-01-03",
             "stock": 1
@@ -554,19 +658,27 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17294",
-            "price": 120,
-            "name": "チラチーノ143/1",
-            "date": "2023-01-03",
-            "stock": 196
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30616",
             "price": 110,
             "name": "チラチーノ143/1",
             "date": "2023-01-03",
             "stock": 18
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30739",
+            "price": 110,
+            "name": "チラチーノ143/1",
+            "date": "2023-01-03",
+            "stock": 31
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17294",
+            "price": 120,
+            "name": "チラチーノ143/1",
+            "date": "2023-01-03",
+            "stock": 196
         },
         {
             "market": "cardrush",
@@ -577,12 +689,12 @@
             "stock": 452
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30739",
-            "price": 110,
-            "name": "チラチーノ143/1",
-            "date": "2023-01-03",
-            "stock": 31
+            "market": "magi",
+            "link": "/items/494656598",
+            "price": 400,
+            "name": "チラチーノ 143/",
+            "date": "2023-01-02",
+            "stock": 1
         },
         {
             "market": "magi",
@@ -597,14 +709,6 @@
             "link": "/items/540034668",
             "price": 148,
             "name": "【特価】チラチーノ ",
-            "date": "2023-01-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/494656598",
-            "price": 400,
-            "name": "チラチーノ 143/",
             "date": "2023-01-02",
             "stock": 1
         },
@@ -666,19 +770,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17126",
-            "price": 120,
-            "name": "チラチーノ143/1",
-            "date": "2023-01-02",
-            "stock": 452
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17294",
             "price": 120,
             "name": "チラチーノ143/1",
             "date": "2023-01-02",
             "stock": 196
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30739",
+            "price": 110,
+            "name": "チラチーノ143/1",
+            "date": "2023-01-02",
+            "stock": 31
         },
         {
             "market": "cardrush",
@@ -690,16 +794,16 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30739",
-            "price": 110,
+            "link": "https://www.cardrush-pokemon.jp/product/17126",
+            "price": 120,
             "name": "チラチーノ143/1",
             "date": "2023-01-02",
-            "stock": 31
+            "stock": 452
         },
         {
             "market": "magi",
-            "link": "/items/1523315074",
-            "price": 300,
+            "link": "/items/880572193",
+            "price": 600,
             "name": "チラチーノ 143/",
             "date": "2023-01-01",
             "stock": 1
@@ -746,8 +850,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/880572193",
-            "price": 600,
+            "link": "/items/1523315074",
+            "price": 300,
             "name": "チラチーノ 143/",
             "date": "2023-01-01",
             "stock": 1
@@ -799,118 +903,6 @@
             "name": "チラチーノ143/1",
             "date": "2023-01-01",
             "stock": 31
-        },
-        {
-            "market": "magi",
-            "link": "/items/700993556",
-            "price": 250,
-            "name": "チラチーノ 143/",
-            "date": "2022-12-31",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/702207322",
-            "price": 230,
-            "name": "チラチーノ 143/",
-            "date": "2022-12-31",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/540034668",
-            "price": 148,
-            "name": "【特価】チラチーノ ",
-            "date": "2022-12-31",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/880572193",
-            "price": 600,
-            "name": "チラチーノ 143/",
-            "date": "2022-12-31",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/428181588",
-            "price": 333,
-            "name": "【絵違い】やりくりチ",
-            "date": "2022-12-31",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/494656598",
-            "price": 400,
-            "name": "チラチーノ 143/",
-            "date": "2022-12-31",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/541375727",
-            "price": 160,
-            "name": "チラチーノ(キラ) ",
-            "date": "2022-12-31",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1523315074",
-            "price": 300,
-            "name": "チラチーノ 143/",
-            "date": "2022-12-31",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18549",
-            "price": 100,
-            "name": "チラチーノ(CP){",
-            "date": "2022-12-31",
-            "stock": 174
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18815",
-            "price": 150,
-            "name": "チラチーノ:ミラー(",
-            "date": "2022-12-31",
-            "stock": 58
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30616",
-            "price": 110,
-            "name": "チラチーノ143/1",
-            "date": "2022-12-31",
-            "stock": 18
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30739",
-            "price": 110,
-            "name": "チラチーノ143/1",
-            "date": "2022-12-31",
-            "stock": 31
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17294",
-            "price": 120,
-            "name": "チラチーノ143/1",
-            "date": "2022-12-31",
-            "stock": 164
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17126",
-            "price": 120,
-            "name": "チラチーノ143/1",
-            "date": "2022-12-31",
-            "stock": 2
         }
     ]
 }

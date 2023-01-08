@@ -1,6 +1,14 @@
 ﻿{
     "items": [
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/6997",
+            "price": 80,
+            "name": "ふしぎなアメ005/",
+            "date": "2023-01-08",
+            "stock": 1
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/17591",
             "price": 100,
@@ -110,22 +118,6 @@
             "price": 80,
             "name": "ふしぎなアメ005/",
             "date": "2023-01-01",
-            "stock": 3
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/17591",
-            "price": 100,
-            "name": "ふしぎなアメ(D){",
-            "date": "2022-12-31",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/6997",
-            "price": 80,
-            "name": "ふしぎなアメ005/",
-            "date": "2022-12-31",
             "stock": 3
         }
     ]
