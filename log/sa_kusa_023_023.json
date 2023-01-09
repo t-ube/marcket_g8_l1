@@ -5,6 +5,46 @@
             "link": "/items/2127675775",
             "price": 240,
             "name": "マリィ TD 023",
+            "date": "2023-01-09",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17112",
+            "price": 100,
+            "name": "マリィ:水(D){サ",
+            "date": "2023-01-09",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/29581",
+            "price": 70,
+            "name": "マリィ023/023",
+            "date": "2023-01-09",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/6722",
+            "price": 80,
+            "name": "マリィ023/023",
+            "date": "2023-01-09",
+            "stock": 90
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/6626",
+            "price": 680,
+            "name": "マリィ023/023",
+            "date": "2023-01-09",
+            "stock": 5
+        },
+        {
+            "market": "magi",
+            "link": "/items/2127675775",
+            "price": 240,
+            "name": "マリィ TD 023",
             "date": "2023-01-08",
             "stock": 1
         },
@@ -18,11 +58,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/6626",
-            "price": 680,
+            "link": "https://www.cardrush-pokemon.jp/product/29581",
+            "price": 70,
             "name": "マリィ023/023",
             "date": "2023-01-08",
-            "stock": 5
+            "stock": 1
         },
         {
             "market": "cardrush",
@@ -34,11 +74,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/29581",
-            "price": 70,
+            "link": "https://www.cardrush-pokemon.jp/product/6626",
+            "price": 680,
             "name": "マリィ023/023",
             "date": "2023-01-08",
-            "stock": 1
+            "stock": 5
         },
         {
             "market": "magi",
@@ -178,19 +218,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/6722",
-            "price": 80,
-            "name": "マリィ023/023",
-            "date": "2023-01-03",
-            "stock": 90
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/6626",
             "price": 680,
             "name": "マリィ023/023",
             "date": "2023-01-03",
             "stock": 9
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/6722",
+            "price": 80,
+            "name": "マリィ023/023",
+            "date": "2023-01-03",
+            "stock": 90
         },
         {
             "market": "magi",
@@ -199,6 +239,14 @@
             "name": "マリィ TD 023",
             "date": "2023-01-02",
             "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17012",
+            "price": 100,
+            "name": "マリィ:草(D){サ",
+            "date": "2023-01-02",
+            "stock": 2
         },
         {
             "market": "hareruya2",
@@ -209,12 +257,12 @@
             "stock": 3
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/17012",
-            "price": 100,
-            "name": "マリィ:草(D){サ",
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/6626",
+            "price": 680,
+            "name": "マリィ023/023",
             "date": "2023-01-02",
-            "stock": 2
+            "stock": 9
         },
         {
             "market": "cardrush",
@@ -223,46 +271,6 @@
             "name": "マリィ023/023",
             "date": "2023-01-02",
             "stock": 89
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/6626",
-            "price": 680,
-            "name": "マリィ023/023",
-            "date": "2023-01-02",
-            "stock": 9
-        },
-        {
-            "market": "magi",
-            "link": "/items/2127675775",
-            "price": 240,
-            "name": "マリィ TD 023",
-            "date": "2023-01-01",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/17112",
-            "price": 100,
-            "name": "マリィ:水(D){サ",
-            "date": "2023-01-01",
-            "stock": 3
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/17012",
-            "price": 100,
-            "name": "マリィ:草(D){サ",
-            "date": "2023-01-01",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/6722",
-            "price": 80,
-            "name": "マリィ023/023",
-            "date": "2023-01-01",
-            "stock": 39
         }
     ]
 }

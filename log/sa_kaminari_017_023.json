@@ -2,42 +2,10 @@
     "items": [
         {
             "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/17056",
-            "price": 100,
-            "name": "ポケモンいれかえ:炎",
-            "date": "2023-01-08",
-            "stock": 25
-        },
-        {
-            "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/17106",
             "price": 100,
             "name": "ポケモンいれかえ:水",
-            "date": "2023-01-08",
-            "stock": 13
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/6695",
-            "price": 80,
-            "name": "ポケモンいれかえ01",
-            "date": "2023-01-08",
-            "stock": 2
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g017-023-SA-RM/",
-            "price": 88,
-            "name": "【ポケカ】ＳＳ）ミラ",
-            "date": "2023-01-08",
-            "stock": 10
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/17106",
-            "price": 100,
-            "name": "ポケモンいれかえ:水",
-            "date": "2023-01-07",
+            "date": "2023-01-09",
             "stock": 13
         },
         {
@@ -45,7 +13,7 @@
             "link": "https://www.hareruya2.com/product/17056",
             "price": 100,
             "name": "ポケモンいれかえ:炎",
-            "date": "2023-01-07",
+            "date": "2023-01-09",
             "stock": 25
         },
         {
@@ -53,6 +21,70 @@
             "link": "https://www.cardrush-pokemon.jp/product/6695",
             "price": 80,
             "name": "ポケモンいれかえ01",
+            "date": "2023-01-09",
+            "stock": 2
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g017-023-SA-RM/",
+            "price": 88,
+            "name": "【ポケカ】ＳＳ）ミラ",
+            "date": "2023-01-09",
+            "stock": 10
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17106",
+            "price": 100,
+            "name": "ポケモンいれかえ:水",
+            "date": "2023-01-08",
+            "stock": 13
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17056",
+            "price": 100,
+            "name": "ポケモンいれかえ:炎",
+            "date": "2023-01-08",
+            "stock": 25
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/6695",
+            "price": 80,
+            "name": "ポケモンいれかえ01",
+            "date": "2023-01-08",
+            "stock": 2
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g017-023-SA-RM/",
+            "price": 88,
+            "name": "【ポケカ】ＳＳ）ミラ",
+            "date": "2023-01-08",
+            "stock": 10
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17106",
+            "price": 100,
+            "name": "ポケモンいれかえ:水",
+            "date": "2023-01-07",
+            "stock": 13
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17056",
+            "price": 100,
+            "name": "ポケモンいれかえ:炎",
+            "date": "2023-01-07",
+            "stock": 25
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/6695",
+            "price": 80,
+            "name": "ポケモンいれかえ01",
             "date": "2023-01-07",
             "stock": 2
         },
@@ -222,38 +254,6 @@
             "price": 88,
             "name": "【ポケカ】ＳＳ）ミラ",
             "date": "2023-01-02",
-            "stock": 10
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/17056",
-            "price": 100,
-            "name": "ポケモンいれかえ:炎",
-            "date": "2023-01-01",
-            "stock": 30
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/17106",
-            "price": 100,
-            "name": "ポケモンいれかえ:水",
-            "date": "2023-01-01",
-            "stock": 13
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/6695",
-            "price": 80,
-            "name": "ポケモンいれかえ01",
-            "date": "2023-01-01",
-            "stock": 2
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g017-023-SA-RM/",
-            "price": 88,
-            "name": "【ポケカ】ＳＳ）ミラ",
-            "date": "2023-01-01",
             "stock": 10
         }
     ]

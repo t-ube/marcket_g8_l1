@@ -5,6 +5,14 @@
             "link": "https://www.hareruya2.com/product/18434",
             "price": 100,
             "name": "マルヤクデVMAX(",
+            "date": "2023-01-09",
+            "stock": 85
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18434",
+            "price": 100,
+            "name": "マルヤクデVMAX(",
             "date": "2023-01-08",
             "stock": 85
         },
@@ -87,14 +95,6 @@
             "name": "マルヤクデVMAX0",
             "date": "2023-01-02",
             "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18434",
-            "price": 100,
-            "name": "マルヤクデVMAX(",
-            "date": "2023-01-01",
-            "stock": 85
         }
     ]
 }

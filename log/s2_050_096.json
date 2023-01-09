@@ -5,6 +5,22 @@
             "link": "https://www.hareruya2.com/product/17753",
             "price": 100,
             "name": "ドラパルトVMAX(",
+            "date": "2023-01-09",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/7478",
+            "price": 80,
+            "name": "ドラパルトVMAX0",
+            "date": "2023-01-09",
+            "stock": 24
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17753",
+            "price": 100,
+            "name": "ドラパルトVMAX(",
             "date": "2023-01-08",
             "stock": 3
         },
@@ -111,22 +127,6 @@
             "name": "ドラパルトVMAX0",
             "date": "2023-01-02",
             "stock": 19
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/17753",
-            "price": 100,
-            "name": "ドラパルトVMAX(",
-            "date": "2023-01-01",
-            "stock": 8
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7478",
-            "price": 80,
-            "name": "ドラパルトVMAX0",
-            "date": "2023-01-01",
-            "stock": 5
         }
     ]
 }

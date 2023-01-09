@@ -2,6 +2,14 @@
     "items": [
         {
             "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14138",
+            "price": 680,
+            "name": "ザルードV077/0",
+            "date": "2023-01-09",
+            "stock": 29
+        },
+        {
+            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30249",
             "price": 580,
             "name": "ザルードV077/0",
@@ -18,14 +26,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30249",
-            "price": 580,
-            "name": "ザルードV077/0",
-            "date": "2023-01-07",
-            "stock": 7
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/14138",
             "price": 680,
             "name": "ザルードV077/0",
@@ -34,11 +34,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14138",
-            "price": 680,
+            "link": "https://www.cardrush-pokemon.jp/product/30249",
+            "price": 580,
             "name": "ザルードV077/0",
-            "date": "2023-01-06",
-            "stock": 34
+            "date": "2023-01-07",
+            "stock": 7
         },
         {
             "market": "cardrush",
@@ -47,6 +47,22 @@
             "name": "ザルードV077/0",
             "date": "2023-01-06",
             "stock": 7
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14138",
+            "price": 680,
+            "name": "ザルードV077/0",
+            "date": "2023-01-06",
+            "stock": 34
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14138",
+            "price": 680,
+            "name": "ザルードV077/0",
+            "date": "2023-01-05",
+            "stock": 34
         },
         {
             "market": "cardrush",
@@ -58,11 +74,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14138",
-            "price": 680,
+            "link": "https://www.cardrush-pokemon.jp/product/30249",
+            "price": 580,
             "name": "ザルードV077/0",
-            "date": "2023-01-05",
-            "stock": 34
+            "date": "2023-01-04",
+            "stock": 7
         },
         {
             "market": "cardrush",
@@ -74,27 +90,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30249",
-            "price": 580,
-            "name": "ザルードV077/0",
-            "date": "2023-01-04",
-            "stock": 7
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30249",
-            "price": 580,
-            "name": "ザルードV077/0",
-            "date": "2023-01-03",
-            "stock": 7
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/14138",
             "price": 680,
             "name": "ザルードV077/0",
             "date": "2023-01-03",
             "stock": 33
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30249",
+            "price": 580,
+            "name": "ザルードV077/0",
+            "date": "2023-01-03",
+            "stock": 7
         },
         {
             "market": "cardrush",
@@ -110,22 +118,6 @@
             "price": 580,
             "name": "ザルードV077/0",
             "date": "2023-01-02",
-            "stock": 4
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14138",
-            "price": 680,
-            "name": "ザルードV077/0",
-            "date": "2023-01-01",
-            "stock": 31
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30249",
-            "price": 580,
-            "name": "ザルードV077/0",
-            "date": "2023-01-01",
             "stock": 4
         }
     ]

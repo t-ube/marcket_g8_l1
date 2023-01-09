@@ -5,6 +5,62 @@
             "link": "/items/1408634769",
             "price": 70,
             "name": "【4枚セット】ローズ",
+            "date": "2023-01-09",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/64283252",
+            "price": 25,
+            "name": "PC ローズタワー(",
+            "date": "2023-01-09",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1007332217",
+            "price": 25,
+            "name": "PC ローズタワー(",
+            "date": "2023-01-09",
+            "stock": 4
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18043",
+            "price": 250,
+            "name": "ローズタワー(U){",
+            "date": "2023-01-09",
+            "stock": 34
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30155",
+            "price": 70,
+            "name": "ローズタワー098/",
+            "date": "2023-01-09",
+            "stock": 15
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/13337",
+            "price": 80,
+            "name": "ローズタワー098/",
+            "date": "2023-01-09",
+            "stock": 122
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g098-100-S3-B/",
+            "price": 33,
+            "name": "【ポケカ】Ｕ◇ローズ",
+            "date": "2023-01-09",
+            "stock": 6
+        },
+        {
+            "market": "magi",
+            "link": "/items/1408634769",
+            "price": 70,
+            "name": "【4枚セット】ローズ",
             "date": "2023-01-08",
             "stock": 4
         },
@@ -58,14 +114,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30155",
-            "price": 70,
-            "name": "ローズタワー098/",
-            "date": "2023-01-07",
-            "stock": 15
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/13337",
             "price": 80,
             "name": "ローズタワー098/",
@@ -73,6 +121,14 @@
             "stock": 142
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30155",
+            "price": 70,
+            "name": "ローズタワー098/",
+            "date": "2023-01-07",
+            "stock": 15
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g098-100-S3-B/",
             "price": 33,
@@ -175,14 +231,6 @@
             "name": "ローズタワー(U){",
             "date": "2023-01-04",
             "stock": 34
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30155",
-            "price": 70,
-            "name": "ローズタワー098/",
-            "date": "2023-01-04",
-            "stock": 12
         },
         {
             "market": "cardrush",
@@ -193,6 +241,14 @@
             "stock": 147
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30155",
+            "price": 70,
+            "name": "ローズタワー098/",
+            "date": "2023-01-04",
+            "stock": 12
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g098-100-S3-B/",
             "price": 33,
@@ -218,19 +274,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/13337",
-            "price": 80,
-            "name": "ローズタワー098/",
-            "date": "2023-01-03",
-            "stock": 149
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30155",
             "price": 70,
             "name": "ローズタワー098/",
             "date": "2023-01-03",
             "stock": 12
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/13337",
+            "price": 80,
+            "name": "ローズタワー098/",
+            "date": "2023-01-03",
+            "stock": 149
         },
         {
             "market": "torecolo",
@@ -255,14 +311,6 @@
             "name": "ローズタワー(U){",
             "date": "2023-01-02",
             "stock": 34
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30155",
-            "price": 70,
-            "name": "ローズタワー098/",
-            "date": "2023-01-02",
-            "stock": 12
         },
         {
             "market": "cardrush",
@@ -273,43 +321,11 @@
             "stock": 150
         },
         {
-            "market": "torecolo",
-            "link": "/shop/g/g098-100-S3-B/",
-            "price": 33,
-            "name": "【ポケカ】Ｕ◇ローズ",
-            "date": "2023-01-02",
-            "stock": 6
-        },
-        {
-            "market": "magi",
-            "link": "/items/1408634769",
-            "price": 70,
-            "name": "【4枚セット】ローズ",
-            "date": "2023-01-01",
-            "stock": 4
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18043",
-            "price": 250,
-            "name": "ローズタワー(U){",
-            "date": "2023-01-01",
-            "stock": 34
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/13337",
-            "price": 80,
-            "name": "ローズタワー098/",
-            "date": "2023-01-01",
-            "stock": 78
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30155",
             "price": 70,
             "name": "ローズタワー098/",
-            "date": "2023-01-01",
+            "date": "2023-01-02",
             "stock": 12
         },
         {
@@ -317,7 +333,7 @@
             "link": "/shop/g/g098-100-S3-B/",
             "price": 33,
             "name": "【ポケカ】Ｕ◇ローズ",
-            "date": "2023-01-01",
+            "date": "2023-01-02",
             "stock": 6
         }
     ]

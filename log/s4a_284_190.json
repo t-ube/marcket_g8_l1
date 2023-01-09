@@ -5,6 +5,38 @@
             "link": "https://www.hareruya2.com/product/18690",
             "price": 200,
             "name": "オーロンゲ(S){悪",
+            "date": "2023-01-09",
+            "stock": 21
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30873",
+            "price": 330,
+            "name": "オーロンゲ284/1",
+            "date": "2023-01-09",
+            "stock": 18
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17433",
+            "price": 380,
+            "name": "オーロンゲ284/1",
+            "date": "2023-01-09",
+            "stock": 75
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g284-190-S4A-B/",
+            "price": 275,
+            "name": "【ポケカ】Ｓ◇オーロ",
+            "date": "2023-01-09",
+            "stock": 4
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18690",
+            "price": 200,
+            "name": "オーロンゲ(S){悪",
             "date": "2023-01-08",
             "stock": 21
         },
@@ -42,14 +74,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30873",
-            "price": 330,
-            "name": "オーロンゲ284/1",
-            "date": "2023-01-07",
-            "stock": 14
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17433",
             "price": 380,
             "name": "オーロンゲ284/1",
@@ -57,6 +81,14 @@
             "stock": 75
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30873",
+            "price": 330,
+            "name": "オーロンゲ284/1",
+            "date": "2023-01-07",
+            "stock": 14
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g284-190-S4A-B/",
             "price": 275,
@@ -106,14 +138,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17433",
-            "price": 380,
-            "name": "オーロンゲ284/1",
-            "date": "2023-01-05",
-            "stock": 75
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30873",
             "price": 330,
             "name": "オーロンゲ284/1",
@@ -121,6 +145,14 @@
             "stock": 14
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17433",
+            "price": 380,
+            "name": "オーロンゲ284/1",
+            "date": "2023-01-05",
+            "stock": 75
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g284-190-S4A-B/",
             "price": 275,
@@ -138,19 +170,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30873",
-            "price": 330,
-            "name": "オーロンゲ284/1",
-            "date": "2023-01-04",
-            "stock": 14
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17433",
             "price": 380,
             "name": "オーロンゲ284/1",
             "date": "2023-01-04",
             "stock": 75
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30873",
+            "price": 330,
+            "name": "オーロンゲ284/1",
+            "date": "2023-01-04",
+            "stock": 14
         },
         {
             "market": "torecolo",
@@ -202,6 +234,14 @@
         },
         {
             "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30873",
+            "price": 330,
+            "name": "オーロンゲ284/1",
+            "date": "2023-01-02",
+            "stock": 14
+        },
+        {
+            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17433",
             "price": 380,
             "name": "オーロンゲ284/1",
@@ -209,51 +249,11 @@
             "stock": 75
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30873",
-            "price": 330,
-            "name": "オーロンゲ284/1",
-            "date": "2023-01-02",
-            "stock": 14
-        },
-        {
             "market": "torecolo",
             "link": "/shop/g/g284-190-S4A-B/",
             "price": 275,
             "name": "【ポケカ】Ｓ◇オーロ",
             "date": "2023-01-02",
-            "stock": 4
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18690",
-            "price": 200,
-            "name": "オーロンゲ(S){悪",
-            "date": "2023-01-01",
-            "stock": 19
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30873",
-            "price": 330,
-            "name": "オーロンゲ284/1",
-            "date": "2023-01-01",
-            "stock": 14
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17433",
-            "price": 380,
-            "name": "オーロンゲ284/1",
-            "date": "2023-01-01",
-            "stock": 40
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g284-190-S4A-B/",
-            "price": 275,
-            "name": "【ポケカ】Ｓ◇オーロ",
-            "date": "2023-01-01",
             "stock": 4
         }
     ]

@@ -5,12 +5,76 @@
             "link": "/items/927309720",
             "price": 125,
             "name": "PC カブ(067/",
-            "date": "2023-01-08",
+            "date": "2023-01-09",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/732085984",
+            "price": 125,
+            "name": "PC カブ(067/",
+            "date": "2023-01-09",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/2097414356",
+            "price": 125,
+            "name": "PC カブ(067/",
+            "date": "2023-01-09",
             "stock": 4
         },
         {
             "market": "magi",
             "link": "/items/1557186206",
+            "price": 125,
+            "name": "PC カブ(067/",
+            "date": "2023-01-09",
+            "stock": 4
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17926",
+            "price": 100,
+            "name": "カブ(U){サポート",
+            "date": "2023-01-09",
+            "stock": 12
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/13168",
+            "price": 180,
+            "name": "カブ067/070",
+            "date": "2023-01-09",
+            "stock": 259
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30080",
+            "price": 150,
+            "name": "カブ067/070",
+            "date": "2023-01-09",
+            "stock": 57
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g067-070-S2A-B/",
+            "price": 110,
+            "name": "【ポケカ】Ｕ◇カブ",
+            "date": "2023-01-09",
+            "stock": 11
+        },
+        {
+            "market": "magi",
+            "link": "/items/1557186206",
+            "price": 125,
+            "name": "PC カブ(067/",
+            "date": "2023-01-08",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/2097414356",
             "price": 125,
             "name": "PC カブ(067/",
             "date": "2023-01-08",
@@ -26,7 +90,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/2097414356",
+            "link": "/items/927309720",
             "price": 125,
             "name": "PC カブ(067/",
             "date": "2023-01-08",
@@ -42,19 +106,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30080",
-            "price": 150,
-            "name": "カブ067/070",
-            "date": "2023-01-08",
-            "stock": 57
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/13168",
             "price": 180,
             "name": "カブ067/070",
             "date": "2023-01-08",
             "stock": 259
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30080",
+            "price": 150,
+            "name": "カブ067/070",
+            "date": "2023-01-08",
+            "stock": 57
         },
         {
             "market": "torecolo",
@@ -194,7 +258,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/732085984",
+            "link": "/items/1557186206",
             "price": 125,
             "name": "PC カブ(067/",
             "date": "2023-01-05",
@@ -210,7 +274,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/1557186206",
+            "link": "/items/2097414356",
             "price": 125,
             "name": "PC カブ(067/",
             "date": "2023-01-05",
@@ -218,7 +282,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/2097414356",
+            "link": "/items/732085984",
             "price": 125,
             "name": "PC カブ(067/",
             "date": "2023-01-05",
@@ -234,19 +298,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30080",
-            "price": 150,
-            "name": "カブ067/070",
-            "date": "2023-01-05",
-            "stock": 57
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/13168",
             "price": 180,
             "name": "カブ067/070",
             "date": "2023-01-05",
             "stock": 259
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30080",
+            "price": 150,
+            "name": "カブ067/070",
+            "date": "2023-01-05",
+            "stock": 57
         },
         {
             "market": "torecolo",
@@ -258,15 +322,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/1557186206",
-            "price": 125,
-            "name": "PC カブ(067/",
-            "date": "2023-01-04",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/732085984",
+            "link": "/items/2097414356",
             "price": 125,
             "name": "PC カブ(067/",
             "date": "2023-01-04",
@@ -282,7 +338,15 @@
         },
         {
             "market": "magi",
-            "link": "/items/2097414356",
+            "link": "/items/732085984",
+            "price": 125,
+            "name": "PC カブ(067/",
+            "date": "2023-01-04",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1557186206",
             "price": 125,
             "name": "PC カブ(067/",
             "date": "2023-01-04",
@@ -298,19 +362,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30080",
-            "price": 150,
-            "name": "カブ067/070",
-            "date": "2023-01-04",
-            "stock": 57
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/13168",
             "price": 180,
             "name": "カブ067/070",
             "date": "2023-01-04",
             "stock": 259
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30080",
+            "price": 150,
+            "name": "カブ067/070",
+            "date": "2023-01-04",
+            "stock": 57
         },
         {
             "market": "torecolo",
@@ -322,7 +386,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/1557186206",
+            "link": "/items/732085984",
             "price": 125,
             "name": "PC カブ(067/",
             "date": "2023-01-03",
@@ -330,7 +394,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/732085984",
+            "link": "/items/1557186206",
             "price": 125,
             "name": "PC カブ(067/",
             "date": "2023-01-03",
@@ -386,15 +450,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/927309720",
-            "price": 125,
-            "name": "PC カブ(067/",
-            "date": "2023-01-02",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/1557186206",
+            "link": "/items/732085984",
             "price": 125,
             "name": "PC カブ(067/",
             "date": "2023-01-02",
@@ -410,7 +466,15 @@
         },
         {
             "market": "magi",
-            "link": "/items/732085984",
+            "link": "/items/927309720",
+            "price": 125,
+            "name": "PC カブ(067/",
+            "date": "2023-01-02",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1557186206",
             "price": 125,
             "name": "PC カブ(067/",
             "date": "2023-01-02",
@@ -446,70 +510,6 @@
             "price": 110,
             "name": "【ポケカ】Ｕ◇カブ",
             "date": "2023-01-02",
-            "stock": 11
-        },
-        {
-            "market": "magi",
-            "link": "/items/732085984",
-            "price": 125,
-            "name": "PC カブ(067/",
-            "date": "2023-01-01",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/1557186206",
-            "price": 125,
-            "name": "PC カブ(067/",
-            "date": "2023-01-01",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/2097414356",
-            "price": 125,
-            "name": "PC カブ(067/",
-            "date": "2023-01-01",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/927309720",
-            "price": 125,
-            "name": "PC カブ(067/",
-            "date": "2023-01-01",
-            "stock": 4
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/17926",
-            "price": 100,
-            "name": "カブ(U){サポート",
-            "date": "2023-01-01",
-            "stock": 12
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/13168",
-            "price": 180,
-            "name": "カブ067/070",
-            "date": "2023-01-01",
-            "stock": 183
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30080",
-            "price": 150,
-            "name": "カブ067/070",
-            "date": "2023-01-01",
-            "stock": 57
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g067-070-S2A-B/",
-            "price": 110,
-            "name": "【ポケカ】Ｕ◇カブ",
-            "date": "2023-01-01",
             "stock": 11
         }
     ]

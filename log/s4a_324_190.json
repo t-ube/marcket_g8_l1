@@ -5,6 +5,38 @@
             "link": "/items/581588361",
             "price": 575,
             "name": "【良品】メタモンVM",
+            "date": "2023-01-09",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18730",
+            "price": 700,
+            "name": "メタモンVMAX(S",
+            "date": "2023-01-09",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30913",
+            "price": 680,
+            "name": "メタモンVMAX32",
+            "date": "2023-01-09",
+            "stock": 44
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17473",
+            "price": 780,
+            "name": "メタモンVMAX32",
+            "date": "2023-01-09",
+            "stock": 108
+        },
+        {
+            "market": "magi",
+            "link": "/items/581588361",
+            "price": 575,
+            "name": "【良品】メタモンVM",
             "date": "2023-01-08",
             "stock": 1
         },
@@ -50,19 +82,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30913",
-            "price": 680,
-            "name": "メタモンVMAX32",
-            "date": "2023-01-07",
-            "stock": 44
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17473",
             "price": 780,
             "name": "メタモンVMAX32",
             "date": "2023-01-07",
             "stock": 84
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30913",
+            "price": 680,
+            "name": "メタモンVMAX32",
+            "date": "2023-01-07",
+            "stock": 44
         },
         {
             "market": "magi",
@@ -114,19 +146,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30913",
-            "price": 680,
-            "name": "メタモンVMAX32",
-            "date": "2023-01-05",
-            "stock": 41
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17473",
             "price": 780,
             "name": "メタモンVMAX32",
             "date": "2023-01-05",
             "stock": 82
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30913",
+            "price": 680,
+            "name": "メタモンVMAX32",
+            "date": "2023-01-05",
+            "stock": 41
         },
         {
             "market": "magi",
@@ -146,19 +178,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17473",
-            "price": 780,
-            "name": "メタモンVMAX32",
-            "date": "2023-01-04",
-            "stock": 66
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30913",
             "price": 680,
             "name": "メタモンVMAX32",
             "date": "2023-01-04",
             "stock": 41
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17473",
+            "price": 780,
+            "name": "メタモンVMAX32",
+            "date": "2023-01-04",
+            "stock": 66
         },
         {
             "market": "magi",
@@ -210,42 +242,10 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30913",
-            "price": 680,
-            "name": "メタモンVMAX32",
-            "date": "2023-01-02",
-            "stock": 35
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17473",
             "price": 780,
             "name": "メタモンVMAX32",
             "date": "2023-01-02",
-            "stock": 49
-        },
-        {
-            "market": "magi",
-            "link": "/items/581588361",
-            "price": 578,
-            "name": "【良品】メタモンVM",
-            "date": "2023-01-01",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18730",
-            "price": 700,
-            "name": "メタモンVMAX(S",
-            "date": "2023-01-01",
-            "stock": 3
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17473",
-            "price": 780,
-            "name": "メタモンVMAX32",
-            "date": "2023-01-01",
             "stock": 49
         },
         {
@@ -253,8 +253,8 @@
             "link": "https://www.cardrush-pokemon.jp/product/30913",
             "price": 680,
             "name": "メタモンVMAX32",
-            "date": "2023-01-01",
-            "stock": 36
+            "date": "2023-01-02",
+            "stock": 35
         }
     ]
 }

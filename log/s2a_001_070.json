@@ -5,6 +5,22 @@
             "link": "https://www.hareruya2.com/product/17860",
             "price": 200,
             "name": "バタフリーV(RR)",
+            "date": "2023-01-09",
+            "stock": 17
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/13102",
+            "price": 120,
+            "name": "バタフリーV001/",
+            "date": "2023-01-09",
+            "stock": 29
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17860",
+            "price": 200,
+            "name": "バタフリーV(RR)",
             "date": "2023-01-08",
             "stock": 17
         },
@@ -87,14 +103,6 @@
             "name": "バタフリーV(RR)",
             "date": "2023-01-03",
             "stock": 17
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30052",
-            "price": 110,
-            "name": "バタフリーV001/",
-            "date": "2023-01-03",
-            "stock": 1
         },
         {
             "market": "cardrush",
@@ -105,20 +113,20 @@
             "stock": 25
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30052",
+            "price": 110,
+            "name": "バタフリーV001/",
+            "date": "2023-01-03",
+            "stock": 1
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/17860",
             "price": 200,
             "name": "バタフリーV(RR)",
             "date": "2023-01-02",
             "stock": 17
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30052",
-            "price": 110,
-            "name": "バタフリーV001/",
-            "date": "2023-01-02",
-            "stock": 1
         },
         {
             "market": "cardrush",
@@ -129,28 +137,12 @@
             "stock": 26
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/17860",
-            "price": 200,
-            "name": "バタフリーV(RR)",
-            "date": "2023-01-01",
-            "stock": 13
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30052",
             "price": 110,
             "name": "バタフリーV001/",
-            "date": "2023-01-01",
+            "date": "2023-01-02",
             "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/13102",
-            "price": 120,
-            "name": "バタフリーV001/",
-            "date": "2023-01-01",
-            "stock": 9
         }
     ]
 }

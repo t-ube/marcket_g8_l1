@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/18598",
             "price": 700,
             "name": "ジムトレーナー(SR",
+            "date": "2023-01-09",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17341",
+            "price": 680,
+            "name": "ジムトレーナー192",
+            "date": "2023-01-09",
+            "stock": 47
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g192-190-S4A-B/",
+            "price": 770,
+            "name": "【ポケカ】ＳＲ◇ジム",
+            "date": "2023-01-09",
+            "stock": 6
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18598",
+            "price": 700,
+            "name": "ジムトレーナー(SR",
             "date": "2023-01-08",
             "stock": 1
         },
@@ -90,19 +114,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30782",
-            "price": 580,
-            "name": "ジムトレーナー192",
-            "date": "2023-01-05",
-            "stock": 12
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17341",
             "price": 680,
             "name": "ジムトレーナー192",
             "date": "2023-01-05",
             "stock": 50
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30782",
+            "price": 580,
+            "name": "ジムトレーナー192",
+            "date": "2023-01-05",
+            "stock": 12
         },
         {
             "market": "torecolo",
@@ -154,14 +178,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30782",
-            "price": 580,
-            "name": "ジムトレーナー192",
-            "date": "2023-01-03",
-            "stock": 12
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17341",
             "price": 680,
             "name": "ジムトレーナー192",
@@ -169,6 +185,14 @@
             "stock": 21
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30782",
+            "price": 580,
+            "name": "ジムトレーナー192",
+            "date": "2023-01-03",
+            "stock": 12
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g192-190-S4A-B/",
             "price": 770,
@@ -178,16 +202,16 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17341",
-            "price": 680,
+            "link": "https://www.cardrush-pokemon.jp/product/30782",
+            "price": 580,
             "name": "ジムトレーナー192",
             "date": "2023-01-02",
             "stock": 8
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30782",
-            "price": 580,
+            "link": "https://www.cardrush-pokemon.jp/product/17341",
+            "price": 680,
             "name": "ジムトレーナー192",
             "date": "2023-01-02",
             "stock": 8
@@ -198,30 +222,6 @@
             "price": 770,
             "name": "【ポケカ】ＳＲ◇ジム",
             "date": "2023-01-02",
-            "stock": 4
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30782",
-            "price": 580,
-            "name": "ジムトレーナー192",
-            "date": "2023-01-01",
-            "stock": 18
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17341",
-            "price": 680,
-            "name": "ジムトレーナー192",
-            "date": "2023-01-01",
-            "stock": 8
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g192-190-S4A-B/",
-            "price": 770,
-            "name": "【ポケカ】ＳＲ◇ジム",
-            "date": "2023-01-01",
             "stock": 4
         }
     ]

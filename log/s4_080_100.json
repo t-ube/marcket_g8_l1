@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/18365",
             "price": 300,
             "name": "ギルガルドV(RR)",
+            "date": "2023-01-09",
+            "stock": 61
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30378",
+            "price": 250,
+            "name": "ギルガルドV080/",
+            "date": "2023-01-09",
+            "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14534",
+            "price": 280,
+            "name": "ギルガルドV080/",
+            "date": "2023-01-09",
+            "stock": 123
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18365",
+            "price": 300,
+            "name": "ギルガルドV(RR)",
             "date": "2023-01-08",
             "stock": 61
         },
@@ -58,19 +82,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30378",
-            "price": 250,
-            "name": "ギルガルドV080/",
-            "date": "2023-01-06",
-            "stock": 4
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/14534",
             "price": 280,
             "name": "ギルガルドV080/",
             "date": "2023-01-06",
             "stock": 123
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30378",
+            "price": 250,
+            "name": "ギルガルドV080/",
+            "date": "2023-01-06",
+            "stock": 4
         },
         {
             "market": "hareruya2",
@@ -127,6 +151,14 @@
             "name": "ギルガルドV(RR)",
             "date": "2023-01-03",
             "stock": 62
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30378",
+            "price": 250,
+            "name": "ギルガルドV080/",
+            "date": "2023-01-03",
+            "stock": 4
         },
         {
             "market": "cardrush",
@@ -137,28 +169,12 @@
             "stock": 124
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30378",
-            "price": 250,
-            "name": "ギルガルドV080/",
-            "date": "2023-01-03",
-            "stock": 4
-        },
-        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/18365",
             "price": 300,
             "name": "ギルガルドV(RR)",
             "date": "2023-01-02",
             "stock": 62
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30378",
-            "price": 250,
-            "name": "ギルガルドV080/",
-            "date": "2023-01-02",
-            "stock": 4
         },
         {
             "market": "cardrush",
@@ -169,27 +185,11 @@
             "stock": 124
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18365",
-            "price": 300,
-            "name": "ギルガルドV(RR)",
-            "date": "2023-01-01",
-            "stock": 62
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14534",
-            "price": 280,
-            "name": "ギルガルドV080/",
-            "date": "2023-01-01",
-            "stock": 36
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30378",
             "price": 250,
             "name": "ギルガルドV080/",
-            "date": "2023-01-01",
+            "date": "2023-01-02",
             "stock": 4
         }
     ]

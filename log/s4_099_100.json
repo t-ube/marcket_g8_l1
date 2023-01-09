@@ -5,6 +5,38 @@
             "link": "/items/89581900",
             "price": 25,
             "name": "PC ウォッシュ水エ",
+            "date": "2023-01-09",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1691614605",
+            "price": 25,
+            "name": "PC ウォッシュ水エ",
+            "date": "2023-01-09",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1828674391",
+            "price": 100,
+            "name": "ウォッシュ水エネルギ",
+            "date": "2023-01-09",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14553",
+            "price": 80,
+            "name": "ウォッシュ水エネルギ",
+            "date": "2023-01-09",
+            "stock": 246
+        },
+        {
+            "market": "magi",
+            "link": "/items/89581900",
+            "price": 25,
+            "name": "PC ウォッシュ水エ",
             "date": "2023-01-08",
             "stock": 4
         },
@@ -74,11 +106,11 @@
         },
         {
             "market": "magi",
-            "link": "/items/1691614605",
-            "price": 25,
-            "name": "PC ウォッシュ水エ",
+            "link": "/items/1828674391",
+            "price": 100,
+            "name": "ウォッシュ水エネルギ",
             "date": "2023-01-06",
-            "stock": 4
+            "stock": 1
         },
         {
             "market": "magi",
@@ -90,19 +122,11 @@
         },
         {
             "market": "magi",
-            "link": "/items/1828674391",
-            "price": 100,
-            "name": "ウォッシュ水エネルギ",
+            "link": "/items/1691614605",
+            "price": 25,
+            "name": "PC ウォッシュ水エ",
             "date": "2023-01-06",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30392",
-            "price": 70,
-            "name": "ウォッシュ水エネルギ",
-            "date": "2023-01-06",
-            "stock": 1
+            "stock": 4
         },
         {
             "market": "cardrush",
@@ -113,8 +137,16 @@
             "stock": 250
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30392",
+            "price": 70,
+            "name": "ウォッシュ水エネルギ",
+            "date": "2023-01-06",
+            "stock": 1
+        },
+        {
             "market": "magi",
-            "link": "/items/1691614605",
+            "link": "/items/89581900",
             "price": 25,
             "name": "PC ウォッシュ水エ",
             "date": "2023-01-05",
@@ -130,7 +162,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/89581900",
+            "link": "/items/1691614605",
             "price": 25,
             "name": "PC ウォッシュ水エ",
             "date": "2023-01-05",
@@ -162,14 +194,6 @@
         },
         {
             "market": "magi",
-            "link": "/items/1828674391",
-            "price": 100,
-            "name": "ウォッシュ水エネルギ",
-            "date": "2023-01-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/89581900",
             "price": 25,
             "name": "PC ウォッシュ水エ",
@@ -177,9 +201,9 @@
             "stock": 4
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30392",
-            "price": 70,
+            "market": "magi",
+            "link": "/items/1828674391",
+            "price": 100,
             "name": "ウォッシュ水エネルギ",
             "date": "2023-01-04",
             "stock": 1
@@ -193,11 +217,11 @@
             "stock": 252
         },
         {
-            "market": "magi",
-            "link": "/items/1828674391",
-            "price": 100,
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30392",
+            "price": 70,
             "name": "ウォッシュ水エネルギ",
-            "date": "2023-01-03",
+            "date": "2023-01-04",
             "stock": 1
         },
         {
@@ -215,6 +239,14 @@
             "name": "PC ウォッシュ水エ",
             "date": "2023-01-03",
             "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1828674391",
+            "price": 100,
+            "name": "ウォッシュ水エネルギ",
+            "date": "2023-01-03",
+            "stock": 1
         },
         {
             "market": "cardrush",
@@ -226,7 +258,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/1691614605",
+            "link": "/items/89581900",
             "price": 25,
             "name": "PC ウォッシュ水エ",
             "date": "2023-01-02",
@@ -242,7 +274,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/89581900",
+            "link": "/items/1691614605",
             "price": 25,
             "name": "PC ウォッシュ水エ",
             "date": "2023-01-02",
@@ -255,38 +287,6 @@
             "name": "ウォッシュ水エネルギ",
             "date": "2023-01-02",
             "stock": 256
-        },
-        {
-            "market": "magi",
-            "link": "/items/1828674391",
-            "price": 100,
-            "name": "ウォッシュ水エネルギ",
-            "date": "2023-01-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1691614605",
-            "price": 25,
-            "name": "PC ウォッシュ水エ",
-            "date": "2023-01-01",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/89581900",
-            "price": 25,
-            "name": "PC ウォッシュ水エ",
-            "date": "2023-01-01",
-            "stock": 4
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14553",
-            "price": 80,
-            "name": "ウォッシュ水エネルギ",
-            "date": "2023-01-01",
-            "stock": 254
         }
     ]
 }

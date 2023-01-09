@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/18324",
             "price": 50,
             "name": "シビビール(C){雷",
+            "date": "2023-01-09",
+            "stock": 14
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14493",
+            "price": 30,
+            "name": "シビビール039/1",
+            "date": "2023-01-09",
+            "stock": 25
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g039-100-S4-B/",
+            "price": 33,
+            "name": "【ポケカ】Ｃ◇シビビ",
+            "date": "2023-01-09",
+            "stock": 8
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18324",
+            "price": 50,
+            "name": "シビビール(C){雷",
             "date": "2023-01-08",
             "stock": 14
         },
@@ -166,30 +190,6 @@
             "price": 33,
             "name": "【ポケカ】Ｃ◇シビビ",
             "date": "2023-01-02",
-            "stock": 8
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18324",
-            "price": 50,
-            "name": "シビビール(C){雷",
-            "date": "2023-01-01",
-            "stock": 14
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14493",
-            "price": 30,
-            "name": "シビビール039/1",
-            "date": "2023-01-01",
-            "stock": 25
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g039-100-S4-B/",
-            "price": 33,
-            "name": "【ポケカ】Ｃ◇シビビ",
-            "date": "2023-01-01",
             "stock": 8
         }
     ]

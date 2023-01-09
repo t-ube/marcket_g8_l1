@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/17479",
             "price": 150,
             "name": "しんかのおこう(U)",
+            "date": "2023-01-09",
+            "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/6912",
+            "price": 220,
+            "name": "しんかのおこう052",
+            "date": "2023-01-09",
+            "stock": 36
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g052-060-S1W-B/",
+            "price": 220,
+            "name": "【ポケカ】Ｕ◇しんか",
+            "date": "2023-01-09",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17479",
+            "price": 150,
+            "name": "しんかのおこう(U)",
             "date": "2023-01-08",
             "stock": 3
         },
@@ -158,14 +182,6 @@
             "price": 220,
             "name": "【ポケカ】Ｕ◇しんか",
             "date": "2023-01-02",
-            "stock": 2
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g052-060-S1W-B/",
-            "price": 220,
-            "name": "【ポケカ】Ｕ◇しんか",
-            "date": "2023-01-01",
             "stock": 2
         }
     ]

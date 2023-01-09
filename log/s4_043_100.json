@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/18328",
             "price": 50,
             "name": "ヨマワル(C){超}",
+            "date": "2023-01-09",
+            "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14497",
+            "price": 30,
+            "name": "ヨマワル043/10",
+            "date": "2023-01-09",
+            "stock": 36
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g043-100-S4-B/",
+            "price": 33,
+            "name": "【ポケカ】Ｃ◇ヨマワ",
+            "date": "2023-01-09",
+            "stock": 12
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18328",
+            "price": 50,
+            "name": "ヨマワル(C){超}",
             "date": "2023-01-08",
             "stock": 3
         },
@@ -166,30 +190,6 @@
             "price": 33,
             "name": "【ポケカ】Ｃ◇ヨマワ",
             "date": "2023-01-02",
-            "stock": 12
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18328",
-            "price": 50,
-            "name": "ヨマワル(C){超}",
-            "date": "2023-01-01",
-            "stock": 3
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14497",
-            "price": 30,
-            "name": "ヨマワル043/10",
-            "date": "2023-01-01",
-            "stock": 36
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g043-100-S4-B/",
-            "price": 33,
-            "name": "【ポケカ】Ｃ◇ヨマワ",
-            "date": "2023-01-01",
             "stock": 12
         }
     ]

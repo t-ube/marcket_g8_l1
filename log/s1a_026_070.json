@@ -5,6 +5,22 @@
             "link": "https://www.hareruya2.com/product/17643",
             "price": 50,
             "name": "カマスジョー(U){",
+            "date": "2023-01-09",
+            "stock": 9
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/7310",
+            "price": 30,
+            "name": "カマスジョー026/",
+            "date": "2023-01-09",
+            "stock": 42
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17643",
+            "price": 50,
+            "name": "カマスジョー(U){",
             "date": "2023-01-08",
             "stock": 9
         },
@@ -111,22 +127,6 @@
             "name": "カマスジョー026/",
             "date": "2023-01-02",
             "stock": 42
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/17643",
-            "price": 50,
-            "name": "カマスジョー(U){",
-            "date": "2023-01-01",
-            "stock": 9
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7310",
-            "price": 30,
-            "name": "カマスジョー026/",
-            "date": "2023-01-01",
-            "stock": 43
         }
     ]
 }

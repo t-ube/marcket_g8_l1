@@ -3,6 +3,54 @@
         {
             "market": "magi",
             "link": "/items/1385949151",
+            "price": 12333,
+            "name": "マリィ HR 072",
+            "date": "2023-01-09",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2066238611",
+            "price": 17640,
+            "name": "〔状態A-〕マリィ【",
+            "date": "2023-01-09",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/822359124",
+            "price": 9999998,
+            "name": "マリィ HR 072",
+            "date": "2023-01-09",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17574",
+            "price": 18000,
+            "name": "マリィ(HR){サポ",
+            "date": "2023-01-09",
+            "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/29778",
+            "price": 16800,
+            "name": "マリィ072/060",
+            "date": "2023-01-09",
+            "stock": 11
+        },
+        {
+            "market": "magi",
+            "link": "/items/2066238611",
+            "price": 17640,
+            "name": "〔状態A-〕マリィ【",
+            "date": "2023-01-08",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1385949151",
             "price": 12777,
             "name": "マリィ HR 072",
             "date": "2023-01-08",
@@ -10,14 +58,6 @@
         },
         {
             "market": "magi",
-            "link": "/items/2066238611",
-            "price": 17640,
-            "name": "〔状態A-〕マリィ【",
-            "date": "2023-01-08",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/822359124",
             "price": 9999998,
             "name": "マリィ HR 072",
@@ -42,6 +82,14 @@
         },
         {
             "market": "magi",
+            "link": "/items/822359124",
+            "price": 9999998,
+            "name": "マリィ HR 072",
+            "date": "2023-01-07",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/2066238611",
             "price": 17640,
             "name": "〔状態A-〕マリィ【",
@@ -52,14 +100,6 @@
             "market": "magi",
             "link": "/items/1385949151",
             "price": 12999,
-            "name": "マリィ HR 072",
-            "date": "2023-01-07",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/822359124",
-            "price": 9999998,
             "name": "マリィ HR 072",
             "date": "2023-01-07",
             "stock": 1
@@ -82,9 +122,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/2066238611",
-            "price": 17640,
-            "name": "〔状態A-〕マリィ【",
+            "link": "/items/822359124",
+            "price": 9999998,
+            "name": "マリィ HR 072",
             "date": "2023-01-06",
             "stock": 1
         },
@@ -98,9 +138,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/822359124",
-            "price": 9999998,
-            "name": "マリィ HR 072",
+            "link": "/items/2066238611",
+            "price": 17640,
+            "name": "〔状態A-〕マリィ【",
             "date": "2023-01-06",
             "stock": 1
         },
@@ -122,16 +162,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/1385949151",
-            "price": 12999,
-            "name": "マリィ HR 072",
+            "link": "/items/430479266",
+            "price": 10479,
+            "name": "〔状態B〕マリィ【H",
             "date": "2023-01-05",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/822359124",
-            "price": 9999998,
+            "link": "/items/1373462490",
+            "price": 16800,
             "name": "マリィ HR 072",
             "date": "2023-01-05",
             "stock": 1
@@ -146,17 +186,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/1373462490",
-            "price": 16800,
+            "link": "/items/822359124",
+            "price": 9999998,
             "name": "マリィ HR 072",
             "date": "2023-01-05",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/430479266",
-            "price": 10479,
-            "name": "〔状態B〕マリィ【H",
+            "link": "/items/1385949151",
+            "price": 12999,
+            "name": "マリィ HR 072",
             "date": "2023-01-05",
             "stock": 1
         },
@@ -202,24 +242,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/1452711489",
-            "price": 18690,
-            "name": "マリィ【HR】{07",
-            "date": "2023-01-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/1482871821",
             "price": 12300,
-            "name": "マリィ HR 072",
-            "date": "2023-01-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/822359124",
-            "price": 9999998,
             "name": "マリィ HR 072",
             "date": "2023-01-04",
             "stock": 1
@@ -233,18 +257,26 @@
             "stock": 1
         },
         {
+            "market": "magi",
+            "link": "/items/822359124",
+            "price": 9999998,
+            "name": "マリィ HR 072",
+            "date": "2023-01-04",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1452711489",
+            "price": 18690,
+            "name": "マリィ【HR】{07",
+            "date": "2023-01-04",
+            "stock": 1
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/17574",
             "price": 18000,
             "name": "マリィ(HR){サポ",
-            "date": "2023-01-04",
-            "stock": 3
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7044",
-            "price": 17800,
-            "name": "マリィ072/060",
             "date": "2023-01-04",
             "stock": 3
         },
@@ -257,34 +289,18 @@
             "stock": 10
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/7044",
+            "price": 17800,
+            "name": "マリィ072/060",
+            "date": "2023-01-04",
+            "stock": 3
+        },
+        {
             "market": "magi",
-            "link": "/items/1482871821",
-            "price": 12300,
+            "link": "/items/1385949151",
+            "price": 13111,
             "name": "マリィ HR 072",
-            "date": "2023-01-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/822359124",
-            "price": 9999998,
-            "name": "マリィ HR 072",
-            "date": "2023-01-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2066238611",
-            "price": 15540,
-            "name": "〔状態A-〕マリィ【",
-            "date": "2023-01-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1452711489",
-            "price": 18690,
-            "name": "マリィ【HR】{07",
             "date": "2023-01-03",
             "stock": 1
         },
@@ -298,8 +314,32 @@
         },
         {
             "market": "magi",
-            "link": "/items/1385949151",
-            "price": 13111,
+            "link": "/items/1452711489",
+            "price": 18690,
+            "name": "マリィ【HR】{07",
+            "date": "2023-01-03",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2066238611",
+            "price": 15540,
+            "name": "〔状態A-〕マリィ【",
+            "date": "2023-01-03",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/822359124",
+            "price": 9999998,
+            "name": "マリィ HR 072",
+            "date": "2023-01-03",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1482871821",
+            "price": 12300,
             "name": "マリィ HR 072",
             "date": "2023-01-03",
             "stock": 1
@@ -399,78 +439,6 @@
             "name": "マリィ072/060",
             "date": "2023-01-02",
             "stock": 10
-        },
-        {
-            "market": "magi",
-            "link": "/items/1452711489",
-            "price": 18690,
-            "name": "マリィ【HR】{07",
-            "date": "2023-01-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1373462490",
-            "price": 16800,
-            "name": "マリィ HR 072",
-            "date": "2023-01-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1385949151",
-            "price": 13333,
-            "name": "マリィ HR 072",
-            "date": "2023-01-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1482871821",
-            "price": 12300,
-            "name": "マリィ HR 072",
-            "date": "2023-01-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2066238611",
-            "price": 15540,
-            "name": "〔状態A-〕マリィ【",
-            "date": "2023-01-01",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/822359124",
-            "price": 9999998,
-            "name": "マリィ HR 072",
-            "date": "2023-01-01",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/17574",
-            "price": 18000,
-            "name": "マリィ(HR){サポ",
-            "date": "2023-01-01",
-            "stock": 3
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/29778",
-            "price": 14800,
-            "name": "マリィ072/060",
-            "date": "2023-01-01",
-            "stock": 8
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7044",
-            "price": 17800,
-            "name": "マリィ072/060",
-            "date": "2023-01-01",
-            "stock": 6
         }
     ]
 }
