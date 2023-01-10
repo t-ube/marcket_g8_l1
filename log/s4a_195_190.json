@@ -2,6 +2,126 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/421903048",
+            "price": 9500,
+            "name": "フウロ SR 195",
+            "date": "2023-01-10",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/659134966",
+            "price": 15555,
+            "name": "フウロ SR 195",
+            "date": "2023-01-10",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1399095653",
+            "price": 5500,
+            "name": "（ジャンク）フウロ ",
+            "date": "2023-01-10",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/590424130",
+            "price": 8694,
+            "name": "〔状態A-〕フウロ【",
+            "date": "2023-01-10",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/708735795",
+            "price": 11000,
+            "name": "フウロ SR 195",
+            "date": "2023-01-10",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1699312531",
+            "price": 8800,
+            "name": "フウロ SR 195",
+            "date": "2023-01-10",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/280495519",
+            "price": 38000,
+            "name": "PSA10フウロ S",
+            "date": "2023-01-10",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/966865988",
+            "price": 10167,
+            "name": "フウロ SR 195",
+            "date": "2023-01-10",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/470265684",
+            "price": 9000,
+            "name": "フウロ SR 195",
+            "date": "2023-01-10",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1532205578",
+            "price": 27800,
+            "name": "フウロ SR 195",
+            "date": "2023-01-10",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2041173331",
+            "price": 10977,
+            "name": "フウロ SR 195",
+            "date": "2023-01-10",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/599620212",
+            "price": 4000,
+            "name": "フウロ SR 195",
+            "date": "2023-01-10",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1670444698",
+            "price": 8200,
+            "name": "フウロ SR 195",
+            "date": "2023-01-10",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30785",
+            "price": 8280,
+            "name": "フウロ195/190",
+            "date": "2023-01-10",
+            "stock": 3
+        },
+        {
+            "market": "magi",
+            "link": "/items/470265684",
+            "price": 9000,
+            "name": "フウロ SR 195",
+            "date": "2023-01-09",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/966865988",
             "price": 10167,
             "name": "フウロ SR 195",
@@ -10,9 +130,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/470265684",
-            "price": 9000,
-            "name": "フウロ SR 195",
+            "link": "/items/590424130",
+            "price": 8694,
+            "name": "〔状態A-〕フウロ【",
             "date": "2023-01-09",
             "stock": 1
         },
@@ -26,17 +146,49 @@
         },
         {
             "market": "magi",
-            "link": "/items/1399095653",
-            "price": 5500,
-            "name": "（ジャンク）フウロ ",
+            "link": "/items/2041173331",
+            "price": 10977,
+            "name": "フウロ SR 195",
             "date": "2023-01-09",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/590424130",
-            "price": 8694,
-            "name": "〔状態A-〕フウロ【",
+            "link": "/items/1301793939",
+            "price": 10920,
+            "name": "フウロ【SR】{19",
+            "date": "2023-01-09",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1670444698",
+            "price": 8200,
+            "name": "フウロ SR 195",
+            "date": "2023-01-09",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/599620212",
+            "price": 4000,
+            "name": "フウロ SR 195",
+            "date": "2023-01-09",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1532205578",
+            "price": 27800,
+            "name": "フウロ SR 195",
+            "date": "2023-01-09",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1399095653",
+            "price": 5500,
+            "name": "（ジャンク）フウロ ",
             "date": "2023-01-09",
             "stock": 1
         },
@@ -53,46 +205,6 @@
             "link": "/items/280495519",
             "price": 38000,
             "name": "PSA10フウロ S",
-            "date": "2023-01-09",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2041173331",
-            "price": 10977,
-            "name": "フウロ SR 195",
-            "date": "2023-01-09",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1532205578",
-            "price": 27800,
-            "name": "フウロ SR 195",
-            "date": "2023-01-09",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/599620212",
-            "price": 4000,
-            "name": "フウロ SR 195",
-            "date": "2023-01-09",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1670444698",
-            "price": 8200,
-            "name": "フウロ SR 195",
-            "date": "2023-01-09",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1301793939",
-            "price": 10920,
-            "name": "フウロ【SR】{19",
             "date": "2023-01-09",
             "stock": 1
         },
@@ -114,14 +226,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30785",
-            "price": 8280,
-            "name": "フウロ195/190",
-            "date": "2023-01-09",
-            "stock": 7
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17344",
             "price": 10400,
             "name": "フウロ195/190",
@@ -129,36 +233,12 @@
             "stock": 2
         },
         {
-            "market": "magi",
-            "link": "/items/1532205578",
-            "price": 27800,
-            "name": "フウロ SR 195",
-            "date": "2023-01-08",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/659134966",
-            "price": 15555,
-            "name": "フウロ SR 195",
-            "date": "2023-01-08",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/966865988",
-            "price": 10270,
-            "name": "フウロ SR 195",
-            "date": "2023-01-08",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/599620212",
-            "price": 4000,
-            "name": "フウロ SR 195",
-            "date": "2023-01-08",
-            "stock": 1
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30785",
+            "price": 8280,
+            "name": "フウロ195/190",
+            "date": "2023-01-09",
+            "stock": 7
         },
         {
             "market": "magi",
@@ -170,40 +250,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/1399095653",
-            "price": 5500,
-            "name": "（ジャンク）フウロ ",
-            "date": "2023-01-08",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/421903048",
-            "price": 8500,
+            "link": "/items/1532205578",
+            "price": 27800,
             "name": "フウロ SR 195",
             "date": "2023-01-08",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/590424130",
-            "price": 8694,
-            "name": "〔状態A-〕フウロ【",
-            "date": "2023-01-08",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/708735795",
-            "price": 11000,
-            "name": "フウロ SR 195",
-            "date": "2023-01-08",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1699312531",
-            "price": 8800,
+            "link": "/items/470265684",
+            "price": 9000,
             "name": "フウロ SR 195",
             "date": "2023-01-08",
             "stock": 1
@@ -218,8 +274,64 @@
         },
         {
             "market": "magi",
-            "link": "/items/470265684",
-            "price": 9000,
+            "link": "/items/1699312531",
+            "price": 8800,
+            "name": "フウロ SR 195",
+            "date": "2023-01-08",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/708735795",
+            "price": 11000,
+            "name": "フウロ SR 195",
+            "date": "2023-01-08",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/590424130",
+            "price": 8694,
+            "name": "〔状態A-〕フウロ【",
+            "date": "2023-01-08",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/421903048",
+            "price": 8500,
+            "name": "フウロ SR 195",
+            "date": "2023-01-08",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1399095653",
+            "price": 5500,
+            "name": "（ジャンク）フウロ ",
+            "date": "2023-01-08",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/599620212",
+            "price": 4000,
+            "name": "フウロ SR 195",
+            "date": "2023-01-08",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/966865988",
+            "price": 10270,
+            "name": "フウロ SR 195",
+            "date": "2023-01-08",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/659134966",
+            "price": 15555,
             "name": "フウロ SR 195",
             "date": "2023-01-08",
             "stock": 1
@@ -242,80 +354,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/966865988",
-            "price": 10270,
-            "name": "フウロ SR 195",
-            "date": "2023-01-07",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/590424130",
-            "price": 8694,
-            "name": "〔状態A-〕フウロ【",
-            "date": "2023-01-07",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/280495519",
-            "price": 38000,
-            "name": "PSA10フウロ S",
-            "date": "2023-01-07",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1399095653",
-            "price": 5500,
-            "name": "（ジャンク）フウロ ",
-            "date": "2023-01-07",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2041173331",
-            "price": 11088,
-            "name": "フウロ SR 195",
-            "date": "2023-01-07",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/659134966",
-            "price": 15555,
-            "name": "フウロ SR 195",
-            "date": "2023-01-07",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/708735795",
-            "price": 11000,
-            "name": "フウロ SR 195",
-            "date": "2023-01-07",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/470265684",
-            "price": 9000,
-            "name": "フウロ SR 195",
-            "date": "2023-01-07",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/1532205578",
             "price": 27800,
-            "name": "フウロ SR 195",
-            "date": "2023-01-07",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/421903048",
-            "price": 8500,
             "name": "フウロ SR 195",
             "date": "2023-01-07",
             "stock": 1
@@ -330,6 +370,54 @@
         },
         {
             "market": "magi",
+            "link": "/items/1699312531",
+            "price": 8800,
+            "name": "フウロ SR 195",
+            "date": "2023-01-07",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/470265684",
+            "price": 9000,
+            "name": "フウロ SR 195",
+            "date": "2023-01-07",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/708735795",
+            "price": 11000,
+            "name": "フウロ SR 195",
+            "date": "2023-01-07",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/659134966",
+            "price": 15555,
+            "name": "フウロ SR 195",
+            "date": "2023-01-07",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2041173331",
+            "price": 11088,
+            "name": "フウロ SR 195",
+            "date": "2023-01-07",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/421903048",
+            "price": 8500,
+            "name": "フウロ SR 195",
+            "date": "2023-01-07",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/1846155043",
             "price": 10479,
             "name": "フウロ【SR】{19",
@@ -338,8 +426,32 @@
         },
         {
             "market": "magi",
-            "link": "/items/1699312531",
-            "price": 8800,
+            "link": "/items/1399095653",
+            "price": 5500,
+            "name": "（ジャンク）フウロ ",
+            "date": "2023-01-07",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/280495519",
+            "price": 38000,
+            "name": "PSA10フウロ S",
+            "date": "2023-01-07",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/590424130",
+            "price": 8694,
+            "name": "〔状態A-〕フウロ【",
+            "date": "2023-01-07",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/966865988",
+            "price": 10270,
             "name": "フウロ SR 195",
             "date": "2023-01-07",
             "stock": 1
@@ -370,48 +482,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/1399095653",
-            "price": 5500,
-            "name": "（ジャンク）フウロ ",
-            "date": "2023-01-06",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/470265684",
-            "price": 9000,
+            "link": "/items/659134966",
+            "price": 15555,
             "name": "フウロ SR 195",
             "date": "2023-01-06",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1846155043",
-            "price": 10479,
-            "name": "フウロ【SR】{19",
-            "date": "2023-01-06",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/966865988",
-            "price": 10270,
-            "name": "フウロ SR 195",
-            "date": "2023-01-06",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/708735795",
-            "price": 11000,
-            "name": "フウロ SR 195",
-            "date": "2023-01-06",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2041173331",
-            "price": 11088,
+            "link": "/items/1699312531",
+            "price": 8800,
             "name": "フウロ SR 195",
             "date": "2023-01-06",
             "stock": 1
@@ -426,25 +506,57 @@
         },
         {
             "market": "magi",
+            "link": "/items/2041173331",
+            "price": 11088,
+            "name": "フウロ SR 195",
+            "date": "2023-01-06",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/708735795",
+            "price": 11000,
+            "name": "フウロ SR 195",
+            "date": "2023-01-06",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/966865988",
+            "price": 10270,
+            "name": "フウロ SR 195",
+            "date": "2023-01-06",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1846155043",
+            "price": 10479,
+            "name": "フウロ【SR】{19",
+            "date": "2023-01-06",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/470265684",
+            "price": 9000,
+            "name": "フウロ SR 195",
+            "date": "2023-01-06",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1399095653",
+            "price": 5500,
+            "name": "（ジャンク）フウロ ",
+            "date": "2023-01-06",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/280495519",
             "price": 38000,
             "name": "PSA10フウロ S",
-            "date": "2023-01-06",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1699312531",
-            "price": 8800,
-            "name": "フウロ SR 195",
-            "date": "2023-01-06",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/659134966",
-            "price": 15555,
-            "name": "フウロ SR 195",
             "date": "2023-01-06",
             "stock": 1
         },
@@ -474,14 +586,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17344",
-            "price": 9980,
-            "name": "フウロ195/190",
-            "date": "2023-01-06",
-            "stock": 34
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30785",
             "price": 8280,
             "name": "フウロ195/190",
@@ -489,17 +593,73 @@
             "stock": 9
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17344",
+            "price": 9980,
+            "name": "フウロ195/190",
+            "date": "2023-01-06",
+            "stock": 34
+        },
+        {
             "market": "magi",
-            "link": "/items/966865988",
-            "price": 10374,
+            "link": "/items/590424130",
+            "price": 8694,
+            "name": "〔状態A-〕フウロ【",
+            "date": "2023-01-05",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1846155043",
+            "price": 10479,
+            "name": "フウロ【SR】{19",
+            "date": "2023-01-05",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/280495519",
+            "price": 38000,
+            "name": "PSA10フウロ S",
+            "date": "2023-01-05",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2041173331",
+            "price": 11201,
             "name": "フウロ SR 195",
             "date": "2023-01-05",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/708735795",
-            "price": 11000,
+            "link": "/items/1699312531",
+            "price": 8800,
+            "name": "フウロ SR 195",
+            "date": "2023-01-05",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/421903048",
+            "price": 8500,
+            "name": "フウロ SR 195",
+            "date": "2023-01-05",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1532205578",
+            "price": 28000,
+            "name": "フウロ SR 195",
+            "date": "2023-01-05",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/470265684",
+            "price": 9000,
             "name": "フウロ SR 195",
             "date": "2023-01-05",
             "stock": 1
@@ -514,24 +674,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/470265684",
-            "price": 9000,
+            "link": "/items/708735795",
+            "price": 11000,
             "name": "フウロ SR 195",
             "date": "2023-01-05",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1532205578",
-            "price": 28000,
-            "name": "フウロ SR 195",
-            "date": "2023-01-05",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/421903048",
-            "price": 8500,
+            "link": "/items/966865988",
+            "price": 10374,
             "name": "フウロ SR 195",
             "date": "2023-01-05",
             "stock": 1
@@ -541,46 +693,6 @@
             "link": "/items/659134966",
             "price": 15555,
             "name": "フウロ SR 195",
-            "date": "2023-01-05",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1699312531",
-            "price": 8800,
-            "name": "フウロ SR 195",
-            "date": "2023-01-05",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2041173331",
-            "price": 11201,
-            "name": "フウロ SR 195",
-            "date": "2023-01-05",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/280495519",
-            "price": 38000,
-            "name": "PSA10フウロ S",
-            "date": "2023-01-05",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1846155043",
-            "price": 10479,
-            "name": "フウロ【SR】{19",
-            "date": "2023-01-05",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/590424130",
-            "price": 8694,
-            "name": "〔状態A-〕フウロ【",
             "date": "2023-01-05",
             "stock": 1
         },
@@ -602,6 +714,30 @@
         },
         {
             "market": "magi",
+            "link": "/items/966865988",
+            "price": 10374,
+            "name": "フウロ SR 195",
+            "date": "2023-01-04",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1846155043",
+            "price": 10479,
+            "name": "フウロ【SR】{19",
+            "date": "2023-01-04",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/421903048",
+            "price": 10000,
+            "name": "フウロ SR 195",
+            "date": "2023-01-04",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/2041173331",
             "price": 11201,
             "name": "フウロ SR 195",
@@ -642,14 +778,6 @@
         },
         {
             "market": "magi",
-            "link": "/items/966865988",
-            "price": 10374,
-            "name": "フウロ SR 195",
-            "date": "2023-01-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/470265684",
             "price": 9000,
             "name": "フウロ SR 195",
@@ -668,22 +796,6 @@
             "market": "magi",
             "link": "/items/1699312531",
             "price": 8800,
-            "name": "フウロ SR 195",
-            "date": "2023-01-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1846155043",
-            "price": 10479,
-            "name": "フウロ【SR】{19",
-            "date": "2023-01-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/421903048",
-            "price": 10000,
             "name": "フウロ SR 195",
             "date": "2023-01-04",
             "stock": 1
@@ -722,6 +834,14 @@
         },
         {
             "market": "magi",
+            "link": "/items/1399095653",
+            "price": 5500,
+            "name": "（ジャンク）フウロ ",
+            "date": "2023-01-03",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/470265684",
             "price": 9000,
             "name": "フウロ SR 195",
@@ -765,14 +885,6 @@
             "link": "/items/1699312531",
             "price": 8800,
             "name": "フウロ SR 195",
-            "date": "2023-01-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1399095653",
-            "price": 5500,
-            "name": "（ジャンク）フウロ ",
             "date": "2023-01-03",
             "stock": 1
         },
@@ -818,14 +930,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17344",
-            "price": 9980,
-            "name": "フウロ195/190",
-            "date": "2023-01-03",
-            "stock": 9
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30785",
             "price": 8280,
             "name": "フウロ195/190",
@@ -833,115 +937,11 @@
             "stock": 9
         },
         {
-            "market": "magi",
-            "link": "/items/470265684",
-            "price": 9000,
-            "name": "フウロ SR 195",
-            "date": "2023-01-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/280495519",
-            "price": 38000,
-            "name": "PSA10フウロ S",
-            "date": "2023-01-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1532205578",
-            "price": 24500,
-            "name": "フウロ SR 195",
-            "date": "2023-01-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/659134966",
-            "price": 15555,
-            "name": "フウロ SR 195",
-            "date": "2023-01-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1399095653",
-            "price": 5500,
-            "name": "（ジャンク）フウロ ",
-            "date": "2023-01-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1699312531",
-            "price": 8800,
-            "name": "フウロ SR 195",
-            "date": "2023-01-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/966865988",
-            "price": 10374,
-            "name": "フウロ SR 195",
-            "date": "2023-01-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1846155043",
-            "price": 10479,
-            "name": "フウロ【SR】{19",
-            "date": "2023-01-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/708735795",
-            "price": 11000,
-            "name": "フウロ SR 195",
-            "date": "2023-01-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2041173331",
-            "price": 11201,
-            "name": "フウロ SR 195",
-            "date": "2023-01-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/590424130",
-            "price": 8694,
-            "name": "〔状態A-〕フウロ【",
-            "date": "2023-01-02",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18601",
-            "price": 10000,
-            "name": "フウロ(SR){サポ",
-            "date": "2023-01-02",
-            "stock": 2
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17344",
             "price": 9980,
             "name": "フウロ195/190",
-            "date": "2023-01-02",
-            "stock": 2
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30785",
-            "price": 8280,
-            "name": "フウロ195/190",
-            "date": "2023-01-02",
+            "date": "2023-01-03",
             "stock": 9
         }
     ]

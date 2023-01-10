@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/17532",
             "price": 50,
             "name": "ドサイドン(R){闘",
+            "date": "2023-01-10",
+            "stock": 25
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/6950",
+            "price": 80,
+            "name": "ドサイドン030/0",
+            "date": "2023-01-10",
+            "stock": 90
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g030-060-S1H-B/",
+            "price": 50,
+            "name": "【ポケカ】Ｒ◇ドサイ",
+            "date": "2023-01-10",
+            "stock": 12
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17532",
+            "price": 50,
+            "name": "ドサイドン(R){闘",
             "date": "2023-01-09",
             "stock": 25
         },
@@ -166,30 +190,6 @@
             "price": 50,
             "name": "【ポケカ】Ｒ◇ドサイ",
             "date": "2023-01-03",
-            "stock": 12
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/17532",
-            "price": 50,
-            "name": "ドサイドン(R){闘",
-            "date": "2023-01-02",
-            "stock": 25
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/6950",
-            "price": 80,
-            "name": "ドサイドン030/0",
-            "date": "2023-01-02",
-            "stock": 90
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g030-060-S1H-B/",
-            "price": 50,
-            "name": "【ポケカ】Ｒ◇ドサイ",
-            "date": "2023-01-02",
             "stock": 12
         }
     ]

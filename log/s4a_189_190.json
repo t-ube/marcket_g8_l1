@@ -2,6 +2,150 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/815454159",
+            "price": 100,
+            "name": "ツインエネルギー　1",
+            "date": "2023-01-10",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1422636000",
+            "price": 100,
+            "name": "ツインエネルギー 1",
+            "date": "2023-01-10",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1957563790",
+            "price": 300,
+            "name": "ツインエネルギー【-",
+            "date": "2023-01-10",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/724714817",
+            "price": 500,
+            "name": "ツインエネルギー 1",
+            "date": "2023-01-10",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1214790337",
+            "price": 140,
+            "name": "ツインエネルギー 1",
+            "date": "2023-01-10",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/860567962",
+            "price": 250,
+            "name": "ツインエネルギー 1",
+            "date": "2023-01-10",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/351593605",
+            "price": 25,
+            "name": "PC ツインエネルギ",
+            "date": "2023-01-10",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1774415815",
+            "price": 25,
+            "name": "PC ツインエネルギ",
+            "date": "2023-01-10",
+            "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30779",
+            "price": 110,
+            "name": "ツインエネルギー18",
+            "date": "2023-01-10",
+            "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30655",
+            "price": 70,
+            "name": "ツインエネルギー18",
+            "date": "2023-01-10",
+            "stock": 16
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17172",
+            "price": 80,
+            "name": "ツインエネルギー18",
+            "date": "2023-01-10",
+            "stock": 96
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17338",
+            "price": 120,
+            "name": "ツインエネルギー18",
+            "date": "2023-01-10",
+            "stock": 35
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g189-190-S4A-B/",
+            "price": 77,
+            "name": "【ポケカ】Ｃ）通常仕",
+            "date": "2023-01-10",
+            "stock": 7
+        },
+        {
+            "market": "magi",
+            "link": "/items/1214790337",
+            "price": 140,
+            "name": "ツインエネルギー 1",
+            "date": "2023-01-09",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/815454159",
+            "price": 100,
+            "name": "ツインエネルギー　1",
+            "date": "2023-01-09",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1957563790",
+            "price": 300,
+            "name": "ツインエネルギー【-",
+            "date": "2023-01-09",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/860567962",
+            "price": 250,
+            "name": "ツインエネルギー 1",
+            "date": "2023-01-09",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/724714817",
+            "price": 500,
+            "name": "ツインエネルギー 1",
+            "date": "2023-01-09",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/1774415815",
             "price": 25,
             "name": "PC ツインエネルギ",
@@ -18,67 +162,11 @@
         },
         {
             "market": "magi",
-            "link": "/items/1957563790",
-            "price": 300,
-            "name": "ツインエネルギー【-",
-            "date": "2023-01-09",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/815454159",
-            "price": 100,
-            "name": "ツインエネルギー　1",
-            "date": "2023-01-09",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/724714817",
-            "price": 500,
-            "name": "ツインエネルギー 1",
-            "date": "2023-01-09",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1214790337",
-            "price": 140,
-            "name": "ツインエネルギー 1",
-            "date": "2023-01-09",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/860567962",
-            "price": 250,
-            "name": "ツインエネルギー 1",
-            "date": "2023-01-09",
-            "stock": 1
-        },
-        {
-            "market": "magi",
             "link": "/items/351593605",
             "price": 25,
             "name": "PC ツインエネルギ",
             "date": "2023-01-09",
             "stock": 4
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30779",
-            "price": 110,
-            "name": "ツインエネルギー18",
-            "date": "2023-01-09",
-            "stock": 3
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30655",
-            "price": 70,
-            "name": "ツインエネルギー18",
-            "date": "2023-01-09",
-            "stock": 16
         },
         {
             "market": "cardrush",
@@ -97,6 +185,22 @@
             "stock": 35
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30655",
+            "price": 70,
+            "name": "ツインエネルギー18",
+            "date": "2023-01-09",
+            "stock": 16
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30779",
+            "price": 110,
+            "name": "ツインエネルギー18",
+            "date": "2023-01-09",
+            "stock": 3
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g189-190-S4A-B/",
             "price": 77,
@@ -106,17 +210,41 @@
         },
         {
             "market": "magi",
-            "link": "/items/1214790337",
-            "price": 140,
+            "link": "/items/860567962",
+            "price": 250,
             "name": "ツインエネルギー 1",
             "date": "2023-01-08",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1957563790",
-            "price": 300,
-            "name": "ツインエネルギー【-",
+            "link": "/items/1774415815",
+            "price": 25,
+            "name": "PC ツインエネルギ",
+            "date": "2023-01-08",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/351593605",
+            "price": 25,
+            "name": "PC ツインエネルギ",
+            "date": "2023-01-08",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/724714817",
+            "price": 500,
+            "name": "ツインエネルギー 1",
+            "date": "2023-01-08",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/815454159",
+            "price": 100,
+            "name": "ツインエネルギー　1",
             "date": "2023-01-08",
             "stock": 1
         },
@@ -130,51 +258,27 @@
         },
         {
             "market": "magi",
-            "link": "/items/815454159",
-            "price": 100,
-            "name": "ツインエネルギー　1",
+            "link": "/items/1957563790",
+            "price": 300,
+            "name": "ツインエネルギー【-",
             "date": "2023-01-08",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/724714817",
-            "price": 500,
+            "link": "/items/1214790337",
+            "price": 140,
             "name": "ツインエネルギー 1",
             "date": "2023-01-08",
             "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/351593605",
-            "price": 25,
-            "name": "PC ツインエネルギ",
-            "date": "2023-01-08",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/860567962",
-            "price": 250,
-            "name": "ツインエネルギー 1",
-            "date": "2023-01-08",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1774415815",
-            "price": 25,
-            "name": "PC ツインエネルギ",
-            "date": "2023-01-08",
-            "stock": 4
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30655",
-            "price": 70,
+            "link": "https://www.cardrush-pokemon.jp/product/30779",
+            "price": 110,
             "name": "ツインエネルギー18",
             "date": "2023-01-08",
-            "stock": 16
+            "stock": 3
         },
         {
             "market": "cardrush",
@@ -186,11 +290,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30779",
-            "price": 110,
+            "link": "https://www.cardrush-pokemon.jp/product/30655",
+            "price": 70,
             "name": "ツインエネルギー18",
             "date": "2023-01-08",
-            "stock": 3
+            "stock": 16
         },
         {
             "market": "cardrush",
@@ -207,46 +311,6 @@
             "name": "【ポケカ】Ｃ）通常仕",
             "date": "2023-01-08",
             "stock": 7
-        },
-        {
-            "market": "magi",
-            "link": "/items/1214790337",
-            "price": 140,
-            "name": "ツインエネルギー 1",
-            "date": "2023-01-07",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/815454159",
-            "price": 100,
-            "name": "ツインエネルギー　1",
-            "date": "2023-01-07",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1957563790",
-            "price": 300,
-            "name": "ツインエネルギー【-",
-            "date": "2023-01-07",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/351593605",
-            "price": 25,
-            "name": "PC ツインエネルギ",
-            "date": "2023-01-07",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/1774415815",
-            "price": 25,
-            "name": "PC ツインエネルギ",
-            "date": "2023-01-07",
-            "stock": 4
         },
         {
             "market": "magi",
@@ -258,6 +322,46 @@
         },
         {
             "market": "magi",
+            "link": "/items/815454159",
+            "price": 100,
+            "name": "ツインエネルギー　1",
+            "date": "2023-01-07",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1214790337",
+            "price": 140,
+            "name": "ツインエネルギー 1",
+            "date": "2023-01-07",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1774415815",
+            "price": 25,
+            "name": "PC ツインエネルギ",
+            "date": "2023-01-07",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/351593605",
+            "price": 25,
+            "name": "PC ツインエネルギ",
+            "date": "2023-01-07",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/860567962",
+            "price": 250,
+            "name": "ツインエネルギー 1",
+            "date": "2023-01-07",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/724714817",
             "price": 500,
             "name": "ツインエネルギー 1",
@@ -266,9 +370,9 @@
         },
         {
             "market": "magi",
-            "link": "/items/860567962",
-            "price": 250,
-            "name": "ツインエネルギー 1",
+            "link": "/items/1957563790",
+            "price": 300,
+            "name": "ツインエネルギー【-",
             "date": "2023-01-07",
             "stock": 1
         },
@@ -290,19 +394,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17338",
-            "price": 120,
-            "name": "ツインエネルギー18",
-            "date": "2023-01-07",
-            "stock": 31
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30779",
             "price": 110,
             "name": "ツインエネルギー18",
             "date": "2023-01-07",
             "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17338",
+            "price": 120,
+            "name": "ツインエネルギー18",
+            "date": "2023-01-07",
+            "stock": 31
         },
         {
             "market": "torecolo",
@@ -370,22 +474,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30779",
-            "price": 110,
-            "name": "ツインエネルギー18",
-            "date": "2023-01-06",
-            "stock": 3
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30655",
-            "price": 70,
-            "name": "ツインエネルギー18",
-            "date": "2023-01-06",
-            "stock": 16
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17172",
             "price": 80,
             "name": "ツインエネルギー18",
@@ -401,60 +489,28 @@
             "stock": 31
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30655",
+            "price": 70,
+            "name": "ツインエネルギー18",
+            "date": "2023-01-06",
+            "stock": 16
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30779",
+            "price": 110,
+            "name": "ツインエネルギー18",
+            "date": "2023-01-06",
+            "stock": 3
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g189-190-S4A-B/",
             "price": 77,
             "name": "【ポケカ】Ｃ）通常仕",
             "date": "2023-01-06",
             "stock": 7
-        },
-        {
-            "market": "magi",
-            "link": "/items/724714817",
-            "price": 500,
-            "name": "ツインエネルギー 1",
-            "date": "2023-01-05",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/351593605",
-            "price": 25,
-            "name": "PC ツインエネルギ",
-            "date": "2023-01-05",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/1957563790",
-            "price": 300,
-            "name": "ツインエネルギー【-",
-            "date": "2023-01-05",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1214790337",
-            "price": 140,
-            "name": "ツインエネルギー 1",
-            "date": "2023-01-05",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/860567962",
-            "price": 250,
-            "name": "ツインエネルギー 1",
-            "date": "2023-01-05",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1774415815",
-            "price": 25,
-            "name": "PC ツインエネルギ",
-            "date": "2023-01-05",
-            "stock": 4
         },
         {
             "market": "magi",
@@ -465,6 +521,54 @@
             "stock": 1
         },
         {
+            "market": "magi",
+            "link": "/items/1774415815",
+            "price": 25,
+            "name": "PC ツインエネルギ",
+            "date": "2023-01-05",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1214790337",
+            "price": 140,
+            "name": "ツインエネルギー 1",
+            "date": "2023-01-05",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1957563790",
+            "price": 300,
+            "name": "ツインエネルギー【-",
+            "date": "2023-01-05",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/351593605",
+            "price": 25,
+            "name": "PC ツインエネルギ",
+            "date": "2023-01-05",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/724714817",
+            "price": 500,
+            "name": "ツインエネルギー 1",
+            "date": "2023-01-05",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/860567962",
+            "price": 250,
+            "name": "ツインエネルギー 1",
+            "date": "2023-01-05",
+            "stock": 1
+        },
+        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17172",
             "price": 80,
@@ -506,6 +610,14 @@
         },
         {
             "market": "magi",
+            "link": "/items/860567962",
+            "price": 250,
+            "name": "ツインエネルギー 1",
+            "date": "2023-01-04",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/1774415815",
             "price": 25,
             "name": "PC ツインエネルギ",
@@ -525,14 +637,6 @@
             "link": "/items/1957563790",
             "price": 300,
             "name": "ツインエネルギー【-",
-            "date": "2023-01-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/860567962",
-            "price": 250,
-            "name": "ツインエネルギー 1",
             "date": "2023-01-04",
             "stock": 1
         },
@@ -562,6 +666,14 @@
         },
         {
             "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17172",
+            "price": 80,
+            "name": "ツインエネルギー18",
+            "date": "2023-01-04",
+            "stock": 77
+        },
+        {
+            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17338",
             "price": 120,
             "name": "ツインエネルギー18",
@@ -585,14 +697,6 @@
             "stock": 3
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17172",
-            "price": 80,
-            "name": "ツインエネルギー18",
-            "date": "2023-01-04",
-            "stock": 77
-        },
-        {
             "market": "torecolo",
             "link": "/shop/g/g189-190-S4A-B/",
             "price": 77,
@@ -602,7 +706,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/351593605",
+            "link": "/items/1774415815",
             "price": 25,
             "name": "PC ツインエネルギ",
             "date": "2023-01-03",
@@ -642,7 +746,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/1774415815",
+            "link": "/items/351593605",
             "price": 25,
             "name": "PC ツインエネルギ",
             "date": "2023-01-03",
@@ -694,102 +798,6 @@
             "price": 77,
             "name": "【ポケカ】Ｃ）通常仕",
             "date": "2023-01-03",
-            "stock": 7
-        },
-        {
-            "market": "magi",
-            "link": "/items/724714817",
-            "price": 500,
-            "name": "ツインエネルギー 1",
-            "date": "2023-01-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1774415815",
-            "price": 25,
-            "name": "PC ツインエネルギ",
-            "date": "2023-01-02",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/860567962",
-            "price": 250,
-            "name": "ツインエネルギー 1",
-            "date": "2023-01-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/815454159",
-            "price": 100,
-            "name": "ツインエネルギー　1",
-            "date": "2023-01-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/351593605",
-            "price": 25,
-            "name": "PC ツインエネルギ",
-            "date": "2023-01-02",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/1957563790",
-            "price": 300,
-            "name": "ツインエネルギー【-",
-            "date": "2023-01-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1214790337",
-            "price": 140,
-            "name": "ツインエネルギー 1",
-            "date": "2023-01-02",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17172",
-            "price": 80,
-            "name": "ツインエネルギー18",
-            "date": "2023-01-02",
-            "stock": 77
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17338",
-            "price": 120,
-            "name": "ツインエネルギー18",
-            "date": "2023-01-02",
-            "stock": 31
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30779",
-            "price": 110,
-            "name": "ツインエネルギー18",
-            "date": "2023-01-02",
-            "stock": 3
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30655",
-            "price": 70,
-            "name": "ツインエネルギー18",
-            "date": "2023-01-02",
-            "stock": 8
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g189-190-S4A-B/",
-            "price": 77,
-            "name": "【ポケカ】Ｃ）通常仕",
-            "date": "2023-01-02",
             "stock": 7
         }
     ]

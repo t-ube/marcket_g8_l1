@@ -5,6 +5,54 @@
             "link": "/items/1712038329",
             "price": 500,
             "name": "【値下げ2枚】ガラル",
+            "date": "2023-01-10",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18687",
+            "price": 200,
+            "name": "フォクスライ(S){",
+            "date": "2023-01-10",
+            "stock": 31
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17591",
+            "price": 180,
+            "name": "フォクスライ281/",
+            "date": "2023-01-10",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30870",
+            "price": 330,
+            "name": "フォクスライ281/",
+            "date": "2023-01-10",
+            "stock": 17
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17430",
+            "price": 380,
+            "name": "フォクスライ281/",
+            "date": "2023-01-10",
+            "stock": 79
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g281-190-S4A-B/",
+            "price": 275,
+            "name": "【ポケカ】Ｓ◇フォク",
+            "date": "2023-01-10",
+            "stock": 11
+        },
+        {
+            "market": "magi",
+            "link": "/items/1712038329",
+            "price": 500,
+            "name": "【値下げ2枚】ガラル",
             "date": "2023-01-09",
             "stock": 1
         },
@@ -66,6 +114,14 @@
         },
         {
             "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17430",
+            "price": 380,
+            "name": "フォクスライ281/",
+            "date": "2023-01-08",
+            "stock": 77
+        },
+        {
+            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30870",
             "price": 330,
             "name": "フォクスライ281/",
@@ -73,14 +129,6 @@
             "stock": 17
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17430",
-            "price": 380,
-            "name": "フォクスライ281/",
-            "date": "2023-01-08",
-            "stock": 77
-        },
-        {
             "market": "torecolo",
             "link": "/shop/g/g281-190-S4A-B/",
             "price": 275,
@@ -186,19 +234,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17430",
-            "price": 380,
-            "name": "フォクスライ281/",
-            "date": "2023-01-05",
-            "stock": 77
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30870",
             "price": 330,
             "name": "フォクスライ281/",
             "date": "2023-01-05",
             "stock": 16
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17430",
+            "price": 380,
+            "name": "フォクスライ281/",
+            "date": "2023-01-05",
+            "stock": 77
         },
         {
             "market": "torecolo",
@@ -226,19 +274,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30870",
-            "price": 330,
-            "name": "フォクスライ281/",
-            "date": "2023-01-04",
-            "stock": 16
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17430",
             "price": 380,
             "name": "フォクスライ281/",
             "date": "2023-01-04",
             "stock": 77
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30870",
+            "price": 330,
+            "name": "フォクスライ281/",
+            "date": "2023-01-04",
+            "stock": 16
         },
         {
             "market": "torecolo",
@@ -266,14 +314,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17430",
-            "price": 380,
-            "name": "フォクスライ281/",
-            "date": "2023-01-03",
-            "stock": 77
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30870",
             "price": 330,
             "name": "フォクスライ281/",
@@ -281,43 +321,11 @@
             "stock": 16
         },
         {
-            "market": "torecolo",
-            "link": "/shop/g/g281-190-S4A-B/",
-            "price": 275,
-            "name": "【ポケカ】Ｓ◇フォク",
-            "date": "2023-01-03",
-            "stock": 11
-        },
-        {
-            "market": "magi",
-            "link": "/items/1712038329",
-            "price": 500,
-            "name": "【値下げ2枚】ガラル",
-            "date": "2023-01-02",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18687",
-            "price": 200,
-            "name": "フォクスライ(S){",
-            "date": "2023-01-02",
-            "stock": 30
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30870",
-            "price": 330,
-            "name": "フォクスライ281/",
-            "date": "2023-01-02",
-            "stock": 16
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17430",
             "price": 380,
             "name": "フォクスライ281/",
-            "date": "2023-01-02",
+            "date": "2023-01-03",
             "stock": 77
         },
         {
@@ -325,7 +333,7 @@
             "link": "/shop/g/g281-190-S4A-B/",
             "price": 275,
             "name": "【ポケカ】Ｓ◇フォク",
-            "date": "2023-01-02",
+            "date": "2023-01-03",
             "stock": 11
         }
     ]

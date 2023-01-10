@@ -5,6 +5,38 @@
             "link": "/items/252406860",
             "price": 25,
             "name": "PC ネズ(095/",
+            "date": "2023-01-10",
+            "stock": 4
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18040",
+            "price": 100,
+            "name": "ネズ(U){サポート",
+            "date": "2023-01-10",
+            "stock": 5
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/13334",
+            "price": 80,
+            "name": "ネズ095/100",
+            "date": "2023-01-10",
+            "stock": 220
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g095-100-S3-B/",
+            "price": 110,
+            "name": "【ポケカ】Ｕ◇ネズ",
+            "date": "2023-01-10",
+            "stock": 7
+        },
+        {
+            "market": "magi",
+            "link": "/items/252406860",
+            "price": 25,
+            "name": "PC ネズ(095/",
             "date": "2023-01-09",
             "stock": 4
         },
@@ -223,38 +255,6 @@
             "name": "【ポケカ】Ｕ◇ネズ",
             "date": "2023-01-03",
             "stock": 7
-        },
-        {
-            "market": "magi",
-            "link": "/items/252406860",
-            "price": 25,
-            "name": "PC ネズ(095/",
-            "date": "2023-01-02",
-            "stock": 4
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18040",
-            "price": 100,
-            "name": "ネズ(U){サポート",
-            "date": "2023-01-02",
-            "stock": 6
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/13334",
-            "price": 80,
-            "name": "ネズ095/100",
-            "date": "2023-01-02",
-            "stock": 220
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g095-100-S3-B/",
-            "price": 110,
-            "name": "【ポケカ】Ｕ◇ネズ",
-            "date": "2023-01-02",
-            "stock": 8
         }
     ]
 }

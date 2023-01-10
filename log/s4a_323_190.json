@@ -5,6 +5,14 @@
             "link": "https://www.cardrush-pokemon.jp/product/17472",
             "price": 680,
             "name": "メタモンV323/1",
+            "date": "2023-01-10",
+            "stock": 125
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17472",
+            "price": 680,
+            "name": "メタモンV323/1",
             "date": "2023-01-09",
             "stock": 124
         },
@@ -138,19 +146,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30912",
-            "price": 580,
-            "name": "メタモンV323/1",
-            "date": "2023-01-04",
-            "stock": 9
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17472",
             "price": 680,
             "name": "メタモンV323/1",
             "date": "2023-01-04",
             "stock": 94
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30912",
+            "price": 580,
+            "name": "メタモンV323/1",
+            "date": "2023-01-04",
+            "stock": 9
         },
         {
             "market": "hareruya2",
@@ -175,30 +183,6 @@
             "name": "メタモンV323/1",
             "date": "2023-01-03",
             "stock": 9
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18729",
-            "price": 800,
-            "name": "メタモンV(SSR)",
-            "date": "2023-01-02",
-            "stock": 3
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30912",
-            "price": 580,
-            "name": "メタモンV323/1",
-            "date": "2023-01-02",
-            "stock": 9
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17472",
-            "price": 680,
-            "name": "メタモンV323/1",
-            "date": "2023-01-02",
-            "stock": 85
         }
     ]
 }

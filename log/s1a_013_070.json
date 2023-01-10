@@ -5,7 +5,7 @@
             "link": "/items/48731495",
             "price": 999,
             "name": "キュウコン 013/",
-            "date": "2023-01-09",
+            "date": "2023-01-10",
             "stock": 1
         },
         {
@@ -13,6 +13,38 @@
             "link": "/items/100049713",
             "price": 999,
             "name": "キュウコン　013/",
+            "date": "2023-01-10",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17630",
+            "price": 50,
+            "name": "キュウコン(U){炎",
+            "date": "2023-01-10",
+            "stock": 8
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g013-070-S1A-B/",
+            "price": 33,
+            "name": "【ポケカ】Ｕ◇キュウ",
+            "date": "2023-01-10",
+            "stock": 7
+        },
+        {
+            "market": "magi",
+            "link": "/items/100049713",
+            "price": 999,
+            "name": "キュウコン　013/",
+            "date": "2023-01-09",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/48731495",
+            "price": 999,
+            "name": "キュウコン 013/",
             "date": "2023-01-09",
             "stock": 1
         },
@@ -98,17 +130,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/100049713",
+            "link": "/items/48731495",
             "price": 1000,
-            "name": "キュウコン　013/",
+            "name": "キュウコン 013/",
             "date": "2023-01-06",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/48731495",
+            "link": "/items/100049713",
             "price": 1000,
-            "name": "キュウコン 013/",
+            "name": "キュウコン　013/",
             "date": "2023-01-06",
             "stock": 1
         },
@@ -130,17 +162,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/48731495",
+            "link": "/items/100049713",
             "price": 1000,
-            "name": "キュウコン 013/",
+            "name": "キュウコン　013/",
             "date": "2023-01-05",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/100049713",
+            "link": "/items/48731495",
             "price": 1000,
-            "name": "キュウコン　013/",
+            "name": "キュウコン 013/",
             "date": "2023-01-05",
             "stock": 1
         },
@@ -206,30 +238,6 @@
             "price": 33,
             "name": "【ポケカ】Ｕ◇キュウ",
             "date": "2023-01-03",
-            "stock": 7
-        },
-        {
-            "market": "magi",
-            "link": "/items/100049713",
-            "price": 1111,
-            "name": "キュウコン　013/",
-            "date": "2023-01-02",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/17630",
-            "price": 50,
-            "name": "キュウコン(U){炎",
-            "date": "2023-01-02",
-            "stock": 8
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g013-070-S1A-B/",
-            "price": 33,
-            "name": "【ポケカ】Ｕ◇キュウ",
-            "date": "2023-01-02",
             "stock": 7
         }
     ]

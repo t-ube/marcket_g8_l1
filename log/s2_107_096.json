@@ -5,6 +5,30 @@
             "link": "https://www.cardrush-pokemon.jp/product/8587",
             "price": 780,
             "name": "ストリンダーVMAX",
+            "date": "2023-01-10",
+            "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/29933",
+            "price": 930,
+            "name": "ストリンダーVMAX",
+            "date": "2023-01-10",
+            "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/7553",
+            "price": 1080,
+            "name": "ストリンダーVMAX",
+            "date": "2023-01-10",
+            "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/8587",
+            "price": 780,
+            "name": "ストリンダーVMAX",
             "date": "2023-01-09",
             "stock": 3
         },
@@ -58,6 +82,14 @@
         },
         {
             "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/7553",
+            "price": 1080,
+            "name": "ストリンダーVMAX",
+            "date": "2023-01-07",
+            "stock": 4
+        },
+        {
+            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/8587",
             "price": 780,
             "name": "ストリンダーVMAX",
@@ -74,16 +106,8 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7553",
-            "price": 1080,
-            "name": "ストリンダーVMAX",
-            "date": "2023-01-07",
-            "stock": 4
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7553",
-            "price": 1080,
+            "link": "https://www.cardrush-pokemon.jp/product/29933",
+            "price": 930,
             "name": "ストリンダーVMAX",
             "date": "2023-01-06",
             "stock": 4
@@ -98,18 +122,10 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/29933",
-            "price": 930,
-            "name": "ストリンダーVMAX",
-            "date": "2023-01-06",
-            "stock": 4
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/7553",
             "price": 1080,
             "name": "ストリンダーVMAX",
-            "date": "2023-01-05",
+            "date": "2023-01-06",
             "stock": 4
         },
         {
@@ -133,7 +149,7 @@
             "link": "https://www.cardrush-pokemon.jp/product/7553",
             "price": 1080,
             "name": "ストリンダーVMAX",
-            "date": "2023-01-04",
+            "date": "2023-01-05",
             "stock": 4
         },
         {
@@ -154,8 +170,16 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/8587",
-            "price": 780,
+            "link": "https://www.cardrush-pokemon.jp/product/7553",
+            "price": 1080,
+            "name": "ストリンダーVMAX",
+            "date": "2023-01-04",
+            "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/29933",
+            "price": 930,
             "name": "ストリンダーVMAX",
             "date": "2023-01-03",
             "stock": 3
@@ -170,34 +194,10 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/29933",
-            "price": 930,
-            "name": "ストリンダーVMAX",
-            "date": "2023-01-03",
-            "stock": 3
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7553",
-            "price": 1080,
-            "name": "ストリンダーVMAX",
-            "date": "2023-01-02",
-            "stock": 4
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/8587",
             "price": 780,
             "name": "ストリンダーVMAX",
-            "date": "2023-01-02",
-            "stock": 3
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/29933",
-            "price": 930,
-            "name": "ストリンダーVMAX",
-            "date": "2023-01-02",
+            "date": "2023-01-03",
             "stock": 3
         }
     ]

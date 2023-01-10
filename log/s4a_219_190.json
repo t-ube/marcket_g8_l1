@@ -2,6 +2,62 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/1217742990",
+            "price": 200,
+            "name": "ガラルバリヤード S",
+            "date": "2023-01-10",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1136478059",
+            "price": 520,
+            "name": "【2枚】ガラルバリヤ",
+            "date": "2023-01-10",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1847391469",
+            "price": 440,
+            "name": "ガラルバリヤード S",
+            "date": "2023-01-10",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18625",
+            "price": 150,
+            "name": "ガラルバリヤード(S",
+            "date": "2023-01-10",
+            "stock": 26
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17368",
+            "price": 380,
+            "name": "ガラルバリヤード21",
+            "date": "2023-01-10",
+            "stock": 76
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30808",
+            "price": 330,
+            "name": "ガラルバリヤード21",
+            "date": "2023-01-10",
+            "stock": 12
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g219-190-S4A-B/",
+            "price": 275,
+            "name": "【ポケカ】Ｓ◇ガラル",
+            "date": "2023-01-10",
+            "stock": 9
+        },
+        {
+            "market": "magi",
             "link": "/items/1136478059",
             "price": 520,
             "name": "【2枚】ガラルバリヤ",
@@ -74,19 +130,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17368",
-            "price": 380,
-            "name": "ガラルバリヤード21",
-            "date": "2023-01-08",
-            "stock": 71
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30808",
             "price": 330,
             "name": "ガラルバリヤード21",
             "date": "2023-01-08",
             "stock": 11
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17368",
+            "price": 380,
+            "name": "ガラルバリヤード21",
+            "date": "2023-01-08",
+            "stock": 71
         },
         {
             "market": "torecolo",
@@ -98,17 +154,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/1847391469",
-            "price": 440,
-            "name": "ガラルバリヤード S",
+            "link": "/items/1136478059",
+            "price": 520,
+            "name": "【2枚】ガラルバリヤ",
             "date": "2023-01-07",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1136478059",
-            "price": 520,
-            "name": "【2枚】ガラルバリヤ",
+            "link": "/items/1847391469",
+            "price": 440,
+            "name": "ガラルバリヤード S",
             "date": "2023-01-07",
             "stock": 1
         },
@@ -122,19 +178,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30808",
-            "price": 330,
-            "name": "ガラルバリヤード21",
-            "date": "2023-01-07",
-            "stock": 11
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17368",
             "price": 380,
             "name": "ガラルバリヤード21",
             "date": "2023-01-07",
             "stock": 71
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30808",
+            "price": 330,
+            "name": "ガラルバリヤード21",
+            "date": "2023-01-07",
+            "stock": 11
         },
         {
             "market": "torecolo",
@@ -194,17 +250,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/1847391469",
-            "price": 440,
-            "name": "ガラルバリヤード S",
+            "link": "/items/1136478059",
+            "price": 520,
+            "name": "【2枚】ガラルバリヤ",
             "date": "2023-01-05",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1136478059",
-            "price": 520,
-            "name": "【2枚】ガラルバリヤ",
+            "link": "/items/1847391469",
+            "price": 440,
+            "name": "ガラルバリヤード S",
             "date": "2023-01-05",
             "stock": 1
         },
@@ -218,19 +274,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30808",
-            "price": 330,
-            "name": "ガラルバリヤード21",
-            "date": "2023-01-05",
-            "stock": 11
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17368",
             "price": 380,
             "name": "ガラルバリヤード21",
             "date": "2023-01-05",
             "stock": 71
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30808",
+            "price": 330,
+            "name": "ガラルバリヤード21",
+            "date": "2023-01-05",
+            "stock": 11
         },
         {
             "market": "torecolo",
@@ -242,17 +298,17 @@
         },
         {
             "market": "magi",
-            "link": "/items/1136478059",
-            "price": 520,
-            "name": "【2枚】ガラルバリヤ",
+            "link": "/items/1847391469",
+            "price": 440,
+            "name": "ガラルバリヤード S",
             "date": "2023-01-04",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1847391469",
-            "price": 440,
-            "name": "ガラルバリヤード S",
+            "link": "/items/1136478059",
+            "price": 520,
+            "name": "【2枚】ガラルバリヤ",
             "date": "2023-01-04",
             "stock": 1
         },
@@ -314,14 +370,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17368",
-            "price": 380,
-            "name": "ガラルバリヤード21",
-            "date": "2023-01-03",
-            "stock": 71
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30808",
             "price": 330,
             "name": "ガラルバリヤード21",
@@ -329,51 +377,11 @@
             "stock": 11
         },
         {
-            "market": "torecolo",
-            "link": "/shop/g/g219-190-S4A-B/",
-            "price": 275,
-            "name": "【ポケカ】Ｓ◇ガラル",
-            "date": "2023-01-03",
-            "stock": 9
-        },
-        {
-            "market": "magi",
-            "link": "/items/1136478059",
-            "price": 520,
-            "name": "【2枚】ガラルバリヤ",
-            "date": "2023-01-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1847391469",
-            "price": 440,
-            "name": "ガラルバリヤード S",
-            "date": "2023-01-02",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18625",
-            "price": 150,
-            "name": "ガラルバリヤード(S",
-            "date": "2023-01-02",
-            "stock": 25
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30808",
-            "price": 330,
-            "name": "ガラルバリヤード21",
-            "date": "2023-01-02",
-            "stock": 11
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17368",
             "price": 380,
             "name": "ガラルバリヤード21",
-            "date": "2023-01-02",
+            "date": "2023-01-03",
             "stock": 71
         },
         {
@@ -381,7 +389,7 @@
             "link": "/shop/g/g219-190-S4A-B/",
             "price": 275,
             "name": "【ポケカ】Ｓ◇ガラル",
-            "date": "2023-01-02",
+            "date": "2023-01-03",
             "stock": 9
         }
     ]

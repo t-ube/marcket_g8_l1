@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/18260",
             "price": 50,
             "name": "ゴツゴツメット(U)",
+            "date": "2023-01-10",
+            "stock": 14
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30230",
+            "price": 70,
+            "name": "ゴツゴツメット069",
+            "date": "2023-01-10",
+            "stock": 6
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14104",
+            "price": 80,
+            "name": "ゴツゴツメット069",
+            "date": "2023-01-10",
+            "stock": 258
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18260",
+            "price": 50,
+            "name": "ゴツゴツメット(U)",
             "date": "2023-01-09",
             "stock": 14
         },
@@ -135,30 +159,6 @@
             "name": "ゴツゴツメット069",
             "date": "2023-01-03",
             "stock": 259
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18260",
-            "price": 50,
-            "name": "ゴツゴツメット(U)",
-            "date": "2023-01-02",
-            "stock": 18
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14104",
-            "price": 80,
-            "name": "ゴツゴツメット069",
-            "date": "2023-01-02",
-            "stock": 259
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g069-076-S3A-B/",
-            "price": 77,
-            "name": "【ポケカ】Ｕ◇ゴツゴ",
-            "date": "2023-01-02",
-            "stock": 1
         }
     ]
 }

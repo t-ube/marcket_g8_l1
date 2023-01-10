@@ -5,6 +5,30 @@
             "link": "/items/744246705",
             "price": 25,
             "name": "PC ヒート炎エネル",
+            "date": "2023-01-10",
+            "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/13171",
+            "price": 80,
+            "name": "ヒート炎エネルギー0",
+            "date": "2023-01-10",
+            "stock": 5
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g070-070-S2A-B/",
+            "price": 77,
+            "name": "【ポケカ】Ｕ◇ヒート",
+            "date": "2023-01-10",
+            "stock": 3
+        },
+        {
+            "market": "magi",
+            "link": "/items/744246705",
+            "price": 25,
+            "name": "PC ヒート炎エネル",
             "date": "2023-01-09",
             "stock": 4
         },
@@ -98,16 +122,16 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30083",
-            "price": 70,
+            "link": "https://www.cardrush-pokemon.jp/product/13171",
+            "price": 80,
             "name": "ヒート炎エネルギー0",
             "date": "2023-01-06",
             "stock": 5
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/13171",
-            "price": 80,
+            "link": "https://www.cardrush-pokemon.jp/product/30083",
+            "price": 70,
             "name": "ヒート炎エネルギー0",
             "date": "2023-01-06",
             "stock": 5
@@ -206,30 +230,6 @@
             "price": 77,
             "name": "【ポケカ】Ｕ◇ヒート",
             "date": "2023-01-03",
-            "stock": 3
-        },
-        {
-            "market": "magi",
-            "link": "/items/744246705",
-            "price": 25,
-            "name": "PC ヒート炎エネル",
-            "date": "2023-01-02",
-            "stock": 4
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/13171",
-            "price": 80,
-            "name": "ヒート炎エネルギー0",
-            "date": "2023-01-02",
-            "stock": 5
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g070-070-S2A-B/",
-            "price": 77,
-            "name": "【ポケカ】Ｕ◇ヒート",
-            "date": "2023-01-02",
             "stock": 3
         }
     ]

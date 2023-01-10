@@ -2,11 +2,59 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/1307436628",
+            "price": 108,
+            "name": "ゼラオラ(R){雷}",
+            "date": "2023-01-10",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1618958128",
+            "price": 150,
+            "name": "ゼラオラ R 021",
+            "date": "2023-01-10",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/214240591",
             "price": 250,
             "name": "ゼラオラ R 021",
-            "date": "2023-01-09",
+            "date": "2023-01-10",
             "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2044752741",
+            "price": 125,
+            "name": "PC ゼラオラ(02",
+            "date": "2023-01-10",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/945896002",
+            "price": 125,
+            "name": "PC ゼラオラ(02",
+            "date": "2023-01-10",
+            "stock": 2
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18212",
+            "price": 250,
+            "name": "ゼラオラ(R){雷}",
+            "date": "2023-01-10",
+            "stock": 17
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14056",
+            "price": 220,
+            "name": "ゼラオラ021/07",
+            "date": "2023-01-10",
+            "stock": 191
         },
         {
             "market": "magi",
@@ -26,8 +74,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/1618958128",
-            "price": 150,
+            "link": "/items/214240591",
+            "price": 250,
             "name": "ゼラオラ R 021",
             "date": "2023-01-09",
             "stock": 1
@@ -39,6 +87,14 @@
             "name": "PC ゼラオラ(02",
             "date": "2023-01-09",
             "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1618958128",
+            "price": 150,
+            "name": "ゼラオラ R 021",
+            "date": "2023-01-09",
+            "stock": 1
         },
         {
             "market": "hareruya2",
@@ -74,8 +130,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/1618958128",
-            "price": 150,
+            "link": "/items/214240591",
+            "price": 250,
             "name": "ゼラオラ R 021",
             "date": "2023-01-08",
             "stock": 1
@@ -90,8 +146,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/214240591",
-            "price": 250,
+            "link": "/items/1618958128",
+            "price": 150,
             "name": "ゼラオラ R 021",
             "date": "2023-01-08",
             "stock": 1
@@ -114,8 +170,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/214240591",
-            "price": 250,
+            "link": "/items/1618958128",
+            "price": 150,
             "name": "ゼラオラ R 021",
             "date": "2023-01-07",
             "stock": 1
@@ -130,14 +186,6 @@
         },
         {
             "market": "magi",
-            "link": "/items/2044752741",
-            "price": 125,
-            "name": "PC ゼラオラ(02",
-            "date": "2023-01-07",
-            "stock": 4
-        },
-        {
-            "market": "magi",
             "link": "/items/945896002",
             "price": 125,
             "name": "PC ゼラオラ(02",
@@ -146,8 +194,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/1618958128",
-            "price": 150,
+            "link": "/items/2044752741",
+            "price": 125,
+            "name": "PC ゼラオラ(02",
+            "date": "2023-01-07",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/214240591",
+            "price": 250,
             "name": "ゼラオラ R 021",
             "date": "2023-01-07",
             "stock": 1
@@ -226,27 +282,11 @@
         },
         {
             "market": "magi",
-            "link": "/items/1307436628",
-            "price": 108,
-            "name": "ゼラオラ(R){雷}",
+            "link": "/items/214240591",
+            "price": 250,
+            "name": "ゼラオラ R 021",
             "date": "2023-01-05",
             "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/2044752741",
-            "price": 125,
-            "name": "PC ゼラオラ(02",
-            "date": "2023-01-05",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/945896002",
-            "price": 125,
-            "name": "PC ゼラオラ(02",
-            "date": "2023-01-05",
-            "stock": 2
         },
         {
             "market": "magi",
@@ -258,11 +298,27 @@
         },
         {
             "market": "magi",
-            "link": "/items/214240591",
-            "price": 250,
-            "name": "ゼラオラ R 021",
+            "link": "/items/1307436628",
+            "price": 108,
+            "name": "ゼラオラ(R){雷}",
             "date": "2023-01-05",
             "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/945896002",
+            "price": 125,
+            "name": "PC ゼラオラ(02",
+            "date": "2023-01-05",
+            "stock": 2
+        },
+        {
+            "market": "magi",
+            "link": "/items/2044752741",
+            "price": 125,
+            "name": "PC ゼラオラ(02",
+            "date": "2023-01-05",
+            "stock": 4
         },
         {
             "market": "hareruya2",
@@ -282,6 +338,14 @@
         },
         {
             "market": "magi",
+            "link": "/items/214240591",
+            "price": 250,
+            "name": "ゼラオラ R 021",
+            "date": "2023-01-04",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/945896002",
             "price": 125,
             "name": "PC ゼラオラ(02",
@@ -301,14 +365,6 @@
             "link": "/items/1307436628",
             "price": 108,
             "name": "ゼラオラ(R){雷}",
-            "date": "2023-01-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/214240591",
-            "price": 250,
-            "name": "ゼラオラ R 021",
             "date": "2023-01-04",
             "stock": 1
         },
@@ -338,6 +394,38 @@
         },
         {
             "market": "magi",
+            "link": "/items/214240591",
+            "price": 250,
+            "name": "ゼラオラ R 021",
+            "date": "2023-01-03",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/945896002",
+            "price": 125,
+            "name": "PC ゼラオラ(02",
+            "date": "2023-01-03",
+            "stock": 2
+        },
+        {
+            "market": "magi",
+            "link": "/items/1618958128",
+            "price": 150,
+            "name": "ゼラオラ R 021",
+            "date": "2023-01-03",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/2044752741",
+            "price": 125,
+            "name": "PC ゼラオラ(02",
+            "date": "2023-01-03",
+            "stock": 4
+        },
+        {
+            "market": "magi",
             "link": "/items/1307436628",
             "price": 108,
             "name": "ゼラオラ(R){雷}",
@@ -345,38 +433,6 @@
             "stock": 1
         },
         {
-            "market": "magi",
-            "link": "/items/2044752741",
-            "price": 125,
-            "name": "PC ゼラオラ(02",
-            "date": "2023-01-03",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/214240591",
-            "price": 250,
-            "name": "ゼラオラ R 021",
-            "date": "2023-01-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1618958128",
-            "price": 150,
-            "name": "ゼラオラ R 021",
-            "date": "2023-01-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/945896002",
-            "price": 125,
-            "name": "PC ゼラオラ(02",
-            "date": "2023-01-03",
-            "stock": 2
-        },
-        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/18212",
             "price": 250,
@@ -390,62 +446,6 @@
             "price": 220,
             "name": "ゼラオラ021/07",
             "date": "2023-01-03",
-            "stock": 188
-        },
-        {
-            "market": "magi",
-            "link": "/items/214240591",
-            "price": 250,
-            "name": "ゼラオラ R 021",
-            "date": "2023-01-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/945896002",
-            "price": 125,
-            "name": "PC ゼラオラ(02",
-            "date": "2023-01-02",
-            "stock": 2
-        },
-        {
-            "market": "magi",
-            "link": "/items/2044752741",
-            "price": 125,
-            "name": "PC ゼラオラ(02",
-            "date": "2023-01-02",
-            "stock": 4
-        },
-        {
-            "market": "magi",
-            "link": "/items/1618958128",
-            "price": 150,
-            "name": "ゼラオラ R 021",
-            "date": "2023-01-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1307436628",
-            "price": 160,
-            "name": "ゼラオラ(R){雷}",
-            "date": "2023-01-02",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18212",
-            "price": 250,
-            "name": "ゼラオラ(R){雷}",
-            "date": "2023-01-02",
-            "stock": 14
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14056",
-            "price": 220,
-            "name": "ゼラオラ021/07",
-            "date": "2023-01-02",
             "stock": 188
         }
     ]

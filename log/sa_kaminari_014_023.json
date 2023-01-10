@@ -5,6 +5,46 @@
             "link": "https://www.hareruya2.com/product/17103",
             "price": 150,
             "name": "しんかのおこう(D)",
+            "date": "2023-01-10",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/29607",
+            "price": 200,
+            "name": "しんかのおこう014",
+            "date": "2023-01-10",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/29540",
+            "price": 2080,
+            "name": "しんかのおこう014",
+            "date": "2023-01-10",
+            "stock": 7
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/6755",
+            "price": 220,
+            "name": "しんかのおこう014",
+            "date": "2023-01-10",
+            "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/6679",
+            "price": 2480,
+            "name": "しんかのおこう014",
+            "date": "2023-01-10",
+            "stock": 6
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17103",
+            "price": 150,
+            "name": "しんかのおこう(D)",
             "date": "2023-01-09",
             "stock": 1
         },
@@ -18,11 +58,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/6755",
-            "price": 220,
+            "link": "https://www.cardrush-pokemon.jp/product/29607",
+            "price": 200,
             "name": "しんかのおこう014",
             "date": "2023-01-09",
-            "stock": 3
+            "stock": 1
         },
         {
             "market": "cardrush",
@@ -34,11 +74,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/29607",
-            "price": 200,
+            "link": "https://www.cardrush-pokemon.jp/product/6755",
+            "price": 220,
             "name": "しんかのおこう014",
             "date": "2023-01-09",
-            "stock": 1
+            "stock": 3
         },
         {
             "market": "hareruya2",
@@ -50,6 +90,14 @@
         },
         {
             "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/29607",
+            "price": 200,
+            "name": "しんかのおこう014",
+            "date": "2023-01-08",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/6755",
             "price": 220,
             "name": "しんかのおこう014",
@@ -63,14 +111,6 @@
             "name": "しんかのおこう014",
             "date": "2023-01-08",
             "stock": 7
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/29607",
-            "price": 200,
-            "name": "しんかのおこう014",
-            "date": "2023-01-08",
-            "stock": 1
         },
         {
             "market": "cardrush",
@@ -162,19 +202,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/29540",
-            "price": 2080,
-            "name": "しんかのおこう014",
-            "date": "2023-01-05",
-            "stock": 7
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/29607",
             "price": 200,
             "name": "しんかのおこう014",
             "date": "2023-01-05",
             "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/29540",
+            "price": 2080,
+            "name": "しんかのおこう014",
+            "date": "2023-01-05",
+            "stock": 7
         },
         {
             "market": "cardrush",
@@ -218,43 +258,19 @@
         },
         {
             "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/29540",
+            "price": 2080,
+            "name": "しんかのおこう014",
+            "date": "2023-01-03",
+            "stock": 7
+        },
+        {
+            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/6679",
             "price": 2480,
             "name": "しんかのおこう014",
             "date": "2023-01-03",
             "stock": 6
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/29540",
-            "price": 2080,
-            "name": "しんかのおこう014",
-            "date": "2023-01-03",
-            "stock": 7
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/6679",
-            "price": 2480,
-            "name": "しんかのおこう014",
-            "date": "2023-01-02",
-            "stock": 4
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/6755",
-            "price": 220,
-            "name": "しんかのおこう014",
-            "date": "2023-01-02",
-            "stock": 3
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/29540",
-            "price": 2080,
-            "name": "しんかのおこう014",
-            "date": "2023-01-02",
-            "stock": 7
         }
     ]
 }

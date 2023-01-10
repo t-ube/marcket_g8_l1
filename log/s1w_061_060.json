@@ -5,6 +5,30 @@
             "link": "/items/2011894916",
             "price": 650,
             "name": "ダダリンV SR 0",
+            "date": "2023-01-10",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/29752",
+            "price": 680,
+            "name": "ダダリンV061/0",
+            "date": "2023-01-10",
+            "stock": 32
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/7017",
+            "price": 780,
+            "name": "ダダリンV061/0",
+            "date": "2023-01-10",
+            "stock": 40
+        },
+        {
+            "market": "magi",
+            "link": "/items/2011894916",
+            "price": 650,
+            "name": "ダダリンV SR 0",
             "date": "2023-01-09",
             "stock": 1
         },
@@ -55,14 +79,6 @@
             "name": "ダダリンV SR 0",
             "date": "2023-01-07",
             "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/29752",
-            "price": 680,
-            "name": "ダダリンV061/0",
-            "date": "2023-01-07",
-            "stock": 20
         },
         {
             "market": "cardrush",
@@ -73,6 +89,14 @@
             "stock": 39
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/29752",
+            "price": 680,
+            "name": "ダダリンV061/0",
+            "date": "2023-01-07",
+            "stock": 20
+        },
+        {
             "market": "magi",
             "link": "/items/2011894916",
             "price": 650,
@@ -106,19 +130,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7017",
-            "price": 780,
-            "name": "ダダリンV061/0",
-            "date": "2023-01-05",
-            "stock": 43
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/29752",
             "price": 680,
             "name": "ダダリンV061/0",
             "date": "2023-01-05",
             "stock": 20
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/7017",
+            "price": 780,
+            "name": "ダダリンV061/0",
+            "date": "2023-01-05",
+            "stock": 43
         },
         {
             "market": "cardrush",
@@ -138,14 +162,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/29752",
-            "price": 680,
-            "name": "ダダリンV061/0",
-            "date": "2023-01-03",
-            "stock": 20
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/7017",
             "price": 780,
             "name": "ダダリンV061/0",
@@ -157,16 +173,8 @@
             "link": "https://www.cardrush-pokemon.jp/product/29752",
             "price": 680,
             "name": "ダダリンV061/0",
-            "date": "2023-01-02",
-            "stock": 19
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7017",
-            "price": 780,
-            "name": "ダダリンV061/0",
-            "date": "2023-01-02",
-            "stock": 26
+            "date": "2023-01-03",
+            "stock": 20
         }
     ]
 }

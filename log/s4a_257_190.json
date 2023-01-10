@@ -5,6 +5,38 @@
             "link": "https://www.hareruya2.com/product/18663",
             "price": 500,
             "name": "マホイップ(S){超",
+            "date": "2023-01-10",
+            "stock": 5
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30846",
+            "price": 380,
+            "name": "マホイップ257/1",
+            "date": "2023-01-10",
+            "stock": 8
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17406",
+            "price": 480,
+            "name": "マホイップ257/1",
+            "date": "2023-01-10",
+            "stock": 51
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g257-190-S4A-B/",
+            "price": 330,
+            "name": "【ポケカ】Ｓ◇マホイ",
+            "date": "2023-01-10",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18663",
+            "price": 500,
+            "name": "マホイップ(S){超",
             "date": "2023-01-09",
             "stock": 5
         },
@@ -74,14 +106,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30846",
-            "price": 380,
-            "name": "マホイップ257/1",
-            "date": "2023-01-07",
-            "stock": 5
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17406",
             "price": 480,
             "name": "マホイップ257/1",
@@ -89,6 +113,14 @@
             "stock": 47
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30846",
+            "price": 380,
+            "name": "マホイップ257/1",
+            "date": "2023-01-07",
+            "stock": 5
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g257-190-S4A-B/",
             "price": 330,
@@ -162,19 +194,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30846",
-            "price": 380,
-            "name": "マホイップ257/1",
-            "date": "2023-01-04",
-            "stock": 5
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17406",
             "price": 480,
             "name": "マホイップ257/1",
             "date": "2023-01-04",
             "stock": 42
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30846",
+            "price": 380,
+            "name": "マホイップ257/1",
+            "date": "2023-01-04",
+            "stock": 5
         },
         {
             "market": "hareruya2",
@@ -186,14 +218,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30846",
-            "price": 380,
-            "name": "マホイップ257/1",
-            "date": "2023-01-03",
-            "stock": 5
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17406",
             "price": 480,
             "name": "マホイップ257/1",
@@ -201,27 +225,11 @@
             "stock": 42
         },
         {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18663",
-            "price": 500,
-            "name": "マホイップ(S){超",
-            "date": "2023-01-02",
-            "stock": 4
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17406",
-            "price": 480,
-            "name": "マホイップ257/1",
-            "date": "2023-01-02",
-            "stock": 42
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30846",
             "price": 380,
             "name": "マホイップ257/1",
-            "date": "2023-01-02",
+            "date": "2023-01-03",
             "stock": 5
         }
     ]

@@ -1,6 +1,54 @@
 ﻿{
     "items": [
         {
+            "market": "magi",
+            "link": "/items/1348113626",
+            "price": 200,
+            "name": "タルップル S 21",
+            "date": "2023-01-10",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18619",
+            "price": 200,
+            "name": "タルップル(S){草",
+            "date": "2023-01-10",
+            "stock": 21
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17541",
+            "price": 180,
+            "name": "タルップル213/1",
+            "date": "2023-01-10",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30802",
+            "price": 330,
+            "name": "タルップル213/1",
+            "date": "2023-01-10",
+            "stock": 11
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17362",
+            "price": 380,
+            "name": "タルップル213/1",
+            "date": "2023-01-10",
+            "stock": 71
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g213-190-S4A-B/",
+            "price": 275,
+            "name": "【ポケカ】Ｓ◇タルッ",
+            "date": "2023-01-10",
+            "stock": 6
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/18619",
             "price": 200,
@@ -50,19 +98,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30802",
-            "price": 330,
-            "name": "タルップル213/1",
-            "date": "2023-01-08",
-            "stock": 11
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17362",
             "price": 380,
             "name": "タルップル213/1",
             "date": "2023-01-08",
             "stock": 62
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30802",
+            "price": 330,
+            "name": "タルップル213/1",
+            "date": "2023-01-08",
+            "stock": 11
         },
         {
             "market": "torecolo",
@@ -82,19 +130,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17362",
-            "price": 380,
-            "name": "タルップル213/1",
-            "date": "2023-01-07",
-            "stock": 62
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30802",
             "price": 330,
             "name": "タルップル213/1",
             "date": "2023-01-07",
             "stock": 11
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17362",
+            "price": 380,
+            "name": "タルップル213/1",
+            "date": "2023-01-07",
+            "stock": 62
         },
         {
             "market": "torecolo",
@@ -146,19 +194,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30802",
-            "price": 330,
-            "name": "タルップル213/1",
-            "date": "2023-01-05",
-            "stock": 11
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17362",
             "price": 380,
             "name": "タルップル213/1",
             "date": "2023-01-05",
             "stock": 62
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30802",
+            "price": 330,
+            "name": "タルップル213/1",
+            "date": "2023-01-05",
+            "stock": 11
         },
         {
             "market": "torecolo",
@@ -210,14 +258,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17362",
-            "price": 380,
-            "name": "タルップル213/1",
-            "date": "2023-01-03",
-            "stock": 57
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30802",
             "price": 330,
             "name": "タルップル213/1",
@@ -225,35 +265,11 @@
             "stock": 11
         },
         {
-            "market": "torecolo",
-            "link": "/shop/g/g213-190-S4A-B/",
-            "price": 275,
-            "name": "【ポケカ】Ｓ◇タルッ",
-            "date": "2023-01-03",
-            "stock": 5
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18619",
-            "price": 200,
-            "name": "タルップル(S){草",
-            "date": "2023-01-02",
-            "stock": 21
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30802",
-            "price": 330,
-            "name": "タルップル213/1",
-            "date": "2023-01-02",
-            "stock": 11
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17362",
             "price": 380,
             "name": "タルップル213/1",
-            "date": "2023-01-02",
+            "date": "2023-01-03",
             "stock": 57
         },
         {
@@ -261,7 +277,7 @@
             "link": "/shop/g/g213-190-S4A-B/",
             "price": 275,
             "name": "【ポケカ】Ｓ◇タルッ",
-            "date": "2023-01-02",
+            "date": "2023-01-03",
             "stock": 5
         }
     ]

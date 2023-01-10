@@ -5,6 +5,38 @@
             "link": "https://www.hareruya2.com/product/18608",
             "price": 400,
             "name": "ジュナイパー(S){",
+            "date": "2023-01-10",
+            "stock": 31
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17351",
+            "price": 380,
+            "name": "ジュナイパー202/",
+            "date": "2023-01-10",
+            "stock": 70
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30791",
+            "price": 330,
+            "name": "ジュナイパー202/",
+            "date": "2023-01-10",
+            "stock": 5
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g202-190-S4A-B/",
+            "price": 440,
+            "name": "【ポケカ】Ｓ◇ジュナ",
+            "date": "2023-01-10",
+            "stock": 6
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18608",
+            "price": 400,
+            "name": "ジュナイパー(S){",
             "date": "2023-01-09",
             "stock": 31
         },
@@ -74,19 +106,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17351",
-            "price": 380,
-            "name": "ジュナイパー202/",
-            "date": "2023-01-07",
-            "stock": 71
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30791",
             "price": 330,
             "name": "ジュナイパー202/",
             "date": "2023-01-07",
             "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17351",
+            "price": 380,
+            "name": "ジュナイパー202/",
+            "date": "2023-01-07",
+            "stock": 71
         },
         {
             "market": "torecolo",
@@ -138,14 +170,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30791",
-            "price": 330,
-            "name": "ジュナイパー202/",
-            "date": "2023-01-05",
-            "stock": 4
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17351",
             "price": 380,
             "name": "ジュナイパー202/",
@@ -153,6 +177,14 @@
             "stock": 71
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30791",
+            "price": 330,
+            "name": "ジュナイパー202/",
+            "date": "2023-01-05",
+            "stock": 4
+        },
+        {
             "market": "torecolo",
             "link": "/shop/g/g202-190-S4A-B/",
             "price": 440,
@@ -170,19 +202,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17351",
-            "price": 380,
-            "name": "ジュナイパー202/",
-            "date": "2023-01-04",
-            "stock": 69
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30791",
             "price": 330,
             "name": "ジュナイパー202/",
             "date": "2023-01-04",
             "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17351",
+            "price": 380,
+            "name": "ジュナイパー202/",
+            "date": "2023-01-04",
+            "stock": 69
         },
         {
             "market": "torecolo",
@@ -202,14 +234,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30791",
-            "price": 330,
-            "name": "ジュナイパー202/",
-            "date": "2023-01-03",
-            "stock": 4
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17351",
             "price": 380,
             "name": "ジュナイパー202/",
@@ -217,35 +241,11 @@
             "stock": 69
         },
         {
-            "market": "torecolo",
-            "link": "/shop/g/g202-190-S4A-B/",
-            "price": 440,
-            "name": "【ポケカ】Ｓ◇ジュナ",
-            "date": "2023-01-03",
-            "stock": 5
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18608",
-            "price": 400,
-            "name": "ジュナイパー(S){",
-            "date": "2023-01-02",
-            "stock": 30
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17351",
-            "price": 380,
-            "name": "ジュナイパー202/",
-            "date": "2023-01-02",
-            "stock": 69
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30791",
             "price": 330,
             "name": "ジュナイパー202/",
-            "date": "2023-01-02",
+            "date": "2023-01-03",
             "stock": 4
         },
         {
@@ -253,7 +253,7 @@
             "link": "/shop/g/g202-190-S4A-B/",
             "price": 440,
             "name": "【ポケカ】Ｓ◇ジュナ",
-            "date": "2023-01-02",
+            "date": "2023-01-03",
             "stock": 5
         }
     ]

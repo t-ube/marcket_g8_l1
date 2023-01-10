@@ -2,6 +2,78 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/13700767",
+            "price": 1500,
+            "name": "ローズ SR 110",
+            "date": "2023-01-10",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1041651604",
+            "price": 700,
+            "name": "ローズ SR 110",
+            "date": "2023-01-10",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/752726149",
+            "price": 1300,
+            "name": "ローズ SR 110",
+            "date": "2023-01-10",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1414325867",
+            "price": 700,
+            "name": "ローズ SR 110",
+            "date": "2023-01-10",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/675610101",
+            "price": 700,
+            "name": "ローズ SR 110",
+            "date": "2023-01-10",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30172",
+            "price": 1190,
+            "name": "ローズ110/100",
+            "date": "2023-01-10",
+            "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/15007",
+            "price": 880,
+            "name": "ローズ110/100",
+            "date": "2023-01-10",
+            "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/13924",
+            "price": 1380,
+            "name": "ローズ110/100",
+            "date": "2023-01-10",
+            "stock": 11
+        },
+        {
+            "market": "magi",
+            "link": "/items/13700767",
+            "price": 1500,
+            "name": "ローズ SR 110",
+            "date": "2023-01-09",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/1419096330",
             "price": 800,
             "name": "ローズ SR 110",
@@ -17,12 +89,12 @@
             "stock": 1
         },
         {
-            "market": "magi",
-            "link": "/items/13700767",
-            "price": 1500,
-            "name": "ローズ SR 110",
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/13924",
+            "price": 1380,
+            "name": "ローズ110/100",
             "date": "2023-01-09",
-            "stock": 1
+            "stock": 12
         },
         {
             "market": "cardrush",
@@ -41,14 +113,6 @@
             "stock": 3
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/13924",
-            "price": 1380,
-            "name": "ローズ110/100",
-            "date": "2023-01-09",
-            "stock": 12
-        },
-        {
             "market": "magi",
             "link": "/items/13700767",
             "price": 1500,
@@ -71,22 +135,6 @@
             "name": "ローズ SR 110",
             "date": "2023-01-08",
             "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/15007",
-            "price": 880,
-            "name": "ローズ110/100",
-            "date": "2023-01-08",
-            "stock": 3
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30172",
-            "price": 1190,
-            "name": "ローズ110/100",
-            "date": "2023-01-08",
-            "stock": 3
         },
         {
             "market": "cardrush",
@@ -97,6 +145,30 @@
             "stock": 8
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/15007",
+            "price": 880,
+            "name": "ローズ110/100",
+            "date": "2023-01-08",
+            "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30172",
+            "price": 1190,
+            "name": "ローズ110/100",
+            "date": "2023-01-08",
+            "stock": 3
+        },
+        {
+            "market": "magi",
+            "link": "/items/1419096330",
+            "price": 800,
+            "name": "ローズ SR 110",
+            "date": "2023-01-07",
+            "stock": 1
+        },
+        {
             "market": "magi",
             "link": "/items/752726149",
             "price": 1300,
@@ -111,30 +183,6 @@
             "name": "ローズ SR 110",
             "date": "2023-01-07",
             "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1419096330",
-            "price": 800,
-            "name": "ローズ SR 110",
-            "date": "2023-01-07",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/13924",
-            "price": 1380,
-            "name": "ローズ110/100",
-            "date": "2023-01-07",
-            "stock": 11
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30172",
-            "price": 1190,
-            "name": "ローズ110/100",
-            "date": "2023-01-07",
-            "stock": 3
         },
         {
             "market": "cardrush",
@@ -145,9 +193,25 @@
             "stock": 3
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30172",
+            "price": 1190,
+            "name": "ローズ110/100",
+            "date": "2023-01-07",
+            "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/13924",
+            "price": 1380,
+            "name": "ローズ110/100",
+            "date": "2023-01-07",
+            "stock": 11
+        },
+        {
             "market": "magi",
-            "link": "/items/1419096330",
-            "price": 800,
+            "link": "/items/13700767",
+            "price": 1500,
             "name": "ローズ SR 110",
             "date": "2023-01-06",
             "stock": 1
@@ -162,19 +226,19 @@
         },
         {
             "market": "magi",
-            "link": "/items/13700767",
-            "price": 1500,
+            "link": "/items/1419096330",
+            "price": 800,
             "name": "ローズ SR 110",
             "date": "2023-01-06",
             "stock": 1
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30172",
-            "price": 1190,
+            "link": "https://www.cardrush-pokemon.jp/product/15007",
+            "price": 880,
             "name": "ローズ110/100",
             "date": "2023-01-06",
-            "stock": 2
+            "stock": 3
         },
         {
             "market": "cardrush",
@@ -186,24 +250,24 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/15007",
-            "price": 880,
+            "link": "https://www.cardrush-pokemon.jp/product/30172",
+            "price": 1190,
             "name": "ローズ110/100",
             "date": "2023-01-06",
-            "stock": 3
+            "stock": 2
         },
         {
             "market": "magi",
-            "link": "/items/1419096330",
-            "price": 800,
+            "link": "/items/752726149",
+            "price": 1300,
             "name": "ローズ SR 110",
             "date": "2023-01-05",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/752726149",
-            "price": 1300,
+            "link": "/items/1419096330",
+            "price": 800,
             "name": "ローズ SR 110",
             "date": "2023-01-05",
             "stock": 1
@@ -223,14 +287,6 @@
             "name": "ローズ110/100",
             "date": "2023-01-05",
             "stock": 3
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30172",
-            "price": 1190,
-            "name": "ローズ110/100",
-            "date": "2023-01-05",
-            "stock": 2
         },
         {
             "market": "cardrush",
@@ -241,9 +297,17 @@
             "stock": 18
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30172",
+            "price": 1190,
+            "name": "ローズ110/100",
+            "date": "2023-01-05",
+            "stock": 2
+        },
+        {
             "market": "magi",
-            "link": "/items/752726149",
-            "price": 1300,
+            "link": "/items/13700767",
+            "price": 1500,
             "name": "ローズ SR 110",
             "date": "2023-01-04",
             "stock": 1
@@ -258,27 +322,11 @@
         },
         {
             "market": "magi",
-            "link": "/items/13700767",
-            "price": 1500,
+            "link": "/items/752726149",
+            "price": 1300,
             "name": "ローズ SR 110",
             "date": "2023-01-04",
             "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/15007",
-            "price": 880,
-            "name": "ローズ110/100",
-            "date": "2023-01-04",
-            "stock": 3
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30172",
-            "price": 1190,
-            "name": "ローズ110/100",
-            "date": "2023-01-04",
-            "stock": 2
         },
         {
             "market": "cardrush",
@@ -289,9 +337,25 @@
             "stock": 17
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30172",
+            "price": 1190,
+            "name": "ローズ110/100",
+            "date": "2023-01-04",
+            "stock": 2
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/15007",
+            "price": 880,
+            "name": "ローズ110/100",
+            "date": "2023-01-04",
+            "stock": 3
+        },
+        {
             "market": "magi",
-            "link": "/items/752726149",
-            "price": 1300,
+            "link": "/items/1419096330",
+            "price": 800,
             "name": "ローズ SR 110",
             "date": "2023-01-03",
             "stock": 1
@@ -306,8 +370,8 @@
         },
         {
             "market": "magi",
-            "link": "/items/1419096330",
-            "price": 800,
+            "link": "/items/752726149",
+            "price": 1300,
             "name": "ローズ SR 110",
             "date": "2023-01-03",
             "stock": 1
@@ -319,22 +383,6 @@
             "name": "ローズ(SR){サポ",
             "date": "2023-01-03",
             "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/13924",
-            "price": 1380,
-            "name": "ローズ110/100",
-            "date": "2023-01-03",
-            "stock": 10
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/15007",
-            "price": 880,
-            "name": "ローズ110/100",
-            "date": "2023-01-03",
-            "stock": 3
         },
         {
             "market": "cardrush",
@@ -345,60 +393,20 @@
             "stock": 2
         },
         {
-            "market": "magi",
-            "link": "/items/13700767",
-            "price": 1500,
-            "name": "ローズ SR 110",
-            "date": "2023-01-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/752726149",
-            "price": 1300,
-            "name": "ローズ SR 110",
-            "date": "2023-01-02",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1419096330",
-            "price": 800,
-            "name": "ローズ SR 110",
-            "date": "2023-01-02",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18055",
-            "price": 1500,
-            "name": "ローズ(SR){サポ",
-            "date": "2023-01-02",
-            "stock": 1
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/15007",
             "price": 880,
             "name": "ローズ110/100",
-            "date": "2023-01-02",
+            "date": "2023-01-03",
             "stock": 3
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30172",
-            "price": 1190,
-            "name": "ローズ110/100",
-            "date": "2023-01-02",
-            "stock": 1
         },
         {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/13924",
             "price": 1380,
             "name": "ローズ110/100",
-            "date": "2023-01-02",
-            "stock": 5
+            "date": "2023-01-03",
+            "stock": 10
         }
     ]
 }

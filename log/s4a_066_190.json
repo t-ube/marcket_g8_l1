@@ -5,6 +5,30 @@
             "link": "/items/130485818",
             "price": 100,
             "name": "ピクシー(R仕様) ",
+            "date": "2023-01-10",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18472",
+            "price": 50,
+            "name": "ピクシー(CP){超",
+            "date": "2023-01-10",
+            "stock": 81
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17049",
+            "price": 80,
+            "name": "ピクシー066/19",
+            "date": "2023-01-10",
+            "stock": 324
+        },
+        {
+            "market": "magi",
+            "link": "/items/130485818",
+            "price": 100,
+            "name": "ピクシー(R仕様) ",
             "date": "2023-01-09",
             "stock": 1
         },
@@ -166,30 +190,6 @@
             "price": 80,
             "name": "ピクシー066/19",
             "date": "2023-01-03",
-            "stock": 324
-        },
-        {
-            "market": "magi",
-            "link": "/items/130485818",
-            "price": 100,
-            "name": "ピクシー(R仕様) ",
-            "date": "2023-01-02",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18472",
-            "price": 50,
-            "name": "ピクシー(CP){超",
-            "date": "2023-01-02",
-            "stock": 81
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17049",
-            "price": 80,
-            "name": "ピクシー066/19",
-            "date": "2023-01-02",
             "stock": 324
         }
     ]
