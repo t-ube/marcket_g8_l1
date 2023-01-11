@@ -5,6 +5,38 @@
             "link": "https://www.hareruya2.com/product/18704",
             "price": 300,
             "name": "ホシガリス(S){無",
+            "date": "2023-01-11",
+            "stock": 12
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30887",
+            "price": 330,
+            "name": "ホシガリス298/1",
+            "date": "2023-01-11",
+            "stock": 8
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/17447",
+            "price": 380,
+            "name": "ホシガリス298/1",
+            "date": "2023-01-11",
+            "stock": 58
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g298-190-S4A-B/",
+            "price": 330,
+            "name": "【ポケカ】Ｓ◇ホシガ",
+            "date": "2023-01-11",
+            "stock": 2
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18704",
+            "price": 300,
+            "name": "ホシガリス(S){無",
             "date": "2023-01-10",
             "stock": 12
         },
@@ -42,19 +74,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30887",
-            "price": 330,
-            "name": "ホシガリス298/1",
-            "date": "2023-01-09",
-            "stock": 8
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17447",
             "price": 380,
             "name": "ホシガリス298/1",
             "date": "2023-01-09",
             "stock": 58
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30887",
+            "price": 330,
+            "name": "ホシガリス298/1",
+            "date": "2023-01-09",
+            "stock": 8
         },
         {
             "market": "torecolo",
@@ -106,6 +138,14 @@
         },
         {
             "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30887",
+            "price": 330,
+            "name": "ホシガリス298/1",
+            "date": "2023-01-07",
+            "stock": 7
+        },
+        {
+            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17447",
             "price": 380,
             "name": "ホシガリス298/1",
@@ -113,14 +153,6 @@
             "stock": 52
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30887",
-            "price": 330,
-            "name": "ホシガリス298/1",
-            "date": "2023-01-07",
-            "stock": 7
-        },
-        {
             "market": "torecolo",
             "link": "/shop/g/g298-190-S4A-B/",
             "price": 330,
@@ -138,19 +170,19 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30887",
-            "price": 330,
-            "name": "ホシガリス298/1",
-            "date": "2023-01-06",
-            "stock": 7
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17447",
             "price": 380,
             "name": "ホシガリス298/1",
             "date": "2023-01-06",
             "stock": 50
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30887",
+            "price": 330,
+            "name": "ホシガリス298/1",
+            "date": "2023-01-06",
+            "stock": 7
         },
         {
             "market": "torecolo",
@@ -202,14 +234,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/17447",
-            "price": 380,
-            "name": "ホシガリス298/1",
-            "date": "2023-01-04",
-            "stock": 49
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30887",
             "price": 330,
             "name": "ホシガリス298/1",
@@ -217,35 +241,11 @@
             "stock": 7
         },
         {
-            "market": "torecolo",
-            "link": "/shop/g/g298-190-S4A-B/",
-            "price": 330,
-            "name": "【ポケカ】Ｓ◇ホシガ",
-            "date": "2023-01-04",
-            "stock": 2
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18704",
-            "price": 300,
-            "name": "ホシガリス(S){無",
-            "date": "2023-01-03",
-            "stock": 14
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30887",
-            "price": 330,
-            "name": "ホシガリス298/1",
-            "date": "2023-01-03",
-            "stock": 7
-        },
-        {
             "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/17447",
             "price": 380,
             "name": "ホシガリス298/1",
-            "date": "2023-01-03",
+            "date": "2023-01-04",
             "stock": 49
         },
         {
@@ -253,7 +253,7 @@
             "link": "/shop/g/g298-190-S4A-B/",
             "price": 330,
             "name": "【ポケカ】Ｓ◇ホシガ",
-            "date": "2023-01-03",
+            "date": "2023-01-04",
             "stock": 2
         }
     ]

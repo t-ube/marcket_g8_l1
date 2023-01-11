@@ -5,6 +5,22 @@
             "link": "https://www.hareruya2.com/product/17778",
             "price": 100,
             "name": "ダイオウドウV(RR",
+            "date": "2023-01-11",
+            "stock": 70
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/7503",
+            "price": 80,
+            "name": "ダイオウドウV075",
+            "date": "2023-01-11",
+            "stock": 158
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17778",
+            "price": 100,
+            "name": "ダイオウドウV(RR",
             "date": "2023-01-10",
             "stock": 70
         },
@@ -111,22 +127,6 @@
             "name": "ダイオウドウV075",
             "date": "2023-01-04",
             "stock": 160
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/17778",
-            "price": 100,
-            "name": "ダイオウドウV(RR",
-            "date": "2023-01-03",
-            "stock": 71
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7503",
-            "price": 80,
-            "name": "ダイオウドウV075",
-            "date": "2023-01-03",
-            "stock": 162
         }
     ]
 }

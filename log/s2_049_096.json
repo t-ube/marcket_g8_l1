@@ -5,6 +5,22 @@
             "link": "/items/14030171",
             "price": 62,
             "name": "ドラパルトV RR ",
+            "date": "2023-01-11",
+            "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/7477",
+            "price": 80,
+            "name": "ドラパルトV049/",
+            "date": "2023-01-11",
+            "stock": 10
+        },
+        {
+            "market": "magi",
+            "link": "/items/14030171",
+            "price": 62,
+            "name": "ドラパルトV RR ",
             "date": "2023-01-10",
             "stock": 4
         },
@@ -58,14 +74,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7477",
-            "price": 80,
-            "name": "ドラパルトV049/",
-            "date": "2023-01-08",
-            "stock": 10
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/7729",
             "price": 50,
             "name": "ドラパルトV049/",
@@ -73,6 +81,14 @@
             "stock": 1
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/7477",
+            "price": 80,
+            "name": "ドラパルトV049/",
+            "date": "2023-01-08",
+            "stock": 10
+        },
+        {
             "market": "magi",
             "link": "/items/14030171",
             "price": 62,
@@ -166,30 +182,6 @@
             "price": 80,
             "name": "ドラパルトV049/",
             "date": "2023-01-04",
-            "stock": 9
-        },
-        {
-            "market": "magi",
-            "link": "/items/14030171",
-            "price": 62,
-            "name": "ドラパルトV RR ",
-            "date": "2023-01-03",
-            "stock": 4
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/17752",
-            "price": 100,
-            "name": "ドラパルトV(RR)",
-            "date": "2023-01-03",
-            "stock": 6
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/7477",
-            "price": 80,
-            "name": "ドラパルトV049/",
-            "date": "2023-01-03",
             "stock": 9
         }
     ]

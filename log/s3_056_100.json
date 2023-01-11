@@ -5,6 +5,30 @@
             "link": "/items/1696963821",
             "price": 184,
             "name": "ガラルタチフサグマ ",
+            "date": "2023-01-11",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/13295",
+            "price": 80,
+            "name": "ガラルタチフサグマ0",
+            "date": "2023-01-11",
+            "stock": 27
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g056-100-S3-B/",
+            "price": 77,
+            "name": "【ポケカ】Ｒ◇ガラル",
+            "date": "2023-01-11",
+            "stock": 7
+        },
+        {
+            "market": "magi",
+            "link": "/items/1696963821",
+            "price": 184,
+            "name": "ガラルタチフサグマ ",
             "date": "2023-01-10",
             "stock": 1
         },
@@ -166,30 +190,6 @@
             "price": 77,
             "name": "【ポケカ】Ｒ◇ガラル",
             "date": "2023-01-04",
-            "stock": 7
-        },
-        {
-            "market": "magi",
-            "link": "/items/1696963821",
-            "price": 184,
-            "name": "ガラルタチフサグマ ",
-            "date": "2023-01-03",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/13295",
-            "price": 80,
-            "name": "ガラルタチフサグマ0",
-            "date": "2023-01-03",
-            "stock": 27
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g056-100-S3-B/",
-            "price": 77,
-            "name": "【ポケカ】Ｒ◇ガラル",
-            "date": "2023-01-03",
             "stock": 7
         }
     ]

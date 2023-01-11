@@ -2,16 +2,48 @@
     "items": [
         {
             "market": "magi",
+            "link": "/items/683577536",
+            "price": 2000,
+            "name": "ダンデ SR 110",
+            "date": "2023-01-11",
+            "stock": 1
+        },
+        {
+            "market": "magi",
             "link": "/items/1034943921",
             "price": 4400,
+            "name": "ダンデ SR 110",
+            "date": "2023-01-11",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18395",
+            "price": 3000,
+            "name": "ダンデ(SR){サポ",
+            "date": "2023-01-11",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14598",
+            "price": 2980,
+            "name": "ダンデ110/100",
+            "date": "2023-01-11",
+            "stock": 9
+        },
+        {
+            "market": "magi",
+            "link": "/items/683577536",
+            "price": 2000,
             "name": "ダンデ SR 110",
             "date": "2023-01-10",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/683577536",
-            "price": 2000,
+            "link": "/items/1034943921",
+            "price": 4400,
             "name": "ダンデ SR 110",
             "date": "2023-01-10",
             "stock": 1
@@ -98,16 +130,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/1034943921",
-            "price": 4400,
+            "link": "/items/683577536",
+            "price": 2000,
             "name": "ダンデ SR 110",
             "date": "2023-01-07",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/683577536",
-            "price": 2000,
+            "link": "/items/1034943921",
+            "price": 4400,
             "name": "ダンデ SR 110",
             "date": "2023-01-07",
             "stock": 1
@@ -119,6 +151,14 @@
             "name": "ダンデ(SR){サポ",
             "date": "2023-01-07",
             "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14598",
+            "price": 2980,
+            "name": "ダンデ110/100",
+            "date": "2023-01-07",
+            "stock": 2
         },
         {
             "market": "cardrush",
@@ -129,25 +169,17 @@
             "stock": 1
         },
         {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14598",
-            "price": 2980,
-            "name": "ダンデ110/100",
-            "date": "2023-01-07",
-            "stock": 2
-        },
-        {
             "market": "magi",
-            "link": "/items/683577536",
-            "price": 2400,
+            "link": "/items/1034943921",
+            "price": 4400,
             "name": "ダンデ SR 110",
             "date": "2023-01-06",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1034943921",
-            "price": 4400,
+            "link": "/items/683577536",
+            "price": 2400,
             "name": "ダンデ SR 110",
             "date": "2023-01-06",
             "stock": 1
@@ -170,16 +202,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/683577536",
-            "price": 2400,
+            "link": "/items/1034943921",
+            "price": 4400,
             "name": "ダンデ SR 110",
             "date": "2023-01-05",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/1034943921",
-            "price": 4400,
+            "link": "/items/683577536",
+            "price": 2400,
             "name": "ダンデ SR 110",
             "date": "2023-01-05",
             "stock": 1
@@ -202,16 +234,16 @@
         },
         {
             "market": "magi",
-            "link": "/items/1034943921",
-            "price": 4400,
+            "link": "/items/683577536",
+            "price": 2400,
             "name": "ダンデ SR 110",
             "date": "2023-01-04",
             "stock": 1
         },
         {
             "market": "magi",
-            "link": "/items/683577536",
-            "price": 2400,
+            "link": "/items/1034943921",
+            "price": 4400,
             "name": "ダンデ SR 110",
             "date": "2023-01-04",
             "stock": 1
@@ -231,38 +263,6 @@
             "name": "ダンデ110/100",
             "date": "2023-01-04",
             "stock": 22
-        },
-        {
-            "market": "magi",
-            "link": "/items/683577536",
-            "price": 2400,
-            "name": "ダンデ SR 110",
-            "date": "2023-01-03",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1034943921",
-            "price": 4400,
-            "name": "ダンデ SR 110",
-            "date": "2023-01-03",
-            "stock": 1
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18395",
-            "price": 3000,
-            "name": "ダンデ(SR){サポ",
-            "date": "2023-01-03",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14598",
-            "price": 2980,
-            "name": "ダンデ110/100",
-            "date": "2023-01-03",
-            "stock": 20
         }
     ]
 }

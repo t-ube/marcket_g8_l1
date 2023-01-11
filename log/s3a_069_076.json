@@ -1,6 +1,54 @@
 ﻿{
     "items": [
         {
+            "market": "magi",
+            "link": "/items/1285733912",
+            "price": 45,
+            "name": "PC ゴツゴツメット",
+            "date": "2023-01-11",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/1130862456",
+            "price": 45,
+            "name": "PC ゴツゴツメット",
+            "date": "2023-01-11",
+            "stock": 4
+        },
+        {
+            "market": "magi",
+            "link": "/items/551797283",
+            "price": 45,
+            "name": "PC ゴツゴツメット",
+            "date": "2023-01-11",
+            "stock": 4
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18260",
+            "price": 50,
+            "name": "ゴツゴツメット(U)",
+            "date": "2023-01-11",
+            "stock": 14
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30230",
+            "price": 70,
+            "name": "ゴツゴツメット069",
+            "date": "2023-01-11",
+            "stock": 6
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14104",
+            "price": 80,
+            "name": "ゴツゴツメット069",
+            "date": "2023-01-11",
+            "stock": 258
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/18260",
             "price": 50,
@@ -142,22 +190,6 @@
             "price": 80,
             "name": "ゴツゴツメット069",
             "date": "2023-01-04",
-            "stock": 259
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18260",
-            "price": 50,
-            "name": "ゴツゴツメット(U)",
-            "date": "2023-01-03",
-            "stock": 18
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14104",
-            "price": 80,
-            "name": "ゴツゴツメット069",
-            "date": "2023-01-03",
             "stock": 259
         }
     ]

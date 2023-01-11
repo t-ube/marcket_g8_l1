@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/17539",
             "price": 50,
             "name": "スコルピ(C){悪}",
+            "date": "2023-01-11",
+            "stock": 7
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/6957",
+            "price": 30,
+            "name": "スコルピ037/06",
+            "date": "2023-01-11",
+            "stock": 16
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g037-060-S1H-B/",
+            "price": 24,
+            "name": "【ポケカ】Ｃ◇スコル",
+            "date": "2023-01-11",
+            "stock": 31
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17539",
+            "price": 50,
+            "name": "スコルピ(C){悪}",
             "date": "2023-01-10",
             "stock": 7
         },
@@ -166,30 +190,6 @@
             "price": 24,
             "name": "【ポケカ】Ｃ◇スコル",
             "date": "2023-01-04",
-            "stock": 31
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/17539",
-            "price": 50,
-            "name": "スコルピ(C){悪}",
-            "date": "2023-01-03",
-            "stock": 7
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/6957",
-            "price": 30,
-            "name": "スコルピ037/06",
-            "date": "2023-01-03",
-            "stock": 16
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g037-060-S1H-B/",
-            "price": 24,
-            "name": "【ポケカ】Ｃ◇スコル",
-            "date": "2023-01-03",
             "stock": 31
         }
     ]

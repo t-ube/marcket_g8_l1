@@ -5,12 +5,52 @@
             "link": "/items/1603080180",
             "price": 2500,
             "name": "ビート SR 068",
-            "date": "2023-01-10",
+            "date": "2023-01-11",
             "stock": 1
         },
         {
             "market": "magi",
             "link": "/items/995816704",
+            "price": 2400,
+            "name": "ビート SR 068",
+            "date": "2023-01-11",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1541293765",
+            "price": 2400,
+            "name": "ビート SR 068",
+            "date": "2023-01-11",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1223957149",
+            "price": 2400,
+            "name": "ビート SR 068",
+            "date": "2023-01-11",
+            "stock": 1
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/17495",
+            "price": 3000,
+            "name": "ビート(SR){サポ",
+            "date": "2023-01-11",
+            "stock": 2
+        },
+        {
+            "market": "magi",
+            "link": "/items/1603080180",
+            "price": 2500,
+            "name": "ビート SR 068",
+            "date": "2023-01-10",
+            "stock": 1
+        },
+        {
+            "market": "magi",
+            "link": "/items/1223957149",
             "price": 2400,
             "name": "ビート SR 068",
             "date": "2023-01-10",
@@ -26,7 +66,7 @@
         },
         {
             "market": "magi",
-            "link": "/items/1223957149",
+            "link": "/items/995816704",
             "price": 2400,
             "name": "ビート SR 068",
             "date": "2023-01-10",
@@ -86,14 +126,6 @@
             "price": 3500,
             "name": "ビート SR 068",
             "date": "2023-01-04",
-            "stock": 1
-        },
-        {
-            "market": "magi",
-            "link": "/items/1603080180",
-            "price": 3500,
-            "name": "ビート SR 068",
-            "date": "2023-01-03",
             "stock": 1
         }
     ]

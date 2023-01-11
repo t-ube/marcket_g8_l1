@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/18374",
             "price": 50,
             "name": "バクオング(U){無",
+            "date": "2023-01-11",
+            "stock": 9
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14543",
+            "price": 30,
+            "name": "バクオング089/1",
+            "date": "2023-01-11",
+            "stock": 7
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g089-100-S4-B/",
+            "price": 33,
+            "name": "【ポケカ】Ｕ◇バクオ",
+            "date": "2023-01-11",
+            "stock": 3
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18374",
+            "price": 50,
+            "name": "バクオング(U){無",
             "date": "2023-01-10",
             "stock": 9
         },
@@ -166,30 +190,6 @@
             "price": 33,
             "name": "【ポケカ】Ｕ◇バクオ",
             "date": "2023-01-04",
-            "stock": 3
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18374",
-            "price": 50,
-            "name": "バクオング(U){無",
-            "date": "2023-01-03",
-            "stock": 9
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14543",
-            "price": 30,
-            "name": "バクオング089/1",
-            "date": "2023-01-03",
-            "stock": 7
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g089-100-S4-B/",
-            "price": 33,
-            "name": "【ポケカ】Ｕ◇バクオ",
-            "date": "2023-01-03",
             "stock": 3
         }
     ]

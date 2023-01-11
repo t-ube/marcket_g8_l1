@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/18192",
             "price": 50,
             "name": "ビードル(C){草}",
+            "date": "2023-01-11",
+            "stock": 7
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14036",
+            "price": 50,
+            "name": "ビードル001/07",
+            "date": "2023-01-11",
+            "stock": 3
+        },
+        {
+            "market": "torecolo",
+            "link": "/shop/g/g001-076-S3A-B/",
+            "price": 44,
+            "name": "【ポケカ】Ｃ◇ビード",
+            "date": "2023-01-11",
+            "stock": 18
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18192",
+            "price": 50,
+            "name": "ビードル(C){草}",
             "date": "2023-01-10",
             "stock": 7
         },
@@ -166,30 +190,6 @@
             "price": 44,
             "name": "【ポケカ】Ｃ◇ビード",
             "date": "2023-01-04",
-            "stock": 18
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18192",
-            "price": 50,
-            "name": "ビードル(C){草}",
-            "date": "2023-01-03",
-            "stock": 7
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14036",
-            "price": 50,
-            "name": "ビードル001/07",
-            "date": "2023-01-03",
-            "stock": 3
-        },
-        {
-            "market": "torecolo",
-            "link": "/shop/g/g001-076-S3A-B/",
-            "price": 44,
-            "name": "【ポケカ】Ｃ◇ビード",
-            "date": "2023-01-03",
             "stock": 18
         }
     ]

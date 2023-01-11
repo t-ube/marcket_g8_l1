@@ -5,6 +5,22 @@
             "link": "https://www.cardrush-pokemon.jp/product/30287",
             "price": 200,
             "name": "しんかのおこう090",
+            "date": "2023-01-11",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14245",
+            "price": 220,
+            "name": "しんかのおこう090",
+            "date": "2023-01-11",
+            "stock": 36
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30287",
+            "price": 200,
+            "name": "しんかのおこう090",
             "date": "2023-01-10",
             "stock": 1
         },
@@ -18,27 +34,19 @@
         },
         {
             "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14245",
+            "price": 220,
+            "name": "しんかのおこう090",
+            "date": "2023-01-09",
+            "stock": 36
+        },
+        {
+            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30287",
             "price": 200,
             "name": "しんかのおこう090",
             "date": "2023-01-09",
             "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14245",
-            "price": 220,
-            "name": "しんかのおこう090",
-            "date": "2023-01-09",
-            "stock": 36
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14245",
-            "price": 220,
-            "name": "しんかのおこう090",
-            "date": "2023-01-08",
-            "stock": 36
         },
         {
             "market": "cardrush",
@@ -50,11 +58,11 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30287",
-            "price": 200,
+            "link": "https://www.cardrush-pokemon.jp/product/14245",
+            "price": 220,
             "name": "しんかのおこう090",
-            "date": "2023-01-07",
-            "stock": 1
+            "date": "2023-01-08",
+            "stock": 36
         },
         {
             "market": "cardrush",
@@ -63,6 +71,22 @@
             "name": "しんかのおこう090",
             "date": "2023-01-07",
             "stock": 36
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30287",
+            "price": 200,
+            "name": "しんかのおこう090",
+            "date": "2023-01-07",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30287",
+            "price": 200,
+            "name": "しんかのおこう090",
+            "date": "2023-01-06",
+            "stock": 1
         },
         {
             "market": "cardrush",
@@ -77,22 +101,6 @@
             "link": "https://www.cardrush-pokemon.jp/product/30287",
             "price": 200,
             "name": "しんかのおこう090",
-            "date": "2023-01-06",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14245",
-            "price": 220,
-            "name": "しんかのおこう090",
-            "date": "2023-01-05",
-            "stock": 36
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30287",
-            "price": 200,
-            "name": "しんかのおこう090",
             "date": "2023-01-05",
             "stock": 1
         },
@@ -101,7 +109,7 @@
             "link": "https://www.cardrush-pokemon.jp/product/14245",
             "price": 220,
             "name": "しんかのおこう090",
-            "date": "2023-01-04",
+            "date": "2023-01-05",
             "stock": 36
         },
         {
@@ -117,8 +125,8 @@
             "link": "https://www.cardrush-pokemon.jp/product/14245",
             "price": 220,
             "name": "しんかのおこう090",
-            "date": "2023-01-03",
-            "stock": 35
+            "date": "2023-01-04",
+            "stock": 36
         }
     ]
 }

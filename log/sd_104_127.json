@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/18158",
             "price": 100,
             "name": "しあわせタマゴ(D)",
+            "date": "2023-01-11",
+            "stock": 3
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30301",
+            "price": 70,
+            "name": "しあわせタマゴ104",
+            "date": "2023-01-11",
+            "stock": 4
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14259",
+            "price": 80,
+            "name": "しあわせタマゴ104",
+            "date": "2023-01-11",
+            "stock": 8
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/18158",
+            "price": 100,
+            "name": "しあわせタマゴ(D)",
             "date": "2023-01-10",
             "stock": 3
         },
@@ -82,14 +106,6 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30301",
-            "price": 70,
-            "name": "しあわせタマゴ104",
-            "date": "2023-01-07",
-            "stock": 4
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/14259",
             "price": 80,
             "name": "しあわせタマゴ104",
@@ -97,6 +113,14 @@
             "stock": 8
         },
         {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30301",
+            "price": 70,
+            "name": "しあわせタマゴ104",
+            "date": "2023-01-07",
+            "stock": 4
+        },
+        {
             "market": "hareruya2",
             "link": "https://www.hareruya2.com/product/18158",
             "price": 100,
@@ -154,34 +178,10 @@
         },
         {
             "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14259",
-            "price": 80,
-            "name": "しあわせタマゴ104",
-            "date": "2023-01-04",
-            "stock": 6
-        },
-        {
-            "market": "cardrush",
             "link": "https://www.cardrush-pokemon.jp/product/30301",
             "price": 70,
             "name": "しあわせタマゴ104",
             "date": "2023-01-04",
-            "stock": 4
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/18158",
-            "price": 100,
-            "name": "しあわせタマゴ(D)",
-            "date": "2023-01-03",
-            "stock": 3
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/30301",
-            "price": 70,
-            "name": "しあわせタマゴ104",
-            "date": "2023-01-03",
             "stock": 4
         },
         {
@@ -189,8 +189,8 @@
             "link": "https://www.cardrush-pokemon.jp/product/14259",
             "price": 80,
             "name": "しあわせタマゴ104",
-            "date": "2023-01-03",
-            "stock": 8
+            "date": "2023-01-04",
+            "stock": 6
         }
     ]
 }

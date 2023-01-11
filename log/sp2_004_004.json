@@ -5,6 +5,30 @@
             "link": "https://www.hareruya2.com/product/19427",
             "price": 1600,
             "name": "ウッウVMAX(RR",
+            "date": "2023-01-11",
+            "stock": 1
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/30514",
+            "price": 1330,
+            "name": "ウッウVMAX004",
+            "date": "2023-01-11",
+            "stock": 6
+        },
+        {
+            "market": "cardrush",
+            "link": "https://www.cardrush-pokemon.jp/product/14749",
+            "price": 1580,
+            "name": "ウッウVMAX004",
+            "date": "2023-01-11",
+            "stock": 13
+        },
+        {
+            "market": "hareruya2",
+            "link": "https://www.hareruya2.com/product/19427",
+            "price": 1600,
+            "name": "ウッウVMAX(RR",
             "date": "2023-01-10",
             "stock": 1
         },
@@ -150,22 +174,6 @@
             "price": 1580,
             "name": "ウッウVMAX004",
             "date": "2023-01-04",
-            "stock": 15
-        },
-        {
-            "market": "hareruya2",
-            "link": "https://www.hareruya2.com/product/19427",
-            "price": 1600,
-            "name": "ウッウVMAX(RR",
-            "date": "2023-01-03",
-            "stock": 1
-        },
-        {
-            "market": "cardrush",
-            "link": "https://www.cardrush-pokemon.jp/product/14749",
-            "price": 1580,
-            "name": "ウッウVMAX004",
-            "date": "2023-01-03",
             "stock": 15
         }
     ]
